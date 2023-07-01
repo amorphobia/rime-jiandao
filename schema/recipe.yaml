@@ -1,0 +1,11 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: jiandao
+  description: >-
+    双拼／音形／顶功输入方案
+    原维护者：星空键道6顶功委员会 <https://github.com/xkinput>
+
+install_files: >-
+  jiandao.*.yaml
+  lua/*.lua
