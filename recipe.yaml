@@ -9,3 +9,4 @@ recipe:
 install_files: >-
   jiandao.*.yaml
   lua/*.lua
+  opencc/*
