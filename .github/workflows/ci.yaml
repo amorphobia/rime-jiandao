@@ -17,11 +17,29 @@ jobs:
 
       - name: Make Dicts
         run: |
-          bash scripts/make_dicts.sh --version ${{ github.ref_name }}
+          bash scripts/make_dicts.sh --append dicts/cizu_append.txt --delete dicts/cizu_delete.txt --modify dicts/cizu_modify.txt --version ${{ github.ref_name }}
+
+      - name: Install Dependencies
+        run: sudo apt-get install -y opencc
+
+      - name: Fetch Emoji
+        run: |
+          if command -v opencc &> /dev/null; then
+            echo "$(opencc --version)"
+            mkdir -p schema/opencc
+            rm -rf emoji
+            git clone --depth 1 https://github.com/rime/rime-emoji emoji
+            opencc -c t2s.json -i emoji/opencc/emoji_category.txt | awk '!seen[$1]++' > schema/opencc/emoji_category.txt
+            opencc -c t2s.json -i emoji/opencc/emoji_word.txt | awk '!seen[$1]++' > schema/opencc/emoji_word.txt
+            # https://github.com/rime/rime-emoji/issues/48
+            sed -i 's/鼔/鼓/g' schema/opencc/emoji_word.txt
+            cp emoji/opencc/emoji.json schema/opencc/
+          fi
 
       - name: Make Zip
         run: |
           cd schema
+          rm recipe.yaml
           zip -r -q ../jiandao.zip *
 
       - name: Upload Artifact
@@ -47,6 +65,7 @@ jobs:
       - name: Unzip & Rename Release Zip Archive
         run: |
           unzip jiandao.zip -d release
+          mv schema/recipe.yaml release/
           mv jiandao.zip jiandao-${{ github.ref_name }}.zip
 
       - name: Create Release and Upload Assets
