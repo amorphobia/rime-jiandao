@@ -50,9 +50,10 @@ ____	;z
 ！”	;tg
 ……”	;sg
 。”	;jg
-# 连接
+# 链接
 https://	http
 https://xkinput.gitee.io	ogw
+https://github.com/amorphobia/rime-jiandao	orj
 https://github.com/xkinput/Rime_JD	orj
 # 邮箱
 @gmail.com	;ag

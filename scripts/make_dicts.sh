@@ -31,6 +31,8 @@ usage() {
     echo " -m, --modify <file>    the file of terms to be modified and their weight delta"
     echo " -r, --rawdict <file>   the raw dict file, default is \"${BASEDIR}/../dicts/cizu_raw.txt\""
     echo " -v, --version <string> the target version"
+    echo "     --deweight         reduce the weight of 630 phrases"
+    echo "     --clean            clean generated files and restore the raw dict"
     echo ""
     echo " -h, --help             display this help"
 }
@@ -38,8 +40,9 @@ usage() {
 RAWDICT="${BASEDIR}/../dicts/cizu_raw.txt"
 OUTPUT="${BASEDIR}/../schema/jiandao.base.dict.yaml"
 VERSION="master"
+DEWEIGHT=0
 
-ARGS=$(getopt -o a:d:m:r:v:h --long append:,delete:,modify:,rawdict:,version:,clean,help -n "$(basename $0)" -- "$@")
+ARGS=$(getopt -o a:d:m:r:v:h --long append:,delete:,modify:,rawdict:,version:,deweight,clean,help -n "$(basename $0)" -- "$@")
 if [[ $? -ne 0 ]]; then
     usage
     exit
@@ -69,11 +72,15 @@ while true; do
             VERSION=$2
             shift 2
             ;;
+        --deweight )
+            DEWEIGHT=1
+            shift
+            ;;
         --clean )
             if [[ -f "${RAWDICT}.bak" ]]; then
                 mv "${RAWDICT}.bak" ${RAWDICT}
             fi
-            rm -f ${BASEDIR}/../dicts/02.cizu.txt $(dirname "${OUTPUT}")/*.dict.yaml
+            rm -f ${BASEDIR}/../dicts/02.cizu.txt $(dirname "${OUTPUT}")/*.dict.yaml temp.txt
             exit
             ;;
         -- )
@@ -100,6 +107,11 @@ fi
 
 cat ${RAWDICT} ${APPEND} | awk '!seen[$1,$2]++' > temp.txt
 mv temp.txt ${RAWDICT}
+
+if [[ "${DEWEIGHT}" -eq 1 ]]; then
+    awk -v OFS='\t' 'NR==FNR {map[$1]++; next} {if (!map[$1]) print $0; else print $1,$2,$3,500,$5,$6}' ${BASEDIR}/../dicts/06.630.txt ${RAWDICT} > temp.txt
+    mv temp.txt ${RAWDICT}
+fi
 
 if [[ -f ${DELETE} ]]; then
     awk 'NR==FNR {map[$1,$2]++; next} {if (!map[$1,$2]) print $0}' ${DELETE} ${RAWDICT} > temp.txt

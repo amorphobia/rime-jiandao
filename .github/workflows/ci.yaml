@@ -1,6 +1,11 @@
 name: Continuous Integration
 on:
   workflow_dispatch:
+    inputs:
+      disable_de_weight_630:
+        description: '禁用权重降低选项 true / false (默认不禁用)'
+        required: true
+        default: 'false'
   push:
     branches:
       - master
@@ -15,9 +20,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Make Dicts
+      - name: Make Dicts (disable de-weight 630)
+        if: github.event.inputs.de_weight_630 == 'true'
         run: |
           bash scripts/make_dicts.sh --append dicts/cizu_append.txt --delete dicts/cizu_delete.txt --modify dicts/cizu_modify.txt --version ${{ github.ref_name }}
+
+      - name: Make Dicts (de-weight 630)
+        if: github.event.inputs.de_weight_630 != 'true'
+        run: |
+          bash scripts/make_dicts.sh --append dicts/cizu_append.txt --delete dicts/cizu_delete.txt --modify dicts/cizu_modify.txt --version ${{ github.ref_name }} --deweight
 
       - name: Install Dependencies
         run: sudo apt-get install -y opencc
