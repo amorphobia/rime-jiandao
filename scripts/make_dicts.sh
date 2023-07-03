@@ -109,7 +109,7 @@ cat ${RAWDICT} ${APPEND} | awk '!seen[$1,$2]++' > temp.txt
 mv temp.txt ${RAWDICT}
 
 if [[ "${DEWEIGHT}" -eq 1 ]]; then
-    awk -v OFS='\t' 'NR==FNR {map[$1]++; next} {if (!map[$1]) print $0; else print $1,$2,$3,500,$5,$6}' ${BASEDIR}/../dicts/06.630.txt ${RAWDICT} > temp.txt
+    awk -v OFS='\t' 'NR==FNR {map[$1]++; next} {if (!map[$1]) print $0; else print $1,$2,$3,10,$5,$6}' ${BASEDIR}/../dicts/06.630.txt ${RAWDICT} > temp.txt
     mv temp.txt ${RAWDICT}
 fi
 

@@ -4,11 +4,11 @@
 
 🌟️星空键道
 
-原作者：吅吅大山
+原作者：吅吅大山，[官方仓库](https://github.com/xkinput/Rime_JD)
 
 ## 动机
 
-旨在提供一份配置有优化、文件去冗余的[键道](https://github.com/xkinput/Rime_JD)配方仓库。初期词库将和官方一致，之后会根据需要修改。
+旨在提供一份配置有优化、文件去冗余的键道配方仓库。初期词库将和官方一致，之后会根据需要修改。
 
 ## 安装
 
@@ -28,7 +28,7 @@ bash rime-install amorphobia/rime-jiandao@release
 
 > Windows 用户请使用 WSL 运行
 
-克隆仓库后，执行以下命令（详情请看[这里](scripts/README.md)）
+克隆仓库后，执行以下命令（详情请看[这里的介绍](scripts/README.md)）
 
 ```bash
 scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --modify <cizu_modify.txt>
@@ -53,6 +53,7 @@ Fork 本仓库后，可以把需要添加、删除、修改权重的词语按需
 
 - 删除 lianjie 词典，其中项目选择一部分放到了 fuhao 词典里
 - 删除了 yingwen 词典，因其规则不明确（如有需要可以自行添加）
+- 删除了「臜」字的错误形码 `zsuouv`
 - 修改了「嫠」、「釐」两字的拆字，拆分为「𠩺」和剩余部分（其中「釐」字收录读音 xī 而非 lí）
 - 默认降低了 630 词汇对应全码的权重（可以在构建词典时控制，不添加 `--deweight` 选项时保持原权重）
 
