@@ -52,8 +52,8 @@ engine:
     - ascii_composer
     - recognizer
     - key_binder
-    - lua_processor@*smart_selector
-    - lua_processor@*topup_selector
+    - lua_processor@*jiandao/smart_selector
+    - lua_processor@*jiandao/topup_selector
     - speller
     - punctuator
     - selector
@@ -70,16 +70,16 @@ engine:
     - table_translator@custom_phrase
     - table_translator
     - history_translator@repeat_history
-    - lua_translator@*date_time_translator
-    - lua_translator@*calculator
-    - lua_translator@*unicode_translator
+    - lua_translator@*jiandao/date_time_translator
+    - lua_translator@*jiandao/calculator
+    - lua_translator@*jiandao/unicode_translator
   filters:
     - simplifier@emoji_suggestion
     - simplifier
     - uniquifier
     - simplifier@jffh
     - reverse_lookup_filter@danzi_lookup
-    - lua_filter@*hint_filter
+    - lua_filter@*jiandao/hint_filter
 
 speller:
   algebra:
