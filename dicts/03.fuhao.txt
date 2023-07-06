@@ -10,8 +10,8 @@
 ⑧	obs
 ⑨	ojq
 ⑩	oek
-×	ojh
-√	og
+✓	og
+✗	ow
 ♂	nfi
 ♀	nl
 *#06#	xjlji
