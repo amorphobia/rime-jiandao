@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.9
+version: v6.0.10
 sort: original
 ...
 不	b
@@ -2683,6 +2683,7 @@ sort: original
 孀	exauvo
 泷	exav
 灀	exavo
+灀	exavoa
 漺	exavu
 泷	exavua
 漺	exavuo
@@ -3000,6 +3001,7 @@ sort: original
 蝠	fjiav
 佛	fjiava
 幅	fjiavo
+蝠	fjiavo
 罘	fjiavu
 蚨	fjiavv
 芙	fjii
@@ -8609,6 +8611,7 @@ sort: original
 琉	lqvv
 琉	lqvvov
 珋	lqvvu
+珋	lqvvua
 冷	lr
 愣	lro
 愣	lrooia
@@ -13312,6 +13315,7 @@ sort: original
 畹	wfiao
 畹	wfiaoo
 蜿	wfiaoo
+蚖	wfiav
 蚖	wfiavv
 芄	wfii
 菀	wfiio
@@ -15449,6 +15453,7 @@ sort: original
 骜	xzvvaa
 螯	xzvvi
 嶅	xzvvia
+螯	xzvvia
 鏊	xzvvio
 遨	xzvvo
 遨	xzvvoa
@@ -16648,6 +16653,7 @@ sort: original
 妘	ywauv
 妘	ywauvv
 熨	ywav
+㞌	ywava
 㞌	ywavai
 熨	ywavou
 沄	ywavv
@@ -138647,8 +138653,8 @@ sort: original
 ⑧	obs
 ⑨	ojq
 ⑩	oek
-×	ojh
-√	og
+✓	og
+✗	ow
 ♂	nfi
 ♀	nl
 *#06#	xjlji
