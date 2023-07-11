@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.10
+version: v6.0.11
 sort: original
 ...
 不	b
@@ -78194,6 +78194,7 @@ sort: original
 礼法	lkfsoa
 篱栅	lkfsu
 历法	lkfsv
+立传	lkft
 李庄	lkfx
 粒状	lkfxo
 立中	lkfy
@@ -78466,7 +78467,6 @@ sort: original
 利差	lkws
 离差	lkwso
 理查	lkwsv
-立传	lkwt
 立委	lkww
 立为	lkwwo
 力创	lkwx
