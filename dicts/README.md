@@ -16,6 +16,7 @@
 在 `cizu_raw.txt` 中做了如下改动
 
 - 「难听」的音码 `nftg` 并无重码问题，将其由简码 `nft` 改为全音码 `nftg`
+- 「立传」的音码 `lkwt` 错误，改为 `lkft`
 
 通过脚本 `make_dicts.sh` 做出的改动
 
