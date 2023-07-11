@@ -9,13 +9,26 @@ on:
   push:
     branches:
       - master
+      - dev
     tags:
       - 'v*'
 
 jobs:
+  sanity-check:
+    name: Dictionary Sanity Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Sanity Check
+        run: |
+          bash scripts/sanity_check.sh
+
   pack-schema:
     name: Pack Schema
     runs-on: ubuntu-latest
+    needs: sanity-check
     steps:
       - name: Checkout
         uses: actions/checkout@v3
