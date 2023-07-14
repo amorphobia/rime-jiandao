@@ -12,19 +12,13 @@
 
 ## 安装
 
-四种方式可以使用，前两种方式无法对 cizu 词典进行非覆盖式的修改，后两种可用补丁形式对 cizu 进行修改，请自行选择，注意每种方式都需要在 `default.custom.yaml` 里添加本方案 (jiandao)。
+五种方式可以使用，前两种可用补丁形式对 cizu 进行修改，后三种方式无法对 cizu 词典进行非覆盖式的修改，请自行选择，注意有可能需要手动在 `default.custom.yaml` 里添加本方案 (jiandao)。
 
-### 1. 下载 Zip 包
+### 1. 使用 Github Actions 自动生成方案文件
 
-请在[发布页面](https://github.com/amorphobia/rime-jiandao/releases)下载打包好的方案，解压文件到对应的目录。
+Fork 本仓库后，可以把需要添加、删除、修改权重的词语按需要的格式放到 `dicts` 目录下的 `cizu_append.txt`, `cizu_delete.txt`, 和 `cizu_modify.txt` 文件中，当推送到 Github 的时候，可以自动生成方案文件，生成的文件可以在 Actions 里面找到。
 
-### 2. 东风破
-
-```bash
-bash rime-install amorphobia/rime-jiandao@release
-```
-
-### 3. 克隆并在本地生成词库
+### 2. 克隆并在本地生成词库
 
 > Windows 用户请使用 WSL 运行
 
@@ -36,9 +30,23 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 
 需要修改为你自己的对应文件名，也可省略选项。生成的方案在 `schema` 目录中。
 
-### 4. 使用 Github Actions 自动生成方案文件
+### 3. 使用 PowerShell 命令安装（小狼毫）
 
-Fork 本仓库后，可以把需要添加、删除、修改权重的词语按需要的格式放到 `dicts` 目录下的 `cizu_append.txt`, `cizu_delete.txt`, 和 `cizu_modify.txt` 文件中，当推送到 Github 的时候，可以自动生成方案文件，生成的文件可以在 Actions 里面找到。
+```PowerShell
+irm tinyurl.com/weasel-jd | iex
+```
+
+如果遇到错误，运行一次 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` 再试。
+
+### 4. 下载 Zip 包
+
+请在[发布页面](https://github.com/amorphobia/rime-jiandao/releases)下载打包好的方案，解压文件到对应的目录。
+
+### 5. 东风破
+
+```bash
+bash rime-install amorphobia/rime-jiandao@release
+```
 
 ## 与官方方案不同之处
 
@@ -49,7 +57,7 @@ Fork 本仓库后，可以把需要添加、删除、修改权重的词语按需
 - 次选使用分号键，单引号用作三选
 - 一些开关的快捷键修改
 - 将 lua 脚本统一放入 `jiandao` 子目录，避免冲突
-- 提供了一个统一码翻译器（Unicode Translator），可以通过 "u`" 引导统一码来输入
+- 提供了一个统一码翻译器（Unicode Translator），可以通过 ``u`​`` 引导统一码来输入
 
 ### 词典的不同
 
