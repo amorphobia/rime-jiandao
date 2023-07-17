@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.11
+version: v6.0.12
 sort: original
 ...
 不	b
@@ -139183,6 +139183,7 @@ https://github.com/xkinput/Rime_JD	orj
 𫑡	mroaii
 槑	mwovo
 槑	mwovov
+冇	mzvu
 冇	mzvuia
 𫔶	ndoiu
 𫔶	ndoiui
