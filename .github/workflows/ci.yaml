@@ -105,3 +105,17 @@ jobs:
           FOLDER: release
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MESSAGE: "Release ${{ github.ref_name }}"
+
+  sync-gitee:
+    name: Sync to Gitee
+    runs-on: ubuntu-latest
+    needs: pack-schema
+    steps:
+      - name: Hub Mirror Action
+        uses: Yikun/hub-mirror-action@v1.2
+        with:
+          src: github/amorphobia
+          dst: gitee/amorphobia
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          static_list: "rime-jiandao"
