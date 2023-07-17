@@ -4,7 +4,7 @@
 
 🌟️星空键道
 
-原作者：吅吅大山，[官方仓库](https://github.com/xkinput/Rime_JD)
+原作者：吅吅大山，官方仓库（[GitHub](https://github.com/xkinput/Rime_JD)，[Gitee](https://gitee.com/xkinput/Rime_JD)）
 
 ## 动机
 
@@ -33,14 +33,18 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 ### 3. 使用 PowerShell 命令安装（小狼毫）
 
 ```PowerShell
+# GitHub 源，需要上网环境
 irm tinyurl.com/weasel-jd | iex
+
+# Gitee 源
+irm https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/install_for_weasel_gitee.ps1 | iex
 ```
 
 如果遇到错误，运行一次 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` 再试。
 
 ### 4. 下载 Zip 包
 
-请在[发布页面](https://github.com/amorphobia/rime-jiandao/releases)下载打包好的方案，解压文件到对应的目录。
+请在发布页面（[GitHub](https://github.com/amorphobia/rime-jiandao/releases)，[Gitee](https://gitee.com/amorphobia/rime-jiandao/releases)）下载打包好的方案，解压文件到对应的目录。
 
 ### 5. 东风破
 
