@@ -36,12 +36,12 @@ jobs:
       - name: Make Dicts (disable de-weight 630)
         if: github.event.inputs.de_weight_630 == 'true'
         run: |
-          bash scripts/make_dicts.sh --append dicts/cizu_append.txt --delete dicts/cizu_delete.txt --modify dicts/cizu_modify.txt --version ${{ github.ref_name }}
+          make dicts VERSION=${{ github.ref_name }}
 
       - name: Make Dicts (de-weight 630)
         if: github.event.inputs.de_weight_630 != 'true'
         run: |
-          bash scripts/make_dicts.sh --append dicts/cizu_append.txt --delete dicts/cizu_delete.txt --modify dicts/cizu_modify.txt --version ${{ github.ref_name }} --deweight
+          make deweight VERSION=${{ github.ref_name }}
 
       - name: Install Dependencies
         run: sudo apt-get install -y opencc
