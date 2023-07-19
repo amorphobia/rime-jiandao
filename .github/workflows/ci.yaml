@@ -23,7 +23,7 @@ jobs:
 
       - name: Sanity Check
         run: |
-          bash scripts/sanity_check.sh
+          make check
 
   pack-schema:
     name: Pack Schema
