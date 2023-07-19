@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.12
+version: v6.0.13
 sort: original
 ...
 不	b
@@ -138531,12 +138531,13 @@ sort: original
 灶坑	zzkr
 躁狂	zzkx
 凿孔	zzky
-早了	zzl
+在做了	zzl
 造林	zzlb
 澡疗	zzlc
 燥裂	zzld
 造瘘	zzldu
 糟了	zzle
+早了	zzleo
 造了	zzleu
 早来	zzlh
 造陆	zzlj
