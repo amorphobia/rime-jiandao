@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.13
+version: v6.0.14
 sort: original
 ...
 不	b
@@ -85982,7 +85982,7 @@ sort: original
 没准	mwqw
 每群	mwqwu
 没招	mwqz
-没人	mwr
+没外人	mwr
 没肉	mwrd
 美髯	mwrf
 美乳	mwrj
@@ -138986,6 +138986,7 @@ https://github.com/xkinput/Rime_JD	orj
 壿	cwvo
 壿	cwvoou
 瑽	cyvvuu
+弔	dcava
 弔	dcavai
 𫶇	ddiav
 𫶇	ddiavi
