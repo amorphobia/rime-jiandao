@@ -232,7 +232,7 @@ function Start-MainGui {
     $XAML.SelectNodes("//*[@Name]") | ForEach-Object {
         Set-Variable -Name ($_.Name) -Value $XMLForm.FindName($_.Name) -Scope Script
     }
-    $XMLForm.Title = "Jiandao Installer"
+    $XMLForm.Title = "$([char]0x5b89)$([char]0x88c5)$([char]0x952e)$([char]0x9053)"
     $XMLForm.Icon = [WinAPI.Utils]::ExtractIcon("shell32.dll", 43, $true) | ConvertTo-ImageSource
 
     if (!(Test-Connection "raw.githubusercontent.com" -Quiet -Count 1)) {
