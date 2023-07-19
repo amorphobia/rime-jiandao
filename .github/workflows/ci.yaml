@@ -33,15 +33,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Make Dicts (disable de-weight 630)
-        if: github.event.inputs.de_weight_630 == 'true'
+      - name: Make Dicts
         run: |
-          make dicts VERSION=${{ github.ref_name }}
-
-      - name: Make Dicts (de-weight 630)
-        if: github.event.inputs.de_weight_630 != 'true'
-        run: |
-          make deweight VERSION=${{ github.ref_name }}
+          if [[ "${{ github.event.inputs.de_weight_630 }}" == "true" ]]; then
+            make dicts DEWEIGHT=1 VERSION=${{ github.ref_name }}
+          else
+            make dicts VERSION=${{ github.ref_name }}
+          fi
 
       - name: Install Dependencies
         run: sudo apt-get install -y opencc
