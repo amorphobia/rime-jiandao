@@ -32,12 +32,14 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 
 ### 3. 使用 PowerShell 命令安装（小狼毫）
 
+在 PowerShell 中执行以下命令之一，然后按照提示安装即可。
+
 ```PowerShell
 # GitHub 源，需要上网环境
-irm tinyurl.com/weasel-jd | iex
+irm tinyurl.com/installer-ps1 | iex
 
 # Gitee 源
-irm https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/install_for_weasel_gitee.ps1 | iex
+irm https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/installer.ps1 | iex
 ```
 
 如果遇到错误，运行一次 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` 再试。
