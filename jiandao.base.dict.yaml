@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.14
+version: v6.0.15
 sort: original
 ...
 不	b
@@ -53538,7 +53538,6 @@ sort: original
 高枕无忧	gqwy
 观其行	gqx
 港珠澳	gqxa
-港珠奥	gqxav
 挂心	gqxb
 刮削	gqxc
 挂鞋	gqxd
@@ -53552,7 +53551,6 @@ sort: original
 寡恩	gqxn
 高清晰	gqxo
 港珠澳大桥	gqxq
-港珠奥大桥	gqxqa
 挂下	gqxs
 感情线	gqxv
 挂相	gqxx
@@ -138697,8 +138695,10 @@ ____	;z
 # 链接
 https://	http
 https://xkinput.gitee.io	ogw
+https://pingshunhuangalex.gitbook.io/rime-xkjd	ojj
 https://github.com/amorphobia/rime-jiandao	orj
 https://github.com/xkinput/Rime_JD	orj
+https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 # 邮箱
 @gmail.com	;ag
 @outlook.com	;ao
