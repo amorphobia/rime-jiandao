@@ -32,7 +32,7 @@
 
 在 `03.fuhao.txt` 中做了如下改动
 
-- 整体删除了官方 lianjie（链接）词典，保留了其中几个有用的项目放到 fuhao（符号）词典里
+- 整体删除了官方 lianjie（链接）词典，保留了其中几个有用的项目放到 fuhao（符号）词典里，添加了[详尽教程](https://pingshunhuangalex.gitbook.io/rime-xkjd)的链接
 - 「×	ojh」改为「✗	ow」（叉），「√	og」改为「✓	og」（钩）
 
 ## 4. buchong（补充）
