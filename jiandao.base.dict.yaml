@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.15
+version: v6.0.16
 sort: original
 ...
 不	b
@@ -18952,7 +18952,7 @@ sort: original
 兵权	bgqt
 卑躬屈膝	bgqx
 悲观主义	bgqy
-并找	bgqz
+病兆	bgqz
 冰罩	bgqzo
 被告人	bgr
 不过如此	bgrc
@@ -22265,6 +22265,7 @@ sort: original
 别这样	bqyo
 闭着眼	bqyoo
 秉烛夜谈	bqyt
+八爪鱼	bqyu
 不注意	bqyv
 不这样	bqyvo
 不情愿	bqyvov
@@ -52730,6 +52731,7 @@ sort: original
 光宅	gmfh
 光复	gmfj
 光伏	gmfji
+广府	gmfjo
 光治	gmfk
 广丰	gmfr
 广发	gmfs
@@ -96518,6 +96520,7 @@ sort: original
 气味	qkww
 戚薇	qkwwv
 起床	qkwx
+凄怆	qkwxo
 气冲	qkwy
 情况下	qkx
 齐心	qkxb
@@ -100631,6 +100634,7 @@ sort: original
 赵王	qzwp
 找茬	qzws
 兆瓦	qzwsu
+爪哇	qzwsuo
 赵传	qzwt
 赵薇	qzww
 找虫	qzwy
@@ -114609,6 +114613,7 @@ sort: original
 怆然	wmrf
 我们如果	wmrg
 闯入	wmrj
+床褥	wmrjo
 床日	wmrk
 我们认为	wmrw
 闯丧	wmsp
