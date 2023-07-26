@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.16
+version: v6.0.17
 sort: original
 ...
 不	b
@@ -13030,7 +13030,7 @@ sort: original
 挞	tsiuvu
 它	tso
 祂	tsoa
-祂	tsoaa
+祂	tsoaai
 褟	tsoao
 褟	tsoaoi
 踏	tsoi
@@ -138999,6 +138999,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬘘	dfaaoa
 𫢸	dfio
 𫢸	dfioui
+呾	dfooi
 呾	dfooiv
 𬊤	dfouo
 𬊤	dfouou
@@ -139010,6 +139011,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬍡	dpaavv
 𫟼	dsiov
 𫟼	dsiovu
+呾	dsooi
 呾	dsooiv
 墫	dwvoo
 墫	dwvoou
@@ -139037,6 +139039,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𫖯	fjuovu
 𫄨	fkaauo
 蹠	fkoiov
+㩼	fkuau
 㩼	fkuauo
 𬃊	fkvuuu
 𬸦	flovu
@@ -139048,6 +139051,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬬿	fzioau
 𬶐	fzua
 𬶐	fzuauo
+佮	geiiv
 佮	geiivo
 𬕂	gfuvvi
 𬮿	ghaii
@@ -139076,6 +139080,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬴃	hlaavv
 𬣳	hnoaa
 𬣳	hnoaav
+椛	hqvii
 椛	hqviii
 𬘫	htaao
 𬘫	htaaoo
@@ -139086,6 +139091,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬭎	hyiooo
 𫟹	hyiovi
 兞	hzkeuo
+䜰	hzuou
 䜰	hzuoui
 𬬱	jbiouu
 苂	jfiiou
@@ -139107,6 +139113,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𫚖	jkivua
 𫌀	jkoavv
 𬶭	jkuaua
+檵	jkvaa
 檵	jkvaao
 𪟝	jkvva
 𪟝	jkvvau
@@ -139119,6 +139126,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 嗧	jslwau
 𬂩	jsvvou
 𫓶	jtioou
+奆	jtvu
 奆	jtvuva
 𫖳	jwavv
 𫖳	jwavvu
@@ -139170,6 +139178,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬜯	lxiivi
 𬕂	lyuvv
 𬕂	lyuvvi
+䜮	lzuo
 䜮	lzuooo
 𫭼	lzvo
 𫭼	lzvoii
@@ -139183,7 +139192,6 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬭁	mjioaa
 𬙊	mlaa
 𬙊	mlaaia
-尛	mliuiu
 𫞩	mnvv
 𫞩	mnvvii
 𫑡	mroa
@@ -139198,6 +139206,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𫠜	nkivui
 𫐐	nkva
 𫐐	nkvaui
+鲶	nmuai
 鲶	nmuaio
 挊	nyiu
 挊	nyiuiv
@@ -139212,12 +139221,14 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 蚍	pkiava
 𬇙	pwaao
 𬇙	pwaaoo
+骹	qciao
 骹	qciaov
 𫗴	qfuao
 𫗴	qfuaov
 𬘬	qgaa
 𬘬	qgaavv
 𬒈	qhoovu
+礐	qhui
 礐	qhuivu
 𬣞	qjoao
 𬣞	qjoaoo
@@ -139254,6 +139265,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𫗧	sjuavi
 亖	skvvv
 亖	skvvvv
+惢	sloao
 惢	sloaoa
 𪨊	syav
 𪨊	syavii
@@ -139272,16 +139284,18 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 鼍	tloooi
 𬶍	tluao
 𬶍	tluaoo
-祂	tsoaai
 𫍣	tyoai
 𫍣	tyoaia
 𫘦	tzaaua
 𬘫	wfaao
 𬘫	wfaaoo
+卍	wfai
 卍	wfaivi
 𬇕	wfav
 𬇕	wfavau
+卐	wfavi
 卐	wfaviv
+喎	who
 喎	whoiaa
 𫄨	wkaau
 𫄨	wkaauo
@@ -139303,6 +139317,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬱟	wwuavu
 𫷷	xbovi
 𫷷	xbovio
+枔	xbvi
 枔	xbvioa
 𫍲	xcoau
 𫍲	xcoaui
@@ -139341,6 +139356,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𫍽	xtoaia
 譞	xtovi
 譞	xtovia
+𬘓	xwaau
 𬘓	xwaaui
 𫄸	xwaauv
 𬩽	xwava
@@ -139352,22 +139368,28 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬙋	xxaaov
 𬘡	ybaai
 𬘡	ybaaia
+苂	ybiio
 苂	ybiiou
 𬤇	yboavi
 𬮱	yboiv
 𬮱	yboivi
+烎	ybvvo
 烎	ybvvou
 甴	ydia
 甴	ydiavi
 𬨎	ydva
 𬨎	ydvaou
+嘢	yeoia
 嘢	yeoiav
+鵺	yeovu
 鵺	yeovui
 𬙂	yfaaoo
 𫄧	yfaau
 𫄧	yfaaui
+𪩘	yfiau
 𪩘	yfiauo
 昖	yfoiuo
+喦	yfooi
 喦	yfooia
 𬸘	yfvoua
 桜	ygvo
@@ -139390,7 +139412,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𫘪	ytaavu
 円	ytiaiv
 橒	ywvvoa
-垚	yzvvvv
+囃	zsovi
 囃	zsovii
 墫	zwvo
 墫	zwvoou

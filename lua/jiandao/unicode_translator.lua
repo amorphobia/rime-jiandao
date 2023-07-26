@@ -17,11 +17,17 @@
 --]]
 
 local function translator(input, seg)
+    local is_win = package.config:sub(1,1) == "\\"
     local delimiter = string.find(input, "u`")
     if delimiter ~= nil then
         local input_code = string.sub(input, delimiter + 2)
         local codepoint = tonumber(input_code, 16)
         if codepoint ~= nil then
+            local ch = utf8.char(codepoint)
+            -- to prevent software crashing on Windows
+            if is_win and codepoint == 10 then
+                ch = "LF"
+            end
             local cand = Candidate("unicode", seg.start, seg._end, utf8.char(codepoint), " Unicode")
             -- input_code = string.format("%04s", input_code)
             -- string.format not working in Hamster
