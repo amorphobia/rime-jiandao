@@ -28,7 +28,7 @@ local function translator(input, seg)
             if is_win and codepoint == 10 then
                 ch = "LF"
             end
-            local cand = Candidate("unicode", seg.start, seg._end, utf8.char(codepoint), " Unicode")
+            local cand = Candidate("unicode", seg.start, seg._end, ch, " Unicode")
             -- input_code = string.format("%04s", input_code)
             -- string.format not working in Hamster
             local num_prefix = 4 - string.len(input_code)
