@@ -25,21 +25,17 @@ Fork 本仓库后，可以把需要添加、删除、修改权重的词语按需
 克隆仓库后，执行以下命令（详情请看[词典生成脚本说明](scripts/README.md)）
 
 ```bash
-scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --modify <cizu_modify.txt>
+scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --modify <cizu_modify.txt> [--deweight]
 ```
 
 需要修改为你自己的对应文件名，也可省略选项。生成的方案在 `schema` 目录中。
 
 ### 3. 使用 PowerShell 命令安装（小狼毫）
 
-在 PowerShell 中执行以下命令之一，然后按照提示安装即可。
+在 PowerShell 中执行以下命令，然后按照提示安装即可。
 
 ```PowerShell
-# GitHub 源，需要上网环境
-irm tinyurl.com/installer-ps1 | iex
-
-# Gitee 源
-irm https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/installer.ps1 | iex
+irm 0xa.nl/get-jd-win | iex
 ```
 
 如果遇到错误，运行一次 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` 再试。
