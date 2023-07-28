@@ -62,13 +62,21 @@ jobs:
         run: |
           cd schema
           rm recipe.yaml
-          zip -r -q ../jiandao.zip *
+          zip -r -q ../jiandao.zip * -x rime.lua
+
+      - name: Make Legacy Zip
+        run: |
+          cd schema
+          sed -i 's/*jiandao\///g' jiandao.schema.yaml
+          zip -r -q ../jiandao-legacy.zip *
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: jiandao.zip
-          path: jiandao.zip
+          name: zips
+          path: |
+            jiandao.zip
+            jiandao-legacy.zip
 
   create-release:
     name: Create Release
@@ -82,18 +90,21 @@ jobs:
       - name: Download Artifacts
         uses: actions/download-artifact@v3
         with:
-          name: jiandao.zip
+          name: zips
 
       - name: Unzip & Rename Release Zip Archive
         run: |
           unzip jiandao.zip -d release
           mv schema/recipe.yaml release/
           mv jiandao.zip jiandao-${{ github.ref_name }}.zip
+          mv jiandao-legacy.zip jiandao-legacy-${{ github.ref_name }}.zip
 
       - name: Create Release and Upload Assets
         uses: softprops/action-gh-release@v1
         with:
-          files: jiandao-${{ github.ref_name }}.zip
+          files: |
+            jiandao-${{ github.ref_name }}.zip
+            jiandao-legacy-${{ github.ref_name }}.zip
 
       - name: Push to Release
         uses: s0/git-publish-subdir-action@v2.6.0
