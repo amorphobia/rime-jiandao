@@ -84,7 +84,7 @@ function Get-GuiXAML {
         <TextBlock Name = "Source" FontSize = "16" Height = "26" Width = "340" HorizontalAlignment="Left" VerticalAlignment="Top" Margin = "16,8,0,0" Text = "Select source" />
         <RadioButton Name = "GitHub" FontSize = "16" Height = "26" Width = "80" HorizontalAlignment = "Left" VerticalAlignment = "Top" Margin = "14,38,0,0" GroupName="Source" Content="GitHub" IsChecked = "True" />
         <RadioButton Name = "Gitee" FontSize = "16" Height = "26" Width = "80" HorizontalAlignment = "Left" VerticalAlignment = "Top" Margin = "194,38,0,0" GroupName="Source" Content="Gitee" />
-        <CheckBox Name = "OverwriteDict" FontSize = "16" Width="340" HorizontalAlignment="Left" VerticalAlignment="Top" Margin = "14,76,0,0" Content = "Overwrite User Dict (xkjd6.user.dict.yaml)" />
+        <CheckBox Name = "OverwriteDict" FontSize = "16" Width="340" HorizontalAlignment="Left" VerticalAlignment="Top" Margin = "14,76,0,0" Content = "Overwrite User Dict (jiandao.user.dict.yaml)" />
         <CheckBox Name = "OverwriteConf" FontSize = "16" Width="340" HorizontalAlignment="Left" VerticalAlignment="Top" Margin = "14,114,0,0" Content = "Overwrite User Default Config (default.custom.yaml)" />
         <Button Name = "Confirm" FontSize = "16" Height = "26" Width = "160" HorizontalAlignment = "Left" VerticalAlignment = "Top" Margin = "14,146,0,0" Content = "Confirm" />
         <Button Name = "Cancel" FontSize = "16" Height = "26" Width = "160" HorizontalAlignment = "Left" VerticalAlignment = "Top" Margin = "194,146,0,0" Content = "Cancel" />
@@ -213,7 +213,7 @@ $Str = @{
     confirm = "$([char]0x786e)$([char]0x5b9a)"
     cancel = "$([char]0x53d6)$([char]0x6d88)"
     source = "$([char]0x9009)$([char]0x62e9)$([char]0x6e90)"
-    overwritedict = "$([char]0x8986)$([char]0x76d6)$([char]0x7528)$([char]0x6237)$([char]0x8bcd)$([char]0x5178) (xkjd6.user.dict.yaml)"
+    overwritedict = "$([char]0x8986)$([char]0x76d6)$([char]0x7528)$([char]0x6237)$([char]0x8bcd)$([char]0x5178) (jiandao.user.dict.yaml)"
     overwriteconf = "$([char]0x8986)$([char]0x76d6)$([char]0x7528)$([char]0x6237)$([char]0x914d)$([char]0x7f6e) (default.custom.yaml)"
 }
 
