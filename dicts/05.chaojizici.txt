@@ -77,6 +77,7 @@
 𬶐	fzuauo
 佮	geiiv
 佮	geiivo
+鿔	geiovo
 𬕂	gfuvvi
 𬮿	ghaii
 𬮿	ghaiia
@@ -184,6 +185,8 @@
 𬬻	ljioi
 𬬻	ljioiv
 𫵷	lkiavu
+𫟷	lkioo
+𫟷	lkioov
 兣	lkkeuo
 糎	lkmkou
 𬍛	lkvvua
@@ -226,6 +229,8 @@
 冇	mzvuia
 𫔶	ndoiu
 𫔶	ndoiui
+鿭	nkiou
+鿭	nkioua
 𫠜	nkiv
 𫠜	nkivui
 𫐐	nkva
@@ -308,6 +313,8 @@
 鼍	tloooi
 𬶍	tluao
 𬶍	tluaoo
+鿬	tmvui
+鿬	tmvuia
 𫍣	tyoai
 𫍣	tyoaia
 𫘦	tzaaua
@@ -390,6 +397,8 @@
 𬍤	xwvva
 𬍤	xwvvav
 𬙋	xxaaov
+鿫	xzuvu
+鿫	xzuvui
 𬘡	ybaai
 𬘡	ybaaia
 苂	ybiio
