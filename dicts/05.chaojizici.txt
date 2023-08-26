@@ -69,7 +69,8 @@
 𬸦	flovua
 𮝷	fnva
 𮝷	fnvauo
-甴	fsia
+甴	fsiav
+甴	fsiavi
 𬬿	fzioa
 𬬿	fzioau
 𬶐	fzua
@@ -398,7 +399,6 @@
 𬮱	yboivi
 烎	ybvvo
 烎	ybvvou
-甴	ydia
 甴	ydiavi
 𬨎	ydva
 𬨎	ydvaou
