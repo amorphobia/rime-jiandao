@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.21
+version: v6.0.22
 sort: original
 ...
 不	b
@@ -139045,13 +139045,15 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬸦	flovua
 𮝷	fnva
 𮝷	fnvauo
-甴	fsia
+甴	fsiav
+甴	fsiavi
 𬬿	fzioa
 𬬿	fzioau
 𬶐	fzua
 𬶐	fzuauo
 佮	geiiv
 佮	geiivo
+鿔	geiovo
 𬕂	gfuvvi
 𬮿	ghaii
 𬮿	ghaiia
@@ -139159,6 +139161,8 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬬻	ljioi
 𬬻	ljioiv
 𫵷	lkiavu
+𫟷	lkioo
+𫟷	lkioov
 兣	lkkeuo
 糎	lkmkou
 𬍛	lkvvua
@@ -139201,6 +139205,8 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 冇	mzvuia
 𫔶	ndoiu
 𫔶	ndoiui
+鿭	nkiou
+鿭	nkioua
 𫠜	nkiv
 𫠜	nkivui
 𫐐	nkva
@@ -139283,6 +139289,8 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 鼍	tloooi
 𬶍	tluao
 𬶍	tluaoo
+鿬	tmvui
+鿬	tmvuia
 𫍣	tyoai
 𫍣	tyoaia
 𫘦	tzaaua
@@ -139365,6 +139373,8 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬍤	xwvva
 𬍤	xwvvav
 𬙋	xxaaov
+鿫	xzuvu
+鿫	xzuvui
 𬘡	ybaai
 𬘡	ybaaia
 苂	ybiio
@@ -139374,7 +139384,6 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬮱	yboivi
 烎	ybvvo
 烎	ybvvou
-甴	ydia
 甴	ydiavi
 𬨎	ydva
 𬨎	ydvaou
