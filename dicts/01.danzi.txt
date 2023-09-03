@@ -2263,6 +2263,7 @@
 束	ejvi
 束	ejviav
 术	ejvo
+述	ejvoo
 术	ejvoo
 述	ejvooa
 梳	ejvov
@@ -9650,6 +9651,8 @@
 泞	nga
 泞	ngaooa
 拧	ngi
+苧	ngii
+苧	ngiioo
 拧	ngiuoo
 佞	ngiv
 佞	ngivva
@@ -10941,7 +10944,6 @@
 蛛	qjiauv
 著	qjii
 苎	qjiio
-苧	qjiioo
 苎	qjiioo
 茱	qjiiu
 著	qjiiuo
