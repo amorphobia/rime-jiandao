@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.23
+version: v6.0.24
 sort: original
 ...
 不	b
@@ -2270,6 +2270,7 @@ sort: original
 束	ejvi
 束	ejviav
 术	ejvo
+述	ejvoo
 术	ejvoo
 述	ejvooa
 梳	ejvov
@@ -9657,6 +9658,8 @@ sort: original
 泞	nga
 泞	ngaooa
 拧	ngi
+苧	ngii
+苧	ngiioo
 拧	ngiuoo
 佞	ngiv
 佞	ngivva
@@ -10948,7 +10951,6 @@ sort: original
 蛛	qjiauv
 著	qjii
 苎	qjiio
-苧	qjiioo
 苎	qjiioo
 茱	qjiiu
 著	qjiiuo
@@ -132256,6 +132258,7 @@ sort: original
 仰躺	yptpi
 阳童	ypty
 杨涛	yptz
+阳桃	yptza
 杨桃	yptzv
 一篇文	ypw
 洋车	ypwe

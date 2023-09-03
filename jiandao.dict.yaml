@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao
-version: v6.0.23
+version: v6.0.24
 sort: original
 use_preset_vocabulary: false
 import_tables:
