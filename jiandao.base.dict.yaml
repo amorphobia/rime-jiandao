@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.0.24
+version: v6.0.25
 sort: original
 ...
 不	b
@@ -25118,7 +25118,6 @@ sort: original
 才按	chxf
 才行	chxg
 才学	chxh
-采血	chxhu
 采耳	chxj
 猜贰	chxju
 菜系	chxk
@@ -46192,7 +46191,7 @@ sort: original
 只怕你	fpn
 访南	fpnf
 房奴	fpnj
-防粘	fpnm
+防黏	fpnm
 放牛	fpnq
 方能	fpnr
 放哪	fpns
@@ -46293,6 +46292,7 @@ sort: original
 仿效	fpxc
 放些	fpxd
 仿写	fpxdi
+放血	fpxdo
 访俄	fpxe
 中篇小说	fpxei
 方案	fpxf
@@ -46300,8 +46300,7 @@ sort: original
 方形	fpxgo
 妨碍	fpxh
 防癌	fpxha
-放血	fpxho
-放学	fpxhoo
+放学	fpxho
 方儿	fpxj
 防线	fpxm
 防锈	fpxq
@@ -60592,12 +60591,12 @@ sort: original
 欢笑	htxc
 换鞋	htxd
 欢天喜地	htxda
+换血	htxdi
 唤醒	htxg
 缓刑	htxga
 缓行	htxgau
 环形	htxgv
-换血	htxh
-欢爱	htxha
+欢爱	htxh
 黑天鹅	htxi
 患儿	htxj
 滑天下之大稽	htxja
@@ -63194,7 +63193,7 @@ sort: original
 叫你	jcnk
 教你	jcnku
 娇女	jcnl
-胶粘	jcnm
+胶黏	jcnm
 娇嫩	jcnn
 胶囊	jcnp
 交能	jcnr
@@ -64696,7 +64695,7 @@ sort: original
 陈芝麻烂谷子	jfmza
 就只能	jfn
 积重难返	jfnf
-缠粘	jfnm
+缠黏	jfnm
 产能	jfnr
 嘲风弄月	jfny
 警匪片	jfp
@@ -66360,6 +66359,7 @@ sort: original
 出新	jjxba
 初小	jjxc
 出些	jjxd
+出血	jjxda
 除恶	jjxe
 经济形势	jjxea
 见机行事	jjxei
@@ -73065,6 +73065,7 @@ sort: original
 颗心	kexbi
 可笑	kexc
 科协	kexd
+咳血	kexdo
 可写	kexdv
 可按	kexf
 口是心非	kexfo
@@ -73072,7 +73073,6 @@ sort: original
 颗星	kexgi
 克星	kexgu
 科学	kexh
-咳血	kexho
 可爱	kexhv
 科二	kexj
 科尔	kexju
@@ -86814,8 +86814,8 @@ sort: original
 鸟网	ncwp
 尿床	ncwx
 鸟巢	ncwz
+尿血	ncxd
 尿性	ncxg
-尿血	ncxh
 鸟儿	ncxj
 怒从心头起	ncxq
 尿液	ncye
@@ -87521,7 +87521,7 @@ sort: original
 耐火	nhhl
 闹哄哄	nhho
 黏糊糊	nhhu
-粘合剂	nhj
+黏合剂	nhj
 奶精	nhjg
 内环境	nhji
 疟疾	nhjk
@@ -88238,7 +88238,7 @@ sort: original
 你妈的	nmdi
 你们的	nmdii
 年度	nmdj
-粘度	nmdjo
+黏度	nmdju
 年底	nmdk
 那么多年	nmdn
 诺曼底	nmdo
@@ -88268,17 +88268,15 @@ sort: original
 南美洲	nmf
 浓墨重彩	nmfc
 念咒	nmfd
-粘着	nmfe
+黏着	nmfe
 念着	nmfei
 撵着	nmfeio
-黏着	nmfeu
 年饭	nmff
 那么这个	nmfg
 黏附	nmfj
-粘附	nmfjo
 年制	nmfk
-粘滞	nmfko
-粘着	nmfl
+黏滞	nmfku
+黏着	nmfl
 念佛	nmfli
 碾庄	nmfm
 年份	nmfn
@@ -88290,7 +88288,7 @@ sort: original
 碾庄	nmfx
 年终	nmfy
 内蒙古	nmg
-粘过	nmgl
+黏过	nmgl
 念过	nmgli
 年过	nmglu
 年光	nmgm
@@ -88310,7 +88308,6 @@ sort: original
 那么好的	nmhda
 黏合	nmhe
 那么回事	nmhea
-粘合	nmheo
 你们好	nmhi
 黏糊	nmhj
 年货	nmhl
@@ -88324,12 +88321,12 @@ sort: original
 年仅	nmjb
 年近	nmjbu
 年金	nmjbui
-粘胶	nmjc
+黏胶	nmjc
 年焦	nmjcu
 年届	nmjd
 那么简单	nmjda
 你们觉得	nmjdi
-粘结	nmjdo
+黏结	nmjdu
 纳米技术	nmje
 年产	nmjf
 脑满肠肥	nmjfu
@@ -88341,7 +88338,7 @@ sort: original
 念及	nmjk
 年级	nmjku
 年纪	nmjkua
-粘聚	nmjl
+黏聚	nmjl
 年间	nmjm
 年检	nmjmu
 年鉴	nmjmui
@@ -88376,14 +88373,13 @@ sort: original
 年满	nmmf
 年命	nmmg
 年迈	nmmh
-粘米	nmmk
+黏米	nmmk
 年末	nmml
-粘膜	nmmlo
 黏膜	nmmlu
 年貌	nmmz
 那么难	nmn
 撵你	nmnk
-粘腻	nmnko
+黏腻	nmnku
 男默女泪	nmnl
 年年	nmnm
 黏黏	nmnmu
@@ -88394,10 +88390,9 @@ sort: original
 碾平	nmpg
 年谱	nmpj
 农牧区	nmq
-粘着	nmqe
+黏着	nmqe
 念着	nmqei
 撵着	nmqeio
-黏着	nmqeu
 年占	nmqf
 农民群众	nmqfo
 那么这个	nmqg
@@ -88413,7 +88408,7 @@ sort: original
 农民起义	nmqy
 那么热	nmr
 年入	nmrj
-粘人	nmrn
+黏人	nmrn
 那么容易	nmry
 柠檬酸	nms
 年岁	nmsb
@@ -88426,23 +88421,21 @@ sort: original
 黏贴	nmtdu
 年头	nmtduo
 黏土	nmtj
-粘土	nmtjo
 碾砣	nmtl
 年迈体弱	nmtr
 柠檬茶	nmw
 黏稠	nmwd
-粘稠	nmwdo
 念完	nmwf
 念物	nmwj
 年齿	nmwk
 撵我	nmwl
 那么我们	nmwm
-粘网	nmwp
+黏网	nmwp
 农民问题	nmwt
 牛魔王	nmwu
 年味	nmww
 年尾	nmwwu
-粘虫	nmwy
+黏虫	nmwy
 匿名信	nmx
 那么小	nmxa
 女明星	nmxao
@@ -88454,7 +88447,6 @@ sort: original
 怒目而视	nmxea
 南无阿弥陀佛	nmxf
 黏性	nmxg
-粘性	nmxgo
 你妹啊	nmxi
 年息	nmxk
 年限	nmxm
@@ -88470,7 +88462,6 @@ sort: original
 怒目圆瞪	nmyda
 农民运动	nmydo
 黏液	nmye
-粘液	nmyeo
 年夜	nmyeu
 那么一种	nmyf
 那么一个	nmyg
@@ -88492,7 +88483,6 @@ sort: original
 年租	nmzj
 你们自己	nmzji
 年资	nmzk
-粘着	nmzl
 哪门子	nmzo
 年增	nmzr
 年尊	nmzw
@@ -96529,8 +96519,7 @@ sort: original
 奇效	qkxc
 气消	qkxcu
 起效	qkxcv
-气血	qkxd
-器械	qkxdo
+器械	qkxd
 企鹅	qkxe
 凄暗	qkxf
 七星	qkxg
@@ -119138,7 +119127,6 @@ sort: original
 写到	xddzo
 邪道	xddzv
 行动上	xde
-血水	xdeb
 携手	xded
 写手	xdedo
 相对湿度	xdedv
@@ -119430,7 +119418,6 @@ sort: original
 想到这里	xdqlv
 写真	xdqn
 谐振	xdqno
-血球	xdqq
 欧证	xdqr
 协洽	xdqs
 霰弹枪	xdqv
@@ -121265,6 +121252,7 @@ sort: original
 安魂曲	xhqov
 学长	xhqp
 哀求	xhqq
+血球	xhqqu
 雪球	xhqqv
 癌症	xhqr
 爱犬	xhqt
@@ -121464,6 +121452,7 @@ sort: original
 雪原	xhytv
 相呼应	xhyv
 爱晕	xhyw
+血晕	xhywu
 小鹤音形	xhyx
 新婚燕尔	xhyxo
 相互影响	xhyxv
@@ -128829,9 +128818,8 @@ sort: original
 沿岸	yfxfa
 言行	yfxg
 严刑	yfxgv
-验血	yfxh
-厌学	yfxhv
-研学	yfxhvo
+厌学	yfxh
+研学	yfxhv
 眼儿	yfxj
 掩耳	yfxji
 语重心长	yfxjo
