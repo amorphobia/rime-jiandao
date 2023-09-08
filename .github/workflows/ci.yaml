@@ -58,6 +58,13 @@ jobs:
             cp emoji/opencc/emoji.json schema/opencc/
           fi
 
+      - name: Fetch opencc-tonggui
+        run: |
+          TAG=$(curl -s https://api.github.com/repos/amorphobia/opencc-tonggui/releases/latest | jq -r '.tag_name')
+          URL="https://github.com/amorphobia/opencc-tonggui/releases/download/${TAG}/opencc-tonggui-${TAG}.zip"
+          wget -O tonggui.zip ${URL}
+          unzip tonggui.zip -d schema
+
       - name: Make Zip
         run: |
           cd schema
