@@ -34,8 +34,7 @@ switches:
     states: [ 中, En ]
   - name: full_shape
     states: [ 半, 全 ]
-  - name: jffh
-    reset: 0
+  - name: traditionalization
     states: [ 汉, 漢 ]
   - name: 630_hint
     reset: 1
@@ -77,7 +76,7 @@ engine:
     - simplifier@emoji_suggestion
     - simplifier
     - uniquifier
-    - simplifier@jffh
+    - simplifier@traditionalization
     - reverse_lookup_filter@danzi_lookup
     - lua_filter@*jiandao/hint_filter
 
@@ -108,9 +107,9 @@ emoji_suggestion:
   option_name: emoji_suggestion
   tips: all
 
-jffh:
-  opencc_config: s2tw.json
-  option_name: jffh
+traditionalization:
+  opencc_config: s2tg.json
+  option_name: traditionalization
 
 danzi_lookup:
   dictionary: jiandao
@@ -141,7 +140,7 @@ key_binder:
     - { when: always, accept: Shift+space, select: .next }
     - { when: always, accept: Control+Alt+comma, toggle: full_shape }
     - { when: always, accept: Control+Alt+period, toggle: ascii_punct }
-    - { when: has_menu, accept: "Control+slash", toggle: jffh }
+    - { when: has_menu, accept: "Control+slash", toggle: traditionalization }
     - { when: has_menu, accept: "Control+backslash", toggle: emoji_suggestion }
     - { when: composing, accept: KP_0, send: 0 }
     - { when: composing, accept: KP_1, send: 1 }
