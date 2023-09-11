@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.1.0
+version: v6.1.1
 sort: original
 ...
 不	b
@@ -43085,7 +43085,8 @@ sort: original
 中顾委	fgwi
 丰功伟绩	fgwj
 风光无两	fgwl
-拽文	fgwn
+转文	fgwn
+拽文	fgwni
 这跟我	fgwo
 这个问题	fgwt
 中国传统	fgwti
@@ -139327,7 +139328,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬉼	xdouvu
 𫭟	xdvo
 𫭟	xdvovu
-𫫇	xeovi
+𫫇	xeov
 𫫇	xeovii
 𫰛	xgaua
 𫰛	xgauao
