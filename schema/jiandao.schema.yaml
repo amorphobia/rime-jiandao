@@ -74,11 +74,10 @@ engine:
     - lua_translator@*jiandao/unicode_translator
   filters:
     - simplifier@emoji_suggestion
-    - simplifier
     - uniquifier
+    - lua_filter@*jiandao/hint_filter
     - simplifier@traditionalization
     - reverse_lookup_filter@danzi_lookup
-    - lua_filter@*jiandao/hint_filter
 
 speller:
   algebra:
