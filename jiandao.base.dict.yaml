@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.1.2
+version: v6.1.3
 sort: original
 ...
 不	b
@@ -12389,7 +12389,7 @@ sort: original
 仨	ssivvv
 飒	sso
 飒	ssovua
-脎	ssuu
+脎	ssu
 脎	ssuuov
 卅	ssv
 靸	ssvi
@@ -138654,7 +138654,6 @@ sort: original
 ♀	nl
 *#06#	xjlji
 # 标点
-；	;
 ：	;;
 @	;a
 %	;b
