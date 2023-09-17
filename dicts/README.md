@@ -86,6 +86,7 @@
 
 - 整体删除了官方 lianjie（链接）词典，保留了其中几个有用的项目放到 fuhao（符号）词典里，添加了[详尽教程](https://pingshunhuangalex.gitbook.io/rime-xkjd)的链接
 - 「×	ojh」改为「✗	ow」（叉），「√	og」改为「✓	og」（钩）
+- 根据[反馈](https://github.com/amorphobia/rime-jiandao/issues/1#issuecomment-1722413910)，删除了分号一项
 
 ## 4. buchong（补充）
 
