@@ -33,6 +33,9 @@ local function processor(key_event, env)
     end
 
     local context = env.engine.context
+    if not context:has_menu() then
+        return kNoop
+    end
     local page_size = env.engine.schema.page_size
     local selected_index = context.composition:back().selected_index
     local page_start = (selected_index / page_size) * page_size
