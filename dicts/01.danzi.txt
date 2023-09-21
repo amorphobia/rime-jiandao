@@ -1116,7 +1116,7 @@
 丛	cyi
 葱	cyii
 苁	cyiii
-从	cyiiii
+从	cyiii
 苁	cyiiii
 葱	cyiiua
 丛	cyiivv
@@ -2379,6 +2379,7 @@
 鼫	ekuivu
 释	ekuo
 释	ekuoao
+辻	ekuoo
 十	ekuoo
 辻	ekuooa
 弑	ekuov
@@ -2410,6 +2411,7 @@
 邿	ekvoai
 螫	ekvoi
 螫	ekvoia
+埘	ekvoo
 士	ekvoo
 埘	ekvooi
 柿	ekvov
@@ -6310,7 +6312,7 @@
 几	jku
 及	jkua
 鲫	jkuaa
-几	jkuaaa
+几	jkuaa
 鱾	jkuaav
 鲫	jkuaav
 系	jkuai
@@ -7279,8 +7281,8 @@
 抠	kdiuvu
 叩	kdo
 叩	kdoaii
+寇	kdoo
 口	kdoo
-寇	kdoov
 寇	kdoovv
 筘	kdu
 筘	kduviu
@@ -8954,6 +8956,7 @@
 某	md
 牟	mda
 乜	mdaa
+缪	mdaaa
 乜	mdaaa
 缪	mdaaao
 鍪	mdao
@@ -11136,6 +11139,7 @@
 气	qkuvva
 其	qkv
 七	qkva
+妻	qkvaa
 七	qkvaa
 郪	qkvaai
 妻	qkvaau
@@ -11940,8 +11944,8 @@
 仁	rni
 仞	rnia
 仞	rniauo
+荏	rnii
 人	rnii
-荏	rniii
 荏	rniiiu
 葚	rniiv
 葚	rniivi
@@ -14631,6 +14635,7 @@
 耏	xjvuuu
 贰	xjvv
 贰	xjvvao
+珥	xjvvv
 二	xjvvv
 珥	xjvvvi
 西	xk
@@ -16204,10 +16209,10 @@
 殪	ykvuv
 殪	ykvuvo
 医	ykvuvv
+椅	ykvv
 一	ykvv
 杙	ykvva
 杙	ykvvao
-椅	ykvvu
 椅	ykvvuo
 与	yl
 预	yla

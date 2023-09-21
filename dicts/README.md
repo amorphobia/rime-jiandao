@@ -13,6 +13,7 @@
 - 在规范汉字中，`苎 <=> 苧`，`苧 <=> 薴` 为两对不同的简繁关系；在简体环境下，「苧」应读作 `níng` 而非 `zhù`，故修改其读音编码
 - 「㽏」的编码错误，修复为 `gfaivi`
 - 「脎」字简码再减一码（原为空码）
+- 根据 [Issue 2](https://github.com/amorphobia/rime-jiandao/issues/2) 修正了多个单字简码（含 chaojizici 中的字）
 
 ## 2. cizu（词组）
 
