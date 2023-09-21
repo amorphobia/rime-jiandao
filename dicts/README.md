@@ -14,6 +14,7 @@
 - 「㽏」的编码错误，修复为 `gfaivi`
 - 「脎」字简码再减一码（原为空码）
 - 根据 [Issue 2](https://github.com/amorphobia/rime-jiandao/issues/2) 修正了多个单字简码（含 chaojizici 中的字）
+- 修改「蟷」为其简体形式「𬠅（⿰虫当）」（同时修改 cizu 中对应条目），如同「㞞」收录简体形式「𪨊（⿸尸从）」
 
 ## 2. cizu（词组）
 

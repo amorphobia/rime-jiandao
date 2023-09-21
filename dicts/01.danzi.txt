@@ -1730,8 +1730,8 @@
 凼	dpa
 凼	dpaaii
 党	dpi
-蟷	dpia
-蟷	dpiaio
+𬠅	dpia
+𬠅	dpiaio
 荡	dpii
 荡	dpiiaa
 菪	dpiio
