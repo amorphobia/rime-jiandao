@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.1.3
+version: v6.1.4
 sort: original
 ...
 不	b
@@ -1123,7 +1123,7 @@ sort: original
 丛	cyi
 葱	cyii
 苁	cyiii
-从	cyiiii
+从	cyiii
 苁	cyiiii
 葱	cyiiua
 丛	cyiivv
@@ -1737,8 +1737,8 @@ sort: original
 凼	dpa
 凼	dpaaii
 党	dpi
-蟷	dpia
-蟷	dpiaio
+𬠅	dpia
+𬠅	dpiaio
 荡	dpii
 荡	dpiiaa
 菪	dpiio
@@ -2386,6 +2386,7 @@ sort: original
 鼫	ekuivu
 释	ekuo
 释	ekuoao
+辻	ekuoo
 十	ekuoo
 辻	ekuooa
 弑	ekuov
@@ -2417,6 +2418,7 @@ sort: original
 邿	ekvoai
 螫	ekvoi
 螫	ekvoia
+埘	ekvoo
 士	ekvoo
 埘	ekvooi
 柿	ekvov
@@ -6317,7 +6319,7 @@ sort: original
 几	jku
 及	jkua
 鲫	jkuaa
-几	jkuaaa
+几	jkuaa
 鱾	jkuaav
 鲫	jkuaav
 系	jkuai
@@ -7286,8 +7288,8 @@ sort: original
 抠	kdiuvu
 叩	kdo
 叩	kdoaii
+寇	kdoo
 口	kdoo
-寇	kdoov
 寇	kdoovv
 筘	kdu
 筘	kduviu
@@ -8961,6 +8963,7 @@ sort: original
 某	md
 牟	mda
 乜	mdaa
+缪	mdaaa
 乜	mdaaa
 缪	mdaaao
 鍪	mdao
@@ -11143,6 +11146,7 @@ sort: original
 气	qkuvva
 其	qkv
 七	qkva
+妻	qkvaa
 七	qkvaa
 郪	qkvaai
 妻	qkvaau
@@ -11947,8 +11951,8 @@ sort: original
 仁	rni
 仞	rnia
 仞	rniauo
+荏	rnii
 人	rnii
-荏	rniii
 荏	rniiiu
 葚	rniiv
 葚	rniivi
@@ -14638,6 +14642,7 @@ sort: original
 耏	xjvuuu
 贰	xjvv
 贰	xjvvao
+珥	xjvvv
 二	xjvvv
 珥	xjvvvi
 西	xk
@@ -16211,10 +16216,10 @@ sort: original
 殪	ykvuv
 殪	ykvuvo
 医	ykvuvv
+椅	ykvv
 一	ykvv
 杙	ykvva
 杙	ykvvao
-椅	ykvvu
 椅	ykvvuo
 与	yl
 预	yla
@@ -27521,7 +27526,7 @@ sort: original
 逗点	dddm
 叮叮当	dddo
 跌宕	dddp
-螲蟷	dddpi
+螲𬠅	dddpi
 跌荡	dddpo
 兜裆	dddpu
 大敌当前	dddq
@@ -139042,7 +139047,7 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 𬬿	fzioau
 𬶐	fzua
 𬶐	fzuauo
-佮	geiiv
+佮	geii
 佮	geiivo
 鿔	geiovo
 𬕂	gfuvvi
