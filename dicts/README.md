@@ -4,8 +4,11 @@
 
 ## 1. danzi（单字）
 
+由于 chaojizici 定位模糊，拟在将来弃用，现逐步将其收录的字移入 danzi 中，可参考[此讨论](https://github.com/amorphobia/rime-jiandao/discussions/3)
+
 在 `01.danzi.txt` 中做了如下改动
 
+### 零星改动
 - 删除了「臜」的错误编码 `zsuo` 和 `zsuouv`
 - 修改了「嫠」、「釐」两字的拆字，拆分为「𠩺」和剩余部分，其中「釐」字是多音字，读 `lí` 时是「厘」的异体字，故删除该读音，读 `xī` 时是规范汉字，添加该读音
 - 补全了「灀」、「蝠」、「珋」、「螯」、「祂」几字缺失的全码
@@ -15,6 +18,9 @@
 - 「脎」字简码再减一码（原为空码）
 - 根据 [Issue 2](https://github.com/amorphobia/rime-jiandao/issues/2) 修正了多个单字简码（含 chaojizici 中的字）
 - 修改「蟷」为其简体形式「𬠅（⿰虫当）」（同时修改 cizu 中对应条目），如同「㞞」收录简体形式「𪨊（⿸尸从）」
+
+### 集中改动
+- 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
 
 ## 2. cizu（词组）
 
@@ -96,6 +102,8 @@
 未做改动
 
 ## 5. chaojizici（超级字词）
+
+由于 chaojizici 定位模糊，拟在将来弃用，现逐步将其收录的字移入 danzi 中，可参考[此讨论](https://github.com/amorphobia/rime-jiandao/discussions/3)
 
 ### 删除重复
 
