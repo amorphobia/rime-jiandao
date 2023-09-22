@@ -107,7 +107,7 @@
 
 ## 5. chaojizici（超级字词）
 
-由于 chaojizici 定位模糊，拟在将来弃用，现逐步将其收录的字移入 danzi 中，可参考[此讨论](https://github.com/amorphobia/rime-jiandao/discussions/3)
+由于 chaojizici 定位模糊，拟在将来弃用，现逐步将其收录的字移入 danzi 中，可参考[此讨论](https://github.com/amorphobia/rime-jiandao/discussions/3)，因此本节提到的修改可能已经过时。
 
 ### 删除重复
 
@@ -129,7 +129,7 @@
 |骹|`qciao`|礐|`qhui`|惢|`sloao`|卍|`wfai`|
 |卐|`wfavi`|喎|`who`|枔|`xbvi`|𬘓|`xwaau`|
 |苂|`ybiio`|烎|`ybvvo`|嘢|`yeoia`|鵺|`yeovu`|
-|𪩘|`yfiau`|喦|`yfooi`|囃|`zsovi`|||
+|𪩘|`yfiau`|喦|`yfooi`|囃|`zsovi`|苂|`jfiio`|
 
 ### 简码冲突
 
