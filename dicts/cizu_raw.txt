@@ -26650,6 +26650,7 @@
 风景线	fjx	uoa	796
 负心	fjxb	uo	1000
 拂晓	fjxc	io	1000
+付啸	fjxc	io	900
 附小	fjxc	ai	899
 腹泻	fjxd	ua	1000
 复写	fjxd	uo	899

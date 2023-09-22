@@ -89,6 +89,10 @@
 
 另外提供了 `cizu_append.txt.in` 和 `cizu_modify.txt.in` 作为词典补丁的例子，将其扩展名 `.in` 删除后，可以通过 Github Actions 生成补丁后的词典，详见[词典生成脚本说明](../scripts/README.md)
 
+### 私货
+
+- 添加「付啸」，此为[仓输入法](https://github.com/imfuxiao/Hamster)之作者名
+
 ## 3. fuhao（符号）
 
 在 `03.fuhao.txt` 中做了如下改动
