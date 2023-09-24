@@ -26033,6 +26033,7 @@
 浮标	fjbc	av	1000
 附表	fjbc	av	899
 副班	fjbf	vv	1000
+𮔅蝂	fjbf	ii	900
 浮板	fjbf	av	899
 腹板	fjbf	uv	898
 覆板	fjbf	vv	897

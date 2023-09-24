@@ -4,7 +4,7 @@
 
 ## 1. danzi（单字）
 
-由于 chaojizici 定位模糊，拟在将来弃用，现逐步将其收录的字移入 danzi 中，可参考[此讨论](https://github.com/amorphobia/rime-jiandao/discussions/3)
+由于 chaojizici 定位模糊，已弃用，其收录的绝大部分字已经移入 danzi 中，可参考[此讨论](https://github.com/amorphobia/rime-jiandao/discussions/3)
 
 在 `01.danzi.txt` 中做了如下改动
 
@@ -90,9 +90,10 @@
 
 另外提供了 `cizu_append.txt.in` 和 `cizu_modify.txt.in` 作为词典补丁的例子，将其扩展名 `.in` 删除后，可以通过 Github Actions 生成补丁后的词典，详见[词典生成脚本说明](../scripts/README.md)
 
-### 私货
+### 其他
 
-- 添加「付啸」，此为[仓输入法](https://github.com/imfuxiao/Hamster)之作者名
+- 添加「付啸」，此为[仓输入法](https://github.com/imfuxiao/Hamster)之作者名，此为私货
+- 原位于 chaojizici 中的「蝜蝂」之简体形式「𮔅蝂」放入 cizu
 
 ## 3. fuhao（符号）
 
@@ -104,11 +105,11 @@
 
 ## 4. buchong（补充）
 
-未做改动
+原位于 chaojizici 中的多音节汉字及「橒」字放入此码表
 
 ## 5. chaojizici（超级字词）
 
-由于 chaojizici 定位模糊，拟在将来弃用，现逐步将其收录的字移入 danzi 中，可参考[此讨论](https://github.com/amorphobia/rime-jiandao/discussions/3)，因此本节提到的修改可能已经过时。
+由于 chaojizici 定位模糊，已弃用，可参考[此讨论](https://github.com/amorphobia/rime-jiandao/discussions/3)，因此本节提到的修改已经过时。
 
 ### 删除重复
 

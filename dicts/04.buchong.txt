@@ -263,3 +263,16 @@
 𠩺	vviuou
 龶	vviv
 𡗗	vvvuo
+# 多音节汉字
+兡	bhkeuo
+兙	ekkeuo
+兝	gyfnuo
+兞	hzkeuo
+嗧	jslwau
+兣	lkkeuo
+糎	lkmkou
+兛	qmkeuo
+粁	qmmkou
+瓩	qmwsva
+# 其他
+橒	ywvvoa
