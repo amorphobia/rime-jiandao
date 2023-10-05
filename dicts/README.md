@@ -34,7 +34,8 @@
 
 #### 「血」字读音（`xiě` 或 `xuè`）相关错误
 
-> ⚠️「血」字的读音争议颇大，此版若有其他使用者，烦请步入[讨论区](https://github.com/amorphobia/rime-jiandao/discussions)进行商议
+> [!NOTE]
+> 「血」字的读音争议颇大，此版若有其他使用者，烦请步入[讨论区](https://github.com/amorphobia/rime-jiandao/discussions)进行商议
 
 已被键道收录的词语，以《现代汉语词典》为标准，修正明确了读音的词条，未明确读音的词条暂不修改；未被键道收录的词语，暂不作追加收录
 
