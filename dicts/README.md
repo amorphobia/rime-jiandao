@@ -108,7 +108,7 @@
 
 ## 4. buchong（补充）
 
-原位于 chaojizici 中的多音节汉字及「橒」字放入此码表
+原位于 chaojizici 中的多音节汉字~~及「橒」字~~放入此码表（「橒」字已移入 danzi）
 
 ## 5. chaojizici（超级字词）
 
