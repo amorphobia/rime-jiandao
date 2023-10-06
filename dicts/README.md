@@ -21,6 +21,7 @@
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
+- 将可类推简化的繁体字改为简体字，需用繁体时，可使用简繁转换
 
 ## 2. cizu（词组）
 
