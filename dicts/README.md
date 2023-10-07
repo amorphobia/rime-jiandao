@@ -18,6 +18,7 @@
 - 「脎」字简码再减一码（原为空码）
 - 根据 [Issue 2](https://github.com/amorphobia/rime-jiandao/issues/2) 修正了多个单字简码（含 chaojizici 中的字）
 - 修改「蟷」为其简体形式「𬠅（⿰虫当）」（同时修改 cizu 中对应条目），如同「㞞」收录简体形式「𪨊（⿸尸从）」
+- 修正了「僰」字错误全码
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
