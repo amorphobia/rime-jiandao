@@ -24,6 +24,10 @@
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
 - 将可类推简化的繁体字改为简体字，需用繁体时，可使用简繁转换
 
+### 调整字序
+
+- 修改了「虻」「蠓」「幪」「蟒」「㠓」在 `mr` 这个声码下的顺序；修改前「蟒」「㠓」两字从未排过首位，修改后仅「蟒」字未排过首位
+
 ## 2. cizu（词组）
 
 在 `cizu_raw.txt` 中做了如下改动
