@@ -14462,7 +14462,9 @@
 镡	xbiovi
 信	xbiovv
 心	xbo
+䜣	xboa
 心	xboaoo
+䜣	xboauu
 昕	xboi
 昕	xboiuu
 忻	xboo
