@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.1.5
+version: v6.1.6
 sort: original
 ...
 不	b
@@ -482,7 +482,7 @@ sort: original
 僰	blvi
 欂	blvii
 欂	blviia
-僰	blvivi
+僰	blviii
 柏	blvu
 礴	blvui
 柏	blvuia
@@ -9594,14 +9594,15 @@ sort: original
 孟	mraiia
 濛	mraiio
 蒙	mri
-虻	mria
+蠓	mria
 蜢	mriaa
 蜢	mriaai
-蠓	mriai
-幪	mriaii
-蟒	mriaii
+幪	mriai
 㠓	mriaii
+蟒	mriaii
 蠓	mriaii
+幪	mriaii
+虻	mriao
 虻	mriaov
 萌	mrii
 瞢	mriii
@@ -9741,8 +9742,8 @@ sort: original
 矛	mzaoai
 瞀	mzaoi
 蝥	mzaoia
-瞀	mzaoia
 蟊	mzaoia
+瞀	mzaoia
 泖	mzau
 泖	mzauau
 冒	mzi
@@ -14468,7 +14469,9 @@ sort: original
 镡	xbiovi
 信	xbiovv
 心	xbo
+䜣	xboa
 心	xboaoo
+䜣	xboauu
 昕	xboi
 昕	xboiuu
 忻	xboo
@@ -16277,8 +16280,8 @@ sort: original
 盈	yga
 缨	ygaa
 缨	ygaaao
-瀴	ygaao
-瀴	ygaaoa
+𰜳	ygaao
+𰜳	ygaaoa
 滢	ygai
 潆	ygaii
 溁	ygaiio
@@ -17141,6 +17144,7 @@ sort: original
 耘	ywvv
 云	ywvvao
 韫	ywvvo
+橒	ywvvoa
 运	ywvvoa
 韫	ywvvoi
 耘	ywvvvv
@@ -28449,7 +28453,6 @@ sort: original
 读书笔记	debj
 德比	debk
 滴水不漏	debl
-的本	debn
 德邦	debp
 的吧	debs
 大事不糊涂	debt
@@ -28583,7 +28586,6 @@ sort: original
 得来	delh
 的路	delj
 电视连续剧	delji
-的卢	delju
 得力	delk
 得利	delku
 德里	delkui
@@ -30349,6 +30351,7 @@ sort: original
 底部	dkbjo
 抵拨	dkbl
 底边	dkbm
+的本	dkbn
 地磅	dkbp
 第八	dkbs
 堤坝	dkbsv
@@ -30576,6 +30579,7 @@ sort: original
 抵赖	dklh
 抵抗力	dkli
 地炉	dklj
+的卢	dklju
 地理	dklk
 地里	dklkv
 地利	dklkvu
@@ -60146,6 +60150,7 @@ sort: original
 画风	hqfr
 话锋	hqfro
 画法	hqfs
+花札	hqfsi
 划转	hqft
 花费	hqfw
 化肥	hqfwi
@@ -60275,7 +60280,6 @@ sort: original
 话路	hqlj
 华丽	hqlk
 华里	hqlki
-花札	hqlkiv
 画里	hqlkv
 滑落	hqll
 花落	hqlli
@@ -129829,7 +129833,7 @@ sort: original
 应验	ygyf
 鹰眼	ygyfo
 盈盈	ygyg
-瀴瀴	ygyga
+𰜳𰜳	ygyga
 英英	ygygi
 嘤嘤	ygygo
 一个一个	ygygv
@@ -139419,8 +139423,6 @@ https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
 兛	qmkeuo
 粁	qmmkou
 瓩	qmwsva
-# 其他
-橒	ywvvoa
 不能	ba
 班级	baa
 不了	bai
