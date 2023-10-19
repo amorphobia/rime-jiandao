@@ -85,6 +85,35 @@
 - 「竖勾」改为「竖钩」，词典解释：钩，汉字的笔画，附在横、竖等笔画的末端，成钩形
 - 「浮赢」改为「浮盈」
 
+#### 「窜」「蹿」混用的问题
+
+两字在《现代汉语词典》的释义如下
+
+<details>
+<summary>窜</summary>
+
+1. 乱跑；乱逃（用于匪徒、敌军、兽类等）：<details style="display: inline"><summary></summary>流～｜抱头鼠～｜一眨眼的工夫，这孩子又～到哪<small>儿</small>去了？</details>
+2. 〈书〉放逐；驱逐。
+3. 改动（文字）：<details style="display: inline"><summary></summary>～改｜点～。</details>
+
+</details>
+
+<details>
+<summary>蹿</summary>
+
+1. 向上或向前跳：<details style="display: inline"><summary></summary>身子往上一～把球接住｜猫～到树上去了｜他一下子～得很远。</details>
+2. 〈方〉喷射：<details style="display: inline"><summary></summary>鼻子～血。</details>
+
+</details>
+
+根据释义及《现代汉语词典》中的词条，修正相关词条如下（带星号为词典中收录的词条）
+
+|原词|修正后|
+|---|---|
+|窜升|蹿升*|
+|窜红|蹿红*|
+|窜稀|蹿稀|
+
 ### 飞键问题
 
 - 「病兆」缺失 `bgqz` 音码补全，原有的「并找」删除
