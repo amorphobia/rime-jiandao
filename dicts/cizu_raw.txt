@@ -44675,7 +44675,6 @@
 豪车	hzje	ov	899
 好馋	hzjf	au	1000
 好景	hzjg	ao	1000
-好觉	hzjh	ao	1000
 好处	hzjj	au	1000
 好记	hzjk	ao	1000
 好几	hzjk	au	899
