@@ -16545,6 +16545,8 @@
 燚	ykouo
 义	ykouoo
 燚	ykouou
+鹢	ykouu
+鹢	ykouua
 衣	ykov
 咦	ykova
 翊	ykovao
@@ -16584,8 +16586,6 @@
 刈	ykuoi
 刈	ykuoii
 乂	ykuoo
-鹢	ykuou
-鹢	ykuoua
 臆	ykuovo
 役	ykuu
 舣	ykuuo
