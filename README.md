@@ -30,7 +30,9 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 
 需要修改为你自己的对应文件名，也可省略选项。生成的方案在 `schema` 目录中。
 
-### 3. 使用 PowerShell 命令安装（小狼毫）
+### 3. 不同平台的安装脚本 / 快捷指令
+
+#### 小狼毫：PowerShell 小工具
 
 在 PowerShell 中执行以下命令，然后按照提示安装即可。
 
@@ -39,6 +41,14 @@ irm 0xa.nl/get-jd-win | iex
 ```
 
 如果遇到错误，运行一次 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` 再试。
+
+也可以先从此仓库（[GitHub](https://github.com/amorphobia/rime-jiandao/raw/master/scripts/installer.ps1), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/installer.ps1)）下载小工具，然后右键点击、选择 PowerShell 运行。
+
+#### 仓输入法：快捷指令
+
+<a href="https://www.icloud.com/shortcuts/9693e333230041469c54a65f2558b5cc" style="display: inline-block; overflow: hidden; border-radius: 12%; width: 250px; height: 169px;"><img src="img/shortcut.png" alt="获取快捷指令" style="width: 250px; height: 169px; border-radius: 12%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+
+在 iOS / iPadOS 上点击即可下载快捷指令，或者在其他地方点从此仓库（[GitHub](https://github.com/amorphobia/rime-jiandao/raw/master/scripts/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.shortcut), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.shortcut)）下载，并分享给 iOS / iPadOS 并打开。
 
 ### 4. 下载 Zip 包
 
