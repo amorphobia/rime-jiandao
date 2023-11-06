@@ -46,7 +46,7 @@ irm 0xa.nl/get-jd-win | iex
 
 #### 仓输入法：快捷指令
 
-<a href="https://www.icloud.com/shortcuts/9693e333230041469c54a65f2558b5cc" style="display: inline-block; overflow: hidden; border-radius: 12%; width: 250px; height: 169px;"><img src="img/shortcut.png" alt="获取快捷指令" style="width: 250px; height: 169px; border-radius: 12%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="https://www.icloud.com/shortcuts/a4417bdc90c44f4aae021e7b176ee25d" style="display: inline-block; overflow: hidden; width: 250px; height: 87px;"><img src="img/shortcut.png" alt="获取快捷指令" style="width: 250px; height: 87px; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 在 iOS / iPadOS 上点击即可下载快捷指令，或者在其他地方点从此仓库（[GitHub](https://github.com/amorphobia/rime-jiandao/raw/master/scripts/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.shortcut), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.shortcut)）下载，并分享给 iOS / iPadOS 并打开。
 
