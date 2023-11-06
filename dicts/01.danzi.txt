@@ -5584,6 +5584,8 @@
 吽	hyouvv
 哄	hyov
 哄	hyovii
+吰	hyovu
+吰	hyovua
 竑	hyovv
 竑	hyovvu
 訇	hyu
@@ -7010,6 +7012,8 @@
 宬	jroo
 憕	jrooa
 憕	jrooao
+噌	jroou
+噌	jroouv
 宬	jroovu
 逞	jrov
 逞	jrovoa
