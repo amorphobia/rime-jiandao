@@ -32,9 +32,9 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 
 ### 3. 不同平台的安装脚本 / 快捷指令
 
-#### 小狼毫：PowerShell 小工具
+#### 小狼毫：PowerShell 小工具（内含于批处理脚本中）
 
-在 PowerShell 中执行以下命令，然后按照提示安装即可。
+在 PowerShell 中执行以下命令，然后按照提示安装即可，或者将批处理脚本（[GitHub](https://raw.githubusercontent.com/amorphobia/rime-jiandao/master/scripts/installer.bat), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/installer.bat)）下载到本地运行。
 
 ```PowerShell
 irm 0xa.nl/get-jd-win | iex
