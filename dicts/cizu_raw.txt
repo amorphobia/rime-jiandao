@@ -66716,7 +66716,6 @@
 马路边	mlb	aoa	1000
 末班	mlbf	vv	1000
 魔板	mlbf	ov	899
-模版	mlbf	vu	898
 膜拜	mlbh	ui	1000
 陌拜	mlbh	ai	899
 墨白	mlbh	iu	898
