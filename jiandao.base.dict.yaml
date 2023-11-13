@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.1.7
+version: v6.1.8
 sort: original
 ...
 不	b
@@ -5591,6 +5591,8 @@ sort: original
 吽	hyouvv
 哄	hyov
 哄	hyovii
+吰	hyovu
+吰	hyovua
 竑	hyovv
 竑	hyovvu
 訇	hyu
@@ -7017,6 +7019,8 @@ sort: original
 宬	jroo
 憕	jrooa
 憕	jrooao
+噌	jroou
+噌	jroouv
 宬	jroovu
 逞	jrov
 逞	jrovoa
@@ -26548,7 +26552,6 @@ sort: original
 曾荣获	crh
 曾和	crhe
 曾获	crhl
-噌吰	crhy
 蹭车	crje
 曾经	crjg
 层出	crjj
@@ -70259,6 +70262,7 @@ sort: original
 橙黄	jrhx
 城隍	jrhxv
 橙红	jrhy
+噌吰	jrhyo
 称号	jrhz
 乘号	jrhzu
 金融界	jrj
@@ -84444,7 +84448,6 @@ sort: original
 马路边	mlb
 末班	mlbf
 魔板	mlbfo
-模版	mlbfv
 膜拜	mlbh
 陌拜	mlbha
 墨白	mlbhi
