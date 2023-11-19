@@ -53394,7 +53394,6 @@
 倦鸟	jtnc	iu	1000
 具体内容	jtnr	ii	1000
 吉他谱	jtp	vio	1000
-吉它谱	jtp	voo	899
 惊涛拍岸	jtpx	oa	1000
 几天前	jtq	uvo	1000
 监听器	jtq	ioo	899
