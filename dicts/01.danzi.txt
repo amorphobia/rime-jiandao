@@ -5135,6 +5135,7 @@
 忽	hjuaoa
 斛	hjuaoo
 狐	hjuau
+㺀	hjuaua
 猢	hjuauo
 狐	hjuauu
 鹕	hjuo
@@ -8641,6 +8642,8 @@
 旅	llovuv
 律	llu
 猡	llua
+𤝽	lluaa
+𤝽	lluaav
 雒	lluai
 猡	lluaia
 雒	lluaio
@@ -8730,7 +8733,9 @@
 琏	lmvvva
 瑓	lmvvvi
 浪	lp
+嫏	lpa
 浪	lpaoav
+嫏	lpauoa
 螂	lpi
 崀	lpia
 崀	lpiaoa
@@ -8742,7 +8747,9 @@
 莨	lpiioa
 蓢	lpiioa
 锒	lpio
+𨱍	lpioo
 锒	lpiooa
+𨱍	lpiooa
 朗	lpo
 郎	lpoa
 郎	lpoaai
@@ -8773,6 +8780,8 @@
 榔	lpvoav
 埌	lpvoo
 埌	lpvooa
+硠	lpvu
+硠	lpvuoa
 琅	lpvvoa
 刘	lq
 流	lqa
