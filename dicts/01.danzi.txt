@@ -2100,6 +2100,7 @@
 舍	eei
 蛇	eeia
 虵	eeiaa
+虵	eeiaai
 蛇	eeiaoo
 𪨶	eeiav
 𪨶	eeiavu
@@ -11513,6 +11514,7 @@
 其	qkviuo
 期	qkviuu
 碁	qkviv
+碁	qkvivu
 圻	qkvo
 起	qkvoav
 圻	qkvouu
@@ -13325,6 +13327,7 @@
 田	tmi
 畋	tmia
 觍	tmiai
+觍	tmiaia
 畋	tmiauv
 田	tmiavi
 佃	tmii
