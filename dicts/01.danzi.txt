@@ -768,6 +768,8 @@
 鞁	bwvia
 鞁	bwviai
 鞴	bwvivi
+棓	bwvo
+棓	bwvovo
 碑	bwvu
 椑	bwvui
 椑	bwvuia
@@ -3948,7 +3950,7 @@
 癸	gbaovv
 妫	gbau
 氿	gbaua
-氿	gbauau
+氿	gbauaa
 妫	gbauou
 姽	gbauu
 姽	gbauua
@@ -3961,7 +3963,9 @@
 眭	gbiav
 眭	gbiavo
 傀	gbiu
+佹	gbiua
 归	gbiuav
+佹	gbiuav
 傀	gbiuia
 刽	gbiv
 郐	gbiva
@@ -3987,12 +3991,16 @@
 庋	gbovuo
 鬼	gbu
 龟	gbua
+𮬝	gbuai
 龟	gbuaia
+𮬝	gbuaia
 鲑	gbuav
 鲑	gbuavo
 鳜	gbuavu
 皈	gbui
 鬼	gbuiao
+𣪕	gbuiu
+𣪕	gbuiua
 皈	gbuiuu
 攰	gbuo
 攰	gbuoua
@@ -4008,6 +4016,8 @@
 圭	gbvo
 邽	gbvoa
 邽	gbvoai
+垝	gbvou
+垝	gbvoua
 圭	gbvovo
 硅	gbvu
 硅	gbvuvo
@@ -4037,7 +4047,9 @@
 岣	gdia
 岣	gdiaua
 苟	gdii
+芶	gdiiu
 苟	gdiiua
+芶	gdiiua
 钩	gdioua
 佝	gdiu
 佝	gdiuao
@@ -4071,7 +4083,9 @@
 构	gdvuaa
 枸	gdvuao
 觏	gdvv
+冓	gdvvi
 觏	gdvvia
+冓	gdvvia
 遘	gdvvo
 遘	gdvvoa
 各	ge
@@ -4349,6 +4363,10 @@
 𬇹	glai
 𬇹	glaiav
 涡	glaoia
+㶁	glau
+㶁	glauoo
+𭚦	glav
+𭚦	glavov
 国	gli
 果	glia
 帼	gliai
@@ -12894,6 +12912,8 @@
 颓	tbuvvu
 忒	tbv
 忒	tbvoao
+𪨇	tbvu
+𪨇	tbvuia
 条	tc
 迢	tca
 粜	tcai
@@ -16598,6 +16618,7 @@
 苡	ykiia
 艺	ykiiaa
 苡	ykiiao
+苢	ykiiav
 薏	ykiio
 薏	ykiiov
 艾	ykiiu
@@ -16605,6 +16626,7 @@
 荑	ykiiv
 荑	ykiiva
 𬟁	ykiivo
+蓺	ykiivo
 仪	ykio
 钇	ykioa
 钇	ykioaa
