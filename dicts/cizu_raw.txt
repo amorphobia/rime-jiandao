@@ -46338,7 +46338,6 @@
 解构	jdgd	uv	899
 借个	jdge	ii	1000
 秸秆	jdgf	uu	1000
-桔杆	jdgf	vv	899
 揭盖	jdgh	io	1000
 解雇	jdgj	uo	1000
 借故	jdgj	iu	899
