@@ -4906,7 +4906,10 @@
 荷	heii
 菏	heiia
 菏	heiiav
+蠚	heiiia
 荷	heiiiv
+佫	heiu
+佫	heiuao
 盒	heiv
 郃	heiva
 郃	heivai
@@ -4923,7 +4926,10 @@
 鹤	heoa
 褐	heoao
 褐	heoaoi
+𰵝	heoau
 鹤	heoaua
+隺	heoaui
+𰵝	heoauv
 诃	heoav
 诃	heoavo
 嗬	heoi
@@ -4935,7 +4941,9 @@
 曷	heoiua
 阖	heoiv
 阖	heoivo
+愒	heoo
 喝	heooiu
+愒	heoooi
 熇	heou
 熇	heouov
 呵	heov
@@ -4947,6 +4955,8 @@
 禾	heu
 饸	heua
 饸	heuaiv
+猲	heuao
+猲	heuaoi
 貉	heuo
 貉	heuoua
 盉	heuv
@@ -5266,9 +5276,9 @@
 蟥	hmiavi
 荒	hmiiov
 锽	hmio
-𨱑	hmioi
-𨱑	hmioii
 锽	hmioui
+𨱑	hmiov
+𨱑	hmiovi
 慌	hmo
 谎	hmoa
 谎	hmoaii
@@ -5292,10 +5302,12 @@
 皇	hmu
 凰	hmua
 鳇	hmuau
+𫗮	hmuaui
 凰	hmuaui
 鳇	hmuaui
 遑	hmui
 㿠	hmuii
+皝	hmuiio
 㿠	hmuiio
 遑	hmuioa
 皇	hmuivv
@@ -5309,6 +5321,8 @@
 簧	hmuvvi
 磺	hmv
 黄	hmviia
+榥	hmvo
+榥	hmvoii
 磺	hmvuvi
 璜	hmvv
 瑝	hmvvu
@@ -5554,9 +5568,9 @@
 蟥	hxiavi
 荒	hxiiov
 锽	hxio
-𨱑	hxioi
-𨱑	hxioii
 锽	hxioui
+𨱑	hxiov
+𨱑	hxiovi
 慌	hxo
 谎	hxoa
 谎	hxoaii
@@ -5578,10 +5592,12 @@
 皇	hxu
 凰	hxua
 鳇	hxuau
+𫗮	hxuaui
 凰	hxuaui
 鳇	hxuaui
 遑	hxui
 㿠	hxuii
+皝	hxuiio
 㿠	hxuiio
 遑	hxuioa
 皇	hxuivv
@@ -5595,6 +5611,8 @@
 簧	hxuvvi
 磺	hxv
 黄	hxviia
+榥	hxvo
+榥	hxvoii
 磺	hxvuvi
 璜	hxvv
 瑝	hxvvu
@@ -7671,6 +7689,8 @@
 慨	khooav
 恺	khooi
 恺	khooia
+愒	khooo
+愒	khoooi
 忾	khoouv
 炌	khou
 炌	khouiu
@@ -11477,6 +11497,8 @@
 踦	qkoiv
 踦	qkoivu
 器	qkoo
+愒	qkooo
+愒	qkoooi
 愭	qkoou
 愭	qkoouo
 器	qkoovu
@@ -11864,6 +11886,8 @@
 胀	qpu
 獐	qpua
 獐	qpuaov
+𫗠	qpuau
+𫗠	qpuauv
 胀	qpuuva
 长	qpuv
 长	qpuvao
@@ -14822,6 +14846,7 @@
 蟹	xduaia
 邂	xduao
 邂	xduaoa
+猲	xduaoi
 獬	xduau
 獬	xduaua
 胁	xduauo
