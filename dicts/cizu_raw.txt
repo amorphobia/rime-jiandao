@@ -1734,8 +1734,8 @@
 报告文学	bgwx	iu	899
 病虫	bgwy	oi	1000
 冰超	bgwz	ov	1000
-不高兴	bgx	voo	1000	2	首选
-不敢想	bgx	vav	1000	1	次选
+不高兴	bgx	voo	1000
+不敢想	bgx	vav	900
 北关厢	bgx	iov	898
 不甘心	bgx	vvo	897
 冰心	bgxb	oo	1000
@@ -29699,7 +29699,6 @@
 法定	fsdg	ao	1000
 发呆	fsdh	ao	1000
 发带	fsdh	av	899
-轧带	fsdh	vv	898
 法度	fsdj	ao	1000
 发地	fsdk	av	1000
 炸堤	fsdk	ov	899
@@ -120389,6 +120388,7 @@
 杂豆	zsdd	uv	1000
 咋的	zsde	ou	1000
 砸蛋	zsdf	va	1000
+轧带	zsdh	vv	1000
 咋地	zsdk	ov	1000
 杂多	zsdl	uu	1000
 砸断	zsdt	vo	1000
