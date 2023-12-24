@@ -24,6 +24,7 @@
 - 分别增加了词组「噌吰」两字缺失的单字编码
 - 「衎」全码笔画错误，第二笔应为 `u`
 - 「琎」字全码笔画错误，末笔应为 `v`
+- 「斠」字笔画错误，由 `iioo` 改为 `vvoo`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi

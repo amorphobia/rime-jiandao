@@ -5839,7 +5839,6 @@
 蕉	jciiio
 茭	jciio
 藠	jciioi
-斠	jciioo
 僬	jciiov
 茭	jciiov
 艽	jciiu
@@ -5913,6 +5912,8 @@
 礁	jcvu
 礁	jcvuio
 璬	jcvv
+斠	jcvvo
+斠	jcvvoo
 璬	jcvvui
 接	jd
 姐	jda
