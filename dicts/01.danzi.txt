@@ -1152,6 +1152,8 @@
 葱	cyiiua
 丛	cyiivv
 悰	cyo
+𰷥	cyooa
+𰷥	cyooao
 悰	cyoooo
 熜	cyou
 熜	cyouui
@@ -1355,6 +1357,8 @@
 赕	dfaoo
 赕	dfaoou
 淡	dfaoui
+𫎫	dfaov
+𫎫	dfaovi
 澹	dfau
 澹	dfauav
 弹	dfavou
@@ -5330,9 +5334,15 @@
 吭	hpo
 吭	hpoovu
 颃	hpov
+迒	hpovo
+迒	hpovoa
+亢	hpovu
+亢	hpovua
 颃	hpovvu
 航	hpu
+䘕	hpuu
 航	hpuuov
+䘕	hpuuov
 行	hpuuvv
 杭	hpv
 巷	hpvi
@@ -5777,7 +5787,7 @@
 琎	jbvvv
 瑨	jbvvvi
 瑾	jbvvvi
-琎	jbvvvu
+琎	jbvvvv
 禁	jbvvvv
 叫	jc
 缴	jca
@@ -10176,6 +10186,8 @@
 娜	nsauav
 那	nsavai
 拿	nsi
+𨚗	nsia
+𨚗	nsiaai
 𦰡	nsii
 𦰡	nsiiav
 钠	nsio
@@ -10843,6 +10855,8 @@
 裴	pwivov
 呸	pwo
 旆	pwov
+㾦	pwovo
+㾦	pwovov
 呸	pwovui
 旆	pwovuv
 胚	pwu
@@ -11155,6 +11169,8 @@
 清	qga
 𬘬	qgaa
 𬘬	qgaavv
+䞍	qgao
+䞍	qgaovv
 清	qgavvi
 倾	qgi
 蜻	qgia
@@ -12901,6 +12917,10 @@
 退	tbavoa
 蜕	tbi
 蜕	tbiaou
+蓷	tbii
+蓷	tbiiiu
+侻	tbio
+侻	tbiouo
 推	tbiuio
 褪	tbo
 褪	tboaav
@@ -12966,10 +12986,14 @@
 萜	tdiiia
 偷	tdiivu
 铁	tdio
+钭	tdioo
+钭	tdiooo
 铁	tdiouv
 投	tdiu
 投	tdiuua
+㪗	tdo
 头	tdoovu
+㪗	tdoviv
 透	tdu
 透	tduvoa
 餮	tdv
@@ -13269,6 +13293,8 @@
 佗	tlioo
 佗	tliooa
 铊	tliooo
+侻	tliou
+侻	tliouo
 侂	tliov
 侂	tliovu
 拓	tliu
@@ -13498,6 +13524,8 @@
 彖	ttaa
 彖	ttaavu
 湍	ttaiai
+𬇘	ttav
+𬇘	ttavva
 抟	tti
 疃	ttia
 圕	ttiaa
@@ -17158,6 +17186,7 @@
 媛	ytauuo
 嫄	ytauv
 嫄	ytauvu
+妧	ytauvv
 源	ytav
 源	ytavuu
 沅	ytavv
@@ -17203,6 +17232,8 @@
 猿	ytuavo
 爰	ytuo
 爰	ytuovv
+衏	ytuu
+衏	ytuuvv
 箢	ytuv
 箢	ytuvoo
 原	ytv
