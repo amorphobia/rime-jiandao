@@ -613,7 +613,7 @@
 谤	bpo
 谤	bpoaov
 𠳐	bpov
-𠳐	bpovvu
+𠳐	bpovvv
 膀	bpu
 膀	bpuovo
 邦	bpv
