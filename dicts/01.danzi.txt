@@ -3469,7 +3469,7 @@
 缴	flaaui
 淖	flai
 浊	flaiav
-淖	flaivi
+淖	flaivo
 浞	flao
 叕	flaoa
 叕	flaoao
@@ -10366,7 +10366,7 @@
 弄	nyvvvu
 闹	nz
 淖	nza
-淖	nzaivi
+淖	nzaivo
 挠	nzi
 蛲	nzia
 蛲	nziava
@@ -14244,7 +14244,7 @@
 渥	wlaav
 渥	wlaavu
 淖	wlai
-淖	wlaivi
+淖	wlaivo
 戳	wlao
 涡	wlaoi
 涡	wlaoia

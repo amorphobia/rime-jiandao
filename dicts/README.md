@@ -29,6 +29,7 @@
 - 「謦」字笔画错误，由 `uoov` 改为 `voov`
 - 「鋆」字笔画错误，由 `voiv` 改为 `voio`
 - 删除「猹」字 `zha` 的读音，此字为鲁迅生造，读作 `chá`，并非多音字
+- 修正「淖」字形码，由 `aivi` 改为 `aivo`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
