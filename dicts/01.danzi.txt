@@ -6045,6 +6045,8 @@
 接	jd
 姐	jda
 结	jdaa
+毑	jdaaa
+毑	jdaaai
 结	jdaavo
 阶	jdai
 岊	jdaii
@@ -7605,7 +7607,7 @@
 愧	kbooui
 窥	kboovv
 夔	kbou
-夔	kbouui
+夔	kbouua
 煃	kbouv
 煃	kbouvu
 喹	kbov
@@ -10463,6 +10465,8 @@
 垴	nzvoov
 硇	nzvu
 孬	nzvuau
+夒	nzvuu
+夒	nzvuua
 硇	nzvuui
 瑙	nzvv
 桡	nzvva
@@ -15294,12 +15298,16 @@
 型	xgvvvo
 学	xh
 隘	xha
+𫘤	xhaa
+𫘤	xhaaao
 𬮿	xhai
 𬮿	xhaiia
 隘	xhaiou
 欸	xhao
 欸	xhaoua
 嫒	xhau
+娭	xhaua
+娭	xhauao
 嫒	xhauuo
 彐	xhav
 彐	xhavvv
@@ -15308,8 +15316,10 @@
 蔼	xhiio
 蔼	xhiioa
 茓	xhiioo
+𫉁	xhiiu
 薛	xhiiui
 艾	xhiiuo
+𫉁	xhiiuo
 削	xhio
 削	xhioii
 锿	xhioo
@@ -15318,6 +15328,7 @@
 挨	xhiuao
 踅	xhiuo
 踅	xhiuoi
+𫣊	xhiuoo
 捱	xhiuv
 捱	xhiuvu
 哀	xho
@@ -15356,6 +15367,8 @@
 矮	xhuv
 矮	xhuvuv
 雪	xhv
+㤅	xhva
+㤅	xhvaoa
 靴	xhvi
 靴	xhviiu
 埃	xhvo
@@ -15427,6 +15440,7 @@
 习	xkaovv
 洗	xkau
 汐	xkaua
+娭	xkauao
 汐	xkauao
 潟	xkaui
 潟	xkauiv
@@ -15856,7 +15870,11 @@
 盎	xpiaia
 昂	xpoiua
 肮	xpu
+卬	xpua
+卬	xpuaai
 肮	xpuovu
+枊	xpv
+枊	xpvuaa
 修	xq
 绣	xqa
 绣	xqaauv
@@ -15943,6 +15961,8 @@
 瘕	xsova
 瘕	xsovav
 吓	xsovio
+呵	xsovo
+呵	xsovoi
 嗄	xsovu
 嗄	xsovui
 狭	xsu

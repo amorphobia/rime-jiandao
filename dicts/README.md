@@ -34,6 +34,7 @@
 - 「榖」字笔画错误，由 `uoua` 改为 `voua`
 - 「瀔」字笔画错误，由 `auov` 改为 `avoo`
 - 「臌」字笔画错误，由 `uvov` 改为 `uvoo`
+- 依据小篆字形，「夔」字拆为「⿳䒑⿲止自巳八」+「夂」更为合理，形码由 `ouui` 改为 `ouua`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
