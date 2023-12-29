@@ -6652,6 +6652,7 @@
 济	jkaovu
 激	jkau
 汲	jkaua
+㴔	jkauaa
 漈	jkauao
 汲	jkauao
 洎	jkaui
@@ -6660,10 +6661,10 @@
 嫉	jkauo
 嫉	jkauov
 妓	jkauu
-姞	jkauuo
 妓	jkauuo
 姬	jkauv
 姬	jkauvi
+姞	jkauvo
 己	jkav
 己	jkavaa
 即	jkavai
@@ -6676,9 +6677,12 @@
 彐	jkavv
 既	jkavva
 堲	jkavvo
+塈	jkavvo
 彐	jkavvv
 技	jki
 畸	jkia
+㚻	jkiaa
+㚻	jkiaau
 觊	jkiai
 觊	jkiaia
 嵴	jkiao
@@ -6730,6 +6734,8 @@
 计	jkoa
 记	jkoaav
 讥	jkoau
+𥘌	jkoaua
+㧀	jkoaua
 讥	jkoaua
 计	jkoauo
 诘	jkoav
@@ -6739,13 +6745,16 @@
 跻	jkoi
 跽	jkoia
 跽	jkoiav
+蹐	jkoio
 跻	jkoiov
-蹐	jkoiu
-蹐	jkoiuo
+蹐	jkoiov
+踖	jkoiv
+踖	jkoivi
 寄	jkoo
 寂	jkooi
 寂	jkooiv
 悸	jkoou
+忣	jkooua
 悸	jkoouv
 哜	jkoov
 哜	jkoovu
@@ -6764,6 +6773,7 @@
 脊	jkovu
 麂	jkovua
 鹡	jkovua
+齐	jkovui
 脊	jkovuu
 疾	jkovuv
 几	jku
@@ -6795,6 +6805,7 @@
 积	jkuv
 季	jkuva
 季	jkuvai
+穊	jkuvav
 稷	jkuvi
 稷	jkuvia
 积	jkuvou
@@ -6814,9 +6825,12 @@
 檵	jkvaao
 辑	jkvaov
 基	jkvi
+革	jkvii
+革	jkviia
 惎	jkvio
 惎	jkvioa
 期	jkviu
+𩉜	jkviua
 其	jkviuo
 期	jkviuu
 棘	jkviv
@@ -9696,6 +9710,7 @@
 埋	mhvoia
 売	mhvou
 売	mhvoua
+霡	mhvouo
 霾	mhvouo
 麦	mhvv
 麦	mhvvua
@@ -9716,6 +9731,8 @@
 沐	mjavv
 幕	mji
 睦	mjia
+㟂	mjiaa
+㟂	mjiaaa
 睦	mjiavo
 目	mjiavv
 墓	mjii
@@ -9739,6 +9756,8 @@
 亩	mjo
 𧿹	mjoi
 𧿹	mjoiaa
+𠺖	mjoo
+𠺖	mjoovi
 亩	mjovia
 牧	mju
 穆	mjuv
@@ -9752,7 +9771,9 @@
 模	mjvi
 模	mjviio
 坶	mjvo
+霂	mjvoa
 坶	mjvoaa
+霂	mjvoav
 木	mjvv
 米	mk
 弥	mka
@@ -10366,6 +10387,8 @@
 砮	njauv
 砮	njauvu
 傉	nji
+㚢	njia
+㚢	njiauv
 傉	njivuv
 笯	nju
 笯	njuvau
