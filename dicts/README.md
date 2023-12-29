@@ -38,6 +38,8 @@
 - 「洄」字笔画错误，由 `aiav` 改为 `aiao`
 - 「叚」字笔画错误，由 `aviv` 改为 `avav`
 - 「澼」字笔画错误，由 `aauo` 改为 `aavu`
+- 补充「𫛭」字缺少的飞键 `km`
+- 「麀」字拆字错误，由 `ovai` 改为 `ovua`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
