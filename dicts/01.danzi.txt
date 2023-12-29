@@ -10144,9 +10144,7 @@
 美	mwouvu
 糜	mwov
 槑	mwovo
-槑	mwovo
 糜	mwovou
-槑	mwovov
 槑	mwovov
 魅	mwu
 猸	mwua
@@ -10956,7 +10954,6 @@
 毗	pkiav
 蚍	pkiava
 毗	pkiava
-蚍	pkiava
 罢	pkiavo
 僻	pkiavu
 芘	pkii
@@ -13772,8 +13769,6 @@
 跅	tloiu
 跅	tloiuu
 鼍	tloo
-鼍	tloo
-鼍	tloooi
 鼍	tloooi
 唾	tlouvi
 庹	tlov
