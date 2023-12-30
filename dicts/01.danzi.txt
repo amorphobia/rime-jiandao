@@ -125,8 +125,8 @@
 半	bfo
 昄	bfoi
 昄	bfoiuu
-粄	bfoo
-粄	bfoouu
+粄	bfou
+粄	bfouuu
 半	bfouvv
 瓣	bfov
 𨭉	bfovi
