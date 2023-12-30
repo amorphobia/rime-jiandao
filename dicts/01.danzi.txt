@@ -10973,8 +10973,8 @@
 劈	pkava
 劈	pkavau
 譬	pkavo
-譬	pkavov
 辟	pkavov
+譬	pkavov
 䴙	pkavu
 䴙	pkavua
 屁	pkavv
