@@ -9993,8 +9993,8 @@
 勔	mmvu
 勔	mmvuau
 䩄	mmvui
-棉	mmvuia
 面	mmvuia
+棉	mmvuia
 䩄	mmvuia
 们	mn
 懑	mna
