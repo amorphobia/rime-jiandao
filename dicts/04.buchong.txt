@@ -267,6 +267,7 @@
 兡	bhkeuo
 兙	ekkeuo
 兝	gyfnuo
+浬	hhlkai
 兞	hzkeuo
 嗧	jslwau
 兣	lkkeuo
@@ -275,3 +276,4 @@
 粁	qmmkou
 瓩	qmwsva
 𠺖	ygmjoo
+呎	ygwkoa
