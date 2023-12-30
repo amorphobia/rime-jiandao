@@ -3135,7 +3135,7 @@
 摘	fhi
 侧	fhia
 侧	fhiaoi
-择	fhiua
+择	fhiu
 择	fhiuao
 摘	fhiuov
 债	fhiv
@@ -5050,6 +5050,7 @@
 灰	hbvuou
 硊	hbvuu
 硊	hbvuua
+豗	hbvuv
 豗	hbvuvu
 慧	hbvv
 彗	hbvva
@@ -5394,9 +5395,10 @@
 胡	hjuouu
 乎	hjuouv
 和	hjuvoo
-鹄	hjuvu
-笏	hjuvua
+鹄	hjuv
+笏	hjuvu
 鹄	hjuvua
+笏	hjuvua
 互	hjv
 轷	hjva
 互	hjvaav
@@ -8652,7 +8654,7 @@
 铼	lhiovo
 掠	lhiu
 掠	lhiuov
-俫	lhivo
+俫	lhiv
 俫	lhivou
 癞	lho
 癞	lhovvi
@@ -9878,10 +9880,10 @@
 陌	mlai
 漠	mlaiio
 陌	mlaivu
+嬷	mlau
 没	mlauaa
 嫫	mlaui
 嫫	mlauii
-嬷	mlauo
 嬷	mlauov
 沫	mlav
 沫	mlavvi
@@ -10853,6 +10855,7 @@
 坪	pgv
 平	pgvouv
 坪	pgvovo
+砯	pgvu
 砯	pgvuao
 枰	pgvv
 枰	pgvvou
@@ -11533,8 +11536,9 @@
 䗪	qeovi
 䗪	qeovia
 戢	qeovii
-这	qeovoa
+这	qeovo
 遮	qeovoa
+这	qeovoa
 鹧	qeovua
 者	qeu
 者	qeuooi
@@ -15946,6 +15950,7 @@
 熹	xkvooo
 赩	xkvou
 赩	xkvoua
+囍	xkvov
 囍	xkvovo
 析	xkvu
 檄	xkvui
