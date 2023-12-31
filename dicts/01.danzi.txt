@@ -602,8 +602,8 @@
 扁	bmoa
 扁	bmoaia
 褊	bmoao
-褊	bmoaoa
 遍	bmoaoa
+褊	bmoaoa
 昪	bmoi
 昪	bmoiao
 窆	bmoo
@@ -16013,10 +16013,10 @@
 鸸	xjvuua
 耏	xjvuuu
 贰	xjvv
-贰	xjvvao
 珥	xjvvv
 二	xjvvv
 弍	xjvvva
+贰	xjvvva
 珥	xjvvvi
 西	xk
 戏	xka
