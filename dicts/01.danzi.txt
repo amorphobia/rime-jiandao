@@ -806,7 +806,7 @@
 杯	bwv
 鞴	bwvi
 鞁	bwvia
-鞁	bwviai
+鞁	bwviau
 鞴	bwvivi
 棓	bwvo
 棓	bwvovo
