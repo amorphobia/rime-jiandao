@@ -5155,6 +5155,8 @@
 爟	gtouii
 关	gtouvv
 痯	gtov
+瘝	gtovi
+瘝	gtovia
 痯	gtovoo
 管	gtu
 馆	gtua
@@ -5774,8 +5776,8 @@
 唿	hjouau
 呼	hjouou
 糊	hjouu
-烀	hjouuo
 煳	hjouuo
+烀	hjouuo
 糊	hjouuo
 冱	hjov
 冱	hjovva
@@ -5786,6 +5788,7 @@
 鹱	hjuaii
 斛	hjuao
 忽	hjuaoa
+曶	hjuaoi
 斛	hjuaoo
 狐	hjuau
 㺀	hjuaua
@@ -11181,6 +11184,8 @@
 螵	pciavi
 薸	pcii
 薸	pciiav
+蔈	pciiv
+蔈	pciivi
 嘌	pco
 嘌	pcovia
 膘	pcu
@@ -11602,7 +11607,7 @@
 湓	pna
 湓	pnauoa
 喷	pno
-喷	pnouov
+喷	pnouoi
 盆	pnuoia
 旁	pp
 滂	ppa
