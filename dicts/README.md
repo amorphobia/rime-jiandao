@@ -55,6 +55,9 @@
 - 「僎」字笔画错误，由 `iaaa` 改为 `iava`
 - 「朏」字笔画错误，由 `uoai` 改为 `uaii`
 - 「涸」字笔画错误，由 `aiav` 改为 `aiau`
+- 「藠」字笔画错误，由 `iioi` 改为 `iiui`
+- 「劼」字笔画错误，由 `uoau` 改为 `voau`
+- 「儳」字笔画错误，由 `ioai` 改为 `iuao`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
