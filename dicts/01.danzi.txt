@@ -3593,6 +3593,8 @@
 腑	fjuovu
 釜	fjuovv
 腹	fjuu
+彿	fjuua
+彿	fjuuav
 腹	fjuuvo
 符	fjuv
 氟	fjuva
