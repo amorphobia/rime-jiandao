@@ -183,9 +183,9 @@
 并	bgouvv
 冰	bgov
 冰	bgovaa
-禀	bgovi
-禀	bgovia
+禀	bgovv
 病	bgovvi
+禀	bgovvv
 兵	bgu
 饼	bgua
 饼	bguaou
@@ -1609,9 +1609,8 @@
 𬊤	dfouo
 𬊤	dfouou
 疸	dfov
-亶	dfovi
-亶	dfovia
 瘅	dfovo
+亶	dfovoi
 疸	dfovoi
 瘅	dfovou
 丹	dfu
@@ -9581,7 +9580,9 @@
 珕	lkvva
 嫠	lkvvau
 珕	lkvvau
+釐	lkvvi
 理	lkvvia
+釐	lkvvia
 璃	lkvvov
 枥	lkvvu
 𬍛	lkvvua
