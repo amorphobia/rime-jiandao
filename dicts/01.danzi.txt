@@ -900,6 +900,8 @@
 桮	bwvvu
 杯	bwvvui
 桮	bwvvui
+𰻝	bxo
+𰻝	bxoooa
 报	bz
 剥	bza
 孢	bzai
