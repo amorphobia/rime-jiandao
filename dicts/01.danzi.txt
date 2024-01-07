@@ -10442,7 +10442,7 @@
 螟	mgiaoa
 茗	mgii
 蓂	mgiio
-蓂	mgiioa
+蓂	mgiioi
 茗	mgiiua
 铭	mgio
 铭	mgioua
@@ -10569,7 +10569,7 @@
 眯	mkiaou
 蘼	mkii
 蓂	mkiio
-蓂	mkiioa
+蓂	mkiioi
 䕷	mkiiov
 蘼	mkiiov
 芈	mkiv
