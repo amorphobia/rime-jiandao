@@ -66,6 +66,11 @@
 - 「录」字笔画错误，由 `avao` 改为 `avaa`
 - 「呇」字笔画错误，由 `aaoo` 改为 `aao`
 - 「𫑡」字笔画错误，由 `oaii` 改为 `oiai`
+- 「腻」字笔画错误，由 `uvvi` 改为 `uvvv`
+- 「杻」字笔画错误，由 `vavi` 改为 `vaiv`
+- 「峱」字笔画错误，由 `uaav` 改为 `uaai`
+- 「玭」字笔画错误，由 `vvvi` 改为 `vvva`
+- 「雱」字笔画错误，由 `viov` 改为 `voov`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
@@ -153,6 +158,7 @@
 - 「尿胞」改为「尿脬」，后者为正确写法
 - 「对的上」改为「对得上」
 - 「磕碜」改为「砢碜」
+- 删除「缏尸」
 
 #### 「窜」「蹿」混用的问题
 

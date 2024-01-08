@@ -4101,7 +4101,6 @@
 变数	bmej	oo	1000
 边属	bmej	aa	899
 便是	bmek	io	1000
-缏尸	bmek	aa	899
 便士	bmek	iv	898
 辨识	bmek	oo	897
 鞭尸	bmek	va	896
