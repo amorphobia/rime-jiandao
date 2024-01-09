@@ -73,6 +73,8 @@
 - 「雱」字笔画错误，由 `viov` 改为 `voov`
 - 「靬」字笔画错误，由 `vavv` 改为 `vivv`
 - 「泅」字笔画错误，由 `aiav` 改为 `aiai`
+- 「霨」字笔画错误，由 `viav` 改为 `voav`
+- 「嬬」字笔画错误，由 `auvi` 改为 `auvo`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi

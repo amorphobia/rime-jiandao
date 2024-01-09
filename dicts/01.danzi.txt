@@ -13668,7 +13668,9 @@
 宍	rdoo
 宍	rdooov
 糅	rdou
+煣	rdoua
 糅	rdouao
+煣	rdouao
 𬶧	rdu
 𬶧	rduaao
 鞣	rdv
@@ -13712,7 +13714,7 @@
 孺	rjaivo
 嬬	rjau
 如	rjauoo
-嬬	rjauvi
+嬬	rjauvo
 濡	rjav
 濡	rjavoa
 溽	rjavu
@@ -13803,6 +13805,8 @@
 饪	rnua
 饪	rnuauv
 稔	rnuv
+牣	rnuva
+牣	rnuvau
 稔	rnuvio
 壬	rnuviv
 韧	rnv
@@ -13821,7 +13825,9 @@
 嚷	rpo
 禳	rpoa
 让	rpoaiv
+𧟄	rpoao
 禳	rpoaov
+𧟄	rpoaov
 嚷	rpoovo
 瓤	rpov
 勷	rpova
@@ -13849,6 +13855,8 @@
 堧	rtv
 软	rtvaua
 堧	rtvovu
+耎	rtvu
+耎	rtvuvu
 瓀	rtvv
 瓀	rtvvvo
 润	rw
@@ -13861,7 +13869,9 @@
 溶	rya
 绒	ryaa
 绒	ryaavv
+𣭲	ryao
 溶	ryaooa
+𣭲	ryaouv
 荣	ryi
 嵘	ryia
 蝾	ryiai
@@ -13913,8 +13923,8 @@
 濉	sbaiav
 隧	sbaiou
 祟	sbaiv
-隋	sbaivu
 随	sbaivu
+隋	sbaivu
 祟	sbaivv
 尿	sbav
 尿	sbavaa
@@ -13982,8 +13992,8 @@
 廋	sdovui
 馊	sdu
 飕	sdua
-飕	sduaui
 馊	sduaui
+飕	sduaui
 叟	sdui
 叟	sduiao
 艘	sduu
@@ -14049,6 +14059,8 @@
 肃	sja
 骕	sjaa
 骕	sjaaav
+缩	sjaao
+缩	sjaaoo
 溯	sjao
 溯	sjaouv
 涑	sjav
@@ -14080,6 +14092,8 @@
 愫	sjoov
 愫	sjoovv
 塑	sjou
+愬	sjouo
+愬	sjouoa
 塑	sjouvo
 嗉	sjov
 嗉	sjovvi
@@ -14139,8 +14153,8 @@
 似	skiaoi
 俟	skiaou
 兕	skiau
-兕	skiaua
 四	skiaua
+兕	skiaua
 伺	skiav
 伺	skiavo
 佀	skii
@@ -14157,8 +14171,8 @@
 祠	skoa
 祀	skoaa
 咝	skoaaa
-祀	skoaav
 祠	skoaav
+祀	skoaav
 嗣	skoiav
 嘶	skov
 嘶	skovii
@@ -14208,7 +14222,13 @@
 蓑	slii
 莎	sliia
 莎	sliiai
+葰	sliii
+葰	sliiia
 蓑	sliiov
+𭕆	slio
+𬭲	slioa
+𬭲	slioaa
+𭕆	slioao
 锁	slioio
 些	sliv
 些	slivvv
@@ -14232,6 +14252,8 @@
 桫	slvaiu
 梭	slvaou
 琐	slvv
+璅	slvva
+璅	slvvaa
 琐	slvvio
 森	sn
 森	snvvvv
@@ -14255,7 +14277,9 @@
 洒	ssa
 挲	ssai
 挲	ssaiiu
+潵	ssav
 洒	ssavia
+潵	ssavii
 萨	ssi
 萨	ssiiai
 𢫬	ssiu
@@ -14276,7 +14300,9 @@
 蒜	stiivv
 狻	stu
 狻	stuaao
+筭	stuv
 算	stuvia
+筭	stuvvv
 酸	stv
 酸	stviao
 孙	sw
@@ -14294,7 +14320,9 @@
 狲	swuaai
 飧	swuai
 飧	swuaio
+簨	swuv
 笋	swuvav
+簨	swuvav
 榫	swv
 榫	swviov
 飱	swvu
@@ -14324,6 +14352,8 @@
 讼	syoau
 讼	syoauo
 忪	syoo
+𠳼	syooo
+𠳼	syoooa
 忪	syoouo
 悚	syoov
 悚	syoovi
@@ -16036,10 +16066,10 @@
 魏	wwuvui
 未	wwv
 軎	wwvi
-霨	wwvia
-霨	wwviav
 軎	wwvioo
 圩	wwvo
+霨	wwvoa
+霨	wwvoav
 圩	wwvovv
 威	wwvu
 桅	wwvua
@@ -18143,7 +18173,9 @@
 瑛	ygvv
 璎	ygvva
 璎	ygvvao
+𬎆	ygvvi
 瑛	ygvvii
+𬎆	ygvvii
 月	yh
 约	yha
 约	yhaaua
