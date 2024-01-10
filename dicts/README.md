@@ -78,6 +78,8 @@
 - 「哥」「歌」简码互换顺序
 - 「倓」字笔画错误，由 `ioou` 改为 `ioui`
 - 「梼」字笔画错误，由 `vvvu` 改为 `vvvv`
+- 「犨」字笔画错误，由 `iovu` 改为 `iouv`
+- 「侴」字笔画错误，由 `ivav` 改为 `ivai`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi
@@ -167,6 +169,7 @@
 - 「磕碜」改为「砢碜」
 - 删除「缏尸」
 - 「说的通」改为「说得通」
+- 「湿溚溚」改为「湿答答」
 
 #### 「窜」「蹿」混用的问题
 
