@@ -1768,8 +1768,8 @@
 督	djivia
 度	djo
 𮙋	djoa
+𮙋	djoaov
 读	djoauo
-𮙋	djoauo
 阇	djoi
 阇	djoiuo
 嘟	djou
@@ -1791,7 +1791,7 @@
 顿	djva
 顿	djvavu
 蠹	djvi
-蠹	djviia
+蠹	djvivu
 堵	djvo
 堵	djvouo
 椟	djvu
