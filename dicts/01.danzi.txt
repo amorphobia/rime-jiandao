@@ -4838,6 +4838,7 @@
 古	gjuooo
 谷	gjuooo
 辜	gjuoov
+鸪	gjuou
 鸪	gjuoua
 故	gjuouv
 股	gjuu
@@ -5803,8 +5804,8 @@
 鹕	hjuoua
 胡	hjuouu
 乎	hjuouv
-和	hjuvoo
 鹄	hjuv
+和	hjuvoo
 笏	hjuvu
 鹄	hjuvua
 笏	hjuvua
@@ -6808,8 +6809,9 @@
 镡	jfiov
 镡	jfiovi
 搀	jfiu
-儳	jfiuao
+儳	jfiua
 掺	jfiuao
+儳	jfiuao
 搀	jfiuua
 觇	jfiv
 觇	jfivia
@@ -7984,6 +7986,7 @@
 浃	jsav
 叚	jsava
 叚	jsavav
+浃	jsavo
 浃	jsavou
 假	jsi
 甲	jsia
@@ -11456,8 +11459,8 @@
 馁	nwuauo
 娘	nx
 嬢	nxa
-嬢	nxau
 娘	nxauoa
+嬢	nxauov
 酿	nxv
 酿	nxvioa
 弄	ny
@@ -11801,10 +11804,10 @@
 批	pk
 皮	pka
 纰	pkaa
-𬳵	pkaav
+澼	pkaav
 纰	pkaava
-澼	pkaavu
 𬳵	pkaavu
+澼	pkaavu
 淠	pkai
 陂	pkaia
 陂	pkaiau
@@ -12923,8 +12926,8 @@
 栖	qkvvia
 棋	qkvvii
 槭	qkvvu
-槭	qkvvui
 亓	qkvvui
+槭	qkvvui
 琦	qkvvv
 琪	qkvvvi
 𤪌	qkvvvi
@@ -18628,7 +18631,8 @@
 苡	ykiia
 艺	ykiiaa
 苡	ykiiao
-苢	ykiiav
+苢	ykiii
+苢	ykiiia
 薏	ykiio
 薏	ykiiov
 艾	ykiiu
