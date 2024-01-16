@@ -6947,10 +6947,10 @@
 璥	jgvvii
 璟	jgvvo
 璟	jgvvoi
-丼	jgvvoo
 䴖	jgvvu
 静	jgvvua
 䴖	jgvvua
+丼	jgvvui
 井	jgvvui
 决	jh
 绝	jha
