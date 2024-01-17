@@ -11816,7 +11816,7 @@
 陴	pkaiui
 阰	pkaiv
 阰	pkaiva
-疋	pkaivi
+疋	pkaivu
 媲	pkau
 皮	pkauao
 濞	pkaui
@@ -18389,10 +18389,10 @@
 檐	yfvua
 赝	yfvuao
 檐	yfvuav
-雁	yfvui
+奄	yfvui
 砚	yfvuia
-奄	yfvuia
 厣	yfvuia
+奄	yfvuia
 黡	yfvuia
 雁	yfvuii
 餍	yfvuio
@@ -19132,7 +19132,7 @@
 压	ys
 涯	ysa
 疋	ysai
-疋	ysaivi
+疋	ysaivu
 娅	ysau
 娅	ysauvi
 涯	ysavuv
@@ -19684,7 +19684,7 @@
 诅	zjoaia
 蹴	zjoi
 蹴	zjoiov
-足	zjoivi
+足	zjoivu
 族	zjov
 卒	zjovi
 卒	zjovii

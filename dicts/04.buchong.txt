@@ -120,6 +120,7 @@
 需	xl
 耶	ye
 砚	yf
+雁	yf
 越	yh
 咦	yk
 哟	yl
