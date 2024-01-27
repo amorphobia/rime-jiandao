@@ -1022,6 +1022,8 @@
 雹	bzvoua
 枹	bzvu
 枹	bzvuaa
+虣	bzvv
+虣	bzvviv
 才	c
 催	cb
 翠	cba
@@ -8195,8 +8197,8 @@
 沈	jnaoau
 尘	jni
 瞋	jnia
-𮹗	jniau
-𮹗	jniaua
+𮭦	jniau
+𮭦	jniaua
 瞋	jniauo
 伧	jnii
 伧	jniiaa
