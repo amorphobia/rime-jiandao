@@ -22,3 +22,5 @@ WORK=$(pwd)
 
 sort -k2,2 -k4,4nr -k5,5nr -k3,3 ${WORK}/dicts/cizu_raw.txt | awk '!seen[$1,$2]++' > ${WORK}/temp.txt
 diff ${WORK}/dicts/cizu_raw.txt ${WORK}/temp.txt
+
+diff <(tr -d '\r' < ${WORK}/dicts/01.danzi.txt) <(tr -d '\r' < ${WORK}/dicts/01.danzi.txt | sort -t$'\t' -k2,2 -s)
