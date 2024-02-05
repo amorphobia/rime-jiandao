@@ -2195,9 +2195,9 @@
 呆	dhovv	#全码
 待	dhu
 戴	dhuo
+黱	dhuoi
 戴	dhuoia
-黱	dhuou
-黱	dhuouv
+黱	dhuoia
 待	dhuuvo
 带	dhv
 轪	dhva
@@ -3869,7 +3869,9 @@
 鼪	erui
 鼪	eruiuv
 𬂉	eruo
-𬂉	eruouv
+𬂉	eruoao
+榺	eruov
+榺	eruovv
 胜	eruu
 胜	eruuvv
 升	eruv
@@ -10169,7 +10171,7 @@
 椉	jrovvv
 称	jru
 塍	jruo
-塍	jruouv
+塍	jruovo
 惩	jruu
 惩	jruuoa
 程	jruv
@@ -10389,6 +10391,8 @@
 狷	jtuaou
 朘	jtuaou
 𩠉	jtuaou
+腃	jtuo
+腃	jtuoaa
 鄄	jtv
 鄄	jtviai
 埍	jtvo
@@ -10765,6 +10769,8 @@
 馗	kbuaou
 魁	kbuioo
 𫠆	kbuo
+腃	kbuoa
+腃	kbuoaa
 𫠆	kbuovu
 篑	kbuv
 篑	kbuvia
@@ -16937,8 +16943,10 @@
 獉	qnuavv
 胗	qnui
 胗	qnuiuu
+𰮤	qnuo
 真	qnuouo
 朕	qnuouv
+𰮤	qnuouv
 箴	qnuv
 稹	qnuvu
 稹	qnuvuo
@@ -17275,6 +17283,8 @@
 灥	qtui
 泉	qtuiaa
 灥	qtuiui
+腃	qtuo
+腃	qtuoaa
 筌	qtuv
 勧	qtuva
 勧	qtuvau
@@ -18644,7 +18654,7 @@
 铽	teiovo
 脦	teu
 螣	teuo
-螣	teuouv
+螣	teuoia
 脦	teuvoa
 特	teuvvo
 忒	tev
@@ -19312,12 +19322,15 @@
 疼	trovua
 滕	tru
 螣	truo
+縢	truoa
+腾	truoaa
+滕	truoaa
+縢	truoaa
+幐	truoi
+螣	truoia
+幐	truoia
 䲢	truou
-縢	truouv
-腾	truouv
-滕	truouv
-螣	truouv
-䲢	truouv
+䲢	truoua
 籐	truv
 籐	truvuo
 鼟	trv
@@ -23823,7 +23836,9 @@
 颖	yguavu
 颍	yguavu
 媵	yguo
-媵	yguouv
+媵	yguoau
+膡	yguoi
+膡	yguoia
 籝	yguv
 𰪣	yguvo
 籝	yguvov
