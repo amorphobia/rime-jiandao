@@ -1417,6 +1417,8 @@
 酢	cjvi
 酢	cjviuv
 醋	cjvivi
+𱋾	cjvo
+𱋾	cjvooi
 蹙	cjvu
 殂	cjvui
 殂	cjvuia
@@ -7301,6 +7303,8 @@
 害	hhoovv
 亥	hhov
 亥	hhovau
+㐪	hhovi
+㐪	hhovia
 氦	hhu
 胲	hhuo
 胲	hhuova
@@ -9080,6 +9084,8 @@
 㡡	jjiav
 㡡	jjiavu
 俶	jjii
+𫇴	jjiiu
+𫇴	jjiiua
 俶	jjiivv
 锄	jjio
 储	jjioau
@@ -9623,6 +9629,7 @@
 梮	jlvavu
 聚	jlvi
 椇	jlvia
+𥇛	jlviav
 椇	jlviav
 醵	jlvii
 醵	jlviiv
@@ -17213,6 +17220,8 @@
 冾	qsoviv
 圶	qsv
 圶	qsvuvo
+㓞	qsvv
+㓞	qsvvau
 全	qt
 劝	qta
 绻	qtaa
@@ -18167,6 +18176,7 @@
 驷	skaaia
 糸	skaaiu
 涘	skaao
+𢇁	skaaoo
 涘	skaaou
 鸶	skaau
 鸶	skaaua
@@ -18788,6 +18798,8 @@
 脡	tguuvi
 廷	tguv
 廷	tguvao
+筳	tguvu
+筳	tguvuv
 颋	tguvv
 颋	tguvvu
 厅	tgv
@@ -20830,6 +20842,8 @@
 𬱟	wwuavu
 厃	wwuavu
 鲔	wwuavu
+𤔡	wwuo
+𤔡	wwuoou
 微	wwuu
 艉	wwuua
 衞	wwuuai
@@ -22052,6 +22066,7 @@
 厀	xkviai
 媐	xkviau
 西	xkviau
+𥇛	xkviav
 觋	xkvii
 觋	xkviia
 卌	xkviii
@@ -22197,6 +22212,8 @@
 序	xlovao
 畜	xlovi
 畜	xlovia
+㖅	xlovu
+㖅	xlovuv
 吁	xlovv
 吁	xlovvi
 须	xlu
@@ -23266,6 +23283,8 @@
 有	yd
 又	yda
 幼	ydaa
+𢆶	ydaaa
+𢆶	ydaaaa
 幼	ydaaau
 油	ydai
 油	ydaiav
@@ -25399,6 +25418,7 @@
 淄	zkaa
 缁	zkaaa
 沝	zkaaa	#全码
+𢆶	zkaaaa
 淄	zkaaaa
 缁	zkaaaa
 甾	zkaai
