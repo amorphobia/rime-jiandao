@@ -7773,8 +7773,8 @@
 恒	hroovo
 恆	hroovu
 亨	hrov
+亨	hrovai
 啈	hrovo
-亨	hrovoa
 啈	hrovoo
 衡	hru
 脝	hruo
@@ -22923,9 +22923,9 @@
 鲞	xxouu
 鲞	xxouua
 享	xxov
+享	xxovai
 襄	xxovo
-享	xxovoa
-亯	xxovoo
+亯	xxovoi
 襄	xxovoo
 庠	xxovou
 㐮	xxovu
