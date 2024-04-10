@@ -4,7 +4,7 @@
   rem https://stackoverflow.com/a/57572270
   rem Hide CMD window
   rem https://stackoverflow.com/a/507372
-    start powershell /nologo /noprofile /command ^
+    start /b powershell /nologo /noprofile /command ^
         "&{[ScriptBlock]::Create((cat """%~f0""") -join [Char[]]10).Invoke(@(&{$args}%*))}"
   exit /b
 #>
