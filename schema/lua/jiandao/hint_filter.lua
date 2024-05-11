@@ -74,7 +74,7 @@ end
 
 local function init(env)
     local dict = env.engine.schema.config:get_string("translator/dictionary")
-    env.reverse = ReverseDb("build/" .. dict .. ".reverse.bin")
+    env.reverse = ReverseLookup(dict)
 end
 
 return { init = init, func = filter }
