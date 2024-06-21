@@ -1401,6 +1401,7 @@
 猜	chuavv
 彩	chuo
 裁	chuoo
+㒲	chuooi
 裁	chuoov
 彩	chuouu
 采	chuovv
@@ -1603,8 +1604,10 @@
 叄	cnaov
 叄	cnaovv
 㟥	cni
+㞥	cnia
 㟥	cniaao
 岑	cniaio
+㞥	cniauo
 藏	cp
 沧	cpa
 沧	cpaiaa
@@ -2023,6 +2026,8 @@
 𣘛	ddvuia
 碟	ddvuvi
 楪	ddvv
+㦶	ddvva
+㦶	ddvvao
 楪	ddvvii
 得	de
 锝	dei
@@ -2422,6 +2427,8 @@
 𬱖	dkiavu
 嶳	dkiavu
 蒂	dkii
+苖	dkiii
+苖	dkiiia
 蒂	dkiiov
 荻	dkiiu
 茋	dkiiua
@@ -2565,6 +2572,8 @@
 铎	dli
 崜	dlia
 崜	dliauv
+茤	dlii
+茤	dliiua
 铎	dlioao
 掇	dliu
 掇	dliuao
@@ -2726,7 +2735,9 @@
 靛	dmvvoo
 扽	dni
 㩐	dniu
+扥	dniuu
 㩐	dniuuv
+扥	dniuuv
 扽	dniuva
 当	dp
 凼	dpa
@@ -3550,6 +3561,7 @@
 屎	ekavo
 屎	ekavou
 鸤	ekavu
+㞔	ekavua
 鸤	ekavua
 尸	ekavuu
 屍	ekavv
@@ -3948,6 +3960,8 @@
 殇	epvu
 殇	epvuuv
 刷	eq
+㕞	eqa
+㕞	eqavao
 刷	eqavii
 唰	eqo
 唰	eqoavu
@@ -5424,6 +5438,7 @@
 渣	fsavoi
 㳒	fsavu
 㳒	fsavuo
+㞚	fsavuv
 罚	fsi
 眨	fsia
 䖳	fsiao
@@ -5443,6 +5458,8 @@
 苲	fsiiuv
 铡	fsio
 铡	fsioao
+㗬	fsiou
+㗬	fsioua
 扎	fsiu
 紥	fsiua
 扎	fsiuaa
@@ -5656,6 +5673,7 @@
 䩁	fwivuv
 棐	fwivv
 奜	fwivvu
+猆	fwivvu
 棐	fwivvv
 废	fwo
 诽	fwoa
@@ -6141,6 +6159,8 @@
 革	gevi
 革	geviia
 歌	gevo
+戓	gevoa
+戓	gevoau
 鬲	gevoi
 鬲	gevoia
 圪	gevou
@@ -6150,7 +6170,9 @@
 哥	gevovo
 塥	gevovo
 格	gevu
+㦴	gevua
 格	gevuao
+㦴	gevuao
 硌	gevuu
 硌	gevuua
 槅	gevv
@@ -6390,6 +6412,7 @@
 觚	gjuauu
 谷	gjuo
 嘏	gjuoa
+㒴	gjuoai
 嘏	gjuoav
 䀇	gjuoi
 䀇	gjuoia
@@ -7771,6 +7794,8 @@
 臛	hluvoa
 和	hluvoo
 霍	hlv
+㦯	hlva
+㦯	hlvaov
 惑	hlvo
 霍	hlvoio
 惑	hlvooa
@@ -9502,6 +9527,7 @@
 妀	jkava
 己	jkavaa
 即	jkavai
+㞋	jkavao
 妀	jkavau
 忌	jkavo
 忌	jkavoa
@@ -9541,6 +9567,7 @@
 蒺	jkiiov
 蓟	jkiiu
 芨	jkiiua
+茤	jkiiua
 蓟	jkiiua
 芰	jkiiuo
 䓫	jkiiv
@@ -9680,6 +9707,7 @@
 积	jkuv
 季	jkuva
 季	jkuvai
+㔕	jkuvau
 穊	jkuvav
 稷	jkuvi
 嵆	jkuvia
@@ -10379,6 +10407,8 @@
 鸠	jquaua
 舅	jqui
 舅	jquiia
+䊆	jquio
+䊆	jquiou
 臼	jquiv
 臼	jquiva
 救	jqv
@@ -13222,6 +13252,8 @@
 𬶟	lsuavi
 臈	lsui
 臈	lsuiio
+䓥	lsuo
+䓥	lsuoii
 腊	lsuvii
 垃	lsv
 剌	lsvi
@@ -14791,6 +14823,8 @@
 侽	nfiia
 侽	nfiiav
 萳	nfiiuo
+抩	nfiu
+抩	nfiuia
 喃	nfo
 喃	nfouoi
 南	nfu
@@ -15068,6 +15102,8 @@
 涊	nmaauo
 姩	nmau
 姩	nmauuv
+㞋	nmav
+㞋	nmavao
 念	nmi
 蔫	nmii
 蔫	nmiivi
@@ -16954,6 +16990,8 @@
 洓	qkavia
 漆	qkavia
 淇	qkavii
+㞚	qkavu
+㞚	qkavuv
 柒	qkavv
 柒	qkavvv
 企	qki
@@ -17674,6 +17712,8 @@
 丘	qqui
 邱	qquia
 邱	qquiai
+䊆	qquio
+䊆	qquiou
 鼽	qquiu
 鼽	qquiua
 丘	qquivi
@@ -18195,6 +18235,8 @@
 䒣	rfiii
 苒	rfiiia
 䒣	rfiiia
+抩	rfiu
+抩	rfiuia
 燃	rfo
 呥	rfoi
 呥	rfoiai
@@ -18279,6 +18321,8 @@
 囸	rkiavi
 䒤	rkiioi
 日	rkoii	#全码
+㒲	rku
+㒲	rkuooi
 若	rl
 弱	rla
 叒	rlao
@@ -23299,6 +23343,8 @@
 臭	xqui
 臭	xquivu
 貅	xquo
+䜬	xquoi
+䜬	xquoia
 貅	xquoiv
 秀	xquvau
 朽	xqv
@@ -23958,6 +24004,8 @@
 侌	ybiov
 侌	ybiovv
 伒	ybiu
+㧈	ybiua
+㧈	ybiuav
 伒	ybiuuv
 龈	ybiv
 龈	ybivav
@@ -24079,6 +24127,7 @@
 幽	ydiaa
 蚴	ydiaaa
 黝	ydiaaa
+㽕	ydiaaa
 邮	ydiaai
 幽	ydiaao
 蚰	ydiai
@@ -24155,6 +24204,7 @@
 犹	ydu
 鱿	ydua
 鲉	yduai
+㹨	yduaia
 鲉	yduaia
 狖	yduao
 狖	yduaoo
@@ -25173,7 +25223,9 @@
 萸	yliiu
 薁	yliiui
 萸	yliiui
+芌	yliiv
 芋	yliivv
+芌	yliivv
 钰	ylio
 俁	ylioa
 俁	ylioav
@@ -25303,6 +25355,7 @@
 貐	yluoiv
 谷	yluoo
 慾	yluooa
+込	yluooa
 谷	yluooo
 鹆	yluou
 兪	yluoua
