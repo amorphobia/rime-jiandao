@@ -17721,7 +17721,10 @@
 媝	qquva
 媝	qquvau
 秋	qquvou
+𬓫	qquvu
+穐	qquvua
 鹙	qquvua
+𬓫	qquvua
 毬	qquvv
 毬	qquvvi
 球	qqv
