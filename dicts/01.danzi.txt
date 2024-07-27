@@ -4238,6 +4238,8 @@
 膇	fbu
 追	fbuioa
 膇	fbuuia
+甀	fbuv
+甀	fbuvva
 赘	fbv
 椎	fbvi
 醊	fbvia
@@ -19547,6 +19549,8 @@
 㘆	thovo
 㘆	thovoo
 呔	thovuo
+㙜	thovv
+㙜	thovvo
 胎	thu
 鲐	thua
 𱃗	thuaa
@@ -19561,6 +19565,8 @@
 枱	thva
 枱	thvaoo
 酞	thvi
+䑓	thviv
+䑓	thviva
 酞	thvivu
 臺	thvo
 坮	thvoa
@@ -22303,6 +22309,8 @@
 媕	xfauiv
 按	xfi
 岸	xfia
+𡚴	xfiaa
+𡚴	xfiaau
 黯	xfiao
 峖	xfiaoo
 黯	xfiaov
