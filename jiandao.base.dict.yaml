@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: jiandao.base
-version: v6.2.1
+version: v6.2.2
 sort: original
 ...
 不	b
@@ -1408,6 +1408,7 @@ sort: original
 猜	chuavv
 彩	chuo
 裁	chuoo
+㒲	chuooi
 裁	chuoov
 彩	chuouu
 采	chuovv
@@ -1610,8 +1611,10 @@ sort: original
 叄	cnaov
 叄	cnaovv
 㟥	cni
+㞥	cnia
 㟥	cniaao
 岑	cniaio
+㞥	cniauo
 藏	cp
 沧	cpa
 沧	cpaiaa
@@ -2030,6 +2033,8 @@ sort: original
 𣘛	ddvuia
 碟	ddvuvi
 楪	ddvv
+㦶	ddvva
+㦶	ddvvao
 楪	ddvvii
 得	de
 锝	dei
@@ -2429,6 +2434,8 @@ sort: original
 𬱖	dkiavu
 嶳	dkiavu
 蒂	dkii
+苖	dkiii
+苖	dkiiia
 蒂	dkiiov
 荻	dkiiu
 茋	dkiiua
@@ -2572,6 +2579,8 @@ sort: original
 铎	dli
 崜	dlia
 崜	dliauv
+茤	dlii
+茤	dliiua
 铎	dlioao
 掇	dliu
 掇	dliuao
@@ -2733,7 +2742,9 @@ sort: original
 靛	dmvvoo
 扽	dni
 㩐	dniu
+扥	dniuu
 㩐	dniuuv
+扥	dniuuv
 扽	dniuva
 当	dp
 凼	dpa
@@ -3557,6 +3568,7 @@ sort: original
 屎	ekavo
 屎	ekavou
 鸤	ekavu
+㞔	ekavua
 鸤	ekavua
 尸	ekavuu
 屍	ekavv
@@ -3955,6 +3967,8 @@ sort: original
 殇	epvu
 殇	epvuuv
 刷	eq
+㕞	eqa
+㕞	eqavao
 刷	eqavii
 唰	eqo
 唰	eqoavu
@@ -4231,6 +4245,8 @@ sort: original
 膇	fbu
 追	fbuioa
 膇	fbuuia
+甀	fbuv
+甀	fbuvva
 赘	fbv
 椎	fbvi
 醊	fbvia
@@ -5431,6 +5447,7 @@ sort: original
 渣	fsavoi
 㳒	fsavu
 㳒	fsavuo
+㞚	fsavuv
 罚	fsi
 眨	fsia
 䖳	fsiao
@@ -5450,6 +5467,8 @@ sort: original
 苲	fsiiuv
 铡	fsio
 铡	fsioao
+㗬	fsiou
+㗬	fsioua
 扎	fsiu
 紥	fsiua
 扎	fsiuaa
@@ -5663,6 +5682,7 @@ sort: original
 䩁	fwivuv
 棐	fwivv
 奜	fwivvu
+猆	fwivvu
 棐	fwivvv
 废	fwo
 诽	fwoa
@@ -6148,6 +6168,8 @@ sort: original
 革	gevi
 革	geviia
 歌	gevo
+戓	gevoa
+戓	gevoau
 鬲	gevoi
 鬲	gevoia
 圪	gevou
@@ -6157,7 +6179,9 @@ sort: original
 哥	gevovo
 塥	gevovo
 格	gevu
+㦴	gevua
 格	gevuao
+㦴	gevuao
 硌	gevuu
 硌	gevuua
 槅	gevv
@@ -6397,6 +6421,7 @@ sort: original
 觚	gjuauu
 谷	gjuo
 嘏	gjuoa
+㒴	gjuoai
 嘏	gjuoav
 䀇	gjuoi
 䀇	gjuoia
@@ -7778,6 +7803,8 @@ sort: original
 臛	hluvoa
 和	hluvoo
 霍	hlv
+㦯	hlva
+㦯	hlvaov
 惑	hlvo
 霍	hlvoio
 惑	hlvooa
@@ -9509,6 +9536,7 @@ sort: original
 妀	jkava
 己	jkavaa
 即	jkavai
+㞋	jkavao
 妀	jkavau
 忌	jkavo
 忌	jkavoa
@@ -9548,6 +9576,7 @@ sort: original
 蒺	jkiiov
 蓟	jkiiu
 芨	jkiiua
+茤	jkiiua
 蓟	jkiiua
 芰	jkiiuo
 䓫	jkiiv
@@ -9687,6 +9716,7 @@ sort: original
 积	jkuv
 季	jkuva
 季	jkuvai
+㔕	jkuvau
 穊	jkuvav
 稷	jkuvi
 嵆	jkuvia
@@ -10386,6 +10416,8 @@ sort: original
 鸠	jquaua
 舅	jqui
 舅	jquiia
+䊆	jquio
+䊆	jquiou
 臼	jquiv
 臼	jquiva
 救	jqv
@@ -13229,6 +13261,8 @@ sort: original
 𬶟	lsuavi
 臈	lsui
 臈	lsuiio
+䓥	lsuo
+䓥	lsuoii
 腊	lsuvii
 垃	lsv
 剌	lsvi
@@ -14798,6 +14832,8 @@ sort: original
 侽	nfiia
 侽	nfiiav
 萳	nfiiuo
+抩	nfiu
+抩	nfiuia
 喃	nfo
 喃	nfouoi
 南	nfu
@@ -15075,6 +15111,8 @@ sort: original
 涊	nmaauo
 姩	nmau
 姩	nmauuv
+㞋	nmav
+㞋	nmavao
 念	nmi
 蔫	nmii
 蔫	nmiivi
@@ -16961,6 +16999,8 @@ sort: original
 洓	qkavia
 漆	qkavia
 淇	qkavii
+㞚	qkavu
+㞚	qkavuv
 柒	qkavv
 柒	qkavvv
 企	qki
@@ -17681,6 +17721,8 @@ sort: original
 丘	qqui
 邱	qquia
 邱	qquiai
+䊆	qquio
+䊆	qquiou
 鼽	qquiu
 鼽	qquiua
 丘	qquivi
@@ -17688,7 +17730,10 @@ sort: original
 媝	qquva
 媝	qquvau
 秋	qquvou
+𬓫	qquvu
+穐	qquvua
 鹙	qquvua
+𬓫	qquvua
 毬	qquvv
 毬	qquvvi
 球	qqv
@@ -18202,6 +18247,8 @@ sort: original
 䒣	rfiii
 苒	rfiiia
 䒣	rfiiia
+抩	rfiu
+抩	rfiuia
 燃	rfo
 呥	rfoi
 呥	rfoiai
@@ -18286,6 +18333,8 @@ sort: original
 囸	rkiavi
 䒤	rkiioi
 日	rkoii	#全码
+㒲	rku
+㒲	rkuooi
 若	rl
 弱	rla
 叒	rlao
@@ -19507,6 +19556,8 @@ sort: original
 㘆	thovo
 㘆	thovoo
 呔	thovuo
+㙜	thovv
+㙜	thovvo
 胎	thu
 鲐	thua
 𱃗	thuaa
@@ -19521,6 +19572,8 @@ sort: original
 枱	thva
 枱	thvaoo
 酞	thvi
+䑓	thviv
+䑓	thviva
 酞	thvivu
 臺	thvo
 坮	thvoa
@@ -22263,6 +22316,8 @@ sort: original
 媕	xfauiv
 按	xfi
 岸	xfia
+𡚴	xfiaa
+𡚴	xfiaau
 黯	xfiao
 峖	xfiaoo
 黯	xfiaov
@@ -23306,6 +23361,8 @@ sort: original
 臭	xqui
 臭	xquivu
 貅	xquo
+䜬	xquoi
+䜬	xquoia
 貅	xquoiv
 秀	xquvau
 朽	xqv
@@ -23965,6 +24022,8 @@ sort: original
 侌	ybiov
 侌	ybiovv
 伒	ybiu
+㧈	ybiua
+㧈	ybiuav
 伒	ybiuuv
 龈	ybiv
 龈	ybivav
@@ -24086,6 +24145,7 @@ sort: original
 幽	ydiaa
 蚴	ydiaaa
 黝	ydiaaa
+㽕	ydiaaa
 邮	ydiaai
 幽	ydiaao
 蚰	ydiai
@@ -24162,6 +24222,7 @@ sort: original
 犹	ydu
 鱿	ydua
 鲉	yduai
+㹨	yduaia
 鲉	yduaia
 狖	yduao
 狖	yduaoo
@@ -25180,7 +25241,9 @@ sort: original
 萸	yliiu
 薁	yliiui
 萸	yliiui
+芌	yliiv
 芋	yliivv
+芌	yliivv
 钰	ylio
 俁	ylioa
 俁	ylioav
@@ -25310,6 +25373,7 @@ sort: original
 貐	yluoiv
 谷	yluoo
 慾	yluooa
+込	yluooa
 谷	yluooo
 鹆	yluou
 兪	yluoua
@@ -85683,7 +85747,6 @@ sort: original
 了无	lcwj
 料持	lcwk
 瞭望	lcwp
-了望	lcwpa
 刘慈欣	lcx
 疗效	lcxc
 聊些	lcxd
@@ -88507,7 +88570,7 @@ sort: original
 连庄	lmfx
 联众	lmfy
 连招	lmfz
-李敏镐	lmg
+蓝玫瑰	lmg
 连跪	lmgb
 莲桂	lmgbi
 连个	lmge
@@ -88540,6 +88603,7 @@ sort: original
 联横	lmhr
 联欢	lmht
 连环	lmhtv
+李敏镐	lmhv
 连魂	lmhw
 脸黑	lmhwu
 脸红	lmhy
@@ -90235,7 +90299,7 @@ sort: original
 雷死	lwskv
 勒死	lwskvv
 沦丧	lwsp
-了望塔	lwt
+瞭望塔	lwt
 类推	lwtb
 轮退	lwtbv
 肋条	lwtc
