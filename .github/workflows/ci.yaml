@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Sanity Check
         run: |
@@ -31,7 +31,7 @@ jobs:
     needs: sanity-check
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Make Dicts
         run: |
@@ -78,7 +78,7 @@ jobs:
           zip -r -q ../jiandao-legacy.zip *
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: zips
           path: |
@@ -92,10 +92,10 @@ jobs:
     needs: pack-schema
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download Artifacts
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: zips
 
@@ -107,7 +107,7 @@ jobs:
           mv jiandao-legacy.zip jiandao-legacy-${{ github.ref_name }}.zip
 
       - name: Create Release and Upload Assets
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: |
             jiandao-${{ github.ref_name }}.zip
