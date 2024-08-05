@@ -277,7 +277,7 @@
 
 ## 4. buchong（补充）
 
-原位于 chaojizici 中的多音节汉字~~及「橒」字~~放入此码表（「橒」字已移入 danzi）
+原位于 chaojizici 中的多音节汉字~~及「橒」字~~放入此码表（「橒」字~~已移入 danzi~~根据[opencc-tonggui](https://github.com/amorphobia/opencc-tonggui)简化为「枟」而移除）
 
 ## 5. chaojizici（超级字词）
 
