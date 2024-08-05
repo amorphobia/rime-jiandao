@@ -360,6 +360,8 @@
 簿	bju
 𫗦	bjua
 𫗦	bjuavi
+鿻	bjui
+鿻	bjuivu
 篰	bjuv
 簿	bjuvav
 篰	bjuvov
@@ -1031,7 +1033,9 @@
 犮	bsvuao
 朳	bsvuoo
 耙	bsvv
+鿱	bsvva
 耙	bsvvai
+鿱	bsvvai
 䎬	bsvvi
 䎬	bsvvia
 欛	bsvvo
@@ -2156,6 +2160,8 @@
 刐	dfuai
 刐	dfuaii
 丹	dfuaov
+鿕	dfuau
+鿕	dfuaua
 甔	dfuava
 躭	dfui
 𣇇	dfuio
@@ -3066,7 +3072,9 @@
 勭	dyovau
 冻	dyovva
 冬	dyu
+鿴	dyua
 冬	dyuaoo
+鿴	dyuaua
 胴	dyui
 胴	dyuiav
 胨	dyuv
@@ -3706,6 +3714,7 @@
 筮	ekuvvi
 䏡	ekuvvi
 笹	ekuvvi
+䄷	ekuvvu
 失	ekuvvu
 矢	ekuvvu
 事	ekv
@@ -4996,6 +5005,7 @@
 猘	fkuauv
 氏	fkuav
 氏	fkuava
+鿵	fkuavo
 直	fkuo
 支	fkuoa
 乿	fkuoaa
@@ -6503,6 +6513,8 @@
 尳	gjvuia
 梏	gjvuvi
 顾	gjvuvu
+𪻕	gjvv
+𪻕	gjvvuo
 过	gl
 涡	gla
 𬇹	glai
@@ -7415,7 +7427,9 @@
 瀚	hfau
 娢	hfaui
 娢	hfauio
+鿰	hfauo
 瀚	hfauoo
+鿰	hfauoo
 嫨	hfauv
 嫨	hfauvi
 憨	hfav
@@ -10657,6 +10671,8 @@
 㹢	jsua
 㹢	jsuaau
 𰠛	jsui
+鿼	jsuia
+鿼	jsuiau
 胛	jsuiav
 𰠛	jsuivv
 嘏	jsuo
@@ -12717,6 +12733,7 @@
 黧	lkuvia
 黎	lkuvia
 利	lkuvii
+鿯	lkuvio
 篱	lkuvo
 笠	lkuvov
 篱	lkuvov
@@ -13095,6 +13112,7 @@
 勆	lpoaau
 朗	lpoauu
 塱	lpoav
+𡏅	lpoavo
 塱	lpoavo
 㮾	lpoavv
 阆	lpoi
@@ -13110,7 +13128,9 @@
 廊	lpov
 廊	lpovoa
 狼	lpu
+鿶	lpua
 狼	lpuaoa
+鿶	lpuaoa
 朤	lpuu
 朤	lpuuuu
 稂	lpuv
@@ -13124,6 +13144,7 @@
 桹	lpvoav
 埌	lpvoo
 㙟	lpvooa
+鿾	lpvooa
 埌	lpvooa
 硠	lpvu
 硠	lpvuoa
@@ -13643,7 +13664,9 @@
 醪	lzviao
 酪	lzviua
 𫭼	lzvo
+鿲	lzvoi
 𫭼	lzvoii
+鿲	lzvoii
 栳	lzvu
 栳	lzvuov
 耢	lzvv
@@ -13970,7 +13993,9 @@
 霾	mhvouo
 霢	mhvouu
 麦	mhvv
+鿺	mhvvu
 麦	mhvvua
+鿺	mhvvua
 目	mj
 母	mja
 母	mjaaov
@@ -14131,6 +14156,8 @@
 秘	mku
 猕	mkua
 猕	mkuaav
+鿹	mkuao
+鿹	mkuaoo
 觅	mkuo
 觅	mkuoia
 脒	mkuou
@@ -18154,6 +18181,10 @@
 銎	qyviio
 跫	qyvio
 跫	qyvioi
+𣑦	qyviv
+𣑦	qyvivv
+㮪	qyvv
+㮪	qyvviv
 琼	qyvvov
 找	qz
 召	qza
@@ -19898,6 +19929,7 @@
 鸵	tluaoo
 𬶍	tluaoo
 饦	tluau
+鿸	tluauu
 饦	tluauv
 魄	tlui
 鼧	tluio
@@ -22442,6 +22474,7 @@
 犴	xfua
 𩽾	xfuao
 𩽾	xfuaoo
+鿷	xfuaov
 犴	xfuavv
 胺	xfuo
 胺	xfuooa
@@ -24801,6 +24834,8 @@
 樱	ygvaoa
 楹	ygvau
 楹	ygvaua
+鿿	ygvi
+鿿	ygviia
 桜	ygvo
 霙	ygvoi
 霙	ygvoii
