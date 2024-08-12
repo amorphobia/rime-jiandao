@@ -2333,6 +2333,8 @@
 渡	dja
 𱄿	djaa
 𱄿	djaaaa
+叾	djai
+叾	djaioo
 赌	djao
 𭣧	djaou
 赌	djaouo
@@ -3925,7 +3927,7 @@
 谌	enoavi
 呻	enoi
 呻	enoiav
-㕥	enoii
+㕥	enoii	#全码
 慎	enoo
 审	enooia
 宷	enoou
@@ -14127,6 +14129,8 @@
 牧	mju
 凩	mjua
 凩	mjuavv
+畞	mjuo
+畞	mjuoia
 穆	mjuv
 毪	mjuva
 毪	mjuvao
@@ -17170,6 +17174,8 @@
 洓	qkavia
 漆	qkavia
 淇	qkavii
+迉	qkavo
+迉	qkavoa
 㞚	qkavu
 㞚	qkavuv
 柒	qkavv
@@ -25210,6 +25216,7 @@
 咿	ykoia
 咿	ykoiav
 呓	ykoii
+㕥	ykoii	#全码
 呓	ykoiia
 晹	ykoio
 晹	ykoioi
