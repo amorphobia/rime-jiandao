@@ -112,6 +112,7 @@ jobs:
           files: |
             jiandao-${{ github.ref_name }}.zip
             jiandao-legacy-${{ github.ref_name }}.zip
+            scripts/installer.bat
 
       - name: Push to Release
         uses: s0/git-publish-subdir-action@v2.6.0
