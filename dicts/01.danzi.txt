@@ -18529,9 +18529,9 @@
 叒	rlaoao
 婼	rlau
 婼	rlauii
-鶸	rlav
+鶸	rlav	#繁体
 弱	rlavav
-鶸	rlavui
+鶸	rlavui	#繁体
 偌	rli
 鄀	rlii
 蒻	rliia
