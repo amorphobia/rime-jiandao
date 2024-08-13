@@ -88171,6 +88171,7 @@
 酸乳	strj	vu	1000
 算人	strn	ui	1000
 酸软	strt	vv	1000
+蒜蓉	stry	ii	1050
 蒜茸	stry	ii	1000
 酸涩	stse	va	1000
 缩头缩脑	stsn	ao	1000
