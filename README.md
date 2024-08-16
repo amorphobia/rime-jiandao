@@ -34,15 +34,15 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 
 #### 小狼毫：PowerShell 小工具（内含于批处理脚本中）
 
-在 PowerShell 中执行以下命令，然后按照提示安装即可，或者将批处理脚本（[GitHub](https://raw.githubusercontent.com/amorphobia/rime-jiandao/master/scripts/installer.bat), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/installer.bat)）下载到本地运行。
+**方式一** 在发布页面（[GitHub](https://github.com/amorphobia/rime-jiandao/releases)，[Gitee](https://gitee.com/amorphobia/rime-jiandao/releases)）下载 `installer.bat` 到本地，双击运行。
+
+**方式二** 在 PowerShell 中执行以下命令，然后按照提示安装即可。
 
 ```PowerShell
 irm 0xa.nl/get-jd-win | iex
 ```
 
 如果遇到错误，运行一次 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` 再试。
-
-也可以先从此仓库（[GitHub](https://github.com/amorphobia/rime-jiandao/raw/master/scripts/installer.ps1), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/installer.ps1)）下载小工具，然后右键点击、选择 PowerShell 运行。
 
 #### 仓输入法：快捷指令
 
