@@ -1,0 +1,6 @@
+[submodule "deps/rime-emoji"]
+	path = deps/rime-emoji
+	url = https://github.com/rime/rime-emoji
+[submodule "deps/opencc-tonggui"]
+	path = deps/opencc-tonggui
+	url = https://github.com/amorphobia/opencc-tonggui
