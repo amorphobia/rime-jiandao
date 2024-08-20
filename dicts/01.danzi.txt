@@ -5554,9 +5554,9 @@
 法	fsa
 溠	fsao
 溠	fsaouv
-発	fsaov
+発	fsaov	#日本汉字
 灋	fsaovu
-発	fsaovv
+発	fsaovv	#日本汉字
 姂	fsau
 发	fsauao
 姂	fsauuo
@@ -5816,7 +5816,7 @@
 悱	fwooiv
 吠	fwov
 疿	fwova
-廃	fwovao
+廃	fwovao	#日本汉字
 𬏦	fwovau
 废	fwovau
 疿	fwovav
@@ -11866,8 +11866,8 @@
 呿	ksovoa
 胩	ksu
 胩	ksuivv
-垰	ksv
-垰	ksvoiv
+垰	ksv	#日本汉字
+垰	ksvoiv	#日本汉字
 宽	kt
 髋	kti
 髋	ktiaoo
@@ -25085,8 +25085,8 @@
 影	ygoiuu
 旲	ygoiv
 旲	ygoivu
-営	ygoo
-営	ygoooo
+営	ygoo	#日本汉字
+営	ygoooo	#日本汉字
 赢	ygov
 嬴	ygova
 郢	ygovai
