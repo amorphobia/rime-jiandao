@@ -4644,6 +4644,7 @@
 膰	ffuuou
 繁	ffuv
 笲	ffuva
+䋣	ffuvaa
 繁	ffuvaa
 笲	ffuvao
 梵	ffv
@@ -6795,8 +6796,8 @@
 炚	gmoiou
 灮	gmou
 灮	gmouua
-広	gmov
-広	gmovao
+広	gmov	#日本汉字
+広	gmovao	#日本汉字
 广	gmovuu
 逛	gmu
 犷	gmua
@@ -7141,8 +7142,8 @@
 炚	gxoiou
 灮	gxou
 灮	gxouua
-広	gxov
-広	gxovao
+広	gxov	#日本汉字
+広	gxovao	#日本汉字
 广	gxovuu
 逛	gxu
 犷	gxua
@@ -7880,6 +7881,7 @@
 寣	hjooa
 寣	hjooai
 怙	hjoou
+𰴣	hjooua
 惚	hjooua
 怙	hjoouo
 嗃	hjoov
@@ -10200,7 +10202,9 @@
 踽	jloiui
 距	jloiva
 惧	jloo
+挙	jlooi	#日本汉字
 惧	jlooia
+挙	jlooiu	#日本汉字
 窭	jlooo
 𪧘	jlooou
 窭	jlooou
@@ -10461,7 +10465,7 @@
 鬋	jmviou
 戬	jmviv
 戬	jmviva
-検	jmvivi
+検	jmvivi	#日本汉字
 囏	jmvivo
 检	jmvivo
 靬	jmvivv
@@ -10920,8 +10924,8 @@
 拮	jsiuvo
 挟	jsiuvo
 佳	jsiv
-価	jsivi
-価	jsivia
+価	jsivi	#日本汉字
+価	jsivia	#日本汉字
 佳	jsivov
 家	jso
 咖	jsoa
@@ -11251,8 +11255,8 @@
 傋	jxivvi
 讲	jxo
 讲	jxoavv
-栄	jxoo
-栄	jxoovv
+栄	jxoo	#日本汉字
+栄	jxoovv	#日本汉字
 姜	jxou
 糨	jxoua
 姜	jxouau
@@ -11819,9 +11823,9 @@
 蛞	klia
 蛞	kliauv
 𢬸	kliu
-拡	kliuo
+拡	kliuo	#日本汉字
 扩	kliuov
-拡	kliuov
+拡	kliuov	#日本汉字
 𢬸	kliuua
 括	kliuuv
 阔	klo
@@ -13380,6 +13384,7 @@
 𫢪	lmivav
 𰙎	lmivu
 𰙎	lmivua
+㪘	lmivuv
 敛	lmivuv
 恋	lmo
 裢	lmoa
@@ -13996,8 +14001,8 @@
 嘐	lzoaov
 唠	lzoi
 唠	lzoiio
-労	lzoo
-労	lzooau
+労	lzoo	#日本汉字
+労	lzooau	#日本汉字
 哰	lzooo
 哰	lzoooa
 牢	lzoouv
@@ -16418,6 +16423,7 @@
 媻	pluuau
 笸	pluv
 繁	pluva
+䋣	pluvaa
 繁	pluvaa
 笸	pluvvo
 坡	plv
@@ -23255,6 +23261,8 @@
 峃	xhooi
 峃	xhooia
 嗌	xhoou
+鸴	xhooua
+𰴣	xhooua
 穴	xhoouo
 敩	xhoouv
 嗌	xhoouv
@@ -23312,6 +23320,8 @@
 砹	xhvuii
 碍	xhvuoi
 瑷	xhvv
+樰	xhvvo
+樰	xhvvoa
 叆	xhvvu
 瑷	xhvvuo
 叆	xhvvuo
@@ -24913,12 +24923,16 @@
 游	ydao
 㕛	ydaoa
 㕛	ydaoao
+𠮢	ydaoo
 又	ydaoo	#全码
+𠮢	ydaooo
 游	ydaova
 妋	ydau
 姷	ydauv
 姷	ydauvu
 妋	ydauvv
+㳓	ydav
+㳓	ydavuo
 由	ydi
 邮	ydia
 幽	ydiaa
@@ -25416,6 +25430,7 @@
 𪩎	ygiaa
 𪩎	ygiaao
 𫶕	ygiai
+蝿	ygiaia
 𫶕	ygiaii
 𠇹	ygiao
 蝇	ygiaoi
@@ -25457,7 +25472,11 @@
 営	ygoo	#日本汉字
 𰋷	ygooa	#日本汉字
 𰋷	ygooau	#日本汉字
+蛍	ygooi
+蛍	ygooia
 営	ygoooo	#日本汉字
+𭸼	ygoov	#日本汉字
+𭸼	ygoovv	#日本汉字
 赢	ygov
 嬴	ygova
 郢	ygovai
@@ -25468,7 +25487,7 @@
 䧹	ygovi
 䧹	ygovii
 譍	ygovo
-応	ygovoa
+応	ygovoa	#日本汉字
 噟	ygovoo
 应	ygovoo
 譍	ygovov
@@ -27601,8 +27620,10 @@
 噪	zzoo
 噪	zzoooo
 慥	zzoou
+䆴	zzooua
 慥	zzoouv
 喿	zzoov
+竃	zzoovo
 喿	zzoovv
 灶	zzou
 唣	zzoui
