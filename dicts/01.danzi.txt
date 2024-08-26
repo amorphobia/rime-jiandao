@@ -1416,6 +1416,8 @@
 残	cfvuvv
 蚕	cfvv
 璨	cfvvi
+䗞	cfvvia
+䘉	cfvvia
 蚕	cfvvia
 璨	cfvviv
 菜	ch
@@ -2121,6 +2123,8 @@
 疍	dfaio
 疍	dfaioi
 淡	dfao
+泹	dfaoi
+泹	dfaoiv
 赕	dfaoo
 赕	dfaoou
 淡	dfaoui
@@ -2163,12 +2167,15 @@
 单	dfo
 诞	dfoa
 褝	dfoao
+䜥	dfoaoi
 褝	dfoaou
 诞	dfoaui
 禫	dfoav
 噉	dfoavi
 禫	dfoavi
 旦	dfoi
+𱉗	dfoiu
+𱉗	dfoiua
 旦	dfoivv
 惮	dfoo
 呾	dfooi
@@ -2197,12 +2204,16 @@
 啿	dfovii
 瘅	dfovo
 亶	dfovoi
+㡺	dfovoi
 疸	dfovoi
 瘅	dfovou
 丹	dfu
 甔	dfua
 刐	dfuai
 刐	dfuaii
+觛	dfuao
+狚	dfuaoi
+觛	dfuaoi
 丹	dfuaov
 鿕	dfuau
 鿕	dfuaua
@@ -2230,6 +2241,8 @@
 𰅦	dfvo
 霮	dfvoa
 霮	dfvoav
+柦	dfvoi
+柦	dfvoiv
 𰅦	dfvoui
 石	dfvu
 殚	dfvuo
@@ -2936,7 +2949,9 @@
 汏	dsavuo
 打	dsi
 迚	dsia
+䵣	dsiao
 迚	dsiaoa
+䵣	dsiaoi
 荙	dsii
 荅	dsiii
 荅	dsiiiv
@@ -3450,6 +3465,7 @@
 鳝	efua
 删	efuaii
 鳣	efuao
+𱇞	efuaoi
 𬶛	efuaou
 鳝	efuaou
 鳣	efuaov
@@ -4482,6 +4498,8 @@
 不	fdvui
 不	fdvuio
 否	fdvuoo
+𫛜	fdvuu
+𫛜	fdvuua
 碡	fdvuvv
 着	fe
 浙	fea
@@ -4964,6 +4982,7 @@
 榑	fjvvi
 榑	fjvvia
 琈	fjvvu
+𱉎	fjvvua
 𱋗	fjvvuo
 夫	fjvvuo
 琈	fjvvuo
@@ -6160,6 +6179,7 @@
 邽	gbvoa
 邽	gbvoai
 垝	gbvou
+𱉤	gbvoua
 垝	gbvoua
 圭	gbvovo
 硅	gbvu
@@ -6175,9 +6195,11 @@
 柜	gbvvav
 规	gbvvia
 瓌	gbvvo
+昋	gbvvoi
 桂	gbvvov
 瓌	gbvvov
 瑰	gbvvu
+𱉎	gbvvua
 瑰	gbvvui
 珪	gbvvv
 鬶	gbvvvo
@@ -6470,6 +6492,8 @@
 柑	gfvvi
 干	gfvvii
 柑	gfvvii
+𱉊	gfvvu
+𱉊	gfvvua
 玕	gfvvv
 杆	gfvvvi
 玕	gfvvvv
@@ -7735,6 +7759,8 @@
 邗	hfvvai
 琀	hfvvi
 琀	hfvvio
+𱉊	hfvvu
+𱉊	hfvvua
 顸	hfvvvu
 坏	hg
 淮	hga
@@ -9835,6 +9861,7 @@
 暨	jkavoi
 屐	jkavu
 𬶨	jkavua
+𱉽	jkavua
 屐	jkavuu
 彐	jkavv
 既	jkavva
@@ -11342,6 +11369,8 @@
 埛	jyvo
 坰	jyvoia
 埛	jyvoia
+昋	jyvv
+昋	jyvvoi
 超	jz
 潮	jza
 巢	jzaa
@@ -15711,6 +15740,8 @@
 𨙻	nsiaa
 𨚗	nsiaai
 𨙻	nsiaai
+䖧	nsiao
+䖧	nsiaoi
 内	nsiau
 内	nsiauo
 𠕄	nsiav
@@ -17713,6 +17744,7 @@
 剘	qkvii
 剘	qkviii
 欺	qkviu
+𫛰	qkviua
 欺	qkviua
 鬐	qkviuo
 其	qkviuo
@@ -20034,6 +20066,7 @@
 昙	tfoi
 𰇲	tfoio
 𰇲	tfoioa
+㫜	tfoioi
 昙	tfoivv
 啴	tfoo
 惔	tfooo
@@ -20045,6 +20078,8 @@
 郯	tfouai
 㷋	tfouo
 㷋	tfouou
+𫛴	tfouu
+𫛴	tfouua
 燂	tfouv
 燂	tfouvi
 痰	tfov
@@ -20068,6 +20103,7 @@
 㘱	tfvoi
 㘱	tfvoia
 埮	tfvoo
+䞡	tfvooi
 坦	tfvooi
 埮	tfvoou
 坍	tfvou
@@ -20375,6 +20411,7 @@
 嚔	tkouoo
 嚏	tkouoo
 鹈	tkouu
+𫛴	tkouua
 鹈	tkouua
 嗁	tkouui
 遆	tkov
@@ -20546,6 +20583,7 @@
 畋	tmiauv
 𦊊	tmiav
 田	tmiavi
+䀖	tmiavv
 𦊊	tmiavv
 佃	tmii
 倎	tmiia
@@ -20599,6 +20637,8 @@
 鿬	tmvuia
 殄	tmvuiu
 忝	tmvv
+沗	tmvva
+沗	tmvvaa
 忝	tmvviu
 瑱	tmvvu
 兲	tmvvuo
@@ -20839,7 +20879,9 @@
 𰄞	ttv
 墥	ttvo
 墥	ttvoov
+𱉏	ttvv
 𰄞	ttvvii
+𱉏	ttvvua
 吞	tw
 臀	twa
 沌	twav
@@ -21848,6 +21890,8 @@
 螡	wnovia
 瘟	wnovo
 瘟	wnovoi
+𪉃	wnovu
+𪉃	wnovua
 文	wnovuo
 稳	wnu
 刎	wnua
@@ -24644,6 +24688,8 @@
 雄	xyvuio
 奥	xz
 澳	xza
+𱉢	xzaa
+𱉢	xzaaua
 隩	xzai
 隩	xzaiui
 隞	xzaiv
@@ -26805,6 +26851,7 @@
 幺	yzaa
 幺	yzaaoo
 约	yzaau
+𱉢	yzaaua
 约	yzaaua
 陶	yzai
 陶	yzaiua
