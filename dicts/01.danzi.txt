@@ -2141,9 +2141,10 @@
 弹	dfavou
 担	dfi
 眈	dfia
-帎	dfiao
-眈	dfiaoa
+黕	dfiao
 帎	dfiaoa
+眈	dfiaoa
+黕	dfiaoa
 嵅	dfiav
 嵅	dfiavu
 萏	dfii
@@ -19988,6 +19989,8 @@
 㪗	tdo
 呫	tdoi
 呫	tdoivo
+怗	tdoo
+怗	tdooiv
 头	tdoovu
 咅	tdov
 㪗	tdoviv
