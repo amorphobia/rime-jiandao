@@ -10451,6 +10451,7 @@
 捡	jmiui
 捡	jmiuiv
 搛	jmiuo
+揃	jmiuou
 搛	jmiuou
 尖	jmiuv
 拣	jmiuva
