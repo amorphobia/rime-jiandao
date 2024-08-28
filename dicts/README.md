@@ -98,6 +98,7 @@
 - 「棪」字笔画错误，由 `voou` 改为 `voui`
 - 「靿」字笔画错误，由 `vaaa` 改为 `viaa`
 - 「蠹」字笔画错误，由 `viia` 改为 `vivu`
+- 「曾」字的拆分由 `丷` + `𭥴` 改为 `⿱丷⿴囗⺌` + `日`，形码由 `ouia` 改为 `ouoi`
 
 ### 集中改动
 - 根据 [Issue 4](https://github.com/amorphobia/rime-jiandao/issues/4) 整理的表格，将大部分 chaojizici 中的字移入 danzi

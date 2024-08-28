@@ -1694,7 +1694,7 @@
 蹭	croiou
 噌	croo
 噌	crooui
-曾	crouia
+曾	crouoi
 擦	cs
 拆	csi
 𫢺	csia
@@ -27653,7 +27653,7 @@
 鄫	zroua
 鄫	zrouai
 䎖	zrouao
-曾	zrouia
+曾	zrouoi
 甑	zrouva
 矰	zru
 矰	zruvou
