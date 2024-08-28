@@ -71,6 +71,11 @@ jobs:
           sed -i 's/*jiandao\///g' jiandao.schema.yaml
           zip -r -q ../jiandao-legacy.zip *
 
+      - name: Make Xiaoxiao Zip
+        run: |
+          cd xiaoxiao
+          zip -r -q ../jiandao-xiaoxiao.zip *
+
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
@@ -78,6 +83,7 @@ jobs:
           path: |
             jiandao.zip
             jiandao-legacy.zip
+            jiandao-xiaoxiao.zip
 
   create-release:
     name: Create Release
@@ -99,6 +105,7 @@ jobs:
           mv schema/recipe.yaml release/
           mv jiandao.zip jiandao-${{ github.ref_name }}.zip
           mv jiandao-legacy.zip jiandao-legacy-${{ github.ref_name }}.zip
+          mv jiandao-xiaoxiao.zip jiandao-xiaoxiao-${{ github.ref_name }}.zip
 
       - name: Create Release and Upload Assets
         uses: softprops/action-gh-release@v2
@@ -106,6 +113,7 @@ jobs:
           files: |
             jiandao-${{ github.ref_name }}.zip
             jiandao-legacy-${{ github.ref_name }}.zip
+            jiandao-xiaoxiao-${{ github.ref_name }}.zip
             scripts/installer.bat
 
       - name: Push to Release

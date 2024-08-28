@@ -39,6 +39,7 @@ usage() {
 
 RAWDICT="${BASEDIR}/../dicts/cizu_raw.txt"
 OUTPUT="${BASEDIR}/../schema/jiandao.base.dict.yaml"
+XIAOXIAO="${BASEDIR}/../xiaoxiao/mb/jiandao.txt"
 VERSION="master"
 DEWEIGHT=0
 
@@ -163,3 +164,15 @@ import_tables:
   - jiandao.user
 ...
 EOF
+
+cat << EOF > ${XIAOXIAO}
+encode=UTF-8
+name=🌟️星空键道
+key=zyxwvutsrqponmlkjihgfedcba
+len=6
+wildcard=]
+assist=\` mb/pinyin.txt
+[data]
+EOF
+
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/0*.txt >> ${XIAOXIAO}
