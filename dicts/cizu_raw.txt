@@ -58585,7 +58585,6 @@
 冷冰冰	lbb	ooo	1000
 拉㞎㞎	lbb	iaa	899
 李冰冰	lbb	voo	897
-拉粑粑	lbb	ioo	798
 两鬓斑白	lbbb	vv	1000
 林彪	lbbc	vi	1000
 临别	lbbd	io	1000
