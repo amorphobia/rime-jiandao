@@ -34,13 +34,20 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 
 #### 小狼毫：PowerShell 小工具（内含于批处理脚本中）
 
-**方式一** 在发布页面（[GitHub](https://github.com/amorphobia/rime-jiandao/releases)，[Gitee](https://gitee.com/amorphobia/rime-jiandao/releases)）下载 `installer.bat` 到本地，双击运行。
+**方式一** 在发布页面（[GitHub](https://github.com/amorphobia/rime-jiandao/releases)，[Gitee](https://gitee.com/amorphobia/rime-jiandao/releases)）下载 `weasel-installer.bat` 到本地，双击运行。
 
 **方式二** 在 PowerShell 中执行以下命令，然后按照提示安装即可。
 
 ```PowerShell
 irm 0xa.nl/get-jd-win | iex
 ```
+
+#### 小小输入法
+
+> [!NOTE]
+> 本仓库不会主动打包小小输入法的主程序，请在小小输入法的[官方网站](http://yong.dgod.net/download/)或者[官方网盘](http://yongim.ysepan.com/)下载
+
+在发布页面（[GitHub](https://github.com/amorphobia/rime-jiandao/releases)，[Gitee](https://gitee.com/amorphobia/rime-jiandao/releases)）下载最新版的 `jiandao-xiaoxiao-<version>.zip`，将压缩包全部内容解压到输入法目录下的 `.yong` 里，注意文件夹名字由英文半角句点开头，若无此文件夹请新建。
 
 如果遇到错误，运行一次 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` 再试。
 

@@ -106,6 +106,7 @@ jobs:
           mv jiandao.zip jiandao-${{ github.ref_name }}.zip
           mv jiandao-legacy.zip jiandao-legacy-${{ github.ref_name }}.zip
           mv jiandao-xiaoxiao.zip jiandao-xiaoxiao-${{ github.ref_name }}.zip
+          cp scripts/installer.bat weasel-installer.bat
 
       - name: Create Release and Upload Assets
         uses: softprops/action-gh-release@v2
@@ -114,7 +115,7 @@ jobs:
             jiandao-${{ github.ref_name }}.zip
             jiandao-legacy-${{ github.ref_name }}.zip
             jiandao-xiaoxiao-${{ github.ref_name }}.zip
-            scripts/installer.bat
+            weasel-installer.bat
 
       - name: Push to Release
         uses: s0/git-publish-subdir-action@v2.6.0
