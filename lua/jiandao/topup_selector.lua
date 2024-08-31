@@ -1,6 +1,7 @@
 --[[
     Topup Selector
     Copyright (C) 2020  TsFreddie <https://github.com/TsFreddie>
+    Copyright (C) 2024  Xuesong Peng <pengxuesong.cn@gmail.com>
 
     https://github.com/xkjd27/rime_jd27c/blob/e38a8c5d010d5a3933e6d6d8265c0cf7b56bfcca/rime/lua/jd27_topup.lua
     顶功处理器 by TsFreddie
@@ -99,6 +100,14 @@ local function processor(key_event, env)
         topup(env)
     end
 
+    if not is_prev_topup and not is_topup and env.mem then
+        -- input_len < min_len now
+        local input_to_be = input .. key
+        if not env.mem:dict_lookup(input_to_be, true, 1) then
+            context:commit()
+        end
+    end
+
     return 2
 end
 
@@ -113,6 +122,8 @@ local function init(env)
     env.auto_clear = config:get_bool("topup/auto_clear") or false
     env.topup_command = config:get_bool("topup/topup_command") or false
     env.enabled = true
+
+    env.mem = env.mem or Memory(env.engine, env.engine.schema)
 end
 
 return { init = init, func = processor }
