@@ -1,0 +1,5 @@
+oej $hour:$min:$sec
+orq $yyyy年$mon0月$day0日
+orq $yyyy-$mon0-$day0
+orq $YYYY0年$MON月$DAY日
+oxq 星期$WEEK

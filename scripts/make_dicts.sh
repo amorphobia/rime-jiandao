@@ -175,4 +175,9 @@ assist=\` mb/pinyin.txt
 [data]
 EOF
 
-awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/0*.txt >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/01.danzi.txt >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' 'NR==FNR {map[$1] = $2; next} {if (!map[$1]) print $2,$1; else print $2,"$["$1"("map[$1]")]"$1}' ${BASEDIR}/../dicts/06.630.txt ${BASEDIR}/../dicts/02.cizu.txt >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/03.fuhao.txt >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/04.buchong.txt >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/06.630.txt >> ${XIAOXIAO}
+cat ${BASEDIR}/../dicts/xiaoxiao.txt >> ${XIAOXIAO}
