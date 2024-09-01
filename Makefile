@@ -24,9 +24,6 @@ check:
 	bash scripts/sanity_check.sh
 
 clean:
-ifneq ("$(wildcard dicts/cizu_raw.txt.bak)", "")
-	mv dicts/cizu_raw.txt.bak dicts/cizu_raw.txt
-endif
-	rm -rf dicts/02.cizu.txt schema/*.dict.yaml temp.txt xiaoxiao/mb/jiandao.txt
+	rm -rf dicts/02.cizu.txt dicts/cizu_raw_work.txt schema/*.dict.yaml temp.txt xiaoxiao/mb/jiandao.txt
 
 .PHONY: all dicts deweight check clean

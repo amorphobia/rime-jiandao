@@ -37,7 +37,8 @@ usage() {
     echo " -h, --help             display this help"
 }
 
-RAWDICT="${BASEDIR}/../dicts/cizu_raw.txt"
+RAWDICT_ORG="${BASEDIR}/../dicts/cizu_raw.txt"
+RAWDICT="${BASEDIR}/../dicts/cizu_raw_work.txt"
 OUTPUT="${BASEDIR}/../schema/jiandao.base.dict.yaml"
 XIAOXIAO="${BASEDIR}/../xiaoxiao/mb/jiandao.txt"
 VERSION="master"
@@ -78,10 +79,7 @@ while true; do
             shift
             ;;
         --clean )
-            if [[ -f "${RAWDICT}.bak" ]]; then
-                mv "${RAWDICT}.bak" ${RAWDICT}
-            fi
-            rm -f ${BASEDIR}/../dicts/02.cizu.txt $(dirname "${OUTPUT}")/*.dict.yaml temp.txt
+            rm -f ${BASEDIR}/../dicts/02.cizu.txt ${RAWDICT} $(dirname "${OUTPUT}")/*.dict.yaml temp.txt
             exit
             ;;
         -- )
@@ -95,12 +93,12 @@ while true; do
     esac
 done
 
-if [[ ! -f ${RAWDICT} ]]; then
-    echo "${RAWDICT} does not exist."
+if [[ ! -f ${RAWDICT_ORG} ]]; then
+    echo "${RAWDICT_ORG} does not exist."
     exit
 fi
 
-cp ${RAWDICT} "${RAWDICT}.bak"
+cp ${RAWDICT_ORG} ${RAWDICT}
 
 if [[ ! -f ${APPEND} ]]; then
     APPEND=""
