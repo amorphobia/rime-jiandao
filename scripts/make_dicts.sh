@@ -170,6 +170,7 @@ key=zyxwvutsrqponmlkjihgfedcba
 len=6
 wildcard=]
 assist=\` mb/pinyin.txt
+user=mb/jiandao.user.txt
 [data]
 EOF
 
@@ -179,3 +180,11 @@ awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/03.fuhao.txt >> ${
 awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/04.buchong.txt >> ${XIAOXIAO}
 awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/06.630.txt >> ${XIAOXIAO}
 cat ${BASEDIR}/../dicts/xiaoxiao.txt >> ${XIAOXIAO}
+
+cat << EOF > $(dirname "${XIAOXIAO}")/jiandao.user.txt
+# 编码必须为 GB18030
+# 𮧵䶮 <- 此信息正确显示时编码大概率识别正确（不排除特殊情况）
+EOF
+
+iconv -f utf-8 -t gb18030 $(dirname "${XIAOXIAO}")/jiandao.user.txt -o temp.txt
+mv temp.txt $(dirname "${XIAOXIAO}")/jiandao.user.txt
