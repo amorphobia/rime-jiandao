@@ -1,6 +1,6 @@
 --[[
     Unicode Translator
-    Copyright (C) 2023  Xuesong Peng <pengxuesong.cn@gmail.com>
+    Copyright (C) 2023 - 2024 Xuesong Peng <pengxuesong.cn@gmail.com>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
@@ -17,17 +17,12 @@
 --]]
 
 local function translator(input, seg)
-    local is_win = package.config:sub(1,1) == "\\"
     local delimiter = string.find(input, "u`")
     if delimiter ~= nil then
         local input_code = string.sub(input, delimiter + 2)
         local codepoint = tonumber(input_code, 16)
         if codepoint ~= nil then
             local ch = utf8.char(codepoint)
-            -- to prevent software crashing on Windows
-            if is_win and codepoint == 10 then
-                ch = "LF"
-            end
             local cand = Candidate("unicode", seg.start, seg._end, ch, " Unicode")
             -- input_code = string.format("%04s", input_code)
             -- string.format not working in Hamster
