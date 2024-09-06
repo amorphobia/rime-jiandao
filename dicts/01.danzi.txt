@@ -7307,7 +7307,7 @@
 㹴	grua
 鲠	gruavi
 㹴	gruavi
-耕	grv
+梗	grv
 耿	grvi
 更	grviav
 耿	grviou
@@ -7322,7 +7322,7 @@
 埂	grvovi
 𬒔	grvu
 𬒔	grvuiv
-梗	grvv
+耕	grvv
 梗	grvvia
 耕	grvvvv
 嘎	gs
