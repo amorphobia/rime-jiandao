@@ -5863,6 +5863,7 @@
 蠭	fruaia
 㷭	fruao
 逢	fruaoa
+㶻	fruaoo
 㷭	fruaou
 风	fruauo
 凨	fruav
@@ -6963,6 +6964,7 @@
 䀇	gjuoi
 䀇	gjuoia
 辜	gjuoo
+怘	gjuooa
 古	gjuooo
 谷	gjuooo
 辜	gjuoov
@@ -8301,6 +8303,8 @@
 鹕	hjuo
 乯	hjuoa
 乯	hjuoaa
+怘	hjuoo
+怘	hjuooa
 鹕	hjuoua
 胡	hjuouu
 乎	hjuouv
@@ -8309,6 +8313,8 @@
 戶	hjuuav
 衚	hjuuu
 衚	hjuuuo
+𠂰	hjuuv
+𠂰	hjuuva
 乕	hjuuvv
 鹄	hjuv
 和	hjuvoo
@@ -12834,6 +12840,8 @@
 懍	lbooov
 恡	lboou
 恡	lboouo
+㝝	lboov
+㝝	lboovv
 粼	lbou
 翷	lboua
 亃	lbouaa
@@ -15966,6 +15974,7 @@
 摄	ndiu
 捏	ndiuoi
 揑	ndiuu
+㝹	ndiuua
 揑	ndiuui
 摄	ndiuvi
 蹑	ndo
@@ -16002,6 +16011,8 @@
 摰	ndvoiu
 㘿	ndvoo
 㘿	ndvooi
+䨲	ndvou
+䨲	ndvoua
 槷	ndvovv
 㚔	ndvu
 㚔	ndvuou
@@ -21312,6 +21323,8 @@
 秃	tjuvua
 禿	tjuvua
 土	tjv
+𠫓	tjva	#⿻厶一
+𠫓	tjvaoo	#⿻厶一
 酴	tjvi
 酴	tjviiv
 梌	tjviv
@@ -22213,7 +22226,9 @@
 𱒦	wdovvv
 愁	wdu
 㲋	wdua
+㚟	wduav
 㲋	wduava
+㚟	wduavu
 臭	wdui
 臭	wduivu
 筹	wduv
@@ -22374,6 +22389,8 @@
 埦	wfvooo
 豌	wfvooo
 塆	wfvoov
+䨲	wfvou
+䨲	wfvoua
 碗	wfvu
 碗	wfvuoo
 玩	wfvv
@@ -22560,6 +22577,7 @@
 牾	wjuvv
 啎	wjuvvi
 牾	wjuvvi
+橆	wjuvvv
 五	wjv
 吾	wjvi
 郚	wjvia
@@ -27158,6 +27176,7 @@
 臆	ykuo
 刈	ykuoi
 刈	ykuoii
+䖊	ykuoiv
 乂	ykuoo	#全码
 臆	ykuovo
 役	ykuu
