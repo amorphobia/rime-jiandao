@@ -24,6 +24,6 @@ check:
 	bash scripts/sanity_check.sh
 
 clean:
-	rm -rf dicts/02.cizu.txt dicts/cizu_raw_work.txt schema/*.dict.yaml temp.txt xiaoxiao/mb/jiandao.txt
+	rm -rf dicts/02.cizu.txt dicts/cizu_raw_work.txt schema/*.dict.yaml temp.txt xiaoxiao/mb/jiandao*.txt
 
 .PHONY: all dicts deweight check clean
