@@ -174,12 +174,15 @@ user=mb/jiandao.user.txt
 [data]
 EOF
 
-awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/01.danzi.txt >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' <(cat ${BASEDIR}/../dicts/01.danzi.txt | tr -d '\r') >> ${XIAOXIAO}
 awk -v FS='\t' -v OFS=' ' 'NR==FNR {map[$1] = $2; next} {if (!map[$1]) print $2,$1; else print $2,"$["$1"("map[$1]")]"$1}' ${BASEDIR}/../dicts/06.630.txt ${BASEDIR}/../dicts/02.cizu.txt >> ${XIAOXIAO}
-awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/03.fuhao.txt >> ${XIAOXIAO}
-awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/04.buchong.txt >> ${XIAOXIAO}
-awk -v FS='\t' -v OFS=' ' '{print $2,$1}' ${BASEDIR}/../dicts/06.630.txt >> ${XIAOXIAO}
-cat ${BASEDIR}/../dicts/xiaoxiao.txt >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' <(cat ${BASEDIR}/../dicts/03.fuhao.txt | tr -d '\r') >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' <(cat ${BASEDIR}/../dicts/04.buchong.txt | tr -d '\r') >> ${XIAOXIAO}
+awk -v FS='\t' -v OFS=' ' '{print $2,$1}' <(cat ${BASEDIR}/../dicts/06.630.txt | tr -d '\r') >> ${XIAOXIAO}
+cat ${BASEDIR}/../dicts/xiaoxiao.txt | tr -d '\r' >> ${XIAOXIAO}
+sed -i -e 's/\\n/$\//g' ${XIAOXIAO}
+sed -i -e 's/\\t/\t/g' ${XIAOXIAO}
+sed -i -e 's/\\\\/\\/g' ${XIAOXIAO}
 
 cat << EOF > $(dirname "${XIAOXIAO}")/jiandao.user.txt
 # 编码必须为 GB18030
