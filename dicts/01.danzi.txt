@@ -6585,6 +6585,8 @@
 冓	gdvvia
 遘	gdvvo
 遘	gdvvoa
+𫖕	gdvvv
+𫖕	gdvvvv
 各	ge
 隔	gea
 纥	geaa
@@ -16058,6 +16060,8 @@
 萳	nfii
 侽	nfiia
 侽	nfiiav
+莮	nfiii
+莮	nfiiia
 萳	nfiiuo
 抩	nfiu
 抩	nfiuia
