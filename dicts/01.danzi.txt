@@ -1566,6 +1566,8 @@
 蹙	cjvuoi
 𫖹	cjvuv
 𫖹	cjvuvu
+𡝉	cjvv
+𡝉	cjvvau
 次	ck
 赐	cka
 𬘷	ckaa
@@ -9132,6 +9134,10 @@
 好	hz
 浩	hza
 乚	hzaa	#全码
+㝀	hzaaa
+㝀	hzaaai
+𡥃	hzai
+𡥃	hzaiau
 濠	hzao
 灏	hzaoi
 灏	hzaoio
@@ -10155,7 +10161,9 @@
 娕	jjau
 㛀	jjauu
 㛀	jjauua
+𡝈	jjauv
 娕	jjauvi
+𡝈	jjauvv
 濋	jjav
 濋	jjavva
 储	jji
@@ -14355,6 +14363,8 @@
 滦	ltaovi
 𪢮	lti
 圝	ltia
+𤲶	ltiai
+𤲶	ltiaia
 𪢮	ltiaov
 圝	ltiaov
 峦	lto
@@ -14626,6 +14636,7 @@
 砻	lyvuv
 聋	lyvuvi
 垄	lyvuvo
+𫜲	lyvuvu
 砻	lyvuvu
 𬺜	lyvuvv
 硦	lyvuvv
@@ -15923,6 +15934,8 @@
 茑	nci
 嬲	ncia
 嬲	nciaau
+𤲶	nciai
+𤲶	nciaia
 茑	nciiua
 𬡇	nco
 𬡇	ncovaa
@@ -26509,6 +26522,7 @@
 偃	yfivoi
 弇	yfivv
 甗	yfivva
+鬳	yfivvo
 弇	yfivvu
 言	yfo
 谚	yfoa
@@ -28161,6 +28175,8 @@
 滧	yzao
 滧	yzaovu
 姚	yzau
+𡣡	yzaui
+𡣡	yzauia
 媱	yzauu
 姚	yzauuo
 媱	yzauuo
@@ -28169,6 +28185,8 @@
 婹	yzauvi
 药	yzi
 崾	yzia
+𡣠	yziaa
+𡣠	yziaau
 岆	yziau
 岆	yziauv
 峣	yziav
