@@ -7575,6 +7575,7 @@
 硔	gyvuv
 龚	gyvuvi
 硔	gyvuvi
+𱍁	gyvuvu
 珙	gyvv
 栱	gyvvi
 栱	gyvvii
@@ -14574,11 +14575,15 @@
 隆	lya
 漋	lyaa
 漋	lyaaiu
+𩧪	lyaav
+𩧪	lyaavu
 陇	lyai
 隆	lyaiua
 陇	lyaivu
 滝	lyao
+𫎦	lyaov
 滝	lyaovo
+𫎦	lyaovu
 㛞	lyau
 㛞	lyauvv
 泷	lyav
@@ -14595,16 +14600,26 @@
 㟖	lyiavv
 茏	lyii
 茏	lyiivu
+𰽦	lyio
+𰽦	lyiovu
 拢	lyiuvu
 𫢒	lyiv
 𫢒	lyivua
 咙	lyo
+𰳲	lyoa
+𰳲	lyoavu
 昽	lyoi
+𨀁	lyoiv
 昽	lyoivu
+𨀁	lyoivu
 窿	lyoo
 窿	lyooai
 𡬕	lyoou
 𡬕	lyoouo
+𰩅	lyoov
+𰩅	lyoovu
+𤇭	lyou
+𤇭	lyouvu
 癃	lyov
 癃	lyovai
 竜	lyovi
@@ -14613,30 +14628,47 @@
 哢	lyovv
 哢	lyovvi
 笼	lyu
+𬧢	lyui
+𬧢	lyuivu
+𰶑	lyuo
+𰶑	lyuovu
 𦨩	lyuu
 衖	lyuuv
 衖	lyuuvi
+𪫌	lyuuvu
 𦨩	lyuuvu
 胧	lyuv
-篭	lyuvo
-篭	lyuvov
+篭	lyuvo	#日本汉字
+篭	lyuvov	#日本汉字
 胧	lyuvua
 𬕂	lyuvv
 𬕂	lyuvvi
 笼	lyuvvu
 垄	lyv
+𰭹	lyvi
+𫖅	lyviv
+𰭹	lyvivu
+𫖅	lyvivu
 垅	lyvo
 霳	lyvoa
 霳	lyvoai
+槞	lyvov	#日本汉字
+槞	lyvovo	#日本汉字
 垅	lyvovu
 聋	lyvu
 尨	lyvua
+𱅅	lyvuaa
 龙	lyvuau
 尨	lyvuau
+𰲴	lyvui
+𰲴	lyvuia
+𫛟	lyvuu
+𫛟	lyvuua
 砻	lyvuv
 聋	lyvuvi
 垄	lyvuvo
 𫜲	lyvuvu
+𰦭	lyvuvu
 砻	lyvuvu
 𬺜	lyvuvv
 硦	lyvuvv
@@ -22887,6 +22919,8 @@
 䰀	wlviuv
 硪	wlvu
 硪	wlvuuv
+𱍁	wlvuv
+𱍁	wlvuvu
 㦱	wlvv
 㦱	wlvvvo
 床	wm
@@ -23561,7 +23595,9 @@
 刱	wxvvau
 冲	wy
 涌	wya
+𱺕	wyaa
 涌	wyaaoi
+𱺕	wyaavu
 漴	wyai
 沖	wyaia
 漴	wyaiai
@@ -27608,6 +27644,8 @@
 玗	ylvvvv
 样	yp
 洋	ypa
+𩧫	ypaa
+𩧫	ypaaia
 阳	ypai
 泱	ypaia
 泱	ypaiav
@@ -28810,6 +28848,8 @@
 欌	zpvi	#无读音
 欌	zpviiv	#无读音
 㘸	zpvu
+𱅅	zpvua
+𱅅	zpvuaa
 臧	zpvuvi
 㘸	zpvuvo
 增	zr
