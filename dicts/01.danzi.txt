@@ -25797,6 +25797,8 @@
 飨	xxaa
 郷	xxaaa
 郷	xxaaav
+蚃	xxaai
+蚃	xxaaia
 飨	xxaaio
 骧	xxaao
 𬙋	xxaaov
