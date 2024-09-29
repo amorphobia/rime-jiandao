@@ -78,6 +78,7 @@ engine:
     - lua_filter@*jiandao/hint_filter
     - simplifier@traditionalization
     - reverse_lookup_filter@danzi_lookup
+    - lua_filter@*jiandao/escape_filter
 
 speller:
   algebra:
