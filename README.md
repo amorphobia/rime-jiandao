@@ -1,6 +1,6 @@
 # 🌟️星空键道输入方案
 
-配方：℞ jiandao
+配方：℞ jiandao ([在线试用](https://my-rime.vercel.app/?plum=amorphobia/rime-jiandao@release:jiandao))
 
 🌟️星空键道：自由的顶功输入方案
 
@@ -12,7 +12,7 @@
 
 ## 安装
 
-五种方式可以使用，前两种可用补丁形式对 cizu 进行修改，后三种方式无法对 cizu 词典进行非覆盖式的修改，请自行选择，注意有可能需要手动在 `default.custom.yaml` 里添加本方案 (jiandao)。
+多种方式可以使用，前两种可用补丁形式对 cizu 进行修改，后三种方式无法对 cizu 词典进行非覆盖式的修改，请自行选择，注意有可能需要手动在 `default.custom.yaml` 里添加本方案 (jiandao)。
 
 ### 1. 使用 Github Actions 自动生成方案文件
 
@@ -31,6 +31,10 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 需要修改为你自己的对应文件名，也可省略选项。生成的方案在 `schema` 目录中。
 
 ### 3. 不同平台的安装脚本 / 快捷指令
+
+#### My RIME 网页版
+
+可直接访问[链接](https://my-rime.vercel.app/?plum=amorphobia/rime-jiandao@release:jiandao)，等待部署完成即可试用。
 
 #### 小狼毫：PowerShell 小工具（内含于批处理脚本中）
 
