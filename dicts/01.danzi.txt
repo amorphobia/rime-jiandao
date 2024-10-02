@@ -613,6 +613,7 @@
 朼	bkvuaa
 觱	bkvuu
 觱	bkvuua
+𠁆	bkvuuo	#无读音
 夶	bkvuv
 皕	bkvuvu
 夶	bkvuvu
@@ -1684,6 +1685,8 @@
 莝	cliiii
 剉	cliiii
 侳	cliiiv
+蒫	cliio
+蒫	cliiou
 夎	cliiu
 夎	cliiua
 锉	clio
@@ -4523,6 +4526,8 @@
 顺	ewuivu
 舜	ewuo
 舜	ewuoua
+䐏	ewuv
+䐏	ewuvvv
 楯	ewv
 橓	ewvu
 橓	ewvuoo
@@ -5009,6 +5014,8 @@
 䍉	fhuvou
 厇	fhv
 厏	fhvu
+䬩	fhvui
+䬩	fhvuio
 厇	fhvuuv
 厏	fhvuuv
 服	fj
@@ -5685,6 +5692,8 @@
 焋	fmaio
 焋	fmaiou
 奘	fmaivu
+湷	fmav
+湷	fmavvv
 撞	fmi
 幢	fmia
 幢	fmiaov
@@ -6269,6 +6278,8 @@
 焋	fxaio
 焋	fxaiou
 奘	fxaivu
+湷	fxav
+湷	fxavvv
 撞	fxi
 幢	fxia
 幢	fxiaov
@@ -11763,7 +11774,9 @@
 骏	jwaaao
 浚	jwaao
 浚	jwaaou
+𩨁	jwaav
 纯	jwaava
+𩨁	jwaavv
 濬	jwai
 陖	jwaia
 陖	jwaiao
@@ -11797,6 +11810,7 @@
 蚐	jwiau
 蚐	jwiaua
 蝽	jwiav
+睶	jwiavv
 蝽	jwiavv
 菌	jwii
 莼	jwiia
@@ -11809,6 +11823,7 @@
 㑺	jwiiov
 儁	jwiiov
 芚	jwiiv
+萅	jwiiva
 芚	jwiiva
 钧	jwio
 隽	jwioa
@@ -11823,6 +11838,8 @@
 攟	jwiuo
 𢹲	jwiuov
 攟	jwiuov
+𢰦	jwiuv
+𢰦	jwiuvv
 偆	jwiv
 偆	jwivvv
 军	jwo
@@ -11831,6 +11848,8 @@
 军	jwoava
 晙	jwoi
 晙	jwoiao
+暙	jwoiv
+暙	jwoivv
 寯	jwoo
 寯	jwooio
 焌	jwou
@@ -11846,6 +11865,8 @@
 鹑	jwovu
 鹑	jwovua
 麇	jwovuv
+㖺	jwovv
+㖺	jwovvv
 龟	jwu
 鲪	jwua
 馂	jwuaa
@@ -11857,11 +11878,16 @@
 䲠	jwuavv
 䐃	jwui
 䐃	jwuiau
+㿤	jwuiv
+㿤	jwuivv
 𢧨	jwuo
 𢨎	jwuoa
 𢨎	jwuoai
 𢨣	jwuoi
 𢨣	jwuoia
+𣇸	jwuoo
+㫩	jwuooi
+𣇸	jwuooi
 𢧭	jwuov
 𢧭	jwuova
 𢧨	jwuovv
@@ -11873,6 +11899,8 @@
 䏝	jwuvv
 䏝	jwuvva
 筠	jwuvvo
+箺	jwuvvv
+䐏	jwuvvv
 春	jwv
 𮝸	jwva
 旾	jwvao
@@ -15478,6 +15506,8 @@
 樒	mkvooa
 𲁑	mkvu
 𲁑	mkvuia
+㫘	mkvuo
+㫘	mkvuoi
 摸	ml
 漠	mla
 𬙊	mlaa
@@ -18424,7 +18454,9 @@
 卻	qhuoai
 豸	qhuoou
 䍉	qhuv
+𡙇	qhuva
 缺	qhuvav
+𡙇	qhuvav
 䍉	qhuvou
 确	qhv
 鹊	qhvi
@@ -18452,6 +18484,8 @@
 𥔳	qhvovu
 𢢢	qhvovv
 碏	qhvu
+䬩	qhvui
+䬩	qhvuio
 碻	qhvuo
 碻	qhvuov
 厇	qhvuu
@@ -19059,6 +19093,7 @@
 䕭	qmiiv
 茜	qmiivi
 䕭	qmiivo
+茾	qmiivv
 铅	qmio
 钤	qmioi
 𰾑	qmioio
@@ -19148,6 +19183,8 @@
 签	qmuviv
 迁	qmuvo
 迁	qmuvoa
+缼	qmuvu
+缼	qmuvua
 圱	qmuvv
 圱	qmuvvo
 牵	qmv
@@ -19259,6 +19296,8 @@
 𮬤	qnuauv
 獉	qnuavv
 胗	qnui
+䠴	qnuio
+䠴	qnuiov
 胗	qnuiuu
 𰮤	qnuo
 真	qnuouo
@@ -21593,6 +21632,8 @@
 兔	tjuaia
 兎	tjui
 兎	tjuiav
+迌	tjuo
+迌	tjuoao
 腯	tjuu
 腯	tjuuuu
 徒	tjuuvo
@@ -22039,6 +22080,8 @@
 熥	troua
 熥	trouao
 誊	trouov
+痋	trov
+痋	trovia
 疼	trovua
 滕	tru
 螣	truo
@@ -23896,8 +23939,12 @@
 宠	wyoovu
 嘃	wyoovu
 喠	wyou
+𣇃	wyoui	#日本汉字
+𣇃	wyouio	#日本汉字
 喠	wyouvi
+痋	wyov
 冲	wyovia
+痋	wyovia
 充	wyovua
 重	wyu
 䖝	wyui
@@ -23913,6 +23960,8 @@
 埫	wyvo
 埫	wyvoio
 珫	wyvv
+㫪	wyvvi	#日本汉字
+㫪	wyvvio	#日本汉字
 憃	wyvvo
 憃	wyvvoa
 珫	wyvvov
@@ -28409,6 +28458,8 @@
 匂	ywuaua
 勻	ywuav
 勻	ywuavv
+𣍯	ywuo
+𣍯	ywuoav
 氲	ywuv
 氳	ywuvi
 氳	ywuvia
