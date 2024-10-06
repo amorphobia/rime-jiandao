@@ -1,5 +1,6 @@
 {
     "editor.detectIndentation": false,
     "editor.insertSpaces": false,
-    "editor.tabSize": 16
+    "editor.tabSize": 16,
+    "editor.acceptSuggestionOnEnter": "off",
 }
