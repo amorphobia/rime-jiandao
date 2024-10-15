@@ -21,8 +21,9 @@ local function filter(input)
     local text = string.gsub(cand.text, "\\n", "\n")
     text = string.gsub(text, "\\t", "\t")
     text = string.gsub(text, "\\\\", "\\")
-    local comment = cand:get_genuine().comment
-    yield(Candidate(cand.type, cand._start, cand._end, text, comment))
+    new_cand = Candidate(cand.type, cand._start, cand._end, text, cand.comment)
+    new_cand.preedit = cand.preedit
+    yield(new_cand)
   end
 end
 
