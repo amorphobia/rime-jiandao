@@ -17,7 +17,7 @@
 --]]
 
 local function translator(input, seg)
-    local delimiter = string.find(input, "u`")
+    local delimiter = string.find(input, "uu")
     if delimiter ~= nil then
         local input_code = string.sub(input, delimiter + 2)
         local codepoint = tonumber(input_code, 16)
