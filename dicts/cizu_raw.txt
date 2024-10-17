@@ -75675,7 +75675,6 @@
 齐白石	qbe	ouv	796
 这不是	qbe	ovo	795
 针砭时弊	qbeb	iv	1000
-针贬时弊	qbeb	ia	899
 亲水	qbeb	oa	898
 亲手	qbed	oi	1000
 禽兽	qbed	io	899
