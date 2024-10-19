@@ -1,0 +1,937 @@
+{
+   "WFWorkflowMinimumClientVersionString": "1106",
+   "WFWorkflowMinimumClientVersion": 1106,
+   "WFWorkflowIcon": {
+      "WFWorkflowIconStartColor": -20702977,
+      "WFWorkflowIconGlyphNumber": 59841
+   },
+   "WFWorkflowClientVersion": "3036.0.7",
+   "WFWorkflowOutputContentItemClasses": [],
+   "WFWorkflowHasOutputFallback": false,
+   "WFWorkflowActions": [
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.comment",
+         "WFWorkflowActionParameters": {
+            "WFCommentActionText": "RIME Jiandao Installer for Hamster\nCopyright (C) 2023, 2024 Xuesong Peng <pengxuesong.cn@gmail.com>\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.\n\nYou should have received a copy of the GNU Affero General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>."
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.gettext",
+         "WFWorkflowActionParameters": {
+            "WFTextActionText": "⚠️注意⚠️\n\n运行前：\n\n❗️需要安装仓输入法，且新版本的仓输入法才能自动重新部署\n❗️请根据提示选择仓输入法的顶层目录\n\n运行过程中：\n\n❗️需要授权此快捷指令访问相应网址才能下载键道方案\n❗️需要授权此快捷指令访问仓输入法目录才能储存方案文件\n❗️需要授权此快捷指令运行仓输入法提供的指令才能自动重新部署",
+            "UUID": "4B8D6295-EEFD-436B-883B-7B87C6D5C2D8"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.file",
+         "WFWorkflowActionParameters": {
+            "UUID": "4A58D12F-0326-413F-B5E7-B1B16D4A0EFD"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "Type": "ActionOutput",
+                     "OutputName": "文件",
+                     "OutputUUID": "4A58D12F-0326-413F-B5E7-B1B16D4A0EFD",
+                     "Aggrandizements": [
+                        {
+                           "PropertyUserInfo": {},
+                           "Type": "WFPropertyVariableAggrandizement",
+                           "PropertyName": "File Path"
+                        }
+                     ]
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "GroupingIdentifier": "D61B11E8-A89F-4D2C-8DB6-993CE8D2862A",
+            "WFCondition": 101
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.alert",
+         "WFWorkflowActionParameters": {
+            "WFAlertActionMessage": "请选择仓输入法顶层目录",
+            "WFAlertActionTitle": "未设置仓输入法目录"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.file.select",
+         "WFWorkflowActionParameters": {
+            "WFPickingMode": "Folders",
+            "UUID": "AC45BDDA-A605-4AD1-A377-3B96B86D9735"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "D61B11E8-A89F-4D2C-8DB6-993CE8D2862A",
+            "UUID": "D2D58F53-5615-4655-A1E1-5C55355E64C5"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "D2D58F53-5615-4655-A1E1-5C55355E64C5",
+                  "Type": "ActionOutput",
+                  "OutputName": "如果的结果"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "仓输入法目录"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.list",
+         "WFWorkflowActionParameters": {
+            "WFItems": [
+               "GitHub",
+               "Gitee"
+            ],
+            "CustomOutputName": "源选项",
+            "UUID": "86C24813-6BE6-41F4-BCE5-DEE2B9A74D3E"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.choosefromlist",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "86C24813-6BE6-41F4-BCE5-DEE2B9A74D3E",
+                  "Type": "ActionOutput",
+                  "OutputName": "源选项"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFChooseFromListActionPrompt": "请选择下载源",
+            "CustomOutputName": "源",
+            "UUID": "563FBC14-3A9B-44A9-87E1-AFABABDAA2E2"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.list",
+         "WFWorkflowActionParameters": {
+            "WFItems": [
+               "1. 覆盖用户配置（default.custom.yaml）",
+               "2. 覆盖用户词典（jiandao.user.dict.yaml）",
+               "3. 同时覆盖两者",
+               "4. 两者均不覆盖"
+            ],
+            "CustomOutputName": "覆盖选项",
+            "UUID": "975304BE-F793-47D3-971C-0EEBE0F0EA12"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.choosefromlist",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "975304BE-F793-47D3-971C-0EEBE0F0EA12",
+                  "Type": "ActionOutput",
+                  "OutputName": "覆盖选项"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFChooseFromListActionPrompt": "请选择覆盖方式",
+            "CustomOutputName": "覆盖选择",
+            "UUID": "F6B9D116-9604-4732-A09E-A3ABA3BE2296"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "OutputUUID": "563FBC14-3A9B-44A9-87E1-AFABABDAA2E2",
+                     "Type": "ActionOutput",
+                     "OutputName": "源"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFConditionalActionString": "GitHub",
+            "GroupingIdentifier": "9FAC566C-EECA-4577-ADBC-9DC0466C840F",
+            "WFCondition": 4
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.gettext",
+         "WFWorkflowActionParameters": {
+            "WFTextActionText": "https://api.github.com/repos/amorphobia/rime-jiandao/releases/latest",
+            "UUID": "D7A6F307-32BB-4C32-8F7A-8C20C4662F76"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "GroupingIdentifier": "9FAC566C-EECA-4577-ADBC-9DC0466C840F",
+            "WFControlFlowMode": 1
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.gettext",
+         "WFWorkflowActionParameters": {
+            "WFTextActionText": "https://gitee.com/api/v5/repos/amorphobia/rime-jiandao/releases/latest",
+            "UUID": "29DAA606-50B7-48B5-B837-0310A686DFB3"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "9FAC566C-EECA-4577-ADBC-9DC0466C840F",
+            "UUID": "E9F2A3B8-33D2-442F-8723-EF90DD179029"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.downloadurl",
+         "WFWorkflowActionParameters": {
+            "WFURL": {
+               "Value": {
+                  "string": "\uFFFC",
+                  "attachmentsByRange": {
+                     "{0, 1}": {
+                        "OutputUUID": "E9F2A3B8-33D2-442F-8723-EF90DD179029",
+                        "Type": "ActionOutput",
+                        "OutputName": "如果的结果"
+                     }
+                  }
+               },
+               "WFSerializationType": "WFTextTokenString"
+            },
+            "UUID": "C0FFFDCF-ECB2-4DAA-8DEE-9982C7224A60"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.detect.dictionary",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "C0FFFDCF-ECB2-4DAA-8DEE-9982C7224A60",
+                  "Type": "ActionOutput",
+                  "OutputName": "URL的内容"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "UUID": "36D78610-F6D6-4443-9BA2-93C4396043C3"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.getvalueforkey",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "36D78610-F6D6-4443-9BA2-93C4396043C3",
+                  "Type": "ActionOutput",
+                  "OutputName": "词典"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "CustomOutputName": "标签",
+            "UUID": "0760D2E3-3EC8-4917-B99B-92D555A6B8D2",
+            "WFDictionaryKey": "tag_name"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "OutputUUID": "563FBC14-3A9B-44A9-87E1-AFABABDAA2E2",
+                     "Type": "ActionOutput",
+                     "OutputName": "源"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFConditionalActionString": "GitHub",
+            "GroupingIdentifier": "228FFD08-2E44-472B-99D3-7CC459FE0AA9",
+            "WFCondition": 4
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.gettext",
+         "WFWorkflowActionParameters": {
+            "WFTextActionText": {
+               "Value": {
+                  "string": "https://github.com/amorphobia/rime-jiandao/releases/download/\uFFFC/jiandao-\uFFFC.zip",
+                  "attachmentsByRange": {
+                     "{61, 1}": {
+                        "OutputUUID": "0760D2E3-3EC8-4917-B99B-92D555A6B8D2",
+                        "Type": "ActionOutput",
+                        "OutputName": "标签"
+                     },
+                     "{71, 1}": {
+                        "OutputUUID": "0760D2E3-3EC8-4917-B99B-92D555A6B8D2",
+                        "Type": "ActionOutput",
+                        "OutputName": "标签"
+                     }
+                  }
+               },
+               "WFSerializationType": "WFTextTokenString"
+            },
+            "UUID": "B5AD7B52-7026-45E2-A55B-39DEBDF619AC"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "GroupingIdentifier": "228FFD08-2E44-472B-99D3-7CC459FE0AA9",
+            "WFControlFlowMode": 1
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.gettext",
+         "WFWorkflowActionParameters": {
+            "WFTextActionText": {
+               "Value": {
+                  "string": "https://gitee.com/amorphobia/rime-jiandao/releases/download/\uFFFC/jiandao-\uFFFC.zip",
+                  "attachmentsByRange": {
+                     "{60, 1}": {
+                        "OutputUUID": "0760D2E3-3EC8-4917-B99B-92D555A6B8D2",
+                        "Type": "ActionOutput",
+                        "OutputName": "标签"
+                     },
+                     "{70, 1}": {
+                        "OutputUUID": "0760D2E3-3EC8-4917-B99B-92D555A6B8D2",
+                        "Type": "ActionOutput",
+                        "OutputName": "标签"
+                     }
+                  }
+               },
+               "WFSerializationType": "WFTextTokenString"
+            },
+            "UUID": "91490D8D-ECED-40D1-B526-1D0CBF706607"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "228FFD08-2E44-472B-99D3-7CC459FE0AA9",
+            "UUID": "C446E47C-A9C7-424A-AAF7-7C2D1EBC70C2"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.downloadurl",
+         "WFWorkflowActionParameters": {
+            "WFURL": {
+               "Value": {
+                  "string": "\uFFFC",
+                  "attachmentsByRange": {
+                     "{0, 1}": {
+                        "OutputUUID": "C446E47C-A9C7-424A-AAF7-7C2D1EBC70C2",
+                        "Type": "ActionOutput",
+                        "OutputName": "如果的结果"
+                     }
+                  }
+               },
+               "WFSerializationType": "WFTextTokenString"
+            },
+            "CustomOutputName": "下载的压缩包",
+            "UUID": "EB99AA4B-E755-4A55-8470-A2B41333E28F"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.number",
+         "WFWorkflowActionParameters": {
+            "WFNumberActionNumber": "0",
+            "CustomOutputName": "假",
+            "UUID": "0A485BE4-1C11-405B-B0F8-6044425207BA"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.number",
+         "WFWorkflowActionParameters": {
+            "WFNumberActionNumber": "1",
+            "CustomOutputName": "真",
+            "UUID": "F68303F6-8B95-44DD-B707-EA9B956E247E"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "0A485BE4-1C11-405B-B0F8-6044425207BA",
+                  "Type": "ActionOutput",
+                  "OutputName": "假"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "覆盖用户配置"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "0A485BE4-1C11-405B-B0F8-6044425207BA",
+                  "Type": "ActionOutput",
+                  "OutputName": "假"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "覆盖用户词典"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "OutputUUID": "F6B9D116-9604-4732-A09E-A3ABA3BE2296",
+                     "Type": "ActionOutput",
+                     "OutputName": "覆盖选择"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFConditionalActionString": "1",
+            "GroupingIdentifier": "695725A1-ECC7-477F-BE99-74A5915C9675",
+            "WFCondition": 8
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "F68303F6-8B95-44DD-B707-EA9B956E247E",
+                  "Type": "ActionOutput",
+                  "OutputName": "真"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "覆盖用户配置"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "695725A1-ECC7-477F-BE99-74A5915C9675",
+            "UUID": "CF00E0A9-24E8-44F8-A8FF-3AA69835E449"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "OutputUUID": "F6B9D116-9604-4732-A09E-A3ABA3BE2296",
+                     "Type": "ActionOutput",
+                     "OutputName": "覆盖选择"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFConditionalActionString": "2",
+            "GroupingIdentifier": "9C5018D6-9FBD-4F61-B65C-3CFEE1218F4F",
+            "WFCondition": 8
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "F68303F6-8B95-44DD-B707-EA9B956E247E",
+                  "Type": "ActionOutput",
+                  "OutputName": "真"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "覆盖用户词典"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "9C5018D6-9FBD-4F61-B65C-3CFEE1218F4F",
+            "UUID": "85548B26-74AB-4227-9AEA-29132278EE24"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "OutputUUID": "F6B9D116-9604-4732-A09E-A3ABA3BE2296",
+                     "Type": "ActionOutput",
+                     "OutputName": "覆盖选择"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFConditionalActionString": "3",
+            "GroupingIdentifier": "5BFF92CC-7FF6-4B7E-ACCA-C28A01E88D72",
+            "WFCondition": 8
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "F68303F6-8B95-44DD-B707-EA9B956E247E",
+                  "Type": "ActionOutput",
+                  "OutputName": "真"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "覆盖用户配置"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "F68303F6-8B95-44DD-B707-EA9B956E247E",
+                  "Type": "ActionOutput",
+                  "OutputName": "真"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "覆盖用户词典"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "5BFF92CC-7FF6-4B7E-ACCA-C28A01E88D72",
+            "UUID": "34C7FC26-3274-4DD2-A2C7-82D57C21C73D"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.documentpicker.open",
+         "WFWorkflowActionParameters": {
+            "WFFile": {
+               "Value": {
+                  "VariableName": "仓输入法目录",
+                  "Type": "Variable"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFFileErrorIfNotFound": false,
+            "WFGetFilePath": "Rime/jiandao.user.dict.yaml",
+            "CustomOutputName": "用户词典文件",
+            "UUID": "17B2A68C-EB36-4CD3-B648-DEE965DABDDC"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.count",
+         "WFWorkflowActionParameters": {
+            "Input": {
+               "Value": {
+                  "OutputUUID": "17B2A68C-EB36-4CD3-B648-DEE965DABDDC",
+                  "Type": "ActionOutput",
+                  "OutputName": "用户词典文件"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "CustomOutputName": "用户词典文件数量",
+            "UUID": "1E3F82B8-323A-43E6-8381-86D83AEBFAE1"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "GroupingIdentifier": "932EC816-5F05-4D30-932E-5109DAF9CB6F",
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "OutputUUID": "1E3F82B8-323A-43E6-8381-86D83AEBFAE1",
+                     "Type": "ActionOutput",
+                     "OutputName": "用户词典文件数量"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFNumberValue": "0",
+            "WFCondition": 4
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "F68303F6-8B95-44DD-B707-EA9B956E247E",
+                  "Type": "ActionOutput",
+                  "OutputName": "真"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "覆盖用户词典"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "932EC816-5F05-4D30-932E-5109DAF9CB6F",
+            "UUID": "51E4FF0C-0A67-422A-8A51-233F20824EA2"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.unzip",
+         "WFWorkflowActionParameters": {
+            "CustomOutputName": "解压的文件",
+            "WFArchive": {
+               "Value": {
+                  "OutputUUID": "EB99AA4B-E755-4A55-8470-A2B41333E28F",
+                  "Type": "ActionOutput",
+                  "OutputName": "下载的压缩包"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "UUID": "6D3D2818-5CF6-4161-AFA0-80474D4DC165"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "GroupingIdentifier": "2D540775-A6F0-4F3F-A1E0-29A5790492E2",
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "VariableName": "覆盖用户词典",
+                     "Type": "Variable"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFNumberValue": "0",
+            "WFCondition": 2
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.getvariable",
+         "WFWorkflowActionParameters": {
+            "WFVariable": {
+               "Value": {
+                  "OutputUUID": "6D3D2818-5CF6-4161-AFA0-80474D4DC165",
+                  "Type": "ActionOutput",
+                  "OutputName": "解压的文件"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            }
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "GroupingIdentifier": "2D540775-A6F0-4F3F-A1E0-29A5790492E2",
+            "WFControlFlowMode": 1
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.filter.files",
+         "WFWorkflowActionParameters": {
+            "WFContentItemFilter": {
+               "Value": {
+                  "WFActionParameterFilterPrefix": 1,
+                  "WFContentPredicateBoundedDate": false,
+                  "WFActionParameterFilterTemplates": [
+                     {
+                        "Operator": 5,
+                        "Values": {
+                           "Unit": {
+                              "Value": 4,
+                              "WFSerializationType": "WFCalendarUnitSubstitutableState"
+                           },
+                           "String": "jiandao.user.dict"
+                        },
+                        "Removable": true,
+                        "Property": "Name"
+                     }
+                  ]
+               },
+               "WFSerializationType": "WFContentPredicateTableTemplate"
+            },
+            "WFContentItemInputParameter": {
+               "Value": {
+                  "OutputUUID": "6D3D2818-5CF6-4161-AFA0-80474D4DC165",
+                  "Type": "ActionOutput",
+                  "OutputName": "解压的文件"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            }
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "2D540775-A6F0-4F3F-A1E0-29A5790492E2",
+            "UUID": "085918DE-48D8-4A84-B15F-901D6F726472"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.documentpicker.save",
+         "WFWorkflowActionParameters": {
+            "WFFolder": {
+               "Value": {
+                  "VariableName": "仓输入法目录",
+                  "Type": "Variable"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFAskWhereToSave": false,
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "085918DE-48D8-4A84-B15F-901D6F726472",
+                  "Type": "ActionOutput",
+                  "OutputName": "如果的结果"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "UUID": "C215A21D-8DF3-4092-82C1-C79BE4A26F03",
+            "WFSaveFileOverwrite": true,
+            "WFFileDestinationPath": "/Rime"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.documentpicker.open",
+         "WFWorkflowActionParameters": {
+            "WFFile": {
+               "Value": {
+                  "VariableName": "仓输入法目录",
+                  "Type": "Variable"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFFileErrorIfNotFound": false,
+            "WFGetFilePath": "Rime/default.custom.yaml",
+            "CustomOutputName": "用户配置文件",
+            "UUID": "C0F44581-FB7A-4086-A890-341AFFBF5303"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.count",
+         "WFWorkflowActionParameters": {
+            "Input": {
+               "Value": {
+                  "OutputUUID": "C0F44581-FB7A-4086-A890-341AFFBF5303",
+                  "Type": "ActionOutput",
+                  "OutputName": "用户配置文件"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "CustomOutputName": "用户配置文件数量",
+            "UUID": "21BFF667-5E68-4E84-B927-AEE2CAE2EF9E"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "GroupingIdentifier": "EC701455-9422-4C8A-B801-FCBC00798EBD",
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "OutputUUID": "21BFF667-5E68-4E84-B927-AEE2CAE2EF9E",
+                     "Type": "ActionOutput",
+                     "OutputName": "用户配置文件数量"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFNumberValue": "0",
+            "WFCondition": 4
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.setvariable",
+         "WFWorkflowActionParameters": {
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "F68303F6-8B95-44DD-B707-EA9B956E247E",
+                  "Type": "ActionOutput",
+                  "OutputName": "真"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFVariableName": "覆盖用户配置"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "GroupingIdentifier": "EC701455-9422-4C8A-B801-FCBC00798EBD",
+            "WFControlFlowMode": 2
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "GroupingIdentifier": "A305F3B4-AD83-441E-863B-D3608B33AC5D",
+            "WFInput": {
+               "Type": "Variable",
+               "Variable": {
+                  "Value": {
+                     "VariableName": "覆盖用户配置",
+                     "Type": "Variable"
+                  },
+                  "WFSerializationType": "WFTextTokenAttachment"
+               }
+            },
+            "WFControlFlowMode": 0,
+            "WFNumberValue": "0",
+            "WFCondition": 2
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.gettext",
+         "WFWorkflowActionParameters": {
+            "WFTextActionText": "patch:\n  schema_list:\n    - schema: jiandao",
+            "UUID": "60069AF5-6306-44CE-80B9-1183D78DBF1A"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.documentpicker.save",
+         "WFWorkflowActionParameters": {
+            "WFFolder": {
+               "Value": {
+                  "VariableName": "仓输入法目录",
+                  "Type": "Variable"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFAskWhereToSave": false,
+            "WFInput": {
+               "Value": {
+                  "OutputUUID": "60069AF5-6306-44CE-80B9-1183D78DBF1A",
+                  "Type": "ActionOutput",
+                  "OutputName": "文本"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "UUID": "5A4E890E-F63D-44F6-AAD4-1C51B1E2D6D5",
+            "WFSaveFileOverwrite": true,
+            "WFFileDestinationPath": "/Rime/default.custom.yaml"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.file.rename",
+         "WFWorkflowActionParameters": {
+            "WFFile": {
+               "Value": {
+                  "OutputUUID": "5A4E890E-F63D-44F6-AAD4-1C51B1E2D6D5",
+                  "Type": "ActionOutput",
+                  "OutputName": "已存储的文件"
+               },
+               "WFSerializationType": "WFTextTokenAttachment"
+            },
+            "WFNewFilename": "default.custom.yaml",
+            "UUID": "BE4195B4-1195-482A-A6DF-423955B4D7D7"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "is.workflow.actions.conditional",
+         "WFWorkflowActionParameters": {
+            "WFControlFlowMode": 2,
+            "GroupingIdentifier": "A305F3B4-AD83-441E-863B-D3608B33AC5D",
+            "UUID": "8CAB0A0B-333A-443F-A9D6-7753CFDF5DCB"
+         }
+      },
+      {
+         "WFWorkflowActionIdentifier": "dev.fuxiao.app.Hamster.ShortcutRimeDeploy",
+         "WFWorkflowActionParameters": {
+            "UUID": "BF26941F-92E3-4E09-8307-076AD4311DB4",
+            "AppIntentDescriptor": {
+               "TeamIdentifier": "M4N6995A28",
+               "BundleIdentifier": "dev.fuxiao.app.Hamster",
+               "Name": "Hamster",
+               "AppIntentIdentifier": "ShortcutRimeDeploy"
+            }
+         }
+      }
+   ],
+   "WFWorkflowInputContentItemClasses": [
+      "WFAppContentItem",
+      "WFAppStoreAppContentItem",
+      "WFArticleContentItem",
+      "WFContactContentItem",
+      "WFDateContentItem",
+      "WFEmailAddressContentItem",
+      "WFFolderContentItem",
+      "WFGenericFileContentItem",
+      "WFImageContentItem",
+      "WFiTunesProductContentItem",
+      "WFLocationContentItem",
+      "WFDCMapsLinkContentItem",
+      "WFAVAssetContentItem",
+      "WFPDFContentItem",
+      "WFPhoneNumberContentItem",
+      "WFRichTextContentItem",
+      "WFSafariWebPageContentItem",
+      "WFStringContentItem",
+      "WFURLContentItem"
+   ],
+   "WFWorkflowImportQuestions": [
+      {
+         "Category": "Parameter",
+         "ParameterKey": "WFTextActionText",
+         "ActionIndex": 1,
+         "Text": "提示",
+         "DefaultValue": "⚠️注意⚠️\n\n运行前：\n\n❗️需要安装仓输入法，且新版本的仓输入法才能自动重新部署\n❗️请根据提示选择仓输入法的顶层目录\n\n运行过程中：\n\n❗️需要授权此快捷指令访问相应网址才能下载键道方案\n❗️需要授权此快捷指令访问仓输入法目录才能储存方案文件\n❗️需要授权此快捷指令运行仓输入法提供的指令才能自动重新部署"
+      },
+      {
+         "Category": "Parameter",
+         "ParameterKey": "WFFile",
+         "ActionIndex": 2,
+         "Text": "请选择🐹️仓输入法顶层目录",
+         "DefaultValue": {
+            "fileLocation": {
+               "WFFileLocationType": "LocalStorage",
+               "fileProviderDomainID": "com.apple.FileProvider.LocalStorage",
+               "relativeSubpath": "Documents",
+               "appContainerBundleIdentifier": "dev.fuxiao.app.Hamster",
+               "crossDeviceItemID": "deviceSpecific:0C4C9424-F28C-4211-A565-6B71473E1E37:fp:/IjLAdmIb5URuxHItBKIaW4YW29o8YkBSVFW9oOfts0w=/com.apple.FileProvider.LocalStorage//#dev.fuxiao.app.Hamster"
+            },
+            "filename": "Documents",
+            "displayName": "Hamster"
+         }
+      }
+   ],
+   "WFWorkflowTypes": [
+      "Watch"
+   ],
+   "WFQuickActionSurfaces": [],
+   "WFWorkflowHasShortcutInputVariables": false
+}

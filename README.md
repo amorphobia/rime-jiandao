@@ -57,9 +57,11 @@ irm 0xa.nl/get-jd-win | iex
 
 #### 仓输入法：快捷指令
 
-<a href="https://www.icloud.com/shortcuts/a4417bdc90c44f4aae021e7b176ee25d" style="display: inline-block; overflow: hidden; width: 250px; height: 87px;"><img src="img/shortcut.png" alt="获取快捷指令" style="width: 250px; height: 87px; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+<a href="https://www.icloud.com/shortcuts/d0bf2707206342af998bf17d84eba232" style="display: inline-block; overflow: hidden; width: 250px; height: 87px;"><img src="img/shortcut.png" alt="获取快捷指令" style="width: 250px; height: 87px; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
-在 iOS / iPadOS 上点击即可下载快捷指令，或者在其他地方点从此仓库（[GitHub](https://github.com/amorphobia/rime-jiandao/raw/master/scripts/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.shortcut), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.shortcut)）下载，并分享给 iOS / iPadOS 并打开。
+在 iOS / iPadOS 上点击即可下载快捷指令，或者在其他设备上从这里（[GitHub](https://github.com/amorphobia/rime-jiandao/raw/master/scripts/shortcut/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.shortcut), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/shortcut/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.shortcut)）下载，并分享给 iOS / iPadOS 并打开。
+
+> 可[点此查看](scripts/shortcut/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.html)快捷指令“源代码”的网页视图，使用 [Shortcut Source Tool](https://routinehub.co/shortcut/5256/) 生成；若已经在使用 Shortcut Source Tool，也可以用它导入 JSON 格式的“源代码”（[GitHub](https://github.com/amorphobia/rime-jiandao/raw/master/scripts/shortcut/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.json), [Gitee](https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/shortcut/%E9%94%AE%E9%81%93%E5%AE%89%E8%A3%85.json)）。
 
 ### 4. 下载 Zip 包
 

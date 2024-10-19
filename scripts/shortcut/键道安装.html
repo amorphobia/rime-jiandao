@@ -1,0 +1,415 @@
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="format-detection" content="telephone=no,date=no">
+<title>键道安装</title>
+<style>
+body {
+	font-family: system-ui;
+	font-size: 0.95em;
+	margin-top: 1rem;
+	margin-bottom: calc(1rem + env(safe-area-inset-bottom));
+	word-break: break-word;
+}
+
+button {
+	color: #000;
+	background-color: #e4e4ff;
+	width: 100%;
+	font-size: 1em;
+	font-weight: normal;
+	line-height: 1.8;
+	text-align: left;
+	margin: 4px 0;
+	padding: 1px 8px;
+	border: 1px #aaa;
+	border-style: solid;
+	border-radius: 8px;
+	cursor: initial;
+	touch-action: manipulation;
+}
+
+.button {
+	margin-bottom: 0;
+	border-bottom-style: none;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	cursor: auto;
+}
+.button::after {
+	content: '\25A1';
+	float: right;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.closed {
+	margin-bottom: 4px;
+	border-bottom-style: solid;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+.closed::after { content: '\2212'; }
+
+.nonbottom {
+	margin-bottom: 0;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	border-bottom-style: none;
+}
+.nontop {
+	margin-top: 0;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.gGray { background-color: #e0e0e0; }
+.gGreen { background-color: #ddffdd; }
+.gYellow { background-color: #ffeebb; }
+.gOrange { background-color: #ffddcc; }
+.gRed { background-color: #ffccdd; }
+.gBlue { background-color: #aaccff; }
+.gUnknown { background-color: #bbffff; }
+.gApple { background-color: #f6f6ff; }
+.gParams {
+	text-align: center;
+	background-color: #f8f8f8;
+}
+
+.content {
+	overflow: hidden;
+	margin-bottom: 4px;
+	padding: 3px 0 3px 8px;
+	border: 1px #aaa;
+	border-style: none solid solid solid;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+.contentloop {
+	margin-bottom: 0;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-bottom-style: none;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.dotted { border-left-style: dotted; }
+.dashed { border-left-style: dashed; }
+
+.inside {
+	border-right-style: none;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.commentcontent { background-color: #ffeebb; }
+
+.row {
+	display: flex;
+	padding-right: 2px;
+}
+
+.col1 {
+	margin-right: 3px;
+	padding-right: 3px;
+	border-right-style: double;
+}
+.col2 { white-space: pre-wrap; }
+
+span.box {
+	display: inline;
+	white-space: pre-wrap;
+	margin: 2px;
+	padding: 2px 4px;
+	border-radius: 6px;
+	background-color: #fff;
+}
+span.var { font-style: italic; }
+span.magic {
+	cursor: pointer;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+hr {
+	width: 0px;
+	height: 2px;
+	border: 1px solid #aaa;
+	margin: -4px auto;
+}
+
+@media (prefers-color-scheme: dark) {
+	body { background: #000; color: #eee; }
+	button { background: #514c72; color: #eee; }
+	.gGray { background-color: #555555; }
+	.gGreen { background-color: #3a6441; }
+	.gYellow { background-color: #716d33; }
+	.gOrange { background-color: #76523f; }
+	.gRed { background-color: #674044; }
+	.gBlue { background-color: #384c67; }
+	.gUnknown { background-color: #377172; }
+	.gApple { background-color: #2c2842; }
+	.gParams { background-color: #181818; }
+	.commentcontent { background-color: #716d33; }
+	span.box { background-color: #000; }
+}
+</style></head><body>
+<button class="button gParams closed"><b>键道安装</b> (<span class="magic" onclick="magictap(62)">63</span> 个步骤, 45 KB)</button><div class="content" style="display: none">
+<div class="col2">"WFQuickActionSurfaces": [],
+"WFWorkflowClientVersion": "3036.0.7",
+"WFWorkflowHasOutputFallback": false,
+"WFWorkflowHasShortcutInputVariables": false,
+"WFWorkflowIcon": {
+   "WFWorkflowIconStartColor": -20702977,
+   "WFWorkflowIconGlyphNumber": 59841
+},
+"WFWorkflowImportQuestions": [
+   {
+      "Category": "Parameter",
+      "ParameterKey": "WFTextActionText",
+      "ActionIndex": <span class="magic" onclick="magictap(1)"><b>1</b></span>,
+      "Text": "提示",
+      "DefaultValue": "⚠️注意⚠️\n\n运行前：\n\n❗️需要安装仓输入法，且新版本的仓输入法才能自动重新部署\n❗️请根据提示选择仓输入法的顶层目录\n\n运行过程中：\n\n❗️需要授权此快捷指令访问相应网址才能下载键道方案\n❗️需要授权此快捷指令访问仓输入法目录才能储存方案文件\n❗️需要授权此快捷指令运行仓输入法提供的指令才能自动重新部署"
+   },
+   {
+      "Category": "Parameter",
+      "ParameterKey": "WFFile",
+      "ActionIndex": <span class="magic" onclick="magictap(2)"><b>2</b></span>,
+      "Text": "请选择🐹️仓输入法顶层目录",
+      "DefaultValue": {
+         "fileLocation": {
+            "WFFileLocationType": "LocalStorage",
+            "fileProviderDomainID": "com.apple.FileProvider.LocalStorage",
+            "relativeSubpath": "Documents",
+            "appContainerBundleIdentifier": "dev.fuxiao.app.Hamster",
+            "crossDeviceItemID": "deviceSpecific:0C4C9424-F28C-4211-A565-6B71473E1E37:fp:/IjLAdmIb5URuxHItBKIaW4YW29o8YkBSVFW9oOfts0w=/com.apple.FileProvider.LocalStorage//#dev.fuxiao.app.Hamster"
+         },
+         "filename": "Documents",
+         "displayName": "Hamster"
+      }
+   }
+],
+"WFWorkflowInputContentItemClasses": [
+   "WFAppContentItem",
+   "WFAppStoreAppContentItem",
+   "WFArticleContentItem",
+   "WFContactContentItem",
+   "WFDateContentItem",
+   "WFEmailAddressContentItem",
+   "WFFolderContentItem",
+   "WFGenericFileContentItem",
+   "WFImageContentItem",
+   "WFiTunesProductContentItem",
+   "WFLocationContentItem",
+   "WFDCMapsLinkContentItem",
+   "WFAVAssetContentItem",
+   "WFPDFContentItem",
+   "WFPhoneNumberContentItem",
+   "WFRichTextContentItem",
+   "WFSafariWebPageContentItem",
+   "WFStringContentItem",
+   "WFURLContentItem"
+],
+"WFWorkflowMinimumClientVersion": 1106,
+"WFWorkflowMinimumClientVersionString": "1106",
+"WFWorkflowOutputContentItemClasses": [],
+"WFWorkflowTypes": [
+   "Watch"
+]
+</div></div>
+<button class="button gYellow" id="m0">
+0 注释</button><div class="content commentcontent">
+<div class="col2">RIME Jiandao Installer for Hamster
+Copyright (C) 2023, 2024 Xuesong Peng &lt;pengxuesong.cn@gmail.com>
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program.  If not, see &lt;https://www.gnu.org/licenses/>.</div></div>
+<button class="button gYellow" id="m1">
+1 文本</button><div class="content">
+<div class="col2">⚠️注意⚠️
+
+运行前：
+
+❗️需要安装仓输入法，且新版本的仓输入法才能自动重新部署
+❗️请根据提示选择仓输入法的顶层目录
+
+运行过程中：
+
+❗️需要授权此快捷指令访问相应网址才能下载键道方案
+❗️需要授权此快捷指令访问仓输入法目录才能储存方案文件
+❗️需要授权此快捷指令运行仓输入法提供的指令才能自动重新部署</div></div>
+<button class="gBlue" id="m2">
+2 文件　»</button>
+<hr><button class="button gGray nonbottom" id="m3">
+3 如果 <span class="box"><span class="var"><b>[2 文件</b>路径<b>]</b></span></span> <span class="box">没有值</span></button><div class="content contentloop">
+<button class="button gYellow inside" id="m4">
+4 显示 <span class="box">请选择仓输入法顶层目录</span> 提醒</button><div class="content inside">
+<div class="row"><div class="col1">标题</div><span style="display:none">: </span><div class="col2">未设置仓输入法目录</div></div></div>
+<button class="button gBlue inside" id="m5">
+5 选择文件</button><div class="content inside">
+<div class="row"><div class="col1">模式</div><span style="display:none">: </span><div class="col2">文件夹</div></div></div></div>
+<button class="gGray nontop" id="m6">
+6 结束如果　»</button>
+<hr><button class="gOrange" id="m7">
+7 将变量 <span class="box">仓输入法目录</span> 设为 <span class="box"><span class="var"><b>[6 如果的结果]</b></span></span></button><div></div>
+<button class="button gOrange" id="m8">
+8 列表 <b>　➔ 源选项</b>　»</button><div class="content">
+<div class="col2">[GitHub,
+Gitee]</div></div>
+<hr><button class="button gOrange" id="m9">
+9 从 <span class="box"><span class="var"><b>[8 源选项]</b></span></span> 中选取<b>　➔ 源</b>　» <span class="magic" onclick="magictap(12)">12</span> <span class="magic" onclick="magictap(20)">20</span></button><div class="content">
+<div class="row"><div class="col1">提示</div><span style="display:none">: </span><div class="col2">请选择下载源</div></div></div>
+<button class="button gOrange" id="m10">
+10 列表 <b>　➔ 覆盖选项</b>　»</button><div class="content">
+<div class="col2">[1. 覆盖用户配置（default.custom.yaml）,
+2. 覆盖用户词典（jiandao.user.dict.yaml）,
+3. 同时覆盖两者,
+4. 两者均不覆盖]</div></div>
+<hr><button class="button gOrange" id="m11">
+11 从 <span class="box"><span class="var"><b>[10 覆盖选项]</b></span></span> 中选取<b>　➔ 覆盖选择</b>　» <span class="magic" onclick="magictap(30)">30</span> <span class="magic" onclick="magictap(33)">33</span> <span class="magic" onclick="magictap(36)">36</span></button><div class="content">
+<div class="row"><div class="col1">提示</div><span style="display:none">: </span><div class="col2">请选择覆盖方式</div></div></div>
+<button class="button gGray nonbottom" id="m12">
+12 如果 <span class="box"><span class="magic" onclick="magictap(9)"><b>[9 源]</b></span></span> <span class="box">是</span> <span class="box">GitHub</span></button><div class="content contentloop">
+<button class="button gYellow inside" id="m13">
+13 文本</button><div class="content inside">
+<div class="col2">https://api.github.com/repos/amorphobia/rime-jiandao/releases/latest</div></div></div>
+<button class="button gGray nonbottom nontop" id="m14">
+14 否则</button><div class="content contentloop">
+<button class="button gYellow inside" id="m15">
+15 文本</button><div class="content inside">
+<div class="col2">https://gitee.com/api/v5/repos/amorphobia/rime-jiandao/releases/latest</div></div></div>
+<button class="gGray nontop" id="m16">
+16 结束如果　»</button>
+<hr><button class="gGreen" id="m17">
+17 获取 <span class="box"><span class="var"><b>[16 如果的结果]</b></span></span> 内容　»</button>
+<hr><button class="gOrange" id="m18">
+18 从 <span class="box"><span class="var"><b>[17 URL的内容]</b></span></span> 获取词典　»</button>
+<hr><button class="gOrange" id="m19">
+19 在 <span class="box"><span class="var"><b>[18 词典]</b></span></span> 中获取 <span class="box">tag_name</span> 的值<b>　➔ 标签</b>　» <span class="magic" onclick="magictap(21)">21</span> <span class="magic" onclick="magictap(23)">23</span></button><div></div>
+<button class="button gGray nonbottom" id="m20">
+20 如果 <span class="box"><span class="magic" onclick="magictap(9)"><b>[9 源]</b></span></span> <span class="box">是</span> <span class="box">GitHub</span></button><div class="content contentloop">
+<button class="button gYellow inside" id="m21">
+21 文本</button><div class="content inside">
+<div class="col2">https://github.com/amorphobia/rime-jiandao/releases/download/<span class="magic" onclick="magictap(19)"><b>[19 标签]</b></span>/jiandao-<span class="magic" onclick="magictap(19)"><b>[19 标签]</b></span>.zip</div></div></div>
+<button class="button gGray nonbottom nontop" id="m22">
+22 否则</button><div class="content contentloop">
+<button class="button gYellow inside" id="m23">
+23 文本</button><div class="content inside">
+<div class="col2">https://gitee.com/amorphobia/rime-jiandao/releases/download/<span class="magic" onclick="magictap(19)"><b>[19 标签]</b></span>/jiandao-<span class="magic" onclick="magictap(19)"><b>[19 标签]</b></span>.zip</div></div></div>
+<button class="gGray nontop" id="m24">
+24 结束如果　»</button>
+<hr><button class="gGreen" id="m25">
+25 获取 <span class="box"><span class="var"><b>[24 如果的结果]</b></span></span> 内容<b>　➔ 下载的压缩包</b>　» <span class="magic" onclick="magictap(45)">45</span></button><div></div>
+<button class="" id="m26">
+26 布尔值 <span class="box">0</span> <b>　➔ 假</b>　» <span class="magic" onclick="magictap(28)">28</span> <span class="magic" onclick="magictap(29)">29</span></button><div></div>
+<button class="" id="m27">
+27 布尔值 <span class="box">1</span> <b>　➔ 真</b>　» <span class="magic" onclick="magictap(31)">31</span> <span class="magic" onclick="magictap(34)">34</span> <span class="magic" onclick="magictap(37)">37</span> <span class="magic" onclick="magictap(38)">38</span> <span class="magic" onclick="magictap(43)">43</span> <span class="magic" onclick="magictap(55)">55</span></button><div></div>
+<button class="gOrange" id="m28">
+28 将变量 <span class="box">覆盖用户配置</span> 设为 <span class="box"><span class="magic" onclick="magictap(26)"><b>[26 假]</b></span></span></button><div></div>
+<button class="gOrange" id="m29">
+29 将变量 <span class="box">覆盖用户词典</span> 设为 <span class="box"><span class="magic" onclick="magictap(26)"><b>[26 假]</b></span></span></button><div></div>
+<button class="button gGray nonbottom" id="m30">
+30 如果 <span class="box"><span class="magic" onclick="magictap(11)"><b>[11 覆盖选择]</b></span></span> <span class="box">开头是</span> <span class="box">1</span></button><div class="content contentloop">
+<button class="gOrange inside" id="m31">
+31 将变量 <span class="box">覆盖用户配置</span> 设为 <span class="box"><span class="magic" onclick="magictap(27)"><b>[27 真]</b></span></span></button></div>
+<button class="gGray nontop" id="m32">
+32 结束如果</button><div></div>
+<button class="button gGray nonbottom" id="m33">
+33 如果 <span class="box"><span class="magic" onclick="magictap(11)"><b>[11 覆盖选择]</b></span></span> <span class="box">开头是</span> <span class="box">2</span></button><div class="content contentloop">
+<button class="gOrange inside" id="m34">
+34 将变量 <span class="box">覆盖用户词典</span> 设为 <span class="box"><span class="magic" onclick="magictap(27)"><b>[27 真]</b></span></span></button></div>
+<button class="gGray nontop" id="m35">
+35 结束如果</button><div></div>
+<button class="button gGray nonbottom" id="m36">
+36 如果 <span class="box"><span class="magic" onclick="magictap(11)"><b>[11 覆盖选择]</b></span></span> <span class="box">开头是</span> <span class="box">3</span></button><div class="content contentloop">
+<button class="gOrange inside" id="m37">
+37 将变量 <span class="box">覆盖用户配置</span> 设为 <span class="box"><span class="magic" onclick="magictap(27)"><b>[27 真]</b></span></span></button><div></div>
+<button class="gOrange inside" id="m38">
+38 将变量 <span class="box">覆盖用户词典</span> 设为 <span class="box"><span class="magic" onclick="magictap(27)"><b>[27 真]</b></span></span></button></div>
+<button class="gGray nontop" id="m39">
+39 结束如果</button><div></div>
+<button class="button gBlue" id="m40">
+40 从路径获取文件 <span class="box">Rime/jiandao.user.dict.yaml</span> <b>　➔ 用户词典文件</b>　»</button><div class="content">
+<div class="row"><div class="col1">路径</div><span style="display:none">: </span><div class="col2"><span class="var"><b>[仓输入法目录]</b></span></div></div>
+<div class="row"><div class="col1">未找到时报错</div><span style="display:none">: </span><div class="col2">否</div></div></div>
+<hr><button class="" id="m41">
+41 计算 <span class="box"><span class="var"><b>[40 用户词典文件]</b></span></span> 中项目的数量<b>　➔ 用户词典文件数量</b>　»</button>
+<hr><button class="button gGray nonbottom" id="m42">
+42 如果 <span class="box"><span class="var"><b>[41 用户词典文件数量]</b></span></span> <span class="box">是</span> <span class="box">0</span></button><div class="content contentloop">
+<button class="gOrange inside" id="m43">
+43 将变量 <span class="box">覆盖用户词典</span> 设为 <span class="box"><span class="magic" onclick="magictap(27)"><b>[27 真]</b></span></span></button></div>
+<button class="gGray nontop" id="m44">
+44 结束如果</button><div></div>
+<button class="gBlue" id="m45">
+45 提取 <span class="box"><span class="magic" onclick="magictap(25)"><b>[25 下载的压缩包]</b></span></span> <b>　➔ 解压的文件</b>　» <span class="magic" onclick="magictap(47)">47</span> <span class="magic" onclick="magictap(49)">49</span></button><div></div>
+<button class="button gGray nonbottom" id="m46">
+46 如果 <span class="box"><span class="var"><b>[覆盖用户词典]</b></span></span> <span class="box">&gt;</span> <span class="box">0</span></button><div class="content contentloop">
+<button class="gOrange inside" id="m47">
+47 获取 <span class="box"><span class="magic" onclick="magictap(45)"><b>[45 解压的文件]</b></span></span></button></div>
+<button class="button gGray nonbottom nontop" id="m48">
+48 否则</button><div class="content contentloop">
+<button class="button  inside" id="m49">
+49 过滤 <span class="box"><span class="magic" onclick="magictap(45)"><b>[45 解压的文件]</b></span></span></button><div class="content inside">
+<div class="row"><div class="col1">条件</div><span style="display:none">: </span><div class="col2">名称 不是 jiandao.user.dict</div></div></div></div>
+<button class="gGray nontop" id="m50">
+50 结束如果　»</button>
+<hr><button class="button gBlue" id="m51">
+51 储存 <span class="box"><span class="var"><b>[50 如果的结果]</b></span></span></button><div class="content">
+<div class="row"><div class="col1">文件夹</div><span style="display:none">: </span><div class="col2"><span class="var"><b>[仓输入法目录]</b></span></div></div>
+<div class="row"><div class="col1">询问储存位置</div><span style="display:none">: </span><div class="col2">否</div></div>
+<div class="row"><div class="col1">如果文件存在则覆盖</div><span style="display:none">: </span><div class="col2">是</div></div>
+<div class="row"><div class="col1">子路径</div><span style="display:none">: </span><div class="col2">/Rime</div></div></div>
+<button class="button gBlue" id="m52">
+52 从路径获取文件 <span class="box">Rime/default.custom.yaml</span> <b>　➔ 用户配置文件</b>　»</button><div class="content">
+<div class="row"><div class="col1">路径</div><span style="display:none">: </span><div class="col2"><span class="var"><b>[仓输入法目录]</b></span></div></div>
+<div class="row"><div class="col1">未找到时报错</div><span style="display:none">: </span><div class="col2">否</div></div></div>
+<hr><button class="" id="m53">
+53 计算 <span class="box"><span class="var"><b>[52 用户配置文件]</b></span></span> 中项目的数量<b>　➔ 用户配置文件数量</b>　»</button>
+<hr><button class="button gGray nonbottom" id="m54">
+54 如果 <span class="box"><span class="var"><b>[53 用户配置文件数量]</b></span></span> <span class="box">是</span> <span class="box">0</span></button><div class="content contentloop">
+<button class="gOrange inside" id="m55">
+55 将变量 <span class="box">覆盖用户配置</span> 设为 <span class="box"><span class="magic" onclick="magictap(27)"><b>[27 真]</b></span></span></button></div>
+<button class="gGray nontop" id="m56">
+56 结束如果</button><div></div>
+<button class="button gGray nonbottom" id="m57">
+57 如果 <span class="box"><span class="var"><b>[覆盖用户配置]</b></span></span> <span class="box">&gt;</span> <span class="box">0</span></button><div class="content contentloop">
+<button class="button gYellow inside" id="m58">
+58 文本　»</button><div class="content inside">
+<div class="col2">patch:
+  schema_list:
+    - schema: jiandao</div></div>
+<hr><button class="button gBlue inside" id="m59">
+59 储存 <span class="box"><span class="var"><b>[58 文本]</b></span></span>　»</button><div class="content inside">
+<div class="row"><div class="col1">文件夹</div><span style="display:none">: </span><div class="col2"><span class="var"><b>[仓输入法目录]</b></span></div></div>
+<div class="row"><div class="col1">询问储存位置</div><span style="display:none">: </span><div class="col2">否</div></div>
+<div class="row"><div class="col1">如果文件存在则覆盖</div><span style="display:none">: </span><div class="col2">是</div></div>
+<div class="row"><div class="col1">子路径</div><span style="display:none">: </span><div class="col2">/Rime/default.custom.yaml</div></div></div>
+<hr><button class="gBlue inside" id="m60">
+60 将 <span class="box"><span class="var"><b>[59 已存储的文件]</b></span></span> 重命名为 <span class="box">default.custom.yaml</span></button></div>
+<button class="gGray nontop" id="m61">
+61 结束如果</button><div></div>
+<button class="gUnknown" id="m62">
+62 仓输入法 &gt; 重新部署</button>
+<script>
+for (b of document.getElementsByClassName('button')) {
+	b.addEventListener('click', function() {
+		this.classList.toggle('closed');
+		let s = this.nextElementSibling;
+		s.style.display = getComputedStyle(s).display==='none' ? 'block' : 'none';
+})}
+
+function magictap(id) {
+	event.stopPropagation();
+	let e = document.getElementById('m'+id);
+	let p = e;
+	while ((p = p.parentNode).tagName.toLowerCase() === 'div') {
+		p.style.display = 'block';
+		p.previousElementSibling.classList.remove('closed');
+	}
+	setTimeout(function(){ e.scrollIntoView({block:'nearest',behavior:'smooth'}); }, 10);
+}
+</script></body></html>
