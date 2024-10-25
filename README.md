@@ -82,7 +82,7 @@ bash rime-install amorphobia/rime-jiandao@release
 - 次选使用分号键，单引号用作三选
 - 一些开关的快捷键修改
 - 将 lua 脚本统一放入 `jiandao` 子目录，避免冲突
-- 提供了一个统一码翻译器（Unicode Translator），可以通过 ``u`​`` 引导统一码来输入
+- 提供了一个统一码翻译器（Unicode Translator），可以通过 `uu` 引导统一码来输入
 - 简繁转换使用中国大陆标准（[opencc-tonggui](https://github.com/amorphobia/opencc-tonggui)）
 
 ### 词典的不同
