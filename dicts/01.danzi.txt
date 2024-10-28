@@ -1318,6 +1318,8 @@
 堡	bziovo
 保	bziovv
 抱	bziu
+佨	bziua	#无读音
+佨	bziuaa	#无读音
 报	bziuai
 抱	bziuua
 龅	bziv
@@ -30991,9 +30993,7 @@
 𫟵	ywioa
 𱎯	ywioao
 𫟵	ywioao
-佨	ywiu
-佨	ywiuaa
-抎	ywiuv
+抎	ywiu
 抎	ywiuvv
 伝	ywiv
 伝	ywivva
