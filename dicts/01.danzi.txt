@@ -5,7 +5,9 @@
 缤	bbaaoo
 濒	bbai
 濒	bbaivi
+濵	bbao	#繁体 ⿰氵⿱宀⿸𠃜贝
 滨	bbaooa
+濵	bbaooa	#繁体 ⿰氵⿱宀⿸𠃜贝
 摈	bbi
 髌	bbia
 髌	bbiaoo
@@ -17,6 +19,8 @@
 豳	bbiv
 豳	bbivua
 斌	bbo
+賔	bboo	#繁体 ⿱宀⿸𠃜贝
+賔	bbooai	#繁体 ⿱宀⿸𠃜贝
 宾	bbooui
 斌	bbovvv
 膑	bbu
@@ -1391,6 +1395,7 @@
 翠	cba
 缞	cbaa
 𮉬	cbaao
+濢	cbaaov
 缞	cbaaov
 𮉬	cbaaov
 漼	cbai
@@ -1866,7 +1871,9 @@
 㞥	cniauo
 藏	cp
 沧	cpa
+濸	cpai	#繁体 ⿰氵苍
 沧	cpaiaa
+濸	cpaiii	#繁体 ⿰氵苍
 仓	cpi
 鸧	cpia
 仓	cpiaaa
@@ -2135,12 +2142,20 @@
 的	d
 对	db
 队	dba
+㳔	dbaa
+濻	dbaai	#繁体 ⿰氵𬯎
+濻	dbaaii	#繁体 ⿰氵𬯎
+㳔	dbaaov
 陮	dbai
+𬉋	dbaia
+𬉋	dbaiav
 队	dbaiii
 陮	dbaiio
 怼	dbao
 怼	dbaooa
 对	dbaovi
+𬉏	dbau
+𬉏	dbauvi
 镦	dbi
 嵟	dbia
 嵟	dbiavu
@@ -2659,6 +2674,8 @@
 迨	dhaoo
 怠	dhaooa
 迨	dhaooa
+瀻	dhau
+瀻	dhauov
 逮	dhavoa
 袋	dhi
 𢯊	dhiu
@@ -4107,6 +4124,8 @@
 潻	ejauv
 潻	ejauvi
 属	ejav
+𮳗	ejava	#无读音
+𮳗	ejavai	#无读音
 漱	ejavi
 潄	ejavia
 漱	ejavia
@@ -4244,6 +4263,8 @@
 旹	ekaio
 旹	ekaioi
 浉	ekaiuv
+𠃜	ekaiv
+𠃜	ekaivu
 湿	ekao
 乨	ekaoa
 乨	ekaoaa
@@ -5324,8 +5345,11 @@
 泛	ffauoa
 嬏	ffauu
 嬔	ffauua
+㜶	ffauua
 嬎	ffauua
 嬏	ffauuo
+瀿	ffauv
+瀿	ffauva
 滼	ffav
 滼	ffavvu
 范	ffi
@@ -5400,6 +5424,9 @@
 繁	ffuvaa
 笲	ffuvao
 籓	ffuvau
+瀪	ffuvu
+㶗	ffuvui
+瀪	ffuvui
 梵	ffv
 匥	ffva
 匥	ffvaov
@@ -5660,6 +5687,7 @@
 匐	fjuavo
 阜	fjui
 甶	fjuia
+𨸏	fjuiav
 甶	fjuiav
 峊	fjuii
 峊	fjuiia
@@ -5787,6 +5815,7 @@
 䧝	fkaiai
 阤	fkaiai
 㞢	fkaii
+𰛤	fkaiia
 淽	fkaiii
 𱀑	fkaiiu
 阯	fkaiiv
@@ -5889,7 +5918,8 @@
 侄	fkiva
 侄	fkivao
 止	fkiviv
-俧	fkivo	#无读音
+㫖	fkivo
+㫖	fkivoi
 俧	fkivoo	#无读音
 歭	fkivv
 歭	fkivvo
@@ -6751,6 +6781,7 @@
 费	fwa
 沸	fwaa
 绯	fwaai
+濷	fwaaii	#繁体 ⿱水满
 𬴂	fwaaiv
 绯	fwaaiv
 沸	fwaava
@@ -7582,6 +7613,8 @@
 概	ghv
 概	ghvavv
 丐	ghvi
+㯼	ghvii	#无读音
+㯼	ghviiv	#无读音
 丐	ghviva
 垓	ghvo
 垓	ghvoov
@@ -7589,6 +7622,8 @@
 槪	ghvui
 槪	ghvuia
 杚	ghvuva
+瓂	ghvv
+瓂	ghvvii
 古	gj
 姑	gja
 淈	gjaa
@@ -7608,7 +7643,9 @@
 姑	gjauuo
 嫴	gjauuo
 瀔	gjav
+濲	gjavo
 瀔	gjavoo
+濲	gjavoo
 固	gji
 骨	gjia
 蛊	gjiai
@@ -8437,6 +8474,8 @@
 缋	hbaai
 缋	hbaaia
 绘	hbaaiv
+𰝍	hbaao
+𰝍	hbaaov
 洄	hbai
 芔	hbaia
 𰛦	hbaiai
@@ -8651,6 +8690,8 @@
 喉	hdo
 吼	hdoa
 吼	hdoaiv
+㫗	hdoi
+㫗	hdoiai
 喉	hdoiav
 鲎	hdoo
 鲎	hdooua
@@ -8715,6 +8756,8 @@
 菏	heiiav
 蠚	heiiia
 荷	heiiiv
+𫠁	heio
+𫠁	heioii
 佫	heiu
 佫	heiuao
 挌	heiuu
@@ -8974,6 +9017,10 @@
 坏	hg
 淮	hga
 淮	hgaiov
+瀤	hgao
+瀤	hgaovi
+㜳	hgau
+㜳	hgauov
 佪	hgi
 佪	hgiiao
 怀	hgo
@@ -8984,6 +9031,8 @@
 怀	hgoovu
 咶	hgou
 咶	hgouvi
+褱	hgov
+褱	hgovia
 徊	hgu
 徊	hguuia
 槐	hgv
@@ -8992,7 +9041,9 @@
 櫰	hgvov
 櫰	hgvovi
 坏	hgvovu
+䃶	hgvu
 槐	hgvuia
+䃶	hgvuov
 耲	hgvv
 耲	hgvvov
 还	hh
@@ -9033,6 +9084,8 @@
 㐪	hhovia
 嚡	hhovii
 氦	hhu
+饚	hhua	#繁体 ⿰饣蓋
+饚	hhuaii	#繁体 ⿰饣蓋
 胲	hhuo
 胲	hhuova
 氦	hhuvov
@@ -9075,6 +9128,8 @@
 沍	hjavaa
 鍙	hjavi
 鍙	hjavio
+瀫	hjavo
+瀫	hjavoo
 弧	hjavuu
 弖	hjavv
 弖	hjavvv
@@ -9276,6 +9331,8 @@
 活	hlauvi
 彟	hlav
 彟	hlavii
+瀖	hlavo
+瀖	hlavoa
 湱	hlavv
 湱	hlavvv
 获	hli
@@ -9590,6 +9647,8 @@
 糀	hqouii
 咶	hqouv
 咶	hqouvi
+㕲	hqov
+㕲	hqovv	#全码
 猾	hqu
 觟	hqua
 𮬡	hquai
@@ -9805,7 +9864,9 @@
 䝔	htvui
 䝔	htvuii
 还	htvuoa
+豲	htvuv
 豩	htvuvu
+豲	htvuvu
 环	htvv
 桓	htvvo
 桓	htvvoi
@@ -10390,6 +10451,7 @@
 嫶	jcaui
 嫶	jcauio
 姣	jcauo
+灂	jcauoo
 漖	jcauov
 姣	jcauov
 嬓	jcauu
@@ -10802,12 +10864,16 @@
 骣	jfaaav
 缠	jfaaov
 潺	jfaavu
+䧯	jfai
+䧯	jfaiua
 澶	jfao
 浐	jfaov
 澶	jfaovi
 浐	jfaovo
 瀍	jfaovu
 婵	jfau
+瀺	jfaua
+瀺	jfauao
 㚲	jfaui
 㚲	jfauiv
 婵	jfauou
@@ -10831,6 +10897,7 @@
 蟾	jfiau
 巉	jfiaua
 幨	jfiaua
+䂁	jfiaua
 蟾	jfiaua
 僝	jfiav
 丳	jfiavi
@@ -10904,10 +10971,15 @@
 劖	jfua
 劖	jfuaii
 毚	jfuau
+㺥	jfuaua
 馋	jfuaua
 毚	jfuaua
 𤎥	jfui
+䑎	jfuii
+䑎	jfuiiv
 𤎥	jfuiou
+艬	jfuu
+艬	jfuuua
 㰫	jfuv
 㰫	jfuvua
 刬	jfv
@@ -11990,6 +12062,9 @@
 缄	jmaavu
 湕	jmaavv
 𣴓	jmai
+瀸	jmaii
+𰜨	jmaiiv
+瀸	jmaiiv
 𣴓	jmaiuv
 艰	jmao
 艰	jmaoav
@@ -12007,6 +12082,7 @@
 姦	jmauau
 媊	jmauo
 媊	jmauou
+瀐	jmauov
 奸	jmauvv
 渐	jmav
 渐	jmavai
@@ -12023,6 +12099,8 @@
 囝	jmiaa
 囝	jmiaai
 睑	jmiai
+㡨	jmiaii
+䘋	jmiaii
 睑	jmiaiv
 𬑗	jmiao
 𬑗	jmiaoi
@@ -12049,6 +12127,7 @@
 键	jmio
 键	jmioav
 𰾫	jmioi
+𰿈	jmioii
 𰾫	jmioii
 锏	jmioo
 锏	jmiooi
@@ -12542,6 +12621,8 @@
 浧	jrao
 浧	jraovv
 娍	jrau
+瀓	jrauu
+瀓	jrauui
 溗	jrauv
 溗	jrauvi
 娍	jrauvu
@@ -13529,6 +13610,8 @@
 氪	keuvuo
 壳	kev
 轲	keva
+𰺡	kevai
+𰺡	kevaii
 轲	kevavo
 棵	kevi
 棵	keviav
@@ -13548,6 +13631,8 @@
 殼	kevoua
 坷	kevovo
 磕	kevu
+礚	kevui
+礚	kevuii
 砢	kevuv
 磕	kevuvo
 砢	kevuvo
@@ -13758,6 +13843,8 @@
 桍	kjvv
 桍	kjvvuo
 扩	kl
+濶	kla	#繁体 ⿰氵⿵门舌
+濶	klaoia	#繁体 ⿰氵⿵门舌
 括	kli
 蛞	klia
 蛞	kliauv
@@ -14233,6 +14320,10 @@
 潾	lbaouv
 澟	lbaov
 澟	lbaovi
+瀶	lbav
+瀶	lbavia
+瀮	lbavo	#无读音
+瀮	lbavoa	#无读音
 淋	lbavvv
 临	lbi
 嶙	lbia
@@ -14565,6 +14656,7 @@
 畓	lfaia	#无读音
 畓	lfaiav	#无读音
 𬉠	lfaii
+𱩪	lfaiii
 𬉠	lfaiio
 滥	lfaiiu
 𰜐	lfaiiu
@@ -14809,7 +14901,9 @@
 娕	lhauvi
 𫝫	lhauvo
 涞	lhav
+瀬	lhavi	#繁体 ⿲氵束页
 濑	lhavia
+瀬	lhavia	#繁体 ⿲氵束页
 涞	lhavou
 略	lhi
 睐	lhia
@@ -15089,6 +15183,7 @@
 溧	lkavia
 沥	lkavu
 沥	lkavua
+𪵱	lkavuv
 隶	lkavvi
 例	lki
 罹	lkia
@@ -15984,6 +16079,7 @@
 沦	lwai
 漯	lwaia
 㶟	lwaiav
+灅	lwaiav
 泪	lwaiav
 漯	lwaiav
 𲉉	lwaii
@@ -16520,6 +16616,8 @@
 洠	mdaaou
 𱙷	mdai
 𱙷	mdaiao
+瀎	mdaii
+瀎	mdaiii
 鍪	mdao
 劺	mdaoa
 劺	mdaoau
@@ -17478,6 +17576,7 @@
 眉	mwai
 郿	mwaia
 郿	mwaiai
+𮙸	mwaiao	#繁体 ⿸𠃜贝
 氼	mwaii	#全码
 眉	mwaiia
 鹛	mwaiu
@@ -18663,6 +18762,7 @@
 沜	pfauiv
 潘	pfauou
 洀	pfauu
+瀊	pfauua
 洀	pfauua
 盼	pfi
 畔	pfia
@@ -19581,6 +19681,7 @@
 矜	qbaoio
 𥎊	qbaov
 𥎊	qbaovi
+𰜜	qbaovo
 媇	qbau
 媇	qbauov
 嫀	qbauv
@@ -20016,6 +20117,8 @@
 𫗴	qfuaov
 𫗞	qfuav
 𫗞	qfuavv
+㸥	qfui
+㸥	qfuiua
 毡	qfuv
 毡	qfuviv
 氊	qfuvo
@@ -20027,6 +20130,8 @@
 榐	qfvav
 榐	qfvavu
 㠭	qfvi
+䪌	qfviu
+䪌	qfviua
 𬪨	qfviv
 㠭	qfvivi
 𬪨	qfvivv
@@ -20469,6 +20574,7 @@
 洓	qkavia
 㞯	qkavia
 漆	qkavia
+濝	qkavii
 淇	qkavii
 迉	qkavo
 迉	qkavoa
@@ -20875,6 +20981,7 @@
 媊	qmauou
 奷	qmauuv
 汘	qmauv
+濳	qmauvi
 汘	qmauvi
 浅	qmav
 灊	qmava
@@ -20889,6 +20996,7 @@
 钱	qmi
 遣	qmia
 黔	qmiai
+㡨	qmiaii
 岒	qmiaio
 蚙	qmiaio
 黔	qmiaio
@@ -21032,6 +21140,8 @@
 𰺉	qmvavv
 椠	qmvavv
 靬	qmvi
+䤘	qmvii
+䤘	qmviii
 歁	qmviu
 歁	qmviua
 榩	qmviv
@@ -21586,6 +21696,8 @@
 诠	qtoaiv
 踡	qtoi
 踡	qtoiou
+闎	qtoiu	#繁体 ⿵门泉 无读音
+闎	qtoiui	#繁体 ⿵门泉 无读音
 悛	qtoo
 悛	qtooao
 恮	qtooi
@@ -22425,6 +22537,8 @@
 随	sb
 隋	sba
 绥	sbaa
+瀡	sbaai
+瀡	sbaaiv
 绥	sbaauo
 隧	sbai
 濉	sbaia
@@ -22584,6 +22698,8 @@
 𬈧	seauoo
 洓	seav
 洓	seavia
+瀒	seavo	#繁体 ⿰氵⿳来一回
+瀒	seavou	#繁体 ⿰氵⿳来一回
 濏	seavv
 濏	seavvi
 铯	sei
@@ -22800,6 +22916,7 @@
 涘	skaao
 泤	skaaoi
 𢇁	skaaoo
+𣽷	skaaoo
 涘	skaaou
 鸶	skaau
 鸶	skaaua
@@ -25422,7 +25539,9 @@
 婐	wlauia
 婼	wlauii
 婥	wlauiv
+濣	wlauo
 娖	wlauoi
+濣	wlauoo
 婑	wlauu
 婑	wlauuv
 娕	wlauv
@@ -25639,6 +25758,8 @@
 玟	wnvvov
 望	wp
 汪	wpa
+㲿	wpao
+㲿	wpaovu
 汪	wpavvi
 网	wpi
 罔	wpia
@@ -25970,6 +26091,7 @@
 𰛦	wwaiai
 涠	wwaiav
 渨	wwaiav
+𬉋	wwaiav
 渭	wwaiav
 隈	wwaii
 隈	wwaiia
@@ -27154,8 +27276,12 @@
 隘	xha
 𫘤	xhaa
 𫘤	xhaaao
+瀥	xhaao
+瀥	xhaaov
 𬮿	xhai
+濭	xhaii
 𬮿	xhaiia
+濭	xhaiiv
 阸	xhaio
 阸	xhaioa
 隘	xhaiou
@@ -27647,6 +27773,8 @@
 匸	xkvaa	#全码
 槢	xkvao
 槢	xkvaov
+㐂	xkvav	#日本汉字
+㐂	xkvava	#日本汉字
 樨	xkvavu
 昔	xkvi
 厀	xkvia
@@ -27937,6 +28065,8 @@
 陷	xmaiua
 𰛵	xmao
 𰛵	xmaoia
+瀗	xmaoo
+瀗	xmaooa
 嫌	xmau
 姆	xmaua
 姆	xmauaa
@@ -28030,6 +28160,8 @@
 禒	xmoaa
 禒	xmoaaa
 呣	xmoaao
+襳	xmoai
+襳	xmoaii
 诜	xmoauv
 祆	xmoav
 𫍯	xmoavu
@@ -28068,6 +28200,7 @@
 籼	xmoui
 𬖑	xmouia
 籼	xmouia
+䊱	xmouii
 唌	xmouiv
 羡	xmouov
 烍	xmouu
@@ -28090,6 +28223,7 @@
 鲜	xmu
 馅	xmua
 猃	xmuai
+㺤	xmuaii
 猃	xmuaiv
 鲜	xmuaou
 狝	xmuau
@@ -28121,6 +28255,7 @@
 氙	xmuvia
 秈	xmuvia
 𠜎	xmuvii
+䆎	xmuvii
 筅	xmuvu
 先	xmuvua
 毨	xmuvuv
@@ -28146,6 +28281,7 @@
 杴	xmvua
 杴	xmvuai
 䩂	xmvui
+䃸	xmvuii
 䩂	xmvuio
 燹	xmvuo
 咸	xmvuoo
@@ -28972,11 +29108,13 @@
 淫	ybau
 湚	ybaua
 湚	ybauaa
+濥	ybauao
 姻	ybaui
 峾	ybauia
 姻	ybauia
 𫰰	ybauiv
 滛	ybauo
+濦	ybauoo
 淫	ybauoo
 滛	ybauoo
 洕	ybauou
@@ -29173,6 +29311,7 @@
 㳓	ydav
 沋	ydavu
 沋	ydavua
+瀀	ydavui
 㳓	ydavuo
 由	ydi
 邮	ydia
@@ -29410,6 +29549,7 @@
 𲍿	yeovu
 𲍿	yeovua
 𫩫	yeovuv
+㕲	yeovv	#全码
 爷	yeu
 馌	yeua
 馌	yeuavo
@@ -29740,6 +29880,7 @@
 溁	ygaiio
 𰝅	ygaiio
 𣸨	ygaiio
+𬈜	ygaiio
 滢	ygaiio
 潆	ygaiio
 婴	ygao
@@ -30993,6 +31134,8 @@
 院	ytaioo
 贠	ytao
 贠	ytaoao
+灁	ytaoi	#繁体 ⿰氵⿵门泉
+灁	ytaoia	#繁体 ⿰氵⿵门泉
 涴	ytaoo
 涴	ytaooa
 䏍	ytaou
@@ -31487,6 +31630,7 @@
 么	yzuao
 遙	yzuaoa
 么	yzuaoo
+䚻	yzuaov
 猺	yzuau
 𬳁	yzuauo
 鳐	yzuauo
@@ -31696,6 +31840,8 @@
 樍	zevvvi	#繁体 ⿰木责
 𪷽	zfa
 𪷽	zfauvi
+濽	zfav	#繁体 ⿰氵𰷣
+濽	zfavvu	#繁体 ⿰氵𰷣
 攒	zfi
 歜	zfia
 歜	zfiaua
