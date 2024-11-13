@@ -8993,6 +8993,8 @@
 櫰	hgvovi
 坏	hgvovu
 槐	hgvuia
+耲	hgvv
+耲	hgvvov
 还	hh
 海	hha
 骇	hhaa
