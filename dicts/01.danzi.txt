@@ -9703,6 +9703,8 @@
 佷	hria
 佷	hriavv
 蘅	hriiuu
+鑅	hrio	#繁体 ⿰钅荣
+鑅	hrioii	#繁体 ⿰钅荣
 哼	hro
 恒	hroo
 悙	hrooo
