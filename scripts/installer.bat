@@ -146,9 +146,22 @@ function Add-Dependancies {
         MemberDefinition     = @"
             [DllImport("shell32.dll", CharSet = CharSet.Auto, SetLastError = true, BestFitMapping = false, ThrowOnUnmappableChar = true)]
             internal static extern int ExtractIconEx(string sFile, int iIndex, out IntPtr piLargeVersion, out IntPtr piSmallVersion, int amountIcons);
-
+            [DllImport("kernel32.dll")]
+            internal static extern IntPtr GetConsoleWindow();
             [DllImport("user32.dll")]
-            public static extern bool ShowWindow(IntPtr handle, int state);
+            internal static extern IntPtr GetForegroundWindow();
+            [DllImport("user32.dll")]
+            internal static extern bool SetForegroundWindow(IntPtr handle);
+            [DllImport("user32.dll")]
+            internal static extern bool ShowWindow(IntPtr handle, int state);
+
+            public static void HideConsole() {
+	IntPtr handle = GetConsoleWindow();
+                SetForegroundWindow(handle);
+                handle = GetForegroundWindow();
+                ShowWindow(handle, 0);
+            }
+
             // Extract an icon from a DLL
             public static Icon ExtractIcon(string file, int number, bool largeIcon) {
                 IntPtr large, small;
@@ -236,7 +249,11 @@ function Start-MainGui {
     Add-Dependancies
 
     # Hide the powershell window: https://stackoverflow.com/a/27992426/1069307
-    [WinAPI.Utils]::ShowWindow(([System.Diagnostics.Process]::GetCurrentProcess() | Get-Process).MainWindowHandle, 0) | Out-Null
+    # Not work for Windows Terminal, which is default console from Windows 11
+    # [WinAPI.Utils]::ShowWindow(([System.Diagnostics.Process]::GetCurrentProcess() | Get-Process).MainWindowHandle, 0) | Out-Null
+
+    # Hide the terminal window: https://stackoverflow.com/a/78577080/6676742
+    [WinAPI.Utils]::HideConsole()
 
     $XAML = Get-GuiXAML
     $XMLForm = [Windows.Markup.XamlReader]::Load((New-Object System.Xml.XmlNodeReader $XAML))
