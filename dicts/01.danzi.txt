@@ -103,6 +103,8 @@
 鳔	bcuav
 鳔	bcuavi
 𱃠	bcuavu
+爂	bcui
+爂	bcuiou
 臕	bcuo
 臕	bcuovu
 脿	bcuv
@@ -1574,7 +1576,9 @@
 惭	cfoova
 憯	cfoova
 灿	cfou
+爘	cfoui
 灿	cfouia
+爘	cfouiv
 𰉄	cfouv
 𰉄	cfouvi
 飡	cfov
@@ -2054,6 +2058,7 @@
 憁	cyooui
 熜	cyou
 燪	cyoui
+爜	cyouii
 燪	cyouii
 焧	cyouu
 熜	cyouui
@@ -3833,6 +3838,8 @@
 艏	eduuou
 寿	edv
 夀	edvv
+𫜷	edvva
+𫜷	edvvai
 夀	edvvov
 寿	edvvvi
 设	ee
@@ -5604,6 +5611,7 @@
 莆	fjiivi
 芣	fjiivu
 黻	fjiivu
+荂	fjiivu
 芙	fjiivv
 俯	fjio
 𰾟	fjiou
@@ -7077,6 +7085,7 @@
 啁	fzouav
 着	fzouia
 嘲	fzouo
+燳	fzouoi
 嘲	fzouoo
 旐	fzov
 𡁻	fzovo
@@ -7618,6 +7627,8 @@
 芥	ghiiiu
 荄	ghiio
 荄	ghiiov
+葢	ghiiv
+葢	ghiivu
 侅	ghio
 侅	ghiova
 钙	ghiovi
@@ -9664,10 +9675,13 @@
 崋	hqiavv
 花	hqii
 芲	hqiii
+䔢	hqiiii
 花	hqiiiu
 芲	hqiiiu
 蒊	hqiio	#无读音
 蒊	hqiiou	#无读音
+蕐	hqiiv
+蕐	hqiivi
 铧	hqio
 铧	hqioiu
 华	hqiu
@@ -10895,6 +10909,8 @@
 喢	jeou
 烢	jeouo
 烢	jeouoo
+爡	jeouv	#繁体 ⿰火虿
+爡	jeouva	#繁体 ⿰火虿
 喢	jeouvi
 𪠳	jeov
 𪠳	jeovav
@@ -11253,6 +11269,8 @@
 蠼	jhiaia
 蠷	jhiaia
 矍	jhiaio
+爴	jhiau	#繁体 ⿰国爪
+爴	jhiauu	#繁体 ⿰国爪
 嶡	jhiav
 嶥	jhiavu
 倔	jhiavu
@@ -11312,6 +11330,7 @@
 啳	jhoouv
 差	jhou
 焳	jhoui
+爑	jhouii
 焳	jhouio
 熦	jhouiu
 嚼	jhouo
@@ -12761,6 +12780,7 @@
 称	jru
 塍	jruo
 𣎒	jruoi
+爯	jruoia
 𣎒	jruoia
 塍	jruovo
 惩	jruu
@@ -13701,6 +13721,7 @@
 殼	kevou
 壳	kevoua
 殼	kevoua
+㪼	kevouu
 坷	kevovo
 磕	kevu
 礚	kevui
@@ -14545,6 +14566,7 @@
 寮	lcoovu
 燎	lcou
 炓	lcouo
+爎	lcouoo	#无读音
 料	lcouoo
 炓	lcouoo
 燎	lcouvu
@@ -14556,7 +14578,9 @@
 廫	lcovua
 嘹	lcovuo
 獠	lcu
+爒	lcua
 獠	lcuavu
+爒	lcuavu
 尦	lcuo
 尦	lcuoua
 簝	lcuv
@@ -14630,14 +14654,17 @@
 𪧘	ldooou
 喽	ldoouv
 娄	ldou
+爉	ldoua
+爉	ldouaa
 娄	ldouau
 𫦉	ldoui
 𫦉	ldouii
 哷	ldouo
 哷	ldouoo
 𤋏	ldouou
-燤	ldouv	#繁体 ⿰火万
+𤇃	ldouv
 燤	ldouva	#繁体 ⿰火万
+𤇃	ldouvu
 冽	ldov
 瘺	ldova
 瘺	ldovav
@@ -14796,10 +14823,15 @@
 懒	lfoovi
 惏	lfoovv
 燣	lfou
+𬊶	lfoui
+爤	lfouii	#繁体 ⿰火𬞕
+爦	lfouii	#繁体 ⿰火览
+𬊶	lfouii
 燗	lfouo	#繁体 ⿰火𫔮
 燗	lfouoi	#繁体 ⿰火𫔮
 烂	lfouou
 燣	lfouov
+燷	lfouov
 兰	lfouvv
 斓	lfov
 斓	lfovoi
@@ -14914,6 +14946,8 @@
 㥄	lgoov
 㥄	lgoovo
 羚	lgou
+𫞠	lgoua
+𫞠	lgouav
 炩	lgoui
 羚	lgouio
 炩	lgouio
@@ -15363,6 +15397,7 @@
 嚟	lkouvi
 糎	lkouvu
 𱪪	lkouvu
+𤇃	lkouvu
 粝	lkouvu
 离	lkov
 𫪃	lkovi
@@ -15618,6 +15653,7 @@
 呂	lloui
 𬊜	llouia
 呂	llouia
+爈	llouiv	#繁体 ⿰火虑
 哷	llouo
 焒	llouoo
 哷	llouoo
@@ -16082,6 +16118,8 @@
 旯	lsoiua
 啦	lsoiuo
 嚹	lsou
+爉	lsoua
+爉	lsouaa
 嚹	lsouvv
 辣	lsov
 喇	lsovi
@@ -17147,7 +17185,9 @@
 靡	mkov
 縻	mkova
 縻	mkovaa
+爢	mkovi
 靡	mkoviv
+爢	mkoviv
 糜	mkovo
 麋	mkovou
 糜	mkovou
@@ -19757,6 +19797,8 @@
 鲍	pzuaua
 脬	pzuu
 脬	pzuuoo
+爮	pzuuu
+爮	pzuuua
 匏	pzv
 鞄	pzvi
 鞄	pzviua
@@ -20567,6 +20609,8 @@
 㝉	qjoov
 㝉	qjoovv
 烛	qjou
+𪹳	qjoua
+𪹳	qjouav
 烛	qjouia
 炷	qjouo
 炷	qjouov
@@ -20579,6 +20623,7 @@
 疰	qjovov
 殶	qjovu
 殶	qjovua
+㫂	qjovuu
 瘃	qjovv
 主	qjovvi
 瘃	qjovvu
@@ -20819,6 +20864,8 @@
 鲯	qkuavi
 夡	qkuavo
 魌	qkui
+鬿	qkuiu
+鬿	qkuiuu
 魌	qkuivi
 脐	qkuo
 𨙸	qkuoa
@@ -21001,6 +21048,7 @@
 焌	qlouao
 煀	qlouav
 粬	qloui
+爠	qlouia
 粬	qlouia
 癯	qlov
 癯	qlovia
@@ -22101,6 +22149,7 @@
 啁	qzouav
 着	qzouia
 嘲	qzouo
+燳	qzouoi
 嘲	qzouoo
 旐	qzov
 旐	qzovuv
@@ -22491,6 +22540,8 @@
 懹	rpoo
 懹	rpooov
 嚷	rpoovo
+爙	rpou
+爙	rpouov
 瓤	rpov
 勷	rpova
 勷	rpovau
@@ -22606,6 +22657,8 @@
 宂	ryooua
 容	ryoouo
 羢	ryou
+𫞡	ryoui
+𫞡	ryouii
 熔	ryouoo
 烿	ryouu
 烿	ryouua
@@ -23220,6 +23273,7 @@
 趖	slvoi
 趖	slvoii
 靃	slvoio
+㪽	slvoiu
 琐	slvv
 璅	slvva
 璅	slvvaa
@@ -24447,7 +24501,9 @@
 惝	tpooio
 𰑿	tpooio
 羰	tpou
+𬊵	tpoui
 羰	tpouia
+𬊵	tpouio
 煻	tpouo
 糖	tpouov
 煻	tpouov
@@ -25005,6 +25061,8 @@
 惆	wdooua
 㤽	wdoov
 㤽	wdoovv
+𬊍	wdou
+𬊍	wdouvv
 瘳	wdov
 瘳	wdovao
 𱒦	wdovv
@@ -25040,6 +25098,8 @@
 椆	wdvuav
 殠	wdvuu
 殠	wdvuui
+𫜷	wdvv
+𫜷	wdvvai
 车	we
 澈	wea
 屮	weai
@@ -25072,6 +25132,8 @@
 喢	weou
 烢	weouo
 烢	weouoo
+爡	weouv	#繁体 ⿰火虿
+爡	weouva	#繁体 ⿰火虿
 喢	weouvi
 𪠳	weov
 𪠳	weovav
@@ -26345,6 +26407,7 @@
 煨	wwou
 為	wwoua
 為	wwouaa
+爳	wwouai	#繁体 ⿱为了
 为	wwouao
 煟	wwoui
 煨	wwouia
@@ -26871,6 +26934,7 @@
 泻	xdaoav
 勰	xdau
 澥	xdaua
+䝱	xdauao	#繁体 ⿱劦贝
 劦	xdauau
 澥	xdauau
 孈	xdaui
@@ -26980,6 +27044,7 @@
 灺	xdoua
 灺	xdouai
 熁	xdouau
+燲	xdouau	#繁体 ⿰火⿱劦贝
 炨	xdouo
 叶	xdouoo
 炨	xdouoo
@@ -28892,6 +28957,7 @@
 咰	xwouao
 𬊈	xwouav
 燻	xwouu
+爋	xwouuv
 燻	xwouuv
 嚑	xwouv
 嚑	xwouvi
@@ -30536,6 +30602,7 @@
 义	ykouoo
 燚	ykouou
 焲	ykouov
+燱	ykouov
 鹢	ykouu
 炈	ykouua
 鹢	ykouua
@@ -30924,6 +30991,8 @@
 喩	ylouov
 燠	ylouu
 燠	ylouui
+爩	ylouv
+爩	ylouvu
 育	ylov
 乻	ylova
 乻	ylovaa
