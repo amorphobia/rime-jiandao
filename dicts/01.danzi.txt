@@ -2826,13 +2826,19 @@
 𰃿	djovuo
 𡁯	djovuo
 独	dju
+𫧿	djua
 独	djuaia
+𫧿	djuauo
 牍	djui
 牍	djuiuo
 都	djuo
+𰤬	djuoa
 都	djuoai
+𰤬	djuoau
 𬢎	djuoi
 𬢎	djuoia
+𰶔	djuou
+𰶔	djuouo
 肚	djuv
 笃	djuva
 笃	djuvaa
@@ -2846,6 +2852,8 @@
 螙	djvia
 𧉓	djviav
 螙	djviav
+𱁷	djviu
+𱁷	djviuo
 蠹	djvivu
 堵	djvo
 堵	djvouo
@@ -2866,6 +2874,8 @@
 杜	djvv
 毒	djvvaa
 杜	djvvoo
+𪻨	djvvu
+𪻨	djvvuo
 地	dk
 滴	dka
 缔	dkaa
@@ -7198,7 +7208,9 @@
 鳜	gbuavu
 𫚜	gbuavv
 皈	gbui
+䝿	gbuia	#繁体 ⿱臾贝
 鬼	gbuiao
+䝿	gbuiao	#繁体 ⿱臾贝
 𣪕	gbuiu
 𣪕	gbuiua
 皈	gbuiuu
@@ -8856,6 +8868,7 @@
 阖	heoivo
 愒	heoo
 寉	heooi
+𫪡	heooia	#无读音
 寉	heooio
 喝	heooiu
 愒	heoooi
@@ -12526,6 +12539,8 @@
 伥	jpiuva
 仧	jpiv
 仧	jpivii
+𱍊	jpivo
+𱍊	jpivoi
 唱	jpo
 昶	jpoa
 昶	jpoaoi
@@ -16931,13 +16946,16 @@
 冥	mgoaoi
 𠖇	mgoaoi
 暝	mgoi
+𢜏	mgoio	#无读音
 暝	mgoioa
+𢜏	mgoioa	#无读音
 𱊂	mgoiu
 𱊂	mgoiua
 明	mgoiuu
 㝠	mgoo
 慏	mgooo
 慏	mgoooa
+𢜠	mgoooi	#无读音
 㝠	mgoooi
 鸣	mgou
 鸣	mgouao
@@ -18115,7 +18133,9 @@
 喃	nfouoi
 煵	nfouuo
 南	nfu
+𢆥	nfuo	#无读音
 南	nfuoia
+𢆥	nfuouv	#无读音
 腩	nfuu
 腩	nfuuoi
 楠	nfv
@@ -23433,7 +23453,9 @@
 悚	syoov
 悚	syoovi
 宋	syoovv
+䢠	syou
 送	syouoa
+䢠	syouoa
 竦	syov
 庺	syovu
 庺	syovuo
@@ -28105,6 +28127,8 @@
 蓿	xliio
 蓿	xliioo
 蓄	xliiov
+𰱐	xliiu
+𰱐	xliiuo
 俆	xliiv
 俆	xliivv
 𫓰	xlio
@@ -30257,7 +30281,9 @@
 约	yha
 约	yhaaua
 瀹	yhai
+㵸	yhaiv
 瀹	yhaivo
+㵸	yhaivo
 𡛟	yhau
 妜	yhaua
 妜	yhauav
@@ -30278,7 +30304,11 @@
 岄	yhiauu
 曱	yhiavv
 䖃	yhii
+蘥	yhiii
 䖃	yhiiii
+蘥	yhiiiv
+㒢	yhiiv
+㒢	yhiivo
 钺	yhio
 钥	yhiouu
 钺	yhiova
@@ -30287,9 +30317,16 @@
 捳	yhiuui
 抈	yhiuuu
 龠	yhiv
+𠎤	yhivo
 龠	yhivoo
+𠎤	yhivoo
+䶳	yhivov
+𱊵	yhivu
+𱊵	yhivua
 阅	yho
 说	yhoa
+禴	yhoai
+禴	yhoaiv
 说	yhoaou
 說	yhoau	#繁体 ⿰讠兌
 說	yhoauo	#繁体 ⿰讠兌
@@ -30297,6 +30334,7 @@
 哕	yhoia
 哕	yhoiai
 曰	yhoii	#全码
+䠯	yhoiiv
 阅	yhoiou
 跀	yhoiu
 跀	yhoiuu
@@ -30341,6 +30379,8 @@
 戉	yhvaau
 𫐄	yhvav
 𫐄	yhvavu
+䟑	yhvo
+䟑	yhvoiv
 越	yhvova
 栎	yhvu
 栎	yhvuai
@@ -31429,6 +31469,8 @@
 掾	ytiuaa
 援	ytiuuo
 傆	ytiv
+㥐	ytivo
+㥐	ytivoa
 傆	ytivuu
 员	yto
 冤	ytoa
@@ -31821,6 +31863,8 @@
 吆	yzoaa
 袎	yzoaaa
 吆	yzoaao
+𰶏	yzoai
+𰶏	yzoaiv
 祅	yzoau
 谣	yzoauo
 祅	yzoauv
