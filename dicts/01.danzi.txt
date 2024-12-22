@@ -1223,6 +1223,7 @@
 蓓	bwiiio
 僃	bwiiiu
 偹	bwiiu
+𤰈	bwiiua
 偹	bwiiua
 偝	bwiiv
 偝	bwiivv
@@ -1275,7 +1276,11 @@
 愂	bwuoo
 愂	bwuooa
 箄	bwuv
+𤛟	bwuvi
+𤛟	bwuvii
 箄	bwuvui
+犕	bwuvv
+犕	bwuvvi
 杯	bwv
 𪱷	bwva
 𪱷	bwvaoo
@@ -4082,6 +4087,7 @@
 赸	efvoi
 圸	efvoia	#日本汉字
 赸	efvoia
+𪯋	efvoiv
 墡	efvoo
 𫮃	efvoou
 墡	efvoou
@@ -5613,6 +5619,7 @@
 茯	fjiiiv
 苻	fjiiiv
 菔	fjiiu
+𬜠	fjiiua
 菔	fjiiua
 莩	fjiiuo
 莆	fjiiv
@@ -6826,7 +6833,9 @@
 濷	fwaaii	#繁体 ⿱水满
 𬴂	fwaaiv
 绯	fwaaiv
+𬈕	fwaav
 沸	fwaava
+𬈕	fwaava
 陫	fwai
 陫	fwaiiv
 渄	fwaiv
@@ -7591,6 +7600,8 @@
 夬	ggavuo
 拐	ggi
 罫	ggia
+𧊅	ggiao
+𧊅	ggiaoa
 罫	ggiavo
 掴	ggiu
 𢮎	ggiui
@@ -16249,6 +16260,7 @@
 罍	lwiauv
 塁	lwiav
 壨	lwiavo
+𧒽	lwiavo
 塁	lwiavo
 櫐	lwiavv
 伦	lwii
@@ -18596,6 +18608,8 @@
 纳	nsaaia
 乸	nsai
 乸	nsaiaa
+䖓	nsaii
+䖓	nsaiiv
 㵊	nsao
 㵊	nsaoiv
 娜	nsau
@@ -18617,12 +18631,16 @@
 𠕄	nsiav
 𠕄	nsiavi
 𦰡	nsii
+𰱌	nsiia
+𰱌	nsiiaa
 𦰡	nsiiav
 钠	nsio
 镎	nsioi
 钠	nsioia
 镎	nsioiv
 捺	nsiu
+𫽀	nsiua
+𫽀	nsiuaa
 捺	nsiuvu
 㧱	nsiv
 拿	nsiviu
@@ -18645,8 +18663,14 @@
 肭	nsui
 肭	nsuiau
 南	nsuoia
+䏧	nsuu
+䏧	nsuuao
 雫	nsv
+𪯋	nsvo
+𪯋	nsvoiv
 雫	nsvovi
+𩏼	nsvv
+𩏼	nsvvia
 暖	nt
 奻	nta
 奻	ntauau
@@ -19913,6 +19937,8 @@
 廑	qbovvi
 亲	qbovvv
 嗪	qbovvv
+𠦎	qbu
+𠦎	qbuouo
 秦	qbv
 梫	qbva
 梫	qbvavv
@@ -22337,6 +22363,8 @@
 孺	rjai
 孺	rjaivo
 嬬	rjau
+䋈	rjaua
+䋈	rjauaa
 帤	rjaui
 渪	rjauia
 帤	rjauia
@@ -25481,6 +25509,8 @@
 鼯	wjuivi
 㐅	wjuo
 㐅	wjuoo	#全码
+𰅭	wjuou
+𰅭	wjuouo
 舞	wjuv
 迕	wjuvo
 迕	wjuvoa
@@ -25665,6 +25695,7 @@
 瓻	wkuova
 彳	wkuu
 徲	wkuua
+䏧	wkuuao
 徲	wkuuav
 彳	wkuuii
 胣	wkuuv
