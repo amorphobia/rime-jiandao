@@ -5649,7 +5649,6 @@
 被撞	bwfm	oi	899
 备份	bwfn	ui	1000
 辈分	bwfn	iu	899
-辈份	bwfn	ii	798
 悲愤	bwfn	io	797
 北方	bwfp	io	1000
 被抓	bwfq	oi	1000
