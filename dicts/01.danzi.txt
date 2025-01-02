@@ -1599,6 +1599,8 @@
 𰑧	cfvao
 𰑧	cfvaoa
 朁	cfvaoi
+㱚	cfvu
+㱚	cfvuuu
 残	cfvuvv
 蚕	cfvv
 璨	cfvvi
@@ -4312,6 +4314,8 @@
 湿	ekaoii
 𪶄	ekaoiv
 湜	ekaoiv
+㵓	ekaoo
+㵓	ekaooa
 湤	ekaov
 湤	ekaova
 虱	ekau
@@ -6161,6 +6165,8 @@
 桌	fl
 浊	fla
 濯	flaa
+㓸	flaai
+㓸	flaaii
 濯	flaaov
 缴	flaau
 缴	flaaui
@@ -12471,6 +12477,8 @@
 称	jnu
 䐜	jnuu
 䐜	jnuuoi
+䑣	jnuuu
+䑣	jnuuuu
 称	jnuvua
 臣	jnv
 樄	jnva	#繁体 ⿰木陈
@@ -16456,6 +16464,8 @@
 𫢒	lyivua
 咙	lyo
 𰳲	lyoa
+𭖊	lyoai	#无读音
+𭖊	lyoaia	#无读音
 𰳲	lyoavu
 昽	lyoi
 𨀁	lyoiv
@@ -17196,6 +17206,7 @@
 宻	mkooa
 宻	mkooao
 𧒧	mkooi
+𭓞	mkooia
 密	mkooia
 蜜	mkooia
 𧒧	mkooia
@@ -17921,7 +17932,9 @@
 贸	mzuaao
 猫	mzuaii
 皃	mzui
+㒵	mzuiu
 皃	mzuiua
+㒵	mzuiuo
 貌	mzuo
 貓	mzuoi
 貓	mzuoii
@@ -29166,7 +29179,9 @@
 忀	xxuuov
 衖	xxuuvi
 香	xxuv
+稥	xxuvo
 香	xxuvoi
+稥	xxuvoi
 缿	xxuvu
 缿	xxuvuu
 箱	xxuvv
@@ -31773,6 +31788,8 @@
 永	yyoaau
 𰵞	yyoao
 𰵞	yyoaoa
+𢒋	yyoau	#无读音
+𢒋	yyoauu	#无读音
 踊	yyoi
 喁	yyoia
 踊	yyoiao
