@@ -3832,7 +3832,9 @@
 稅	ebuvuo
 收	ed
 绶	eda
+𩠐	edaa
 绶	edaauo
+𩠐	edaavu
 収	edai
 収	edaiao
 收	edaiuv
@@ -4169,6 +4171,8 @@
 淑	ejaivv
 赎	ejao
 赎	ejaouo
+㳤	ejaov
+㳤	ejaovv
 恕	ejau
 𡠟	ejaua
 𡠟	ejauav
@@ -9478,6 +9482,8 @@
 火	hlo
 祸	hloa
 祸	hloaoi
+𰵼	hloau
+𰵼	hloaua
 嚄	hloi
 嚿	hloii
 嚄	hloiii
@@ -14473,7 +14479,9 @@
 㸆	kzouuv
 焅	kzouuv
 考	kzu
+䐧	kzuo
 考	kzuova
+䐧	kzuovo
 犒	kzuv
 靠	kzuviv
 犒	kzuvov
@@ -16303,6 +16311,7 @@
 沦	lwaiua
 垒	lwao
 厽	lwaoa
+絫	lwaoaa
 厽	lwaoao
 淚	lwaoav
 涙	lwaoav
@@ -16939,7 +16948,9 @@
 螨	mfiai
 瞒	mfiaii
 螨	mfiaii
+𧖣	mfiao	#繁体 ⿰虫蛮
 幔	mfiaoi
+𧖣	mfiaov	#繁体 ⿰虫蛮
 蔓	mfii
 𬜬	mfiio
 蔓	mfiioi
@@ -24569,6 +24580,8 @@
 䩄	tmvuia
 鿬	tmvuia
 殄	tmvuiu
+𠀡	tmvuv
+𠀡	tmvuvi
 忝	tmvv
 沗	tmvva
 沗	tmvvaa
@@ -25360,6 +25373,8 @@
 捖	wfiuoo
 挽	wfiuua
 抏	wfiuvv
+㐾	wfiv
+㐾	wfivvu
 晚	wfo
 晩	wfoi	#异体
 晼	wfoio
@@ -28578,6 +28593,7 @@
 唌	xmouiv
 羡	xmouov
 烍	xmouu
+㗸	xmouui
 烍	xmouuv
 啣	xmouv
 啣	xmouvv
