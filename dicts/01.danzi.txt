@@ -27179,11 +27179,12 @@
 厁	xdivai	#无读音
 偕	xdivau
 𬹼	xdivi
-𫧯	xdivia
 禼	xdivia
 伳	xdivii
 偞	xdivii
 𬹼	xdiviu
+𫧯	xdivo
+𫧯	xdivoi
 斜	xdivoo
 㱔	xdivu
 㱔	xdivua
