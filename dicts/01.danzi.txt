@@ -1544,8 +1544,8 @@
 澯	cfaivu
 㕘	cfao
 𠫭	cfaoi
+叅	cfaoii
 㕘	cfaoii
-叅	cfaoiu
 𠫭	cfaoiu
 参	cfaouu
 叄	cfaov
@@ -1882,8 +1882,8 @@
 汵	cnaioa
 参	cnao
 㕘	cnaoi
+叅	cnaoii
 㕘	cnaoii
-叅	cnaoiu
 参	cnaouu
 叄	cnaov
 叄	cnaovv
@@ -4638,7 +4638,7 @@
 深	enaoau
 沈	enaoau
 叅	enaoi
-叅	enaoiu
+叅	enaoii
 渖	enaoo
 㴱	enaooa
 渖	enaooa
@@ -4970,7 +4970,7 @@
 痧	eso
 唦	esoa
 唦	esoaiu
-啥	esoivv
+啥	esoivu
 唼	esoo
 唼	esoovo
 喢	esou
@@ -5274,9 +5274,10 @@
 籀	fduvi
 肘	fduvio
 籀	fduviu
-缶	fduvv
+缶	fduvu
+缶	fduvuo
+甃	fduvv
 甃	fduvva
-缶	fduvvi
 否	fdv
 轴	fdva
 轴	fdvaia
@@ -5871,13 +5872,13 @@
 织	fkaao
 治	fkaaoo
 织	fkaaou
-彘	fkaau
+𫄨	fkaau
 纸	fkaaua
 𫄨	fkaauo
 𮉢	fkaauv
-彘	fkaauv
-𰬫	fkaav
+彘	fkaav
 𰬫	fkaava
+彘	fkaava
 陟	fkai
 骘	fkaia
 骘	fkaiaa
@@ -8490,8 +8491,8 @@
 贡	gyviao
 功	gyviau
 恭	gyvii
+恭	gyviio
 拲	gyviiu
-恭	gyviiu
 𰑟	gyvio
 𰑟	gyvioa
 攻	gyviu
@@ -17138,7 +17139,7 @@
 慕	mjiii
 苜	mjiiia
 幕	mjiiia
-慕	mjiiiu
+慕	mjiiio
 暮	mjiio
 暮	mjiioi
 墓	mjiivo
@@ -19158,7 +19159,7 @@
 檘	pgvavu
 塀	pgvo
 塀	pgvoav
-平	pgvouv
+平	pgvouu
 坪	pgvovo
 砯	pgvu
 砯	pgvuao
@@ -24587,7 +24588,7 @@
 沗	tmvvaa
 琠	tmvvi
 琠	tmvvia
-忝	tmvviu
+忝	tmvvio
 瑱	tmvvu
 兲	tmvvuo
 天	tmvvuo
