@@ -3850,6 +3850,8 @@
 授	ediuuo
 首	edo
 守	edoo
+㝊	edooa
+㝊	edooao
 嘼	edoov
 守	edoovi
 嘼	edoovo
@@ -6360,6 +6362,8 @@
 分	fn
 纷	fna
 纷	fnaauo
+㞣	fnai
+㞣	fnaiuo
 瀵	fnao
 翂	fnaou
 翂	fnaouo
@@ -7098,6 +7102,8 @@
 召	fza
 沼	fzaa
 沼	fzaauo
+㕚	fzao
+㕚	fzaooo
 妱	fzau
 巶	fzaua
 妱	fzauau
@@ -12149,6 +12155,7 @@
 筥	jluvoo
 毩	jluvou
 毱	jluvu
+䅓	jluvua
 毱	jluvua
 榘	jluvv
 秬	jluvva
@@ -20419,6 +20426,7 @@
 霑	qfvo
 霑	qfvoai
 趈	qfvoi
+龪	qfvoii
 趈	qfvoiv
 橏	qfvou
 橏	qfvouv
@@ -22263,6 +22271,8 @@
 召	qza
 沼	qzaa
 沼	qzaauo
+㕚	qzao
+㕚	qzaooo
 妱	qzau
 巶	qzaua
 妱	qzauau
@@ -25060,6 +25070,10 @@
 绦	tzaaua
 绹	tzaaua
 𬘺	tzaauo
+𠬢	tzai
+𠬢	tzaiao
+㞵	tzaio
+㞵	tzaiov
 陶	tzaiua
 滔	tzau
 淘	tzauau
@@ -25089,8 +25103,12 @@
 搯	tziuuo
 讨	tzo
 叨	tzoa
+𬣥	tzoaa
+𬣥	tzoaai
 叨	tzoauu
 讨	tzoavi
+㫞	tzoi
+㫞	tzoiai
 慆	tzoo
 慆	tzoouo
 啕	tzou
@@ -25098,6 +25116,8 @@
 咷	tzouo
 咷	tzouov
 饕	tzov
+𤵟	tzova
+𤵟	tzovai
 饕	tzovio
 逃	tzu
 匋	tzua
@@ -25108,6 +25128,8 @@
 逃	tzuooa
 鼗	tzuovo
 䄻	tzuv
+𤘸	tzuva
+𤘸	tzuvai
 䵚	tzuvu
 䄻	tzuvuo
 䵚	tzuvuo
@@ -25119,6 +25141,8 @@
 醄	tzviua
 鞉	tzviuo
 桃	tzvu
+𪵁	tzvua
+𪵁	tzvuai
 夵	tzvui
 夵	tzvuiu
 槄	tzvuo
@@ -25130,6 +25154,8 @@
 套	tzvuvi
 㚐	tzvuvu
 焘	tzvv
+𩏾	tzvva
+𩏾	tzvvai
 焘	tzvvoo
 韬	tzvvu
 韬	tzvvuo
