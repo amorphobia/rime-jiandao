@@ -7187,6 +7187,8 @@
 姽	gbauu
 姽	gbauua
 溎	gbav
+䢜	gbavo
+䢜	gbavoa
 溎	gbavvo
 归	gbi
 贵	gbia
@@ -7211,6 +7213,7 @@
 刽	gbiv
 郐	gbiva
 郐	gbivai
+㱕	gbivav
 刽	gbivii
 跪	gbo
 诡	gboa
@@ -7232,6 +7235,7 @@
 恑	gbooua
 炔	gbou
 𠱓	gboua
+㷌	gbouav
 炔	gbouav
 𠱓	gbouav
 庋	gbov
@@ -9619,6 +9623,7 @@
 朚	hmovoi
 巟	hmovu
 韹	hmovui
+衁	hmovui
 巟	hmovui
 肓	hmovuu
 癀	hmovv
@@ -10147,6 +10152,7 @@
 朚	hxovoi
 巟	hxovu
 韹	hxovui
+衁	hxovui
 巟	hxovui
 肓	hxovuu
 癀	hxovv
@@ -20898,6 +20904,7 @@
 岓	qkiauu
 崎	qkiav
 蜞	qkiavi
+㠌	qkiavi
 帺	qkiavi
 畦	qkiavo
 蛣	qkiavo
@@ -32556,6 +32563,7 @@
 镃	zkioou
 龇	zkiv
 赀	zkiva
+𬗋	zkivaa
 紫	zkivaa
 𡥎	zkivai
 赀	zkivao
