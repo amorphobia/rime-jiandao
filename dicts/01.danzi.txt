@@ -2709,6 +2709,8 @@
 瀻	dhauov
 逮	dhavoa
 袋	dhi
+獃	dhia	#繁体 ⿰岂犬
+獃	dhiavu	#繁体 ⿰岂犬
 𢯊	dhiu
 𢯊	dhiuui
 贷	dhiv
@@ -13218,6 +13220,7 @@
 芚	jwiiv
 萅	jwiiva
 芚	jwiiva
+萶	jwiivv
 钧	jwio
 隽	jwioa
 隽	jwioau
@@ -24581,6 +24584,9 @@
 胋	tmuiv
 胋	tmuivo
 舔	tmuv
+舑	tmuvi
+䑙	tmuvia
+舑	tmuvia
 甜	tmuvvi
 舔	tmuvvv
 填	tmv
