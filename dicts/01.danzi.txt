@@ -5089,6 +5089,8 @@
 少	ez
 绍	eza
 绍	ezaaau
+𠃣	ezai	#无读音
+𠃣	ezaiuo	#无读音
 邵	ezau
 劭	ezaua
 卲	ezauai
@@ -5435,6 +5437,8 @@
 藩	ffiia
 范	ffiiaa
 藩	ffiiau
+𮐚	ffiio
+𮐚	ffiiou
 蘩	ffiiu
 蕃	ffiiuo
 蘩	ffiiuv
@@ -9499,6 +9503,7 @@
 𰵼	hloaua
 嚄	hloi
 嚿	hloii
+𬮘	hloiii
 嚄	hloiii
 嚿	hloiii
 旤	hloiv	#繁体 ⿰呙旡
@@ -11821,6 +11826,7 @@
 嗘	jkouoo
 兾	jkouv
 兾	jkouvi
+𤈄	jkouvo
 疾	jkov
 𬹳	jkova
 𬹳	jkovao
@@ -18459,6 +18465,7 @@
 昵	nkoi
 昵	nkoiav
 晲	nkoiu
+䦵	nkoiua	#繁体 ⿵门尔
 晲	nkoiui
 暱	nkoiv
 暱	nkoivi
@@ -22265,6 +22272,7 @@
 邛	qyviai
 卭	qyviai
 蛩	qyvii
+蛬	qyviia
 蛩	qyviia
 銎	qyviio
 橩	qyviio	#繁体 ⿰木𦬮
@@ -22668,6 +22676,7 @@
 牣	rnuva
 牣	rnuvau
 秂	rnuvi
+𠁪	rnuvia	#无读音
 秂	rnuvii
 稔	rnuvio
 壬	rnuviv
@@ -32481,6 +32490,8 @@
 俎	zjiiia
 葅	zjiiii
 镞	zjio
+鎺	zjioo	#无读音
+鎺	zjiooa	#无读音
 镞	zjioov
 𬬷	zjiov
 𬬷	zjiovu
