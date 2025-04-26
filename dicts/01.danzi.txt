@@ -11117,6 +11117,7 @@
 煘	jfouvu
 廛	jfov
 𱐙	jfovi
+㢆	jfovia
 廛	jfovia
 𱐙	jfovii
 斺	jfoviu
@@ -30799,6 +30800,7 @@
 谊	ykoaoo
 议	ykoaou
 扆	ykoaov
+㘁	ykoaov	#繁体 ⿰口𠬤
 诣	ykoau
 扅	ykoaua
 𬤩	ykoaua
@@ -30882,6 +30884,7 @@
 豙	ykovou
 癔	ykovov
 庡	ykovov
+𧜟	ykovov
 毅	ykovu
 疫	ykovua
 衣	ykovua
