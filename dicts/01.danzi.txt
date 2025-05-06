@@ -509,6 +509,7 @@
 睥	bkiaui
 髀	bkiaui
 畀	bkiav
+蜌	bkiava
 奰	bkiavu
 畀	bkiavu
 蓖	bkii
@@ -7452,6 +7453,8 @@
 仡	geiuv
 仡	geiuva
 鸽	geiv
+𱎼	geivi	#无读音
+𱎼	geivii	#无读音
 合	geivo
 合	geivoo
 鸽	geivua
@@ -23137,6 +23140,7 @@
 愢	shooia
 噻	shoooa
 𡨄	shoov
+𥤧	shoovo
 塞	shoovo
 𡨄	shoovv
 嘥	shou
