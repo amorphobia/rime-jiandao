@@ -743,6 +743,8 @@
 袯	bloaau
 襮	bloao
 襮	bloaoi
+襎	bloau
+襎	bloauo
 踣	bloi
 跛	bloiau
 踣	bloiov
@@ -5454,6 +5456,8 @@
 仮	ffiuu
 仮	ffiuua
 烦	ffo
+襎	ffoa
+襎	ffoauo
 蹯	ffoi
 蹯	ffoiuo
 忛	ffoo
@@ -11021,7 +11025,9 @@
 骣	jfaaa
 骣	jfaaav
 缠	jfaaov
+纒	jfaav	#繁体 ⿰纟㕓
 潺	jfaavu
+纒	jfaavu	#繁体 ⿰纟㕓
 䧯	jfai
 䧯	jfaiua
 澶	jfao
@@ -11483,6 +11489,8 @@
 憠	jhvuoa
 蹷	jhvuoi
 厥	jhvuou
+𱊧	jhvuu
+𱊧	jhvuua
 橜	jhvuv
 橜	jhvuvv
 橛	jhvv
@@ -28396,6 +28404,7 @@
 怴	xloova
 惐	xloovo
 嘼	xloovo
+𢖳	xloovv
 噢	xlou
 糈	xloua
 糈	xlouai
@@ -31337,7 +31346,9 @@
 欤	ylvaua
 与	ylvavv
 雨	ylvi
+㭗	ylvia
 雨	ylviai
+㭗	ylviai
 敔	ylviu
 敔	ylviuv
 榆	ylviv
@@ -31699,7 +31710,9 @@
 傆	ytivuu
 员	yto
 冤	ytoa
+裷	ytoao
 员	ytoaoo
+裷	ytoaou
 冤	ytoaua
 噮	ytoi
 噮	ytoiai
