@@ -17118,10 +17118,10 @@
 迈	mhvaoa
 霾	mhvo
 埋	mhvoia
-売	mhvou
-売	mhvoua
-霡	mhvouo
+霡	mhvou
+売	mhvoua	#日本汉字
 霾	mhvouo
+霡	mhvouo
 霢	mhvouu
 麦	mhvv
 鿺	mhvvu
