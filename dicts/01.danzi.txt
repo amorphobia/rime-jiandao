@@ -3226,6 +3226,8 @@
 殿	dma
 𱅛	dmaa
 𱅛	dmaaou
+𱅪	dmaav
+𱅪	dmaavi
 阽	dmai
 阽	dmaiiv
 淀	dmao
@@ -11798,6 +11800,7 @@
 讥	jkoaua
 计	jkoauo
 诘	jkoav
+襋	jkoavi
 诘	jkoavo
 唧	jkoavv
 𫌀	jkoavv
@@ -12242,6 +12245,8 @@
 𬘖	jmaai
 𬘖	jmaaia
 缣	jmaao
+𰬝	jmaaoi
+繝	jmaaoi	#繁体 ⿰纟𫔮
 缣	jmaaou
 溅	jmaaov
 缄	jmaav
@@ -22764,6 +22769,8 @@
 阮	rta
 阮	rtaivv
 媆	rtau
+㜛	rtauv	#繁体 ⿰女软
+㜛	rtauva	#繁体 ⿰女软
 媆	rtauvu
 㽭	rti
 𤲬	rtia
@@ -27971,6 +27978,7 @@
 隰	xkaio
 隰	xkaioi
 䧍	xkaiu
+𣢑	xkaiua
 䧍	xkaiuo
 潝	xkaiv
 潝	xkaivo
@@ -28022,6 +28030,7 @@
 巂	xkiaio
 巇	xkiaiv
 蟋	xkiau
+㰩	xkiaua
 螅	xkiaui
 睎	xkiauo
 盻	xkiauo
