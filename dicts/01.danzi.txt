@@ -144,7 +144,9 @@
 憋	bdouoa
 𱌇	bdouoi
 蹩	bdouoi
+𱍈	bdouu
 鳖	bdouua
+𱍈	bdouua
 瘪	bdov
 㿜	bdovu
 瘪	bdovui
@@ -2225,6 +2227,8 @@
 対	dbovvi	#日本汉字
 追	dbu
 𫗰	dbua
+䬽	dbuao	#繁体 ⿰饣兑
+䬽	dbuaou	#繁体 ⿰饣兑
 𫗰	dbuaui
 𠂤	dbui
 𠂤	dbuiav
@@ -3855,10 +3859,14 @@
 谁	ebo
 说	eboa
 谁	eboaio
+祱	eboao
 说	eboaou
+祱	eboaou
 說	eboau	#繁体 ⿰讠兌
 說	eboauo	#繁体 ⿰讠兌
 税	ebu
+䬽	ebua	#繁体 ⿰饣兑
+䬽	ebuaou	#繁体 ⿰饣兑
 稅	ebuv
 税	ebuvou
 稅	ebuvuo
@@ -5496,6 +5504,8 @@
 忛	ffooua
 憣	ffoouo
 燔	ffou
+畨	ffoui
+畨	ffouia
 噃	ffouo
 噃	ffouou
 籵	ffouu
@@ -5630,6 +5640,8 @@
 缚	fjaavi
 绂	fjaavu
 附	fjai
+𠬝	fjaia
+𠬝	fjaiao
 附	fjaiiv
 洑	fjaiv
 泭	fjaivi
@@ -7245,6 +7257,8 @@
 刿	gbiaii
 嶲	gbiaio
 巂	gbiaio
+蛫	gbiau
+蛫	gbiaua
 眭	gbiav
 眭	gbiavo
 嶡	gbiavu
@@ -7256,6 +7270,8 @@
 𰔋	gbiui
 傀	gbiuia
 𰔋	gbiuia
+㧪	gbiuu
+㧪	gbiuua
 𰓻	gbiuv
 𰓻	gbiuvv
 刽	gbiv
@@ -7267,7 +7283,9 @@
 诡	gboa
 𱓩	gboao
 𱓩	gboaou
+祪	gboau
 诡	gboaua
+祪	gboaua
 袿	gboav
 袿	gboavo
 闺	gboi
@@ -7286,6 +7304,8 @@
 㷌	gbouav
 炔	gbouav
 𠱓	gbouav
+䍯	gbouu
+䍯	gbouua
 庋	gbov
 庪	gbovi
 庪	gboviu
@@ -12704,6 +12724,8 @@
 鬯	jpuo
 𠚍	jpuoa
 𠚍	jpuoai
+𠂭	jpuoo
+𠂭	jpuooo
 鬯	jpuoua
 徜	jpuu
 兏	jpuui
@@ -16066,6 +16088,7 @@
 郎	lpoaai
 勆	lpoaau
 郒	lpoao
+𬣼	lpoaoa
 郒	lpoaoa
 欴	lpoau
 欴	lpoaua
@@ -16443,6 +16466,8 @@
 论	lwo
 诔	lwoa
 论	lwoaiu
+祱	lwoao
+祱	lwoaou
 诔	lwoavv
 㗊	lwoo
 𰑄	lwooi
@@ -18547,6 +18572,7 @@
 逆	nkouoa
 旎	nkov
 麑	nkovu
+㫉	nkovua
 麑	nkovui
 旎	nkovuv
 腻	nku
@@ -19141,6 +19167,8 @@
 蹒	pfoi
 蹒	pfoiii
 叛	pfou
+畨	pfoui
+畨	pfouia
 判	pfouii
 籵	pfouu
 籵	pfouuo
@@ -21464,6 +21492,8 @@
 谴	qmoa
 谴	qmoaia
 谦	qmoaou
+𧿐	qmoi	#无读音
+𧿐	qmoiuv	#无读音
 骞	qmoo
 骞	qmooaa
 悭	qmooi
@@ -21539,6 +21569,7 @@
 歁	qmviua
 榩	qmviv
 榩	qmviva
+䙴	qmvivu
 靬	qmvivv
 圲	qmvo
 墘	qmvou
@@ -24291,6 +24322,7 @@
 葖	tjiio
 葖	tjiioo
 菟	tjiiu
+𱊠	tjiiua
 菟	tjiiua
 莵	tjiiui
 钍	tjio
@@ -26651,6 +26683,7 @@
 峞	wwiaua
 嵬	wwiaui
 嶶	wwiauu
+𫌭	wwiauu
 胃	wwiauu
 巍	wwiauv
 崣	wwiauv
@@ -26693,6 +26726,8 @@
 倄	wwiuo
 㧑	wwiuou
 倄	wwiuov
+㧪	wwiuu
+㧪	wwiuua
 揻	wwiuv
 㨊	wwiuvu
 揻	wwiuvu
@@ -28728,6 +28763,7 @@
 跣	xmoiuv
 跹	xmoiuv
 𲊿	xmoiv
+蹮	xmoivi
 𲊿	xmoivu
 闲	xmoivv
 宪	xmoo
@@ -29005,6 +29041,8 @@
 祫	xsoa
 啊	xsoaiv
 祫	xsoaiv
+𠖈	xsoav	#无读音
+𠖈	xsoavi	#无读音
 暇	xsoi
 呷	xsoia
 暇	xsoiav
@@ -33111,6 +33149,7 @@
 𭎂	zyvoii
 棕	zyvooa
 堫	zyvou
+𡒇	zyvouo
 鬷	zyvouo
 堫	zyvouo
 䝋	zyvu
