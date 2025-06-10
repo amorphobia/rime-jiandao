@@ -757,9 +757,9 @@
 嚗	blooiv
 懪	blooo
 懪	bloooi
-壆	bloov	#繁体 ⿱𰃮土
+𲘿	bloov
 愽	bloovi
-壆	bloovo	#繁体 ⿱𰃮土
+𲘿	bloovo
 哱	blou
 噃	blouo
 哱	blouoo
@@ -1905,8 +1905,8 @@
 仓	cpi
 鸧	cpia
 仓	cpiaaa
-嵢	cpiai	#繁体 ⿰山仓
-嵢	cpiaia	#繁体 ⿰山仓
+𲝈	cpiai
+𲝈	cpiaia
 鸧	cpiaua
 苍	cpii
 伧	cpiia
@@ -2248,8 +2248,8 @@
 碓	dbvuio
 𩈜	dbvuu
 𩈜	dbvuui
-䨺	dbvv	#繁体 ⿱云⿰云云
-䨺	dbvvvv	#繁体 ⿱云⿰云云
+𲐈	dbvv
+𲐈	dbvvvv
 掉	dc
 刁	dca
 汈	dcaa
@@ -29860,7 +29860,7 @@
 霪	ybvoau
 垠	ybvoav
 慭	ybvoo
-憗	ybvooa	#繁体 ⿱𱡘心
+𲠝	ybvooa
 慭	ybvooa
 堷	ybvoov
 韾	ybvoov
