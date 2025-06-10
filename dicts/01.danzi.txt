@@ -11588,12 +11588,15 @@
 幮	jjiao
 幮	jjiaov
 歜	jjiau
+㞮	jjiaua	#无读音
 歜	jjiaua
 㡡	jjiav
 㡡	jjiavu
 俶	jjii
 𫇴	jjiiu
 𫇴	jjiiua
+藸	jjiiv
+藸	jjiivu
 俶	jjiivv
 锄	jjio
 储	jjioau
@@ -16207,6 +16210,7 @@
 旒	lqovu
 廇	lqovua
 瘤	lqovua
+㐬	lqovui
 六	lqovuo
 旒	lqovuv
 癅	lqovv
@@ -17279,6 +17283,7 @@
 穆	mjuv
 毪	mjuva
 牳	mjuvaa
+𮳺	mjuvaa
 毪	mjuvao
 氁	mjuvi
 氁	mjuvii
@@ -18671,6 +18676,8 @@
 榒	nlvav
 榒	nlvava
 梛	nlvavv
+聏	nlvi
+聏	nlvivu
 橠	nlvo
 橠	nlvovu
 恧	nlvuoa
@@ -20829,6 +20836,8 @@
 茱	qjiiu
 著	qjiiuo
 茱	qjiiuv
+藸	qjiiv
+藸	qjiivu
 铸	qjio
 伫	qjioo
 伫	qjiooa
@@ -21848,6 +21857,8 @@
 崷	qqiaou
 蝤	qqiaou
 蚯	qqiaui
+蛷	qqiav
+蛷	qqiavi
 艽	qqii
 萩	qqiiu
 艽	qqiiua
@@ -26233,6 +26244,7 @@
 呡	wnoava
 闻	wnoi
 昷	wnoii
+闦	wnoiia	#繁体 ⿵门豊
 昷	wnoiia
 问	wnoioo
 阌	wnoiu
@@ -28055,6 +28067,8 @@
 耳	xjviiv
 毦	xjviu
 毦	xjviuv
+聏	xjviv
+聏	xjvivu
 鸸	xjvu
 而	xjvuia
 耏	xjvuu
@@ -28735,6 +28749,8 @@
 僲	xmivi
 僊	xmivia
 僲	xmivia
+𳐝	xmivv
+𳐝	xmivvu
 显	xmo
 诜	xmoa
 禒	xmoaa
@@ -28847,6 +28863,8 @@
 酰	xmvi
 尠	xmvii
 尠	xmviiu
+韅	xmvio
+韅	xmvioi
 酰	xmviuv
 枮	xmviv
 枮	xmvivo
@@ -31281,6 +31299,7 @@
 罭	yliavo
 㽣	yliavo
 禺	yliavv
+㬰	yliavv
 芋	ylii
 蓣	yliia
 蓣	yliiao
@@ -32157,6 +32176,8 @@
 鳙	yyua
 鲬	yyuaa
 鲬	yyuaao
+𫚦	yyuao
+𫚦	yyuaoo
 鳙	yyuaov
 用	yyuavv
 惥	yyui
@@ -32836,6 +32857,8 @@
 岞	zliauv
 岝	zliauv
 坐	zlii
+糳	zliio
+糳	zliiou
 坐	zliivo
 挫	zliu
 挫	zliuii
@@ -32981,6 +33004,8 @@
 拶	zsiuaa
 紥	zsiuaa
 偺	zsiuao
+𲎫	zsiv
+𲎫	zsivuv
 咱	zso
 襍	zsoa
 襍	zsoaio
