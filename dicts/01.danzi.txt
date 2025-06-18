@@ -322,7 +322,9 @@
 梹	bgvuiv
 棅	bgvuv
 棅	bgvuva
+𱋔	bgvv
 柄	bgvvia
+𱋔	bgvvou
 白	bh
 败	bha
 败	bhaouv
@@ -453,6 +455,8 @@
 不	bjvuio
 㱛	bjvuvu
 柨	bjvv
+𱋝	bjvvo
+𱋝	bjvvov
 柨	bjvvui
 比	bk
 避	bka
@@ -1669,6 +1673,8 @@
 𧚝	chvv
 材	chvviu
 𧚝	chvvov
+𬹅	chvvv
+𬹅	chvvvi
 粗	cj
 娕	cja
 媨	cjau
@@ -1879,7 +1885,9 @@
 瑳	clvv
 棤	clvvi
 棤	clvvii
+䴾	clvvo	#繁体 ⿰麦差
 瑳	clvvou
+䴾	clvvou	#繁体 ⿰麦差
 岑	cn
 涔	cna
 汵	cnai
@@ -4162,6 +4170,8 @@
 磰	efvuou
 㚒	efvuou
 杉	efvuuu
+𱋆	efvv
+𱋆	efvvia
 珊	efvvua
 帅	eg
 摔	egi
@@ -5908,6 +5918,8 @@
 椱	fjvuvo
 砆	fjvuvv
 夫	fjvv
+𤿲	fjvva
+𤿲	fjvvau
 榑	fjvvi
 榑	fjvvia
 琈	fjvvu
@@ -5916,6 +5928,7 @@
 夫	fjvvuo
 琈	fjvvuo
 麸	fjvvv
+𱋖	fjvvvi
 韨	fjvvvu
 枎	fjvvvu
 玞	fjvvvv
@@ -6240,6 +6253,7 @@
 桎	fkvvao
 梽	fkvvo
 梽	fkvvoo
+𱋪	fkvvov
 㯄	fkvvu
 㯄	fkvvuu
 桌	fl
@@ -6681,10 +6695,14 @@
 砜	frvuu
 砜	frvuua
 奉	frvv
+䵄	frvvi	#繁体 ⿰麦豊
+䵄	frvvia	#繁体 ⿰麦豊
 𮨴	frvvu
 𮨴	frvvua
+𫜑	frvvv
 丰	frvvvi
 奉	frvvvv
+𫜑	frvvvv
 发	fs
 法	fsa
 浌	fsai	#无读音
@@ -8052,6 +8070,8 @@
 𥕖	glvu
 𥕖	glvuov
 䆐	glvv
+𱋙	glvvi
+𱋙	glvvia
 䆐	glvvvv
 光	gm
 潢	gma
@@ -8532,8 +8552,9 @@
 供	gyi
 蚣	gyia
 蚣	gyiauo
-幊	gyiav	#繁体 ⿰巾贡
+𧋄	gyiav
 幊	gyiavi	#繁体 ⿰巾贡
+𧋄	gyiavi
 拱	gyiu
 拱	gyiuvi
 供	gyivii
@@ -9069,6 +9090,8 @@
 柇	hevuv
 柇	hevuvi
 㚘	hevv
+𱋇	hevvu
+𱋇	hevvuv
 㚘	hevvvv
 汉	hf
 汗	hfa
@@ -9506,6 +9529,8 @@
 琥	hjvvi
 䨼	hjvvii
 琥	hjvviv
+䴯	hjvvu	#繁体 ⿰麦勿
+䴯	hjvvua	#繁体 ⿰麦勿
 瑚	hjvvuo
 或	hl
 活	hla
@@ -9878,6 +9903,8 @@
 硴	hqvu
 硴	hqvuii
 砉	hqvv
+𱋎	hqvvo
+𱋎	hqvvoo
 槬	hqvvu
 槬	hqvvuo
 砉	hqvvvu
@@ -10078,6 +10105,7 @@
 环	htvv
 桓	htvvo
 桓	htvvoi
+𬹉	htvvoo
 𤩽	htvvu
 𤩽	htvvuo
 环	htvvvu
@@ -11221,7 +11249,9 @@
 㕓	jfvui
 㕓	jfvuia
 梴	jfvuiv
+䴼	jfvv	#繁体 ⿰麦戋
 刬	jfvvii
+䴼	jfvvvv	#繁体 ⿰麦戋
 经	jg
 劲	jga
 泾	jgaa
@@ -12541,6 +12571,8 @@
 戋	jmvvau
 䵤	jmvvi
 䵤	jmvvia
+麉	jmvvo
+麉	jmvvov
 栫	jmvvu
 栫	jmvvui
 椷	jmvvuv
@@ -14231,7 +14263,11 @@
 匡	kmvv
 劻	kmvva
 劻	kmvvau
+𱋈	kmvvo
+𱋈	kmvvov
+𱋫	kmvvv
 匡	kmvvvi
+𱋫	kmvvvi
 框	kmvvvv
 肯	kn
 恳	kna
@@ -14527,7 +14563,11 @@
 匡	kxvv
 劻	kxvva
 劻	kxvvau
+𱋈	kxvvo
+𱋈	kxvvov
+𱋫	kxvvv
 匡	kxvvvi
+𱋫	kxvvvi
 框	kxvvvv
 空	ky
 孔	kya
@@ -15280,6 +15320,7 @@
 㗉	lhvvu
 㗉	lhvvua
 䂮	lhvvv
+𪎌	lhvvvo
 䂮	lhvvvu
 路	lj
 陆	lja
@@ -15657,6 +15698,7 @@
 篥	lkuvvi
 犡	lkuvvu	#繁体 ⿰牜厉
 棃	lkuvvv
+䴻	lkuvvv	#繁体 ⿱𥝢麦
 梨	lkuvvv
 理	lkv
 李	lkva
@@ -17365,7 +17407,9 @@
 攠	mkiuov
 𪭧	mkiuua
 芈	mkiv
+⺸	mkivv
 芈	mkivvv
+⺸	mkivvv
 密	mko
 谜	mkoa
 冖	mkoaa	#全码
@@ -17599,6 +17643,7 @@
 枺	mlvvv
 枺	mlvvvi
 𬂠	mlvvvu
+𱋊	mlvvvv
 面	mm
 绵	mma
 缅	mmaa
@@ -17867,6 +17912,10 @@
 尨	mrvuau
 礞	mrvuii
 𢿂	mrvv
+𱋮	mrvvi
+𱋮	mrvvii
+䴿	mrvvo	#繁体 ⿰麦冡
+䴿	mrvvoa	#繁体 ⿰麦冡
 梦	mrvvua
 𢿂	mrvvvv
 吗	ms
@@ -18414,6 +18463,7 @@
 橣	ngvooa
 乃	nh
 奶	nha
+𠄎	nhaa	#全码
 𡥧	nhai
 𡥧	nhaiav
 能	nhao
@@ -19600,6 +19650,8 @@
 琵	pkvv
 枇	pkvva
 枇	pkvvau
+𫜔	pkvvu
+𫜔	pkvvui
 琵	pkvvva
 破	pl
 婆	pla
@@ -19897,6 +19949,8 @@
 棚	prvuuu
 硼	prvuuu
 砰	prvuvo
+䴶	prvv	#繁体 ⿰麦夆
+䴶	prvvua	#繁体 ⿰麦夆
 怕	ps
 潖	psa
 派	psau
@@ -20071,6 +20125,8 @@
 匏	pzvuua
 奅	pzvuua
 砲	pzvuua
+𮮆	pzvv
+𮮆	pzvvua
 去	q
 亲	qb
 沁	qba
@@ -21390,6 +21446,7 @@
 麹	qlvvua
 匤	qlvvv
 匤	qlvvvi
+𱋋	qlvvvo
 前	qm
 浅	qma
 纤	qmaa
@@ -22351,6 +22408,8 @@
 樯	qxvuoo
 玱	qxvv
 玱	qxvvia
+䵁	qxvvo	#繁体 ⿰麦将
+䵁	qxvvov	#繁体 ⿰麦将
 穷	qy
 嬛	qya
 嬛	qyauia
@@ -23589,7 +23648,9 @@
 琐	slvv
 璅	slvva
 璅	slvvaa
+䵀	slvvi	#繁体 ⿰麦𭕆
 琐	slvvio
+䵀	slvvio	#繁体 ⿰麦𭕆
 森	sn
 椮	snv
 椮	snvaov
@@ -24651,6 +24712,8 @@
 杔	tlvuva
 𣟄	tlvv
 𣟄	tlvvia
+𫜒	tlvvo
+𫜒	tlvvoo
 楕	tlvvu
 楕	tlvvuv
 天	tm
@@ -26054,6 +26117,8 @@
 樆	wkvovu
 漦	wkvv
 漦	wkvvaa
+麶	wkvvo	#繁体 ⿰麦离
+麶	wkvvov	#繁体 ⿰麦离
 𠩺	wkvvv
 𠩺	wkvvvu
 握	wl
@@ -26829,6 +26894,7 @@
 㣦	wwuuu
 㣦	wwuuuv
 徫	wwuuv	#繁体 ⿰彳韦
+䘙	wwuuvv	#繁体 ⿴行⿱韦帀
 徫	wwuuvv	#繁体 ⿰彳韦
 魏	wwuv
 委	wwuvau
@@ -28892,6 +28958,7 @@
 𣔙	xmvuuv
 玹	xmvv
 䵤	xmvvi
+𪎉	xmvvia
 现	xmvvia
 䵤	xmvvia
 玹	xmvvov
@@ -29693,6 +29760,7 @@
 聱	xzvvvi
 獒	xzvvvu
 璈	xzvvvv
+䵅	xzvvvv	#繁体 ⿱敖麦
 一	y
 因	yb
 引	yba
@@ -32268,6 +32336,10 @@
 祅	yzoau
 谣	yzoauo
 祅	yzoauv
+𠕻	yzoav
+𠖈	yzoavi	#无读音
+𠣑	yzoavv
+𠕻	yzoavv
 曜	yzoi
 曜	yzoiao
 㫐	yzoiu
