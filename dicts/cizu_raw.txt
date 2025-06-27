@@ -64802,6 +64802,7 @@
 敏快	mbkg	uo	1000
 妙不可言	mbky	av	1000
 免不了	mbl	uva	1000
+木波罗	mbl	vai	900
 买不了	mbl	ava	899
 毛玻璃	mbl	uvv	897
 木菠萝	mbl	vii	896
