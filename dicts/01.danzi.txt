@@ -4756,6 +4756,7 @@
 审	eno
 谌	enoa
 谂	enoai
+𳁼	enoaia
 神	enoaia
 谂	enoaio
 谉	enoao
@@ -8473,6 +8474,10 @@
 䵪	gwiaoi
 丨	gwii	#全码
 衮	gwo
+𬤆	gwoa
+𬤆	gwoaaa
+䜇	gwoao	#繁体 ⿰讠衮
+䜇	gwoaov	#繁体 ⿰讠衮
 惃	gwoo
 惃	gwoooi
 袞	gwov
@@ -8776,6 +8781,8 @@
 讳	hboa
 喙	hboaa
 喙	hboaav
+禈	hboao	#繁体 ⿰礻军
+禈	hboaoa	#繁体 ⿰礻军
 诲	hboau
 诲	hboauv
 诙	hboav
@@ -9865,6 +9872,8 @@
 华	hqiuuo
 摦	hqiuv
 摦	hqiuvu
+䶤	hqiv	#繁体 ⿰齿骨
+䶤	hqivia	#繁体 ⿰齿骨
 哗	hqo
 𲂊	hqoa
 𲂊	hqoaiu
