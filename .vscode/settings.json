@@ -3,5 +3,5 @@
     "editor.insertSpaces": false,
     "editor.tabSize": 16,
     "editor.acceptSuggestionOnEnter": "off",
-    "editor.fontFamily": "'Noto Sans SC', 'Plangothic P1', 'Plangothic P2'",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, 'Plangothic P2', 'Plangothic P1'",
 }
