@@ -2257,6 +2257,8 @@
 塠	dbvoui
 垖	dbvoui
 碓	dbvu
+䂙	dbvua
+䂙	dbvuai
 碓	dbvuio
 𩈜	dbvuu
 𩈜	dbvuui
@@ -3811,8 +3813,9 @@
 𫝵	dziav
 帱	dziavv
 𫝵	dziavv
-刂	dzii
+菿	dzii
 刂	dziii	#全码
+菿	dziiva
 捣	dziu
 捣	dziuua
 捯	dziuv
@@ -4165,6 +4168,8 @@
 笘	efuv
 笘	efuviv
 珊	efv
+𫐅	efva
+𫐅	efvaia
 杣	efvi
 柵	efvia
 杣	efviai
@@ -5216,6 +5221,8 @@
 稍	ezuvio
 筲	ezuvio
 䈰	ezuviu
+𥫩	ezuvu	#无读音
+𥫩	ezuvua	#无读音
 梢	ezv
 柖	ezva
 柖	ezvauo
@@ -8977,7 +8984,9 @@
 𫗯	hduai
 猴	hduaia
 𫗯	hduaia
+矦	hduau
 鲘	hduauu
+矦	hduauv
 齁	hdui
 齁	hduiua
 逅	hduu
@@ -10876,7 +10885,7 @@
 教	jcuouv
 敎	jcuouv
 胶	jcuovu
-㬵〔U+3B35〾“胶（U+80F6）”〕	jcuovu
+㬵`〔U+3B35〾“胶（U+80F6）”〕	jcuovu
 徼	jcuu
 腳	jcuuo
 腳	jcuuoi
@@ -12533,6 +12542,7 @@
 踺	jmoiav
 间	jmoioi
 𫔮	jmoiu
+𬮡	jmoiua
 𫔮	jmoiuu
 趼	jmoiv
 暕	jmoivi
@@ -14331,6 +14341,8 @@
 筐	kmuv
 筐	kmuvvv
 框	kmv
+𰹶	kmva
+𰹶	kmvavv
 匩	kmvi
 匩	kmviai
 圹	kmvo
@@ -14633,6 +14645,8 @@
 筐	kxuv
 筐	kxuvvv
 框	kxv
+𰹶	kxva
+𰹶	kxvavv
 匩	kxvi
 匩	kxviai
 圹	kxvo
@@ -18045,6 +18059,8 @@
 祃	msoa
 祃	msoaaa
 吗	msoaav
+𬮡	msoi
+𬮡	msoiua
 骂	msoo
 骂	msooaa
 嚒	msoov
@@ -19930,7 +19946,9 @@
 嗙	ppoovo
 炐	ppou
 炐	ppouvv
+㫄	ppov
 旁	ppovov
+㫄	ppovua
 庞	ppovvu
 胖	ppu
 逄	ppua
@@ -20728,7 +20746,9 @@
 䩇	qfvuiv
 栴	qfvuvu
 盏	qfvv
+𰲠	qfvvi
 盏	qfvvia
+𰲠	qfvviv
 栈	qfvvv
 栈	qfvvva
 𬍙	qfvvvv
@@ -22311,6 +22331,8 @@
 颧	qtiivu
 佺	qtiivv
 铨	qtio
+𰾼	qtioa
+𰾼	qtioav
 铨	qtioiv
 搼	qtiu
 搼	qtiuou
@@ -23825,6 +23847,8 @@
 鬙	srviou
 撒	ss
 洒	ssa
+𱅂	ssaa
+𱅂	ssaaua
 挲	ssai
 挲	ssaiiu
 潵	ssav
@@ -24144,6 +24168,8 @@
 𣔌	tcvuao
 头	td
 贴	tda
+紏	tdaa	#繁体 ⿰纟斗
+紏	tdaaoo	#繁体 ⿰纟斗
 贴	tdaoiv
 媮	tdau
 媮	tdauiv
@@ -27313,6 +27339,8 @@
 𲇴	xbioo
 𲇴	xbiooa
 锌	xbioov
+鈝	xbiou	#繁体 ⿰钅牛
+鈝	xbiouv	#繁体 ⿰钅牛
 镡	xbiov
 镡	xbiovi
 伩	xbiovu
@@ -27361,6 +27389,8 @@
 馫	xbuv
 馫	xbuvuv
 馨	xbv
+軐	xbva	#繁体 ⿰车卂
+軐	xbvaav	#繁体 ⿰车卂
 枔	xbvi
 枔	xbvioa
 杺	xbvo
@@ -28462,6 +28492,7 @@
 曦	xkoiou
 蹊	xkoiu
 喺	xkoiua
+𬮡	xkoiua
 阋	xkoiui
 晞	xkoiuo
 蹊	xkoiuo
@@ -32513,6 +32544,7 @@
 谣	yzoa
 吆	yzoaa
 袎	yzoaaa
+𬣦	yzoaaa
 吆	yzoaao
 𰶏	yzoai
 𰶏	yzoaiv
@@ -32529,6 +32561,8 @@
 㫐	yzoiua
 㿢	yzoiui
 暚	yzoiuo
+𬮲	yzoiv
+𬮲	yzoivi
 窑	yzoo
 窈	yzooa
 窈	yzooaa
