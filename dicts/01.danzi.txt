@@ -428,6 +428,8 @@
 庯	bjovvi
 簿	bju
 𫗦	bjua
+𱃾	bjuao
+𱃾	bjuaov
 𫗦	bjuavi
 鿻	bjui
 鿻	bjuivu
@@ -486,6 +488,7 @@
 娝	bkauvu
 壁	bkav
 嬖	bkava
+𰻳	bkavai
 沘	bkavau
 𰛡	bkavau
 嬖	bkavau
@@ -1366,6 +1369,7 @@
 曓	bzoia
 曓	bzoiai
 曝	bzoio
+闁	bzoioi	#繁体 ⿵门门
 曝	bzoioi
 趵	bzoiu
 趵	bzoiua
@@ -1906,7 +1910,9 @@
 叄	cnaovv
 㟥	cni
 㞥	cnia
+𫶅	cniaa
 㟥	cniaao
+𫶅	cniaao
 岑	cniaio
 㞥	cniauo
 藏	cp
@@ -4099,7 +4105,9 @@
 㣌	efivuu
 善	efo
 扇	efoa
+𰴂	efoaa
 扇	efoaao
+𰴂	efoaao
 讪	efoai
 讪	efoaia
 禅	efoao
@@ -4151,6 +4159,8 @@
 颤	efovvu
 删	efu
 鳝	efua
+𬌷	efuaa
+𬌷	efuaao
 删	efuaii
 鳣	efuao
 𱇞	efuaoi
@@ -12737,7 +12747,9 @@
 樄	jnva	#繁体 ⿰木陈
 樄	jnvaiv	#繁体 ⿰木陈
 梣	jnvi
+𮠳	jnvia
 梣	jnviai
+𮠳	jnviao
 臣	jnviav
 夦	jnviu
 夦	jnviua
@@ -13072,6 +13084,8 @@
 庱	jrovvo
 椉	jrovvv
 称	jru
+饓	jrua	#繁体 ⿰饣棠
+饓	jruaio	#繁体 ⿰饣棠
 塍	jruo
 𣎒	jruoi
 爯	jruoia
@@ -13147,6 +13161,7 @@
 加	jsauoo
 嫁	jsauoo
 袈	jsauov
+䪪	jsauov	#无读音
 毠	jsauu
 毠	jsauuv
 架	jsauvv
@@ -15860,6 +15875,7 @@
 砬	lkvuo
 暦	lkvuoi
 㷴	lkvuou
+𠫏	lkvuov	#繁体 ⿰历卒 无读音
 砬	lkvuov
 砾	lkvuu
 砾	lkvuua
@@ -21091,6 +21107,8 @@
 瘃	qjovvu
 朱	qju
 猪	qjua
+飳	qjuao	#繁体 ⿰饣主
+飳	qjuaov	#繁体 ⿰饣主
 猪	qjuauo
 橥	qjuav
 橥	qjuavv
@@ -21313,6 +21331,7 @@
 嘁	qkovui
 斉	qkovui
 齐	qkovui
+𠵇	qkovuo	#无读音
 旂	qkovuv
 旗	qkovuv
 凄	qkovv
@@ -23286,6 +23305,8 @@
 嗺	sboiai
 虽	sboiav
 邃	sboo
+𥤼	sbooa
+𥤼	sbooaa
 邃	sboooa
 遂	sbou
 熣	sboui
@@ -27931,12 +27952,15 @@
 婩	xfau
 婩	xfauia
 媕	xfauiv
+㛺	xfauo
+㛺	xfauov
 按	xfi
 岸	xfia
 𡚴	xfiaa
 𡚴	xfiaau
 黯	xfiao
 峖	xfiaoo
+罯	xfiaov
 黯	xfiaov
 㟁	xfiav
 㽢	xfiavu
@@ -27944,6 +27968,8 @@
 㟁	xfiavu
 屽	xfiavv
 菴	xfii
+萻	xfiio
+萻	xfiiov
 菴	xfiivu
 铵	xfio
 盦	xfioi
@@ -32024,6 +32050,8 @@
 犽	ysuava
 猰	ysuavv
 䝟	ysuo
+𫜰	ysuoi
+𫜰	ysuoiv
 䝟	ysuovv
 衙	ysuuvi
 氩	ysuv
@@ -33096,9 +33124,13 @@
 自	zku
 鲻	zkua
 鲻	zkuaaa
+𠂔	zkuai
+𠂔	zkuaiu
 自	zkuiav
 胾	zkuo
 胾	zkuoia
+胏	zkuu
+胏	zkuuai
 笫	zkuv
 牸	zkuvo
 牸	zkuvoo
