@@ -2940,6 +2940,7 @@
 毒	djvvaa
 杜	djvvoo
 𪻨	djvvu
+琽	djvvuo
 𪻨	djvvuo
 地	dk
 滴	dka
@@ -3694,6 +3695,7 @@
 𣎴	dwviuo
 墩	dwvo
 墫	dwvoo
+逇	dwvooa
 墫	dwvoou
 墩	dwvoov
 橔	dwvov
@@ -4958,6 +4960,7 @@
 晠	eroiv
 晟	eroivu
 晠	eroivu
+琞	eroivv
 𰑪	eroo
 𰑪	eroooi
 呏	erou
@@ -7743,6 +7746,7 @@
 亁	gfuouv
 竿	gfuv
 稈	gfuvo
+筸	gfuvoi
 稈	gfuvoi
 秆	gfuvv
 𬕂	gfuvvi
@@ -11745,7 +11749,9 @@
 𰵴	jjoaiv
 褚	jjoauo
 躇	jjoi
+𬮥	jjoii
 躇	jjoiii
+𬮥	jjoiii
 踀	jjoio
 踀	jjoioi
 躕	jjoiov
@@ -12028,6 +12034,7 @@
 剂	jkovii
 齑	jkoviv
 迹	jkovo
+𬏟	jkovoa
 迹	jkovoa
 咭	jkovoo
 𱌗	jkovou
@@ -15354,6 +15361,8 @@
 夌	lgvou
 夌	lgvoua
 霊	lgvov
+龗	lgvovu	#繁体 ⿱霝龙
+靇	lgvovu	#繁体 ⿱雨龙
 霊	lgvovv
 砱	lgvu
 砱	lgvuio
@@ -16848,6 +16857,7 @@
 霳	lyvoai
 槞	lyvov	#日本汉字
 槞	lyvovo	#日本汉字
+靇	lyvovu	#繁体 ⿱雨龙
 垅	lyvovu
 聋	lyvu
 尨	lyvua
@@ -26592,7 +26602,9 @@
 旺	wpoi
 暀	wpoiu
 暀	wpoiuu
+琞	wpoiv
 旺	wpoivv
+琞	wpoivv
 惘	wpoo
 惘	wpooia
 忹	wpoov
