@@ -7994,6 +7994,8 @@
 鹄	gjuvua
 牯	gjuvuo
 牿	gjuvuv
+篐	gjuvv
+篐	gjuvvv
 顾	gjv
 轱	gjva
 𮝴	gjvau
@@ -9280,6 +9282,8 @@
 𫠐	hfuavi
 犴	hfuavv
 鼾	hfui
+肣	hfuio
+肣	hfuioa
 鼾	hfuivv
 翰	hfuo
 谽	hfuoi
@@ -10916,6 +10920,7 @@
 筊	jcuvov
 矫	jcuvu
 𰕈	jcuvuv
+穚	jcuvuv	#繁体 ⿰禾乔
 矫	jcuvuv
 较	jcv
 轿	jcva
@@ -12489,6 +12494,8 @@
 健	jmiavv
 𰏕	jmiavv
 坚	jmii
+葌	jmiia
+葌	jmiiau
 监	jmiii
 茧	jmiiia
 监	jmiiia
@@ -12507,6 +12514,7 @@
 𰾫	jmioi
 𰿈	jmioii
 𰾫	jmioii
+𲈀	jmioiv
 锏	jmioo
 锏	jmiooi
 傔	jmiou
@@ -12595,6 +12603,8 @@
 减	jmovvu
 简	jmu
 饯	jmua
+鰎	jmuaa	#繁体 ⿰鱼建
+鰎	jmuaav	#繁体 ⿰鱼建
 鲣	jmuai
 𫊱	jmuaia
 鲣	jmuaii
@@ -15315,7 +15325,9 @@
 凌	lgov
 㖫	lgovo
 㖫	lgovou
+麢	lgovv
 凌	lgovvo
+麢	lgovvo
 鲮	lgu
 𳎕	lgua
 𳎕	lguaio
@@ -17598,6 +17610,8 @@
 觅	mkuoia
 脒	mkuou
 脒	mkuouv
+𫌪	mkuu
+𫌪	mkuuia
 𥮜	mkuv
 𥮜	mkuvav
 秘	mkuvoa
@@ -20369,6 +20383,8 @@
 亲	qbovvv
 嗪	qbovvv
 𠦎	qbu
+肣	qbui
+肣	qbuioa
 𠦎	qbuouo
 秦	qbv
 梫	qbva
