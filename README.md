@@ -43,7 +43,10 @@ scrips/make_dicts.sh --append <cizu_append.txt> --delete <cizu_delete.txt> --mod
 **方式二** 在 PowerShell 中执行以下命令，然后按照提示安装即可。
 
 ```PowerShell
-irm 0xa.nl/get-jd-win | iex
+# GitHub
+irm https://raw.githubusercontent.com/amorphobia/rime-jiandao/master/scripts/installer.bat | iex
+# Gitee
+irm https://gitee.com/amorphobia/rime-jiandao/raw/master/scripts/installer.bat | iex
 ```
 
 #### 小小输入法
