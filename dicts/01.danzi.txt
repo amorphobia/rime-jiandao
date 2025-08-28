@@ -1542,6 +1542,8 @@
 策	ceuv
 筞	ceuvo
 筞	ceuvoo
+笧	ceuvu
+笧	ceuvua
 箣	ceuvv
 策	ceuvvi
 箣	ceuvvi
@@ -2333,6 +2335,8 @@
 鼦	dcuiau
 貂	dcuo
 貂	dcuoau
+簓	dcuv	#日本汉字
+簓	dcuvua	#日本汉字
 碉	dcv
 雿	dcvo
 雿	dcvouo
@@ -3577,6 +3581,8 @@
 匒	dsua
 匒	dsuaii
 笪	dsuv
+笚	dsuvi
+笚	dsuvia
 答	dsuviv
 笪	dsuvoi
 䐛	dsuvu
@@ -4010,6 +4016,8 @@
 社	eeo
 䄕	eeoa
 䄕	eeoaai
+䀅	eeoai
+䀅	eeoaia
 设	eeoaua
 社	eeoavo
 阇	eeoi
@@ -4188,6 +4196,8 @@
 彡	efuuuu
 笘	efuv
 笘	efuviv
+笧	efuvu
+笧	efuvua
 珊	efv
 𫐅	efva
 𫐅	efvaia
@@ -4595,6 +4605,7 @@
 适	ekuvoa
 舐	ekuvu
 舐	ekuvua
+笶	ekuvuv
 矢	ekuvv
 筮	ekuvvi
 䏡	ekuvvi
@@ -5513,6 +5524,8 @@
 泛	ffa
 氾	ffaa
 氾	ffaaaa
+䀀	ffaai
+䀀	ffaaia
 𬙆	ffaau
 𬳳	ffaaua
 𬙆	ffaauo
@@ -5911,6 +5924,7 @@
 腹	fjuuvo
 符	fjuv
 氟	fjuva
+笰	fjuvav
 氟	fjuvav
 脯	fjuvi
 脯	fjuvia
@@ -7089,6 +7103,8 @@
 腓	fwui
 腓	fwuivv
 肺	fwuv
+笰	fwuva
+笰	fwuvav
 肺	fwuvia
 𫂈	fwuvo
 𫂈	fwuvov
@@ -7237,6 +7253,7 @@
 种	fyuvia
 重	fyuvia
 㲴	fyuvia
+筗	fyuvii
 穜	fyuvo
 穜	fyuvov
 柊	fyv
@@ -7259,6 +7276,8 @@
 妱	fzauau
 巶	fzauav
 召	fzauoo
+盄	fzav
+盄	fzavia
 招	fzi
 罩	fzia
 罩	fziaiv
@@ -9909,6 +9928,10 @@
 航	hpuuov
 䘕	hpuuov
 行	hpuuvv
+筕	hpuv
+笐	hpuvo
+笐	hpuvov
+筕	hpuvuu
 杭	hpv
 巷	hpvi
 巷	hpviav
@@ -13188,6 +13211,8 @@
 架	jsa
 泇	jsaa
 泇	jsaauo
+㳌	jsai
+㳌	jsaiav
 斚	jsao
 斚	jsaooo
 驾	jsau
@@ -13212,6 +13237,7 @@
 假	jsi
 甲	jsia
 岬	jsiai
+䖬	jsiaia
 岬	jsiaia
 帢	jsiaiv
 幏	jsiao
@@ -13253,6 +13279,7 @@
 家	jso
 咖	jsoa
 袷	jsoai
+䘥	jsoaia
 袷	jsoaiv
 㗎	jsoau
 咖	jsoauo
@@ -13328,6 +13355,7 @@
 珈	jsvv
 珈	jsvvau
 槚	jsvvi
+玾	jsvvia
 槚	jsvvia
 恝	jsvvo
 恝	jsvvoa
@@ -15141,6 +15169,7 @@
 楽	leuivv
 簕	leuv
 牞	leuva
+竻	leuvau
 牞	leuvau
 簕	leuvvi
 勒	lev
@@ -17089,6 +17118,8 @@
 笢	mbuva
 勄	mbuvau
 笢	mbuvav
+笽	mbuvi	#日本汉字
+笽	mbuvia	#日本汉字
 慜	mbuvo
 慜	mbuvoa
 鳘	mbuvua
@@ -19115,6 +19146,10 @@
 南	nsuoia
 䏧	nsuu
 䏧	nsuuao
+笝	nsuv
+笚	nsuvi
+笝	nsuvia
+笚	nsuvia
 雫	nsv
 𪯋	nsvo
 𪯋	nsvoiv
@@ -21320,6 +21355,8 @@
 企	qkiivi
 䓫	qkiivu
 锜	qkio
+盀	qkioi
+盀	qkioia
 𬭭	qkiov
 锜	qkiovu
 𬭭	qkiovu
@@ -21624,6 +21661,7 @@
 衢	qluuia
 胠	qluv
 籧	qluvi
+筁	qluvia
 籧	qluviv
 胠	qluvoa
 取	qlv
@@ -21808,6 +21846,8 @@
 歉	qmouua
 前	qmouui
 粁	qmouuv
+羬	qmouv
+羬	qmouvu
 竏	qmov
 𰇕	qmovo
 𰇕	qmovou
@@ -22718,6 +22758,8 @@
 妱	qzauau
 巶	qzauav
 召	qzauoo
+盄	qzav
+盄	qzavia
 招	qzi
 罩	qzia
 罩	qziaiv
@@ -24188,6 +24230,7 @@
 墤	tbvoia	#繁体 ⿰土贵
 𪨇	tbvu
 尵	tbvui	#繁体 ⿺尢贵
+䀃	tbvuia
 𪨇	tbvuia
 尵	tbvuia	#繁体 ⿺尢贵
 条	tc
@@ -25930,6 +25973,8 @@
 脘	wfuoo
 腕	wfuooa
 脘	wfuooa
+笂	wfuv	#日本汉字
+笂	wfuvua	#日本汉字
 万	wfv
 𬨈	wfva
 𬨈	wfvaua
@@ -26347,6 +26392,7 @@
 斥	wkuuvi
 笞	wkuv
 胵	wkuva
+筂	wkuvaa
 箈	wkuvaa
 竾	wkuvai
 笞	wkuvao
@@ -28072,6 +28118,8 @@
 晻	xfoivu
 鞌	xfoo
 安	xfooau
+䀂	xfooi
+䀂	xfooia
 咹	xfooo
 咹	xfoooa
 鞌	xfoovi
@@ -29180,6 +29228,7 @@
 冼	xmovuv
 呒	xmovv
 咞	xmovvu
+麙	xmovvu
 呒	xmovvu
 鲜	xmu
 馅	xmua
@@ -29385,7 +29434,9 @@
 下	xs
 阿	xsa
 舝	xsai
+㳌	xsaia
 舝	xsaiaa
+㳌	xsaiav
 𬯅	xsaiv
 陜	xsaivi
 阿	xsaivo
@@ -29418,10 +29469,15 @@
 𬭪	xsioo
 𬭪	xsiooo
 傄	xsiv
+䖖	xsivi
+䖖	xsivia
 侠	xsivou
 傄	xsivuo
 啊	xso
 祫	xsoa
+𲂆	xsoai
+䘥	xsoaia
+𲂆	xsoaia
 啊	xsoaiv
 祫	xsoaiv
 𠖈	xsoav	#无读音
@@ -29457,7 +29513,9 @@
 狎	xsua
 𫚥	xsuaa
 𫚥	xsuaav
+𱇟	xsuai
 狎	xsuaia
+𱇟	xsuaia
 狭	xsuavo
 谺	xsuo
 谺	xsuova
@@ -29465,10 +29523,13 @@
 舺	xsuuia
 罅	xsuv
 敮	xsuvi
+笚	xsuvia
 罅	xsuviv
 敮	xsuviv
 腌	xsuvu
 腌	xsuvuo
+筪	xsuvv
+筪	xsuvvi
 夏	xsv
 辖	xsva
 辖	xsvaoo
@@ -30236,7 +30297,9 @@
 殷	ybuuua
 斦	ybuuuu
 氤	ybuv
+筃	ybuvi
 氤	ybuvia
+筃	ybuvia
 垠	ybv
 鄞	ybvi
 靷	ybvia
@@ -30451,6 +30514,8 @@
 鄾	ydvuai
 友	ydvuao
 尤	ydvuao
+䀁	ydvui
+䀁	ydvuia
 櫾	ydvuo
 右	ydvuoo
 櫾	ydvuoo
@@ -30700,6 +30765,7 @@
 弇	yfivv
 甗	yfivva
 鬳	yfivvo
+䖗	yfivvu
 弇	yfivvu
 言	yfo
 谚	yfoa
@@ -30780,7 +30846,9 @@
 兗	yfovuo
 彥	yfovuu
 彦	yfovuu
+麙	yfovv
 颜	yfovvu
+麙	yfovvu
 言	yfovvv
 延	yfu
 燄	yfua
@@ -31497,6 +31565,7 @@
 移	ykuv
 胰	ykuva
 㐌	ykuvai
+笖	ykuvao
 劮	ykuvau
 胰	ykuvav
 篒	ykuvi
@@ -31651,6 +31720,8 @@
 鬻	ylav
 叞	ylava
 叞	ylavao
+盓	ylavi
+盓	ylavia
 熨	ylavo
 粥	ylavou
 熨	ylavou
@@ -32131,6 +32202,7 @@
 衙	ysu
 猰	ysua
 𲰹	ysuai
+𩿼	ysuaia	#繁体 ⿱鸟甲
 𲰹	ysuaia
 犽	ysuav
 犽	ysuava
