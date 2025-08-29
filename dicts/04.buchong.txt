@@ -152,6 +152,10 @@
 意	yklo
 毅	yklu
 怡	ykxa
+# 词组二重
+失意	ekyk
+人士	rnek
+暗喻	xfyl
 # 补充词组
 富强 民主 文明 和谐 自由 平等 公正 法治 爱国 敬业 诚信 友善	fmwh
 国民生产总值	gdp

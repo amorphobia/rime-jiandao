@@ -272,6 +272,10 @@
 - 「八爪鱼」、「广府」、「凄怆」、「爪哇」、「床褥」、「不折」、「够着 zhe」缺失飞键音码补全
 - 「百褶裙」缺失飞键 `bqq`，补充飞键并调整词序，置于「不放弃」之后
 
+### 重码
+
+修复[官方 Issue 64](https://github.com/xkinput/Rime_JD/issues/64)
+
 ### 无谓简码
 
 在 [Issue 8](https://github.com/amorphobia/rime-jiandao/issues/8) 查看进度
