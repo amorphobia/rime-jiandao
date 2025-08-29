@@ -4136,6 +4136,8 @@
 衫	efoau
 衫	efoauu
 闪	efoi
+閊	efoii	#繁体 ⿵门山 日本汉字
+閊	efoiia	#繁体 ⿵门山 日本汉字
 闪	efoiii
 晱	efoio
 晱	efoiou
@@ -8471,7 +8473,9 @@
 关	gt
 观	gta
 贯	gtaa
+𢇇	gtaaa
 贯	gtaaao
+𢇇	gtaaau
 纶	gtaai
 纶	gtaaiu
 毌	gtaaiv
@@ -12364,6 +12368,7 @@
 踞	jloiav
 踽	jloiu
 跔	jloiua
+閰	jloiui	#繁体 ⿵门臼
 踽	jloiui
 昛	jloiv
 距	jloiva
@@ -18167,7 +18172,9 @@
 祃	msoaaa
 吗	msoaav
 𬮡	msoi
+閁	msoiu	#繁体 ⿵门丿
 𬮡	msoiua
+閁	msoiuu	#繁体 ⿵门丿
 骂	msoo
 骂	msooaa
 嚒	msoov
@@ -20805,6 +20812,8 @@
 𧮪	qfoai
 𧮪	qfoaiv
 谵	qfoaua
+閚	qfoi	#繁体 ⿵门立
+閚	qfoiov	#繁体 ⿵门立
 戦	qfoo	#日本汉字
 戦	qfoova	#日本汉字
 粘	qfou
@@ -24542,6 +24551,8 @@
 侹	tgiuv
 侹	tgiuvi
 庭	tgo
+䦐	tgoi	#繁体 ⿵门手
+䦐	tgoiiu	#繁体 ⿵门手
 烃	tgou
 烃	tgouao
 烶	tgouu
@@ -29175,6 +29186,7 @@
 祆	xmoavv
 闲	xmoi
 㬎	xmoia
+𲈵	xmoiaa
 㬎	xmoiaa
 𠯟	xmoiau
 𬀪	xmoii
@@ -29486,6 +29498,8 @@
 呷	xsoia
 暇	xsoiav
 呷	xsoiav
+𨳉	xsoio
+𨳉	xsoioo
 唬	xsoiv
 唬	xsoiva
 吖	xsoo
