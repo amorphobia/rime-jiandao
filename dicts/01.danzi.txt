@@ -6836,6 +6836,7 @@
 堼	frvov
 封	frvovi
 堼	frvovo
+靊	frvovv	#繁体 ⿱雨丰
 枫	frvu
 桻	frvua
 桻	frvuao
@@ -9658,6 +9659,7 @@
 斛	hjuao
 忽	hjuaoa
 曶	hjuaoi
+㫚`〔U+3ADA〾“曶（U+66F6）”〕	hjuaoi
 斛	hjuaoo
 狐	hjuau
 㺀	hjuaua
@@ -11133,7 +11135,9 @@
 湝	jdavau
 届	jdavi
 届	jdavia
+䇒	jdavo
 洁	jdavoo
+䇒	jdavov
 屆	jdavv
 屆	jdavvo
 节	jdi
@@ -12393,6 +12397,8 @@
 局	jlavao
 洰	jlavav
 剧	jlavii
+㞐	jlavo
+㞐	jlavov
 屦	jlavu
 凥	jlavua
 居	jlavuo
@@ -13429,6 +13435,8 @@
 𠺢	jsooo
 𠺢	jsoooa
 斝	jsoooo
+䑝	jsoou
+䑝	jsooua
 宊	jsoov
 家	jsoovu
 宊	jsoovu
@@ -15214,6 +15222,8 @@
 挒	ldiuv
 挒	ldiuvu
 咧	ldo
+𫍴	ldoa
+𫍴	ldoaou
 躐	ldoi
 躐	ldoiaa
 㬯	ldoio
@@ -16242,6 +16252,7 @@
 裸	lloaia
 剆	lloaii
 褛	lloao
+𫍴	lloaou
 褛	lloaou
 啰	lloi
 啰	lloiai
@@ -16402,7 +16413,9 @@
 裢	lmoa
 裣	lmoai
 裣	lmoaiv
+𬣽	lmoav
 裢	lmoava
+𬣽	lmoava
 怜	lmoo
 帘	lmooi
 帘	lmooia
@@ -18423,6 +18436,8 @@
 莓	mwii
 苺	mwiia
 苺	mwiiaa
+睂	mwiii
+睂	mwiiia
 莓	mwiiuv
 镁	mwio
 镅	mwioa
@@ -21411,6 +21426,7 @@
 炢	qjouvo
 麈	qjov
 疰	qjovo
+迬	qjovoa
 𥩟	qjovoo
 麈	qjovov
 疰	qjovov
@@ -21447,6 +21463,7 @@
 竹	qjuvuv
 筑	qjuvv
 㦵	qjuvva
+笁	qjuvvi
 朱	qjuvvi
 筑	qjuvvi
 竺	qjuvvv
@@ -21999,6 +22016,7 @@
 钎	qmiou
 欦	qmioua
 铅	qmioua
+𫓪	qmiouo
 偂	qmiouv
 傔	qmiouv
 钎	qmiouv
@@ -26518,6 +26536,8 @@
 湁	wkaiu
 湁	wkaiui
 翄	wkao
+翨	wkaoo
+翨	wkaooi
 欼	wkaou
 欼	wkaoua
 翄	wkaouo
@@ -26975,6 +26995,7 @@
 亡	wpovaa
 妄	wpovau
 朚	wpovo
+迬	wpovoa
 忘	wpovoa
 朚	wpovoi
 望	wpovvv
@@ -28361,6 +28382,8 @@
 侒	xfioo
 侒	xfiooa
 铵	xfiooo
+𱊣	xfiou
+𱊣	xfioua
 揞	xfiu
 按	xfiuoo
 揞	xfiuov
@@ -28871,7 +28894,9 @@
 㐹	xkiuv
 㐹	xkiuvv
 翕	xkiv
+翖	xkiva
 翕	xkivao
+翖	xkivao
 卥	xkivi
 𬟪	xkivia
 卥	xkivia
@@ -30488,6 +30513,7 @@
 飮	ybioua
 㱃	ybioua
 侌	ybiov
+酓	ybiovu
 侌	ybiovv
 伒	ybiu
 㧈	ybiua
@@ -31026,6 +31052,7 @@
 偐	yfiov
 偣	yfiovo
 偐	yfiovo
+酓	yfiovu
 掩	yfiu
 抁	yfiua
 抁	yfiuao
@@ -31199,6 +31226,7 @@
 厌	yfvu
 檐	yfvua
 赝	yfvuao
+贗	yfvuao	#繁体 ⿸𳐃贝
 𰋽	yfvuau
 𪠏	yfvuau
 檐	yfvuav
@@ -31211,9 +31239,11 @@
 剦	yfvuii
 餍	yfvuio
 揅	yfvuiu
+𳐃	yfvuiu
 夵	yfvuiu
 𰑕	yfvuo
 𰑕	yfvuoa
+㷳	yfvuou
 魇	yfvuu
 椼	yfvuui
 魇	yfvuui
