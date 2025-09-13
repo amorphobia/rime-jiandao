@@ -342,7 +342,7 @@
 #### 私货
 - 添加「[仓输入法](https://github.com/imfuxiao/Hamster)」，Rime 的 iOS 前端应用
 - 添加「付啸」，此为仓输入法作者名
-- 添加「[玉兔毫](https://github.com/amorphobia/Rabbit)」，由 [AutoHotkey](https://www.autohotkey.com/) 实现的 Rime 输入法引擎前端
+- 添加「[玉兔毫](https://github.com/rimeinn/rabbit)」，由 [AutoHotkey](https://www.autohotkey.com/) 实现的 Rime 输入法引擎前端
 
 ## 3. fuhao（符号）
 
@@ -352,6 +352,7 @@
 - 「×	ojh」改为「✗	ow」（叉），「√	og」改为「✓	og」（钩）
 - 根据[反馈](https://github.com/amorphobia/rime-jiandao/issues/1#issuecomment-1722413910)，删除了分号一项
 - 添加了[键道图谱](https://pingshunhuangalex.gitbook.io/rime-xkjd/learn-xkjd/layouts)一项 `otp`
+- 添加了[玉兔毫](https://github.com/rimeinn/rabbit)网址 `oyt`
 
 ## 4. buchong（补充）
 

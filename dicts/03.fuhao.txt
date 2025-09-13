@@ -57,6 +57,7 @@ https://github.com/amorphobia/rime-jiandao	orj
 https://github.com/xkinput/Rime_JD	orj
 https://pingshunhuangalex.gitbook.io/rime-xkjd/learn-xkjd/layouts	otp
 https://docs.qq.com/sheet/BFdiXU0nyc1W1kwuZl3Gx31r2KLm2k3F8YzI4	oyb
+https://github.com/rimeinn/rabbit	oyt
 # 邮箱
 @gmail.com	;ag
 @outlook.com	;ao
