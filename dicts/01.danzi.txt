@@ -2224,6 +2224,8 @@
 曺	czvi
 曹	czvioi
 曺	czvioi
+鼜	czvo
+鼜	czvoao
 𥕢	czvu
 𥕢	czvuvi
 槽	czvv
@@ -5189,6 +5191,8 @@
 瞬	ewi
 𥆧	ewia
 𥆧	ewiaoi
+眴	ewiau
+眴	ewiaua
 瞬	ewiauo
 蕣	ewii
 蕣	ewiiuo
@@ -10074,6 +10078,7 @@
 蒊	hqiio	#无读音
 蒊	hqiiou	#无读音
 𦮴	hqiiu
+蘤	hqiiui	#繁体 ⿱艹⿰白为
 𦮴	hqiiuv
 蕐	hqiiv
 蕐	hqiivi
@@ -11809,6 +11814,8 @@
 犲	jhuavi
 獗	jhuavu
 鳜	jhuavu
+臄	jhui
+臄	jhuiva
 爵	jhuo
 爵	jhuoav
 䐤	jhuou
@@ -12100,6 +12107,8 @@
 罽	jkiavu
 畸	jkiavu
 藉	jkii
+蔇	jkiia
+蔇	jkiiav
 蒺	jkiio
 荠	jkiiov
 蕺	jkiiov
@@ -16598,6 +16607,8 @@
 𦊑	lqiaua
 嵧	lqiaua
 罶	lqiaua
+蒥	lqii
+蒥	lqiiua
 锍	lqio
 镠	lqioa
 镠	lqioao
@@ -20436,7 +20447,9 @@
 葩	psii
 芭	psiia
 芭	psiiai
+䔤	psiiu
 葩	psiiui
+䔤	psiiui
 钯	psio
 钯	psioai
 扒	psiu
@@ -21747,6 +21760,8 @@
 碁	qkvivu
 棊	qkvivv
 圻	qkvo
+鼜	qkvoa
+鼜	qkvoao
 起	qkvoav
 圻	qkvouu
 埼	qkvov
@@ -27380,6 +27395,7 @@
 蒍	wwiiou
 𫇭	wwiiou
 薇	wwiiu
+蘤	wwiiui	#繁体 ⿱艹⿰白为
 薇	wwiiuu
 萎	wwiiuv
 苇	wwiiv
@@ -27921,6 +27937,8 @@
 効	xcova
 哓	xcovau
 効	xcovau
+痟	xcovi
+痟	xcovio
 鸮	xcovu
 歊	xcovua
 鸮	xcovua
@@ -28864,6 +28882,8 @@
 䵱	xkiavo
 蜥	xkiavu
 茜	xkii
+蔇	xkiia
+蔇	xkiiav
 葸	xkiii
 葸	xkiiia
 蓆	xkiio
@@ -29887,6 +29907,7 @@
 㘣	xtiaou
 眩	xtiaov
 矎	xtiau
+眴	xtiaua
 矎	xtiaua
 萱	xtii
 儇	xtiia
@@ -30035,7 +30056,9 @@
 𫊻	xwiaav
 𰥛	xwiao	#无读音
 𰥛	xwiaoa	#无读音
+眴	xwiau
 峋	xwiaua
+眴	xwiaua
 荀	xwii
 荨	xwiia
 荨	xwiiav
