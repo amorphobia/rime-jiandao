@@ -4397,6 +4397,8 @@
 㫹	ejoiuu
 忬	ejoo
 忬	ejooao
+鼡	ejoou
+鼡	ejooua
 糬	ejou
 咰	ejoua
 咰	ejouao
@@ -4420,6 +4422,8 @@
 殳	ejuaao
 腧	ejui
 鼠	ejuiao
+䑕	ejuiu
+䑕	ejuiua
 腧	ejuivu
 黍	ejuv
 毺	ejuvi
@@ -7852,6 +7856,8 @@
 凲	gfuao
 凲	gfuaou
 鳡	gfuavu
+魐	gfui
+魐	gfuiou
 榦	gfuo
 乹	gfuoa
 乹	gfuoaa
@@ -8544,6 +8550,8 @@
 嘠	gsovui
 旮	gsu
 旮	gsuaoi
+魀	gsui
+魀	gsuiiu
 胳	gsuu
 胳	gsuuao
 玍	gsuv
@@ -10115,6 +10123,7 @@
 㕲	hqovv	#全码
 猾	hqu
 觟	hqua
+𠤎	hquaa	#全码
 𮬡	hquai
 猾	hquaia
 𮬡	hquaia
@@ -21573,9 +21582,11 @@
 岐	qkiau
 蚔	qkiaua
 蚑	qkiauo
+𥉐	qkiauo
 岐	qkiauo
 岓	qkiauu
 崎	qkiav
+𱲾	qkiava
 蜞	qkiavi
 㠌	qkiavi
 帺	qkiavi
@@ -28160,6 +28171,8 @@
 血	xduiai
 协	xduoau
 徢	xduu
+膎	xduuo
+膎	xduuoo
 徢	xduuva
 卸	xduv
 卸	xduvai
@@ -28875,6 +28888,7 @@
 睎	xkiauo
 盻	xkiauo
 嵠	xkiauo
+𥉐	xkiauo
 蟋	xkiauo
 蜥	xkiav
 黖	xkiava
