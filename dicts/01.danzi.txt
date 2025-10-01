@@ -23933,6 +23933,7 @@
 鹔	sjavua
 粛	sjavv
 溸	sjavvi
+䏋	sjavvi
 肃	sjavvi
 粛	sjavvi
 俗	sji
