@@ -22110,6 +22110,8 @@
 羬	qmouv
 羬	qmouvu
 竏	qmov
+䇂	qmovi
+䇂	qmovii
 𰇕	qmovo
 𰇕	qmovou
 竏	qmovuv
