@@ -9522,6 +9522,8 @@
 琀	hfvvio
 𱉊	hfvvu
 𱉊	hfvvua
+䎯	hfvvv
+䎯	hfvvvi
 顸	hfvvvu
 坏	hg
 淮	hga
@@ -10862,6 +10864,7 @@
 𫄛	jbaaio
 津	jbaav
 缙	jbaavi
+䌍	jbaavi	#繁体 ⿰纟堇
 堻	jbaavo
 浕	jbaavu
 浸	jbaavv
@@ -10905,6 +10908,7 @@
 侭	jbiavu
 紧	jbii
 荩	jbiia
+䒺	jbiiaa
 紧	jbiiaa
 𫰐	jbiiau
 荩	jbiiav
@@ -10920,7 +10924,9 @@
 搢	jbiu
 伒	jbiuu
 伒	jbiuuv
+㨷	jbiuv
 搢	jbiuvi
+㨷	jbiuvi
 𬺔	jbiv
 僸	jbivv
 𬺔	jbivvv
@@ -10949,6 +10955,7 @@
 煡	jbouav
 噤	jbov
 廑	jbovv
+㢙	jbovvi
 廑	jbovvi
 凚	jbovvv
 噤	jbovvv
@@ -10966,6 +10973,9 @@
 斤	jbuuvi
 筋	jbuv
 筋	jbuvua
+䈽	jbuvv
+㹏	jbuvvi
+䈽	jbuvvi
 禁	jbv
 晉	jbva
 晉	jbvaoi
@@ -10978,7 +10988,9 @@
 𦂳	jbviaa
 觐	jbvii
 堇	jbviia
+𦰩	jbviia
 觐	jbviia
+㝻	jbviiu
 晋	jbvioi
 靳	jbviu
 歏	jbviua
@@ -19324,6 +19336,8 @@
 榒	nlvava
 梛	nlvavv
 聏	nlvi
+㔮	nlvia
+㔮	nlviao
 聏	nlvivu
 橠	nlvo
 橠	nlvovu
@@ -20794,6 +20808,7 @@
 嵚	qbiaio
 嶜	qbiav
 嶜	qbiava
+螼	qbiavi
 侵	qbiavv
 螓	qbiavv
 芹	qbii
@@ -20850,6 +20865,7 @@
 𲁗	qbovia
 庈	qbovio
 廑	qbovv
+瘽	qbovvi
 廑	qbovvi
 亲	qbovvv
 嗪	qbovvv
@@ -21684,6 +21700,7 @@
 缉	qkaaov
 绮	qkaav
 骐	qkaavi
+𬴆	qkaavi
 骑	qkaavu
 绮	qkaavu
 亟	qkai
