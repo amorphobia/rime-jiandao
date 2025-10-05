@@ -13183,6 +13183,8 @@
 㠇	jqia
 㠇	jqiaov
 韮	jqii
+𦾔	jqiii
+𦾔	jqiiio
 韮	jqiiiv
 僦	jqio
 旧	jqioii
@@ -16009,6 +16011,7 @@
 溧	lkavia
 沥	lkavu
 沥	lkavua
+𤃉	lkavuu
 𪵱	lkavuv
 隶	lkavvi
 例	lki
@@ -18703,6 +18706,7 @@
 猫	mzuaii
 皃	mzui
 㒵	mzuiu
+𠒇	mzuiua	#无读音
 皃	mzuiua
 㒵	mzuiuo
 貌	mzuo
@@ -19189,7 +19193,9 @@
 郳	nkuia
 郳	nkuiai
 屔	nkuiav
+𠒇	nkuiu	#无读音
 兒	nkuiua
+𠒇	nkuiua	#无读音
 腻	nkuvvv
 匿	nkv
 𫐐	nkva
@@ -28925,6 +28931,8 @@
 饵	xjuav
 饵	xjuavi
 鲕	xjuavu
+𠒇	xjui	#无读音
+𠒇	xjuiua	#无读音
 𡭗	xjuo
 𡭗	xjuoiu
 胹	xjuv
