@@ -2482,6 +2482,7 @@
 怢	ddoouv
 惵	ddoov
 恎	ddoova
+㦅	ddoovi	#繁体 ⿰忄带
 惵	ddoovi
 𥥷	ddoovo
 𰚦	ddou
@@ -2853,6 +2854,8 @@
 襶	dhoauo
 曃	dhoi
 曃	dhoiav
+𰸚	dhoiv
+𰸚	dhoivi
 懛	dhoo
 懛	dhoovo
 呔	dhov
@@ -2861,6 +2864,8 @@
 呔	dhovuo
 𰏼	dhovv
 呆	dhovv	#全码
+鿮	dhovvi
+㿃	dhovvi	#繁体 ⿸疒带
 𰏼	dhovvi
 待	dhu
 㶡	dhua
@@ -2869,6 +2874,8 @@
 黱	dhuoi
 戴	dhuoia
 黱	dhuoia
+𰰏	dhuu
+𰰏	dhuuvi
 待	dhuuvo
 带	dhv
 轪	dhva
@@ -2879,6 +2886,8 @@
 帯	dhvi
 带	dhviia
 帯	dhviia
+𰸛	dhvio
+𰸛	dhvioi
 埭	dhvo
 埭	dhvoav
 歹	dhvu
@@ -2894,6 +2903,7 @@
 叇	dhvvav
 甙	dhvvi
 𢨚	dhvvia
+𰘀	dhvvii
 甙	dhvvii
 玳	dhvviv
 瑇	dhvvv
@@ -3079,6 +3089,8 @@
 茋	dkiiua
 荻	dkiiua
 菂	dkiiui
+蔕	dkiiv	#繁体 ⿱艹带
+蔕	dkiivi	#繁体 ⿱艹带
 镝	dkio
 镝	dkioov
 俤	dkiou
@@ -3123,6 +3135,8 @@
 嘀	dkoo
 怟	dkoou
 怟	dkooua
+㦅	dkoov	#繁体 ⿰忄带
+㦅	dkoovi	#繁体 ⿰忄带
 嘀	dkoovo
 弟	dkou
 唙	dkoua
@@ -3168,6 +3182,7 @@
 第	dkuvav
 笛	dkuvi
 笛	dkuvia
+䐭	dkuvii	#繁体 ⿰月带
 牴	dkuvu
 牴	dkuvua
 敌	dkuvuv
@@ -3178,6 +3193,7 @@
 髢	dkviai
 鞮	dkvio
 𰑵	dkvioa
+𰻆	dkvioa
 鞮	dkvioi
 䯼	dkviu
 靮	dkviua
@@ -4729,6 +4745,8 @@
 丗	ekvii
 丗	ekviii
 世	ekviiv
+𰻆	ekvio
+𰻆	ekvioa
 䴓	ekviu
 䴓	ekviua
 酾	ekviv
@@ -6185,6 +6203,7 @@
 妷	fkauuv
 姪	fkauv
 姪	fkauva
+㛿	fkauvi
 娡	fkauvo
 潪	fkauvv
 滞	fkav
@@ -6300,6 +6319,7 @@
 踬	fkoiuu
 跖	fkoiv
 晊	fkoiva
+𰸚	fkoivi
 跱	fkoivo
 跖	fkoivu
 窒	fkoo
@@ -6329,6 +6349,7 @@
 痓	fkovva
 庢	fkovva
 廌	fkovva
+㿃	fkovvi	#繁体 ⿸疒带
 庤	fkovvo
 痔	fkovvo
 痣	fkovvo
@@ -6395,6 +6416,7 @@
 稺	fkuvav
 穉	fkuvav
 稚	fkuvi
+䐭	fkuvii	#繁体 ⿰月带
 制	fkuvii
 雉	fkuvio
 稚	fkuvio
@@ -7021,7 +7043,9 @@
 咤	fsoo
 宱	fsooi
 宱	fsooiu
+鿽	fsooo	#无读音
 咤	fsoooa
+鿽	fsoooa	#无读音
 怍	fsoou
 怍	fsoouv
 喥	fsoov
@@ -25442,7 +25466,9 @@
 擿	tkiuov
 傂	tkiuu
 傂	tkiuui
+䶶	tkiv	#无读音
 体	tkiviu
+䶶	tkiviu	#无读音
 题	tko
 裼	tkoa
 禔	tkoao
@@ -25478,6 +25504,8 @@
 鹈	tkouua
 嗁	tkouui
 遆	tkov
+𫪺	tkovi
+𫪺	tkovii
 遆	tkovoa
 歒	tkovu
 歒	tkovua
@@ -27068,6 +27096,7 @@
 恥	wkvio
 慗	wkvioa
 恥	wkvioa
+𰸛	wkvioi
 敕	wkviu
 𫛶	wkviua
 卙	wkviuo
@@ -28472,6 +28501,7 @@
 谐	xdoav
 写	xdoava
 谐	xdoava
+䙊	xdoavi	#无读音
 𮖱	xdoavo
 讴	xdoavu
 歇	xdoi
