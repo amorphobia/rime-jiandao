@@ -2092,6 +2092,8 @@
 忖	cwoovi
 吋	cwov
 吋	cwovio
+竴	cwovo
+竴	cwovou
 𤭢	cwovv
 𤭢	cwovva
 村	cwv
@@ -3594,6 +3596,8 @@
 戥	droiv
 戥	droiva
 灯	drouvi
+竳	drov
+竳	drovao
 簦	dru
 簦	druvao
 等	druvvo
@@ -4868,6 +4872,8 @@
 渗	enaaov
 𬳽	enaau
 𬳽	enaauv
+䯂	enaav	#繁体 ⿱骉木
+䯂	enaavv	#繁体 ⿱骉木
 淰	enai
 淰	enaioa
 沈	enao
@@ -5119,6 +5125,8 @@
 䴤	erovuv
 剩	eru
 狌	erua
+㹩	eruaa	#无读音
+㹩	eruaao	#无读音
 斘	eruao
 斘	eruaoo
 狌	eruauv
@@ -7210,6 +7218,8 @@
 陫	fwaiiv
 渄	fwaiv
 渄	fwaivv
+飝	fwao
+飝	fwaoao
 妃	fwau
 淝	fwaua
 淝	fwauai
@@ -10282,6 +10292,8 @@
 咶	hqouv
 咶	hqouvi
 㕲	hqov
+䇈	hqova
+䇈	hqovao
 㕲	hqovv	#全码
 猾	hqu
 觟	hqua
@@ -11726,7 +11738,9 @@
 经	jg
 劲	jga
 泾	jgaa
+経	jgaaa	#繁体 ⿰纟圣 日本汉字
 经	jgaaao
+経	jgaaao	#繁体 ⿰纟圣 日本汉字
 泾	jgaaov
 阱	jgai
 阱	jgaivv
@@ -12236,6 +12250,7 @@
 绩	jkaav
 骑	jkaavu
 彑	jkaavv
+䯂	jkaavv	#繁体 ⿱骉木
 绩	jkaavv
 际	jkai
 瀱	jkaia
@@ -12597,6 +12612,7 @@
 驹	jlaa
 驹	jlaaua
 泦	jlaav
+驧	jlaavi	#繁体 ⿰马鞠
 涺	jlaavu
 泦	jlaavu
 沮	jlai
@@ -14247,6 +14263,8 @@
 媿	kbau
 𫝬	kbaui
 𫝬	kbauia
+䶯	kbauu	#繁体 ⿰女龟
+䶯	kbauua	#繁体 ⿰女龟
 媿	kbauui
 葵	kbi
 睽	kbia
@@ -16632,6 +16650,8 @@
 连	lm
 练	lma
 𱺧	lmaa
+纞	lmaao	#繁体 ⿰纟恋
+纞	lmaaov	#繁体 ⿰纟恋
 练	lmaava
 𱺧	lmaavi
 潋	lmai
@@ -17087,6 +17107,7 @@
 挛	ltoviu
 𬁢	ltovo
 𬁢	ltovoi
+癵	ltovov	#繁体 ⿸疒脔
 鸾	ltovu
 鸾	ltovua
 栾	ltovv
@@ -18415,6 +18436,8 @@
 呇	mnaoo	#全码
 汶	mnaovu
 扪	mni
+虋	mnii
+虋	mniiui
 钔	mnio
 们	mnioia
 钔	mniooi
@@ -18988,6 +19011,7 @@
 镊	ndio
 镍	ndiou
 镍	ndioui
+𰾾	ndiouo
 敜	ndiouv
 𬭦	ndiov
 镊	ndiovi
@@ -19028,6 +19052,8 @@
 𥬞	nduv
 𥬞	nduvua
 聂	ndv
+𰺠	ndva
+𰺠	ndvauo
 颞	ndvi
 聂	ndviao
 颞	ndvivu
@@ -19177,6 +19203,7 @@
 𮫂	ngvio
 聍	ngvioo
 𮫂	ngvioo
+鬤	ngviov
 橣	ngvo
 柠	ngvooa
 橣	ngvooa
@@ -19554,6 +19581,8 @@
 囊	npv
 𰀉	npvi
 𰀉	npviav
+𬴩	npvio
+𬴩	npvioa
 囊	npvioo
 嚢	npviu
 嚢	npviuo
@@ -19721,17 +19750,25 @@
 挵	nyiuv
 挵	nyiuvv
 农	nyo
+𰧾	nyoa
+𰳺	nyoao
+𰧾	nyoaoa
+𰳺	nyoaoa
 农	nyoaua
 哝	nyoo
 哝	nyooau
 㶶	nyou
 㶶	nyouoa
 脓	nyu
+𱌖	nyui
+𱌖	nyuioa
 脓	nyuoau
 秾	nyuv
 秾	nyuvoa
 𬪩	nyv
+䙶	nyvi
 𬪩	nyvioa
+䙶	nyvioa
 𬂰	nyvo
 欁	nyvoa	#繁体 ⿰𬂰木
 𬂰	nyvoau
@@ -19795,6 +19832,8 @@
 孬	nzvuau
 𥐻	nzvui
 𥐻	nzvuia
+𲳜	nzvuo
+𲳜	nzvuoa
 夒	nzvuu
 𥒚	nzvuua
 𥑪	nzvuua
@@ -20702,6 +20741,8 @@
 鬅	prvi
 樥	prvii
 樥	prviiu
+䰃	prvio
+䰃	prviou
 鬅	prviuu
 彭	prvo
 椖	prvoa
@@ -21496,7 +21537,9 @@
 氰	qguvvv
 轻	qgv
 顷	qgva
+軽	qgvaa	#繁体 ⿰车圣 日本汉字
 轻	qgvaao
+軽	qgvaao	#繁体 ⿰车圣 日本汉字
 顷	qgvavu
 㯳	qgvi
 㯳	qgviiu
@@ -23826,6 +23869,8 @@
 穰	rpuvov
 穣	rpuvov
 壤	rpv
+鬤	rpvi
+鬤	rpviov
 壌	rpvo
 壤	rpvoov
 壌	rpvoov
@@ -26409,6 +26454,8 @@
 䌷	wdaai
 䌷	wdaaia
 绸	wdaaua
+䌧	wdaav	#繁体 ⿰纟寿
+䌧	wdaavv	#繁体 ⿰纟寿
 丑	wdaivv
 丒	wdau
 丒	wdauov
@@ -28754,6 +28801,8 @@
 𳎒	xeuaiu
 鳄	xeuaoo
 敋	xeuau
+䳘	xeuauv	#繁体 ⿰鸟我
+䳗	xeuauv	#繁体 ⿱鸟我
 饿	xeuauv
 敋	xeuauv
 𱂥	xeuav
@@ -28763,7 +28812,9 @@
 腭	xeuo
 腭	xeuoov
 鹅	xeuv
+鵞	xeuvu	#繁体 ⿱我鸟
 鹅	xeuvua
+鵞	xeuvua	#繁体 ⿱我鸟
 恶	xev
 轭	xeva
 轭	xevavu
@@ -32177,6 +32228,7 @@
 镱	ykioov
 铱	ykioov
 伿	ykiou
+𰾾	ykiouo
 仪	ykiouo
 伿	ykiouo
 㑊	ykiov
