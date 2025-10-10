@@ -31402,7 +31402,7 @@
 爷	yeu
 馌	yeua
 䲜	yeuau	#繁体 ⿱⿰鱼鱼⿰鱼鱼
-䲜	yeuauu	#繁体 ⿱⿰鱼鱼⿰鱼鱼
+䲜	yeuaua	#繁体 ⿱⿰鱼鱼⿰鱼鱼
 馌	yeuavo
 射	yeui
 射	yeuivi
