@@ -16423,6 +16423,7 @@
 砾	lkvuu
 砾	lkvuua
 厤	lkvuuv
+栃	lkvuuv	#日本汉字
 厉	lkvuv
 㽁	lkvuva
 厉	lkvuva
@@ -16452,7 +16453,6 @@
 𬍛	lkvvua
 枥	lkvvua
 瓈	lkvvuv
-栃	lkvvuv	#日本汉字
 𣁛	lkvvuv
 琍	lkvvuv
 𭤎	lkvvv
