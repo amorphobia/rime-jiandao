@@ -555,6 +555,8 @@
 铋	bkiooa
 𫔇	bkiou
 𫔇	bkioui
+㢢	bkiov	#无读音
+㢢	bkiovu	#无读音
 俾	bkiu
 俾	bkiuia
 偪	bkiv
@@ -896,6 +898,8 @@
 峅	bmiaao	#日本汉字
 蝙	bmiaoa
 苄	bmii
+䒪	bmiia
+䒪	bmiiao
 萹	bmiio
 萹	bmiioa
 苄	bmiiov
@@ -3593,6 +3597,8 @@
 等	dr
 登	dra
 澄	draa
+𲌋	draaa
+𲌋	draaao
 澄	draaou
 邓	drao
 邓	draoai
@@ -5901,6 +5907,7 @@
 绂	fjaavu
 附	fjai
 𠬝	fjaia
+𬮺	fjaiaa
 𠬝	fjaiao
 附	fjaiiv
 洑	fjaiv
@@ -6058,6 +6065,7 @@
 呋	fjovv
 痡	fjovvi
 冹	fjovvu
+竎	fjovvu
 呋	fjovvu
 复	fju
 负	fjua
@@ -7231,6 +7239,8 @@
 堟	ftvoaa
 𫭞	ftvovv
 砖	ftvu
+𬱛	ftvuv
+𬱛	ftvuvu
 砖	ftvuvv
 瑑	ftvv
 瑑	ftvvaa
@@ -9121,6 +9131,8 @@
 洃	hbavu
 湏	hbavui	#繁体 ⿰氵页
 洃	hbavuo
+颒	hbavv
+颒	hbavvu
 回	hbi
 蛔	hbia
 翙	hbiaa
@@ -11010,6 +11022,8 @@
 壕	hzvoov
 夰	hzvu
 夰	hzvuui
+㚏	hzvuv
+㚏	hzvuvu
 耗	hzvvuv
 就	j
 进	jb
@@ -13427,6 +13441,7 @@
 㠇	jqiaov
 韮	jqii
 𦾔	jqiii
+萛	jqiiia
 𦾔	jqiiio
 韮	jqiiiv
 僦	jqio
@@ -13892,6 +13907,7 @@
 焆	jtouou
 鹃	jtouua
 桊	jtouv
+灷	jtouvu
 桊	jtouvv
 狷	jtu
 朘	jtua
@@ -14181,6 +14197,7 @@
 醤	jxovvi
 奨	jxovvu
 獎	jxovvu	#繁体 ⿱将犬
+㢡	jxovvu	#繁体 ⿱将廾
 奖	jxovvu
 桨	jxovvv
 鳉	jxu
@@ -15826,6 +15843,8 @@
 领	lg
 灵	lga
 绫	lgaa
+𲌅	lgaai
+𲌅	lgaaio
 绫	lgaavo
 陵	lgai
 䧙	lgaii
@@ -15984,6 +16003,8 @@
 棱	lgvvou
 来	lh
 濑	lha
+𱅕	lhaa
+𱅕	lhaavo
 娕	lhau
 𫝫	lhauv
 娕	lhauvi
@@ -18597,7 +18618,9 @@
 蘉	mpiiia
 芒	mpiio
 芒	mpiiov
+莾	mpiiv
 莽	mpiivu
+莾	mpiivu
 铓	mpio
 铓	mpioii
 盲	mpo
@@ -18757,6 +18780,8 @@
 𰛊	msaaav
 马	msaavv
 孖	msai
+𬮺	msaia
+𬮺	msaiaa
 孖	msaiai
 㐃	msao
 㐃	msaoii
@@ -20239,7 +20264,9 @@
 鲆	pguavo
 乒	pguiuu
 缾	pguv
+䈂	pguvo
 缾	pguvou
+䈂	pguvou
 甁	pguvv
 甁	pguvva
 坪	pgv
@@ -21618,6 +21645,7 @@
 苘	qgiiia
 擎	qgiiiu
 檠	qgiiv
+㢣	qgiivu
 𰘓	qgiivv
 檠	qgiivv
 掅	qgiu
@@ -21825,6 +21853,7 @@
 纻	qjaaoo
 驻	qjaaov
 𭲫	qjaav
+𱄼	qjaavu
 𭲫	qjaavu
 陼	qjai
 陼	qjaiuo
@@ -24933,6 +24962,8 @@
 菘	syiiv
 耸	syiivi
 菘	syiivu
+鎹	syio	#繁体 ⿰钅送 日本汉字
+鎹	syioou	#繁体 ⿰钅送 日本汉字
 㧐	syiu
 㧐	syiuao
 揔	syiuu
@@ -26126,6 +26157,8 @@
 瑭	tpvvov
 腾	tr
 漛	tra
+𲌋	traa
+𲌋	traaao
 漛	traouv
 藤	tri
 僜	tria
@@ -26136,6 +26169,7 @@
 疼	tro
 誊	trou
 熥	troua
+𱅑	trouaa
 熥	trouao
 誊	trouov
 痋	trov
@@ -29017,6 +29051,8 @@
 恶	xevioa
 悪	xevioa
 噩	xevioo
+䯵	xeviu
+䯵	xeviuo
 垩	xeviv
 䩹	xevivo
 垩	xevivo
@@ -29058,6 +29094,8 @@
 㟁	xfiavu
 屽	xfiavv
 菴	xfii
+葊	xfiii
+葊	xfiiiv
 萻	xfiio
 萻	xfiiov
 菴	xfiivu
@@ -29148,6 +29186,8 @@
 涬	xgav
 涬	xgavoo
 省	xgi
+㒷	xgia
+㒷	xgiauo
 荥	xgii
 𰌀	xgiia
 荥	xgiiaa
@@ -30856,6 +30896,8 @@
 杊	xwvuii
 奞	xwvuio
 殉	xwvuua
+顨	xwvuv	#繁体 ⿱𬱛丌
+顨	xwvuvu	#繁体 ⿱𬱛丌
 珣	xwvv
 𬍤	xwvva
 𬍤	xwvvav
@@ -32083,6 +32125,8 @@
 莹	ygiivv
 锳	ygio
 锳	ygioii
+㑞	ygiou
+㑞	ygioui
 撄	ygiu
 撄	ygiuao
 摬	ygiuo
