@@ -2466,6 +2466,8 @@
 鬦	ddiv
 鬭	ddiva
 鬭	ddivaa
+㑙	ddivi
+㑙	ddivii
 侸	ddivo
 鬦	ddivoo
 侸	ddivoo
@@ -2498,6 +2500,7 @@
 惵	ddoov
 恎	ddoova
 㦅	ddoovi	#繁体 ⿰忄带
+㤴	ddoovi
 惵	ddoovi
 𥥷	ddoovo
 𰚦	ddou
@@ -2573,6 +2576,7 @@
 㦶	ddvva
 㦶	ddvvao
 𬰳	ddvvi
+㭯	ddvvii
 楪	ddvvii
 𬰳	ddvviv
 梪	ddvvo
@@ -4160,7 +4164,9 @@
 慑	eeoo
 慴	eeooa
 慴	eeooao
+㤴	eeoov
 慑	eeoovi
+㤴	eeoovi
 麝	eeov
 麝	eeovui
 射	eeu
@@ -5613,6 +5619,8 @@
 折	fei
 䵭	feia
 䵭	feiauo
+㡇	feiav
+㡇	feiavi
 蔗	feii
 蔗	feiiov
 著	feiiu
@@ -5665,6 +5673,8 @@
 遮	feovoa
 鹧	feovua
 者	feu
+𫚚	feua
+𫚚	feuavi
 㸞	feui
 㸞	feuiui
 乽	feuo
@@ -5701,6 +5711,8 @@
 杔	fevuv
 杔	fevuva
 柘	fevv
+㭯	fevvi
+㭯	fevvii
 柘	fevvuo
 反	ff
 泛	ffa
@@ -11446,6 +11458,7 @@
 睫	jdiav
 崨	jdiava
 睫	jdiava
+㡇	jdiavi
 蜐	jdiavo
 蛣	jdiavo
 𧉧	jdiavo
@@ -11608,6 +11621,8 @@
 屮	jeaiii
 澈	jeaova
 尺	jeav
+㳧	jeavi
+㳧	jeavii
 尺	jeavuo
 撤	jei
 扯	jeiu
@@ -11631,6 +11646,8 @@
 𠳏	jeoiu
 𠳏	jeoiui
 呫	jeoivo
+㤴	jeoo
+㤴	jeoovi
 喢	jeou
 烢	jeouo
 烢	jeouoo
@@ -12846,7 +12863,9 @@
 粔	jlouva
 烥	jlouvi	#无读音
 疽	jlov
+㖩	jlovi
 疽	jlovia
+㖩	jlovii
 句	jlu
 狙	jlua
 獝	jluaa
@@ -19166,6 +19185,7 @@
 𫔶	ndoiu
 𫔶	ndoiui
 噛	ndoiv
+踂	ndoivi
 蹑	ndoivi
 啮	ndoivi
 噛	ndoivi
@@ -19182,6 +19202,8 @@
 囓	ndovvv	#繁体 ⿰口𫜩
 臬	ndu
 獳	ndua
+䳖	nduav	#繁体 ⿰鸟𦔮
+䳖	nduavi	#繁体 ⿰鸟𦔮
 獳	nduavo
 臲	ndui
 峊	nduii
@@ -19776,6 +19798,8 @@
 䖓	nsaiiv
 㵊	nsao
 㵊	nsaoiv
+䎎	nsaov
+䎎	nsaovi
 娜	nsau
 娜	nsauav
 拏	nsaui
@@ -21413,6 +21437,8 @@
 折	qei
 䵭	qeia
 䵭	qeiauo
+㡇	qeiav
+㡇	qeiavi
 蔗	qeii
 蔗	qeiiov
 著	qeiiu
@@ -21466,6 +21492,8 @@
 这	qeovoa
 鹧	qeovua
 者	qeu
+𫚚	qeua
+𫚚	qeuavi
 㸞	qeui
 㸞	qeuiui
 乽	qeuo
@@ -21500,6 +21528,8 @@
 杔	qevuv
 杔	qevuva
 柘	qevv
+㭯	qevvi
+㭯	qevvii
 柘	qevvuo
 占	qf
 展	qfa
@@ -23730,6 +23760,8 @@
 热	re
 渃	rea
 渃	reaiiv
+㳧	reav
+㳧	reavii
 惹	rei
 若	reii
 惹	reiioa
@@ -24344,6 +24376,7 @@
 𠻳	sdovi
 嗽	sdovia
 𠻳	sdovia
+㖩	sdovii
 廀	sdovo
 廀	sdovoo
 廋	sdovu
@@ -26769,6 +26802,8 @@
 屮	weaiii
 澈	weaova
 尺	weav
+㳧	weavi
+㳧	weavii
 尺	weavuo
 撤	wei
 扯	weiu
@@ -26792,6 +26827,8 @@
 𠳏	weoiu
 𠳏	weoiui
 呫	weoivo
+㤴	weoo
+㤴	weoovi
 喢	weou
 烢	weouo
 烢	weouoo
@@ -32706,6 +32743,8 @@
 夷	ykvava
 颐	ykvi
 酏	ykvia
+耴	ykviaa
+䎲	ykviaa
 酏	ykviai
 勚	ykviau
 媐	ykviau
@@ -34017,6 +34056,8 @@
 嘴	zbo
 噿	zboa
 噿	zboaov
+冣	zboav
+冣	zboavi
 咀	zboi
 嗺	zboia
 嗺	zboiai
@@ -34073,6 +34114,8 @@
 鲰	zdua
 邹	zduaai
 鲰	zduavi
+箃	zduv
+箃	zduvvi
 奏	zdv
 鄹	zdvi
 郰	zdvia
@@ -34085,6 +34128,8 @@
 赱	zdvoou
 棷	zdvv
 棷	zdvvii
+㻓	zdvvv
+㻓	zdvvvi
 奏	zdvvvv
 则	ze
 泽	zea
