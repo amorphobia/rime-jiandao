@@ -2483,6 +2483,7 @@
 跕	ddoiiv
 㬪	ddoio
 曡	ddoioa
+𫔯	ddoioo
 㬪	ddoioo
 昳	ddoiu
 唞	ddoiuo
@@ -2490,6 +2491,7 @@
 昳	ddoiuv
 蹀	ddoiv
 蹀	ddoivi
+𳈗	ddoivo
 窦	ddoo
 乧	ddooa
 乧	ddooaa
@@ -4469,6 +4471,7 @@
 儵	ejiiua
 倏	ejiiua
 俆	ejiiv
+豎	ejiivo	#繁体 ⿱𰀡豆
 俆	ejiivv
 𬬸	ejio
 𬬸	ejiovo
@@ -9077,6 +9080,7 @@
 皐	gzuiov
 皋	gzuiv
 睾	gzuivo
+㚖	gzuivu
 皋	gzuivu
 稿	gzuv
 郜	gzuva
@@ -13476,13 +13480,16 @@
 捄	jqiuvi
 韭	jqiv
 㲃	jqivu
+䰗	jqivua
 㲃	jqivua
 韭	jqivvv
 究	jqo
 阄	jqoi
 蹴	jqoio
 蹴	jqoiov
+䦰	jqoiu	#繁体 ⿵门亀 日本汉字
 阄	jqoiua
+䦰	jqoiua	#繁体 ⿵门亀 日本汉字
 究	jqooua
 啾	jqou
 啾	jqouvi
