@@ -2853,7 +2853,9 @@
 逮	dhavoa
 袋	dhi
 獃	dhia	#繁体 ⿰岂犬
+蝳	dhiav
 獃	dhiavu	#繁体 ⿰岂犬
+蝳	dhiavv
 𢯊	dhiu
 𢯊	dhiuui
 贷	dhiv
@@ -2968,6 +2970,8 @@
 帾	djiauo
 睹	djiauo
 黩	djiauo
+蝳	djiav
+蝳	djiavv
 芏	djii
 芏	djiivo
 镀	djio
@@ -33553,7 +33557,9 @@
 眢	ytuai
 㠾	ytuaia
 眢	ytuaia
+邍	ytuao
 怨	ytuaoa
+邍	ytuaoa
 鸳	ytuau
 鸳	ytuaua
 猨	ytuauo
