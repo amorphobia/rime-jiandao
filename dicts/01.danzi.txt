@@ -226,6 +226,8 @@
 般	bfuuua
 舨	bfuuuu
 班	bfv
+瓪	bfva
+瓪	bfvauu
 靽	bfvi
 靽	bfviou
 坂	bfvo
@@ -834,6 +836,7 @@
 瓝	bluuua
 般	bluuua
 彴	bluuua
+瓟	bluuua
 舶	bluuui
 膊	bluv
 箔	bluva
@@ -2684,6 +2687,7 @@
 褝	dfoaou
 诞	dfoaui
 禫	dfoav
+瓭	dfoava
 噉	dfoavi
 禫	dfoavi
 旦	dfoi
@@ -3191,6 +3195,8 @@
 哋	dkovoa
 遆	dkovoa
 底	dkovua
+甋	dkovv
+甋	dkovva
 第	dku
 狄	dkua
 邸	dkuaa
@@ -3568,6 +3574,8 @@
 当	dpioav
 铛	dpioio
 党	dpioua
+瓽	dpiov
+瓽	dpiova
 挡	dpiu
 𫽮	dpiui
 挡	dpiuio
@@ -6527,6 +6535,7 @@
 坁	fkvoua
 埴	fkvouo
 枳	fkvouo
+瓡	fkvouu
 垁	fkvouv
 坧	fkvov
 𰊂	fkvovi
@@ -6877,6 +6886,8 @@
 旊	fpovu
 放	fpovuv
 旊	fpovuv
+瓬	fpovv
+瓬	fpovva
 彷	fpu
 鲂	fpua
 鲂	fpuaov
@@ -7269,6 +7280,7 @@
 𰄞	ftvvi
 𰄞	ftvvii
 瑼	ftvvv	#繁体 ⿰王专
+甎	ftvvva	#繁体 ⿰专瓦
 瑼	ftvvvv	#繁体 ⿰王专
 飞	fw
 费	fwa
@@ -9923,6 +9935,8 @@
 鹕	hjuoua
 胡	hjuouu
 乎	hjuouv
+瓳	hjuov
+瓳	hjuova
 乕	hjuu
 戶	hjuua
 戶	hjuuav
@@ -9978,6 +9992,7 @@
 觳	hjvoua
 垀	hjvouo
 雽	hjvouo
+瓡	hjvouu
 核	hjvov
 核	hjvova
 𣫈	hjvovi
@@ -10925,6 +10940,8 @@
 䩑	hyvia
 鞃	hyviav
 䩑	hyviav
+瓨	hyviv
+瓨	hyviva
 霐	hyvo
 霟	hyvoa
 霐	hyvoaa
@@ -13430,6 +13447,8 @@
 镸	jpviao
 䩨	jpviu	#繁体 ⿰革长
 䩨	jpviuv	#繁体 ⿰革长
+瓺	jpviv
+瓺	jpviva
 椙	jpvo
 场	jpvoau
 椙	jpvoio
@@ -13940,6 +13959,7 @@
 焆	jtouou
 鹃	jtouua
 桊	jtouv
+瓹	jtouva
 灷	jtouvu
 桊	jtouvv
 狷	jtu
@@ -15457,6 +15477,8 @@
 粦	lbouu
 粦	lbouua
 斴	lbouuu
+甐	lbouv
+甐	lbouva
 凛	lbov
 㐭	lbovi
 㐭	lbovia
@@ -15651,12 +15673,15 @@
 𫦉	ldoui
 𫦉	ldouii
 哷	ldouo
+𬖠	ldouoo
 哷	ldouoo
 𤋏	ldouou
 𱰆	ldouu
 𱰆	ldouuu
 𤇃	ldouv
 燤	ldouva	#繁体 ⿰火万
+𰢦	ldouva
+𲋀	ldouvu
 𤇃	ldouvu
 冽	ldov
 瘺	ldova
@@ -16483,6 +16508,8 @@
 貍	lkuoia
 㸚	lkuouo
 脷	lkuu
+瓥	lkuui
+瓥	lkuuia
 脷	lkuuvi
 梨	lkuv
 剓	lkuva
@@ -20799,8 +20826,10 @@
 喯	pnovu
 喯	pnovuo
 𬅫	pnu
+瓫	pnuo
 盆	pnuoia
 𬅫	pnuoua
+瓫	pnuova
 旁	pp
 滂	ppa
 滂	ppaovo
@@ -21125,6 +21154,7 @@
 脬	pzuu
 脬	pzuuoo
 爮	pzuuu
+瓟	pzuuua
 爮	pzuuua
 犥	pzuv
 犥	pzuvov
@@ -22270,6 +22300,8 @@
 魌	qkui
 鬿	qkuiu
 鬿	qkuiuu
+甈	qkuiv
+甈	qkuiva
 魌	qkuivi
 脐	qkuo
 𨙸	qkuoa
@@ -27259,6 +27291,7 @@
 玝	wjvvuv
 珸	wjvvv
 杇	wjvvva
+𰢢	wjvvva
 珸	wjvvvi
 珷	wjvvvv
 璑	wjvvvv	#繁体 ⿰王无
@@ -27951,6 +27984,7 @@
 臿	wsuv
 臿	wsuvui
 𦉆	wsuvv
+瓾	wsuvva
 𦉆	wsuvvo
 查	wsv
 瓦	wsva
@@ -30317,6 +30351,7 @@
 㗸	xmouui
 烍	xmouuv
 啣	xmouv
+甉	xmouva
 啣	xmouvv
 痫	xmov
 咁	xmovi
@@ -31074,6 +31109,8 @@
 𫝛	xxvii	#无读音
 𫝛	xxviia	#无读音
 想	xxvioa
+瓨	xxviv
+瓨	xxviva
 项	xxvivu
 塂	xxvo
 欀	xxvov
@@ -32180,6 +32217,7 @@
 莺	ygiiua
 䓨	ygiiuv
 莹	ygiiv
+甇	ygiiva	#繁体 ⿱𫇦瓦
 茔	ygiivo
 莹	ygiivv
 锳	ygio
@@ -32442,6 +32480,7 @@
 矣	ykaouv
 溢	ykaouv
 羿	ykaov
+瓵	ykaova
 澺	ykaovo
 湙	ykaovu
 㴒	ykaovu
@@ -32718,6 +32757,8 @@
 劓	ykuiii
 𱊈	ykuiu
 𱊈	ykuiua
+甈	ykuiv
+甈	ykuiva
 射	ykuivi
 臆	ykuo
 刈	ykuoi

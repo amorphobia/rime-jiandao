@@ -368,6 +368,7 @@
 𠄯	kbbnvv	#喃字
 兣	lkkeuo
 甅	lkwsva
+瓼	lkwsva
 糎	lkmkou
 鿡	llxjiu	#繁体 ⿰罗尔
 𦒹	lzlquo	#喃字
@@ -375,6 +376,7 @@
 兛	qmkeuo
 粁	qmmkou
 瓩	qmwsva
+瓲	twwsva
 吋	ygcwov
 哩	yglkoi
 唡	yglxov
