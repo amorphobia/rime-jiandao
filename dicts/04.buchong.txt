@@ -350,6 +350,7 @@
 𠀎	vviiv
 𠩺	vviuou
 龶	vviv
+𤣩	vviv
 𡗗	vvvuo
 # 多音节汉字
 𤿱	bdpkoa	#喃字

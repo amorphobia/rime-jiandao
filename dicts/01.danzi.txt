@@ -2200,6 +2200,8 @@
 𢓅	cyuuii
 徔	cyuuii
 徖	cyuuo
+䐋	cyuuoa
+䶼`〔U+4DBC〾“䐋（U+440B）”〕	cyuuoa
 徖	cyuuoo
 従	cyuuou	#日本汉字
 聪	cyv
@@ -8157,6 +8159,7 @@
 槩	ghav
 改	ghavuv
 槩	ghavvv
+㮣`〔U+3BA3〾“槩（U+69E9）”〕	ghavvv
 钙	ghi
 乢	ghia
 乢	ghiaaa
@@ -17660,7 +17663,10 @@
 䜮	lzuo
 㐗	lzuoa	#无读音
 㐗	lzuoaa	#无读音
+㖈	lzuoo	#无读音
 䜮	lzuooo
+㖈	lzuooo	#无读音
+䎛`〔U+439B〾“㖈（U+3588）”〕	lzuooo	#无读音
 嗠	lzuou
 老	lzuoua
 嗠	lzuoua
@@ -22106,6 +22112,7 @@
 漆	qkav
 沏	qkava
 沏	qkavaa
+邔	qkavai
 淒	qkavav
 淇	qkavi
 洓	qkavia
@@ -24200,6 +24207,8 @@
 冗	ryoa
 冗	ryoaua
 曧	ryoi
+𱓲	ryoii
+𱓲	ryoiia
 曧	ryoivo
 宂	ryoo
 宂	ryooua
@@ -24224,6 +24233,7 @@
 融	ryv
 榵	ryvi
 䩸	ryvii
+㮠	ryviia	#无读音
 䩸	ryviii
 榵	ryviiv
 榕	ryvo
@@ -26228,6 +26238,7 @@
 幐	truoi
 螣	truoia
 幐	truoia
+㬺`〔U+3B3A〾“幐（U+5E50）”〕	truoia
 𨃗	truoo
 𨃗	truooi
 𪱪	truoou
@@ -33088,6 +33099,8 @@
 饫	yluau
 𩺰	yluaua	#繁体 ⿱鱼鱼
 饫	yluauv
+𩵋	yluav
+𩵋	yluavu
 舆	ylui
 禹	yluia
 鄅	yluiai
@@ -34327,6 +34340,7 @@
 酨	zhuovi
 㘽	zhuovo
 𧯥	zhuovo
+㦳`〔U+39B3〾“㘽（U+363D）”〕	zhuovo
 𰧸	zhuovv
 栽	zhuovv
 𠕅	zhv
