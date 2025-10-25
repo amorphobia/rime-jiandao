@@ -8078,6 +8078,8 @@
 榦	gfuoiv
 亁	gfuou
 亁	gfuouv
+𬺭	gfuu
+𬺭	gfuuuv
 竿	gfuv
 稈	gfuvo
 筸	gfuvoi
@@ -8988,7 +8990,8 @@
 珖	gxvvio
 共	gy
 弓	gya
-红	gyaa
+𠃋	gyaa	#全码
+红	gyaav
 红	gyaavi
 弓	gyavaa
 供	gyi
@@ -11138,6 +11141,7 @@
 㨷	jbiuvi
 𬺔	jbiv
 僸	jbivv
+𫝆	jbivvu
 𬺔	jbivvv
 僸	jbivvv
 谨	jbo
@@ -23013,7 +23017,9 @@
 樟	qpvovo
 礃	qpvu
 礃	qpvuio
+𠀋	qpvuo
 丈	qpvuoo
+𠀋	qpvuoo
 杖	qpvv
 璋	qpvvo
 璋	qpvvov
@@ -24067,6 +24073,7 @@
 𢆉	rnouvv
 壬	rnu
 饪	rnua
+𠂊	rnuaa	#全码
 𬶁	rnuai
 𬶁	rnuaii
 饪	rnuauv
@@ -25645,6 +25652,7 @@
 太	thvuoo
 冭	thvuoo
 夳	thvuv
+𱳪	thvuvu	#无读音
 奤	thvuvu
 𡘙	thvuvu
 夳	thvuvv
@@ -27963,6 +27971,8 @@
 哇	wsovov
 刹	wsu
 馇	wsua
+𱮒	wsuai	#无读音
+𱮒	wsuaii	#无读音
 詧	wsuao
 肞	wsuaoo
 詧	wsuaov
@@ -28401,7 +28411,9 @@
 隀	wyaiu
 隀	wyaiuv
 翀	wyao
+𠁨	wyaoi	#无读音
 翀	wyaoia
+𠁨	wyaoia	#无读音
 浺	wyaoo
 浺	wyaooi
 㳘	wyaov
@@ -29551,6 +29563,8 @@
 児	xjio
 児	xjioua
 铒	xjiovi
+𮯴	xjiu	#无读音
+𮯴	xjiuaa	#无读音
 佴	xjiv
 佴	xjivii
 侕	xjivu
@@ -32822,6 +32836,7 @@
 壹	ykvo
 圯	ykvoa
 亄	ykvoaa
+𠃸	ykvoaa
 辷	ykvoao
 𰉣	ykvoao
 圯	ykvoav

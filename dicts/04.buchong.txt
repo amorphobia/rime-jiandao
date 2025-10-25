@@ -185,6 +185,9 @@
 ㇉	a
 𠄌	a
 乁	a
+𠃍	a
+𠃋	a
+𠃑	a
 龵	i
 人	i
 丨	i
@@ -297,11 +300,13 @@
 勹	ua
 匕	ua
 几	ua
+𠂊	ua
 饣	uaa
 夂	uao
 夊	uao
 夅	uaovai
 犭	uau
+𠂎	uau
 𧘇	uauo
 厃	uavu
 亻	ui
@@ -357,6 +362,7 @@
 兡	bhkeuo
 瓸	bhwsva
 𱁬	dbdsvo
+𠁀	ekdhvi	#喃字
 兙	ekkeuo
 瓧	ekwsva
 瓰	fnwsva
@@ -383,3 +389,4 @@
 𠺖	ygmjoo
 呎	ygwkoa
 㖊	ygxwoa
+𠀳	ykxsao	#喃字
