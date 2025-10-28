@@ -363,6 +363,7 @@
 兡	bhkeuo
 瓸	bhwsva
 𱁬	dbdsvo
+𠀲	dgdlvi	#喃字
 𠁀	ekdhvi	#喃字
 兙	ekkeuo
 瓧	ekwsva
@@ -371,6 +372,7 @@
 兝	gyfnuo
 浬	hhlkai
 兞	hzkeuo
+𠀴	jjxsai	#喃字
 𰇠	jslwau
 𠄯	kbbnvv	#喃字
 兣	lkkeuo
@@ -384,6 +386,7 @@
 粁	qmmkou
 瓩	qmwsva
 瓲	twwsva
+𠀿	xswbvi	#喃字
 吋	ygcwov
 哩	yglkoi
 唡	yglxov

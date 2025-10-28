@@ -8946,6 +8946,8 @@
 𥕦	gwvuo
 磙	gwvuov
 𥕦	gwvuov
+𠁆	gwvuu	#无读音
+𠁆	gwvuuo	#无读音
 光	gx
 潢	gxa
 洸	gxai
