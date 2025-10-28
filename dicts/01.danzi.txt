@@ -234,6 +234,7 @@
 坢	bfvoo
 坢	bfvoou
 柈	bfvou
+𭏜	bfvouu	#无读音
 坂	bfvouu
 柈	bfvouv
 板	bfvu
@@ -283,6 +284,8 @@
 昞	bgoivi
 寎	bgoo
 寎	bgooai
+𭇴	bgoou	#无读音
+𭇴	bgoouv	#无读音
 怲	bgoov
 怲	bgoovi
 炳	bgou
@@ -1402,6 +1405,7 @@
 菢	bziiiu
 苞	bziiu
 苞	bziiua
+𮐠	bziiuv	#无读音
 堡	bzio
 儤	bzioi
 儤	bzioiv
@@ -1524,6 +1528,7 @@
 粋	cbouua	#日本汉字
 瘁	cbov
 啛	cbova
+𮕩	cbovai
 啛	cbovav
 衰	cbovi
 凗	cbovia
@@ -2151,6 +2156,7 @@
 葱	cyii
 苁	cyiii
 从	cyiii	#全码
+𭜅	cyiiia	#繁体 ⿱从中 无读音
 苁	cyiiii
 蔥	cyiiu
 䳷	cyiiua	#繁体 ⿱从鸟
@@ -4401,7 +4407,9 @@
 咰	egou
 咰	egouao
 衰	egov
+𮕩	egova
 率	egovaa
+𮕩	egovai
 衰	egovia
 䢦	egovo
 䢦	egovoa
@@ -4538,6 +4546,7 @@
 熟	ejovoo
 庶	ejovoo
 癙	ejovu
+𭉝	ejovua	#无读音
 孰	ejovua
 癙	ejovui
 塾	ejovv
@@ -8047,6 +8056,8 @@
 擀	gfiuuo
 扞	gfiuvv
 仠	gfiv
+𠃵	gfiva
+𠃵	gfivaa
 佄	gfivi
 佄	gfivii
 仠	gfivvi
@@ -8878,6 +8889,8 @@
 筦	gtuvo
 管	gtuvoo
 筦	gtuvoo
+𮉸	gtuvu	#日本汉字
+𮉸	gtuvuv	#日本汉字
 棺	gtv
 𫐑	gtva
 𱣱	gtvaa
@@ -13180,9 +13193,11 @@
 犍	jmuvav
 毽	jmuvav
 笕	jmuvi
+𮌥	jmuvia	#无读音
 笕	jmuvia
 𭄛	jmuvii
 篯	jmuvio
+𭺷	jmuviv	#繁体 ⿰生佥 无读音
 简	jmuvoi
 箭	jmuvou
 笺	jmuvv
@@ -22253,6 +22268,7 @@
 喰	qkoioa
 㬤	qkoioi
 跂	qkoiu
+𮛪	qkoiuo	#日本汉字
 蹊	qkoiuo
 跂	qkoiuo
 㫓	qkoiuv
@@ -23560,6 +23576,7 @@
 炝	qxoui
 炝	qxouia
 𦍑	qxouv
+𮊦	qxouvu	#无读音
 羌	qxouvv
 𦍑	qxouvv
 将	qxov
@@ -25324,6 +25341,8 @@
 透	tdu
 𱄁	tdua
 𱄁	tduaiv
+𮅠	tduv	#无读音
+𮅠	tduvia	#无读音
 透	tduvoa
 餮	tdv
 聑	tdvi
@@ -25608,6 +25627,8 @@
 㬃	thoia
 跆	thoiao
 㬃	thoiao
+𭨉	thoiv	#无读音
+𭨉	thoivo	#无读音
 旲	thoivu
 忕	thoo
 忲	thoov
@@ -26727,6 +26748,8 @@
 吹	wb
 陲	wba
 陲	wbaiuv
+𣵶	wbao	#无读音
+𣵶	wbaoua	#无读音
 锤	wbi
 圌	wbia
 圌	wbiaia
@@ -27152,6 +27175,7 @@
 𬬨	wjiovv
 侮	wjiu
 伆	wjiua
+𬽺	wjiuao	#无读音
 伆	wjiuau
 扵	wjiui
 扵	wjiuio
@@ -27815,6 +27839,7 @@
 𡯁	wpvuaa
 尢	wpvuaa
 尫	wpvuv
+䶭	wpvuvv	#无读音
 尪	wpvuvv
 尫	wpvuvv
 枉	wpvv
@@ -29506,6 +29531,8 @@
 皑	xhuiia
 爱	xhuovu
 矮	xhuv
+𮆞	xhuvu	#无读音
+𮆞	xhuvui	#无读音
 矮	xhuvuv
 雪	xhv
 㤅	xhva
@@ -29787,6 +29814,7 @@
 𬮡	xkoiua
 阋	xkoiui
 晞	xkoiuo
+𮛪	xkoiuo	#日本汉字
 蹊	xkoiuo
 暿	xkoiv
 嚱	xkoiva
@@ -32079,6 +32107,8 @@
 腌	yfuvuo
 牪	yfuvuv
 研	yfv
+𭪂	yfva	#无读音
+𭪂	yfvavv	#无读音
 严	yfvi
 鄢	yfvia
 鄢	yfviai
@@ -35017,6 +35047,8 @@
 遭	zzvioa
 枣	zzvioo
 栆	zzvioo
+𮡀	zzviu	#无读音
+𮡀	zzviuv	#无读音
 𪣝	zzvo
 𪣝	zzvoui
 𥖨	zzvu
