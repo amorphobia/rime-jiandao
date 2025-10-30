@@ -6424,9 +6424,10 @@
 嚔	fkouoo
 熫	fkouov
 痔	fkov
-戠	fkovo
+疻	fkovo
 戠	fkovoi
 旘	fkovou	#繁体 ⿰方只
+疻	fkovou
 袠	fkovu
 袠	fkovuv
 痣	fkovv
