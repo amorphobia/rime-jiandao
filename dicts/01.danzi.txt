@@ -4359,7 +4359,9 @@
 膻	efuov
 膻	efuovi
 舢	efuu
+𢒉	efuui
 舢	efuuia
+𢒉	efuuia
 彡	efuuu
 彡	efuuuu
 笘	efuv
@@ -7117,6 +7119,7 @@
 诈	fsoa
 诈	fsoauv
 䄍	fsoav
+𲂎	fsoavi
 䄍	fsoavi
 阀	fsoi
 闸	fsoii
@@ -10431,7 +10434,9 @@
 杹	hqviua
 桦	hqviua
 埖	hqvo
+𪢼	hqvoi	#无读音
 埖	hqvoii
+𪢼	hqvoiu	#无读音
 硴	hqvu
 硴	hqvuii
 砉	hqvv
@@ -17171,6 +17176,8 @@
 璢	lqvvv
 璢	lqvvvi
 冷	lr
+𣸤	lra	#无读音
+𣸤	lraiai	#无读音
 崚	lri
 睖	lria
 崚	lriavo
@@ -17260,6 +17267,8 @@
 臈	lsuiio
 䓥	lsuo
 䓥	lsuoii
+𮀎	lsuov	#无读音
+𮀎	lsuovu	#无读音
 腊	lsuvii
 垃	lsv
 剌	lsvi
@@ -19913,6 +19922,8 @@
 𤶸	nsov
 𤶸	nsovav
 南	nsu
+𲰹	nsua
+𲰹	nsuaia
 肭	nsui
 䶺	nsuia
 肭	nsuiau
@@ -29220,6 +29231,8 @@
 峖	xfiaoo
 罯	xfiaov
 黯	xfiaov
+𡽜	xfiau
+𡽜	xfiauv
 㟁	xfiav
 㽢	xfiavu
 岸	xfiavu
