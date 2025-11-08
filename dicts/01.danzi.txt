@@ -1598,6 +1598,8 @@
 冊	ceiavi
 萗	ceii
 萗	ceiioo
+茦	ceiiv
+茦	ceiivi
 拺	ceiu
 拺	ceiuvi
 恻	ceo
@@ -1845,6 +1847,7 @@
 莿	ckiiv
 佌	ckiivi
 偨	ckiivi
+茦	ckiivi
 莿	ckiivi
 佽	ckio
 佽	ckiovu
@@ -2420,6 +2423,8 @@
 凋	dcovua
 雕	dcu
 鸟	dcua
+㓮	dcuai
+㓮	dcuaii
 雕	dcuaio
 鸟	dcuaoa
 鲷	dcuau
@@ -2484,7 +2489,9 @@
 钭	ddio
 钭	ddiooo
 揲	ddiu
+𬡓	ddiuo
 抖	ddiuoo
+𬡓	ddiuov
 佚	ddiuv
 揲	ddiuvi
 𢭃	ddiuvo
@@ -3481,6 +3488,7 @@
 垫	dmiu
 掂	dmiuo
 傎	dmiuoi
+𬡓	dmiuov
 掂	dmiuov
 𭣇	dmiuu
 𭣇	dmiuuo
@@ -28837,6 +28845,7 @@
 嘨	xcoavv
 晓	xcoi
 暁	xcoiu
+𱊡	xcoiua
 暁	xcoiuo
 晓	xcoiva
 宵	xcoo
@@ -34184,6 +34193,7 @@
 曜	yzoi
 曜	yzoiao
 㫐	yzoiu
+𱊡	yzoiua
 㫐	yzoiua
 㿢	yzoiui
 暚	yzoiuo
