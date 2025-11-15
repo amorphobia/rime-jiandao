@@ -1486,6 +1486,8 @@
 雹	bzvoua
 枹	bzvu
 枹	bzvuaa
+靤	bzvuu
+靤	bzvuua
 虣	bzvv
 虣	bzvviv
 珤	bzvvu
@@ -4800,6 +4802,7 @@
 狮	ekuaiu
 鲥	ekuao
 鲥	ekuaoi
+㺙	ekuaoo	#无读音
 饰	ekuau
 狶	ekuauo
 狧	ekuauv
@@ -7696,6 +7699,8 @@
 溎	gbavvo
 归	gbi
 贵	gbia
+䣒	gbiaa	#无读音
+䣒	gbiaai	#无读音
 贵	gbiaao
 刿	gbiai
 刿	gbiaii
@@ -10628,6 +10633,8 @@
 雈	htivio
 唤	hto
 𬤰	htoa
+䜨	htoai
+䜨	htoaia
 𬤰	htoaii
 㬊	htoi
 阛	htoii
@@ -11107,6 +11114,8 @@
 鄗	hzova
 号	hzovaa
 鄗	hzovai
+虠	hzovi
+虠	hzoviv
 竓	hzovu
 毫	hzovuv
 竓	hzovuv
@@ -11436,6 +11445,7 @@
 郊	jcovai
 斍	jcovi	#繁体 ⿱文见
 斍	jcovia	#繁体 ⿱文见
+虠	jcoviv
 䴔	jcovu
 䴔	jcovua
 交	jcovuo
@@ -13262,6 +13272,7 @@
 笕	jmuvia
 𭄛	jmuvii
 篯	jmuvio
+䈩	jmuviv	#无读音
 𭺷	jmuviv	#繁体 ⿰生佥 无读音
 简	jmuvoi
 箭	jmuvou
@@ -16511,6 +16522,8 @@
 锂	lkioia
 𫟷	lkioo
 𫟷	lkioov
+䦄	lkiov	#无读音
+䦄	lkiovi	#无读音
 俐	lkiu
 攭	lkiua
 攭	lkiuaa
@@ -16815,6 +16828,8 @@
 褛	lloao
 𫍴	lloaou
 褛	lloaou
+𰵤	lloau
+𰵤	lloaua
 啰	lloi
 啰	lloiai
 曪	lloii	#繁体 ⿰日罗
@@ -24846,6 +24861,8 @@
 泗	skai
 泗	skaiau
 厶	skao
+䞏	skaoi
+䞏	skaoia	#无读音
 厶	skaoo	#全码
 姒	skau
 㚸	skaua
@@ -27292,6 +27309,7 @@
 铻	wjiov
 铻	wjiovi
 𬬨	wjiovv
+䥻	wjiovv	#无读音
 侮	wjiu
 伆	wjiua
 𬽺	wjiuao	#无读音
@@ -27864,6 +27882,8 @@
 鳁	wnuao
 鳁	wnuaoi
 璺	wnui
+䠺	wnuio	#无读音
+䠺	wnuioi	#无读音
 璺	wnuivv
 脗	wnuu
 脗	wnuuau
@@ -30866,6 +30886,8 @@
 丅	xsvii	#全码
 𩉾	xsviia
 下	xsvioo
+㮉	xsviv	#无读音
+㮉	xsvivo	#无读音
 霞	xsvo
 霞	xsvoav
 槎	xsvou
@@ -31097,6 +31119,8 @@
 诶	xwoaao
 勋	xwoaau
 讯	xwoaav
+䜦	xwoai	#无读音
+䜦	xwoaii	#无读音
 询	xwoau
 询	xwoaua
 训	xwoaui
@@ -32053,6 +32077,7 @@
 㳂	yfauoa
 姲	yfauoo
 娮	yfauov
+㚧	yfauov
 娫	yfauu
 娫	yfauui
 嫣	yfauv
@@ -33249,6 +33274,7 @@
 喁	yloiav
 踰	yloii
 㬂	yloiia
+䦸	yloiia	#无读音
 踰	yloiiv
 昱	yloio
 阏	yloiov
@@ -33321,6 +33347,7 @@
 㺄	yluaiv
 馀	yluaiv
 𫛣	yluao
+㺆	yluaoa	#无读音
 狱	yluaoa
 𫛣	yluaoo
 饫	yluau
