@@ -1750,6 +1750,8 @@
 毝	chuv
 毝	chuvuu
 材	chv
+䰂	chvi
+䰂	chviuo
 才	chviuu
 埰	chvo
 埰	chvouo
@@ -4833,7 +4835,7 @@
 矢	ekuvv
 筮	ekuvvi
 䏡	ekuvvi
-笹	ekuvvi
+笹	ekuvvi	#日本汉字
 䄷	ekuvvu
 失	ekuvvu
 矢	ekuvvu
@@ -13697,6 +13699,7 @@
 丞	jraiau
 阷	jraiv
 阷	jraivi
+𠄘	jraivv
 承	jraivv
 浧	jrao
 浧	jraovv
@@ -15304,6 +15307,8 @@
 捆	kwiuia
 昆	kwo
 裈	kwoa
+祵	kwoai
+祵	kwoaia
 裩	kwoao
 裈	kwoaoa
 裩	kwoaoi
@@ -16485,6 +16490,7 @@
 𢃇	lkiai
 𢃇	lkiaia
 詈	lkiao
+蜧	lkiaoa
 罹	lkiaoo
 岦	lkiaov
 詈	lkiaov
@@ -16596,6 +16602,7 @@
 利	lku
 狸	lkua
 𨽻	lkuaa
+鳨	lkuaau	#繁体 ⿰鸟力
 𨽻	lkuaav
 鲤	lkuai
 鳢	lkuaia
@@ -26024,6 +26031,8 @@
 䴘	tkuuua
 朑	tkuv
 朑	tkuvii
+笹	tkuvv	#日本汉字
+笹	tkuvvi	#日本汉字
 替	tkv
 棣	tkva
 棣	tkvavv
