@@ -24195,6 +24195,8 @@
 荏	rniiiu
 葚	rniiv
 葚	rniivi
+𰽻	rnio
+𰽻	rnioiu
 扨	rniu	#日本汉字
 扨	rniuau	#日本汉字
 栠	rniuv
