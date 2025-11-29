@@ -17458,6 +17458,7 @@
 𪨧	lwiai
 畾	lwiaia
 𱛍	lwiaiu
+𰲰	lwiaiu
 囵	lwiaiu
 𪨧	lwiaiu
 罍	lwiau
@@ -20461,7 +20462,9 @@
 焩	pgouuu
 瓶	pgouva
 冯	pgov
+𣳆	pgova
 冯	pgovaa
+𣳆	pgovaa
 呯	pgovo
 𱞎	pgovoa
 慿	pgovoa
@@ -23175,7 +23178,9 @@
 𰬗	qqaa
 汓	qqaai
 汓	qqaaiv
+𬘕	qqaav
 𰬗	qqaavi
+𬘕	qqaavu
 泅	qqaiai
 巯	qqao
 巯	qqaoov
@@ -23253,6 +23258,8 @@
 犰	qquaua
 㐤	qquauo
 鳅	qquauv
+觩	qquav
+觩	qquavi
 丘	qqui
 邱	qquia
 邱	qquiai
@@ -24197,8 +24204,10 @@
 葚	rniivi
 𰽻	rnio
 𰽻	rnioiu
-扨	rniu	#日本汉字
+𬸊	rniu
+扨	rniua	#日本汉字
 扨	rniuau	#日本汉字
+𬸊	rniuua
 栠	rniuv
 任	rniuvi
 栠	rniuvv
@@ -33699,6 +33708,7 @@
 鸦	ysvaua
 亚	ysvi
 亜	ysvia
+襾	ysviai
 亜	ysviav
 亚	ysviio
 𱉨	ysviu
