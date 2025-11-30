@@ -1102,6 +1102,7 @@
 鞤	bpvovi
 榜	bpvovo
 棓	bpvovo
+㮄	bpvovu
 垹	bpvovv
 埲	bpvovv
 磅	bpvu
@@ -3784,6 +3785,8 @@
 答	dsu
 匒	dsua
 匒	dsuaii
+觰	dsuau
+觰	dsuauo
 笪	dsuv
 笚	dsuvi
 笚	dsuvia
@@ -5229,6 +5232,7 @@
 昇	eroi
 曻	eroiu
 曻	eroiua
+㗂	eroiuo
 昇	eroiuv
 晠	eroiv
 晟	eroivu
@@ -7234,6 +7238,8 @@
 痄	fsovuv
 乏	fsu
 鲊	fsua
+觰	fsuau
+觰	fsuauo
 鲊	fsuauv
 馇	fsuav
 馇	fsuavo
@@ -25085,6 +25091,7 @@
 兕	skiau
 四	skiaua
 兕	skiaua
+螔	skiauu
 伺	skiav
 伺	skiavo
 佀	skii
@@ -25489,6 +25496,8 @@
 他	t
 推	tb
 退	tba
+𱅙	tbaa
+𱅙	tbaaou
 𬯎	tbai
 𬯎	tbaiia
 娧	tbau
@@ -26251,6 +26260,7 @@
 驮	tla
 驼	tlaa
 𱅛	tlaao
+𰬉	tlaaoo
 驼	tlaaoo
 𱅛	tlaaou
 𫘞	tlaau
@@ -28364,7 +28374,9 @@
 馇	wsuavo
 猹	wsuavo
 屲	wsui
+膃	wsuia
 屲	wsuiai
+膃	wsuiai
 岔	wsuo
 腽	wsuoi
 岔	wsuoia
@@ -33012,6 +33024,7 @@
 嶷	ykiaua
 黟	ykiaua
 欭	ykiaua
+螔	ykiauu
 蛾	ykiauv
 屹	ykiauv
 伊	ykiav
