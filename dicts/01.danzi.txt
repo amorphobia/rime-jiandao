@@ -16594,6 +16594,7 @@
 蜧	lkiaoa
 罹	lkiaoo
 岦	lkiaov
+蝷	lkiaov
 詈	lkiaov
 蜊	lkiau
 峲	lkiauv
@@ -26798,6 +26799,8 @@
 煓	ttouia
 猯	ttu
 猯	ttuaia
+貒	ttuo
+貒	ttuoia
 𰄞	ttv
 檲	ttvi	#繁体 ⿰木⿴囗专
 檲	ttviav	#繁体 ⿰木⿴囗专
@@ -30132,6 +30135,7 @@
 巇	xkiaiv
 𡾞	xkiao
 𡾞	xkiaou
+蝷	xkiaov
 蟋	xkiau
 㰩	xkiaua
 螅	xkiaui
