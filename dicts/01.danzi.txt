@@ -24789,6 +24789,8 @@
 叟	sdui
 叟	sduiao
 艘	sduu
+䑹	sduuo
+䑹	sduuoo
 艘	sduuui
 䉤	sduv
 䉤	sduvou
@@ -25488,6 +25490,8 @@
 鳋	szua
 鳋	szuaao
 臊	szuooo
+䑹	szuu
+䑹	szuuoo
 埽	szv
 梢	szvi
 梢	szviou
@@ -29937,6 +29941,8 @@
 皧	xhuiu	#繁体 ⿰白爱
 皧	xhuiuo	#繁体 ⿰白爱
 爱	xhuovu
+艝	xhuu	#日本汉字
+艝	xhuuvo	#日本汉字
 矮	xhuv
 𮆞	xhuvu	#无读音
 𮆞	xhuvui	#无读音
