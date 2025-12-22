@@ -10196,6 +10196,8 @@
 眓	hliava
 矐	hliavo
 藿	hlii
+萿	hliia
+萿	hliiau
 劐	hliii
 劐	hliiii
 蒦	hliiio
@@ -11079,6 +11081,7 @@
 焢	hyouoo
 吽	hyouv
 灴	hyouvi
+粠	hyouvi
 烘	hyouvi
 吽	hyouvv
 哄	hyov
@@ -15107,6 +15110,8 @@
 括	kli
 蛞	klia
 蛞	kliauv
+萿	klii
+萿	kliiau
 懖	klio	#繁体 ⿱铦心
 懖	kliooa	#繁体 ⿱铦心
 𢬸	kliu
