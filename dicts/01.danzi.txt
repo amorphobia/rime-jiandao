@@ -12526,6 +12526,7 @@
 楚	jjvvai
 亍	jjvvi
 耡	jjvvia
+耝	jjvvia
 亍	jjvvii
 琡	jjvviv
 樗	jjvvo
@@ -22893,6 +22894,7 @@
 璖	qlvva
 璖	qlvvav
 𱋐	qlvvi
+耝	qlvvia
 𱋐	qlvvia
 璩	qlvviv
 㭕	qlvvo
@@ -26499,6 +26501,7 @@
 䑙	tmuvia
 舑	tmuvia
 𦧝	tmuvu
+舚	tmuvua
 𦧝	tmuvui
 甜	tmuvvi
 舔	tmuvvv
@@ -31228,6 +31231,8 @@
 眩	xtia
 翾	xtiaa
 翾	xtiaao
+蠉	xtiai
+蠉	xtiaia
 㘣	xtiao
 悬	xtiaoa
 睻	xtiaoo
