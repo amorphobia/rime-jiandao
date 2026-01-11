@@ -1420,6 +1420,7 @@
 𮐠	bziiuv	#无读音
 堡	bzio
 儤	bzioi
+𨰻	bzioio
 儤	bzioiv
 煲	bzioo
 煲	bzioou
@@ -28601,6 +28602,7 @@
 围	wwiavv
 萎	wwii
 偎	wwiia
+𦾡	wwiiau
 蔚	wwiiav
 偎	wwiiav
 𫢭	wwiii
