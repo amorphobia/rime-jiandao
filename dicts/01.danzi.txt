@@ -9125,7 +9125,9 @@
 𠃋	gyaa	#全码
 红	gyaav
 红	gyaavi
+羾	gyav
 弓	gyavaa
+羾	gyavvi
 供	gyi
 蚣	gyia
 蚣	gyiauo
@@ -9166,6 +9168,7 @@
 贡	gyvia
 汞	gyviaa
 䢼	gyviai
+𦏺	gyviao
 贡	gyviao
 功	gyviau
 恭	gyvii
@@ -11110,6 +11113,7 @@
 𮷛	hyvava
 鞃	hyvi
 䩑	hyvia
+𦏺	hyviao
 鞃	hyviav
 䩑	hyviav
 瓨	hyviv
