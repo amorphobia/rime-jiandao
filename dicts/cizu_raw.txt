@@ -133,6 +133,7 @@
 濒死	bbsk	av	1000
 棒棒糖	bbt	vvo	1000
 半边天	bbt	oav	899
+镔铁	bbtd	ii	1010
 宾铁	bbtd	oi	1000
 蹦蹦跳跳	bbtt	oo	1000
 北部湾	bbw	ioa	1000
