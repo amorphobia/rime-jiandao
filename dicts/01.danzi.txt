@@ -32095,6 +32095,8 @@
 莸	ydiiua
 莠	ydiiuv
 攸	ydiiuv
+蒏	ydiiv
+蒏	ydiivi
 铀	ydio
 伔	ydioa
 伔	ydioau
@@ -34391,6 +34393,8 @@
 颙	yyiavu
 苚	yyii
 苚	yyiiua
+蒏	yyiiv
+蒏	yyiivi
 镛	yyio
 傛	yyioo
 傛	yyiooa
