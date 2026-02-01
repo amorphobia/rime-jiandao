@@ -9125,9 +9125,9 @@
 𠃋	gyaa	#全码
 红	gyaav
 红	gyaavi
-羾	gyav
+羾	gyao
+羾	gyaovi
 弓	gyavaa
-羾	gyavvi
 供	gyi
 蚣	gyia
 蚣	gyiauo
