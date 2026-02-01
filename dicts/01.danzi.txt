@@ -21925,6 +21925,8 @@
 嫸	qfauou
 湛	qfav
 湛	qfavii
+魙	qfavu	#繁体 ⿱渐鬼
+魙	qfavui	#繁体 ⿱渐鬼
 展	qfavvi
 战	qfi
 瞻	qfia
