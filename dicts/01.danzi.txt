@@ -23144,7 +23144,9 @@
 纼	qnaaav
 𬘝	qnaai
 𬘝	qnaaiu
+𰬛	qnaau
 缜	qnaauo
+𰬛	qnaauo
 浈	qnai
 塦	qnaiv	#繁体 ⿱阵土
 阵	qnaiva
@@ -33719,6 +33721,7 @@
 毓	yluvo
 毓	yluvov
 稶	yluvv
+𥫣	yluvva
 稶	yluvvo
 竽	yluvvv
 于	ylv
