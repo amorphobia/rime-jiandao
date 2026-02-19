@@ -7046,6 +7046,8 @@
 葑	frii
 僼	friia
 僼	friiav
+飌	friiu	#繁体 雚风
+飌	friiua	#繁体 雚风
 葑	friivo
 锋	frio
 锋	frioua
@@ -9205,6 +9207,8 @@
 峼	gzia
 峼	gziauv
 藁	gzii
+藳	gziiu
+藳	gziiuv
 藁	gziivv
 镐	gzio
 镐	gzioov
@@ -10773,6 +10777,8 @@
 貛	htuoi
 貛	htuoii
 貆	htuovo
+肒	htuu
+肒	htuuao
 歓	htuv
 歓	htuvua
 还	htv
@@ -11108,6 +11114,8 @@
 谹	hyuov
 谼	hyuovi
 谹	hyuovu
+舼	hyuu
+舼	hyuuvi
 轰	hyv
 𮷛	hyva
 轰	hyvaao
@@ -11667,6 +11675,7 @@
 嵥	jdiau
 嵥	jdiaua
 嶻	jdiauo
+蠘	jdiauo
 睫	jdiav
 崨	jdiava
 睫	jdiava
@@ -13418,6 +13427,7 @@
 䌠	jmvua
 䌠	jmvuaa
 硷	jmvui
+𰧔	jmvuii
 硷	jmvuiv
 𰧃	jmvuo
 𰧃	jmvuoi
@@ -15573,7 +15583,9 @@
 倥	kyiooa
 控	kyiuoo
 悾	kyo
+𱊊	kyoo
 悾	kyoooo
+𱊊	kyooua
 空	kyoovi
 𤆺	kyou
 𤆺	kyouai
@@ -23994,6 +24006,8 @@
 匔	qyuau
 匑	qyuaui
 匔	qyuaui
+舼	qyuu
+舼	qyuuvi
 筇	qyuvvi
 琼	qyv
 邛	qyvi
@@ -26389,6 +26403,7 @@
 妥	tluo
 妥	tluoau
 毤	tluou
+𱉻	tluoua
 脱	tluouo
 毤	tluouv
 脫	tluu
