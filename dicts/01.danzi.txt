@@ -20474,6 +20474,8 @@
 飘	pcviua
 瓢	pcviuu
 彯	pcviuu
+醥	pcviv
+醥	pcvivi
 票	pcvivv
 殍	pcvu
 殍	pcvuuo
@@ -22171,6 +22173,8 @@
 崅	qhiau
 崅	qhiaua
 蒛	qhii
+芍	qhiiu
+芍	qhiiua
 蒛	qhiiuv
 雀	qhiu
 择	qhiua
@@ -23671,8 +23675,10 @@
 㓤	qsvoii
 䨐	qsvoiv
 殎	qsvu	#繁体 ⿰歹夹
+硈	qsvuv
 圶	qsvuvo
 殎	qsvuvo	#繁体 ⿰歹夹
+硈	qsvuvo
 㓞	qsvv
 㓞	qsvvau
 全	qt
