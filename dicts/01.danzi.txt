@@ -5421,6 +5421,8 @@
 䐏	ewuv
 䐏	ewuvvv
 楯	ewv
+鬊	ewvi
+鬊	ewvivv
 橓	ewvu
 橓	ewvuoo
 楯	ewvuuu
@@ -5699,7 +5701,9 @@
 碡	fdvu
 不	fdvui
 不	fdvuio
+殕	fdvuo
 否	fdvuoo
+殕	fdvuov
 𫛜	fdvuu
 𫛜	fdvuua
 碡	fdvuvv
@@ -25860,6 +25864,8 @@
 䏙	tfuo
 䏙	tfuoau
 䶻`〔U+4DBB〾“䏙（U+43D9）”〕	tfuoau
+貚	tfuoo	#繁体 ⿰豸单
+貚	tfuoou	#繁体 ⿰豸单
 罈	tfuv
 毯	tfuvou
 罈	tfuvvi
@@ -29649,6 +29655,7 @@
 𥔲	xevuo
 豟	xevuoa
 𥔲	xevuoo
+殕	xevuov
 䝈	xevuv
 䝈	xevuvu
 枙	xevv
@@ -29740,6 +29747,7 @@
 胺	xfuooa
 腤	xfuov
 腤	xfuovo
+豻	xfuovv
 氨	xfuvoo
 鞍	xfv
 鞍	xfvioo
