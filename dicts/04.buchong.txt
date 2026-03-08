@@ -114,6 +114,7 @@
 打	ds
 氏	ek
 粥	fd
+贵	gb
 呵	he
 脚	jc
 届	jd
