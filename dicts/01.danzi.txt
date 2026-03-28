@@ -2013,6 +2013,8 @@
 𫶅	cniaao
 岑	cniaio
 㞥	cniauo
+笒	cnu
+笒	cnuvio
 藏	cp
 沧	cpa
 濸	cpai	#繁体 ⿰氵苍
@@ -2287,6 +2289,7 @@
 糙	czo
 懆	czoo
 慅	czooa
+鄵	czooai
 慅	czooao
 愺	czooi
 愺	czooii
@@ -4370,6 +4373,7 @@
 鄯	efouai
 糁	efouao
 单	efoui
+𬊦	efouia
 单	efouia
 剡	efouii
 𠟤	efouii
@@ -7850,6 +7854,8 @@
 攰	gbuoua
 簋	gbuv
 簋	gbuvav
+𫂆	gbuvi
+𫂆	gbuvia
 筀	gbuvv
 筀	gbuvvo
 桂	gbv
@@ -8596,6 +8602,8 @@
 虢	gluoiv
 𢦛	gluov
 𢦛	gluovu
+𫂆	gluv
+𫂆	gluvia
 聒	glv
 聝	glvi
 过	glvioa
@@ -11376,6 +11384,8 @@
 近	jbuuoa
 斤	jbuuvi
 筋	jbuv
+笒	jbuvi
+笒	jbuvio
 筋	jbuvua
 䈽	jbuvv
 㹏	jbuvvi
@@ -14069,7 +14079,9 @@
 胛	jsuiav
 𰠛	jsuivv
 嘏	jsuo
+貑	jsuoa
 嘏	jsuoav
+貑	jsuoav
 徦	jsuu
 徦	jsuuav
 稼	jsuv
@@ -15745,6 +15757,8 @@
 箖	lbuvvv
 琳	lbv
 辚	lbva
+𰺣	lbvai
+𰺣	lbvaii
 辚	lbvaou
 霖	lbvo
 橉	lbvou
@@ -18472,6 +18486,7 @@
 募	mjiiau
 慕	mjiii
 苜	mjiiia
+萺	mjiiia
 幕	mjiiia
 慕	mjiiio
 暮	mjiio
@@ -18534,6 +18549,8 @@
 𪢸	mjvovv
 朩	mjvv	#全码
 木	mjvv	#全码
+杢	mjvvi	#日本汉字
+杢	mjvviv	#日本汉字
 米	mk
 弥	mka
 糸	mkaa
@@ -19384,7 +19401,10 @@
 茅	mziia
 鄚	mziiai
 䓮	mziiao
+蓩	mziiao
 茅	mziiao
+萺	mziii
+萺	mziiia
 茆	mziiu
 茆	mziiua
 芼	mziiuv
@@ -23864,6 +23884,8 @@
 肫	qwuvai
 迍	qwv
 屯	qwva
+𰺈	qwvaa
+𰺈	qwvaav
 屯	qwvaia
 迍	qwvaoa
 歏	qwvi
@@ -25202,6 +25224,8 @@
 飔	skuai
 飔	skuaia
 𬲦	skuaii
+𱈒	skuav
+𱈒	skuavi
 恖	skui
 恖	skuioa
 虒	skuu
@@ -32013,6 +32037,8 @@
 氤	ybuvia
 筃	ybuvia
 垠	ybv
+𰺈	ybva
+𰺈	ybvaav
 鄞	ybvi
 靷	ybvia
 鄞	ybviai
@@ -33925,6 +33951,8 @@
 飏	ypuaa
 卬	ypuaai
 飏	ypuaau
+𫚐	ypuai
+𫚐	ypuaia
 勜	ypuo
 勜	ypuoau
 𧲱	ypuoi
