@@ -72,7 +72,9 @@
 婊	bcauvv
 彪	bci
 幖	bcia
+㟽	bciav
 幖	bciavi
+㟽	bciavi
 蔈	bcii
 藨	bciio
 藨	bciiov
@@ -12232,6 +12234,8 @@
 决	jh
 绝	jha
 𫘝	jhaa
+𰬻	jhaaa
+𰬻	jhaaao
 𫘝	jhaaav
 绝	jhaaua
 決	jhaav
@@ -25057,6 +25061,8 @@
 蹜	sjoi
 㬘	sjoia	#繁体 ⿰日肃
 㬘	sjoiav	#繁体 ⿰日肃
+𱓁	sjoii
+𱓁	sjoiia
 蹜	sjoioo
 宿	sjoo
 㝛	sjooi
@@ -30506,6 +30512,7 @@
 皙	xkvuui
 豨	xkvuuo
 磎	xkvuuo
+豯	xkvuuo
 析	xkvuuv
 硒	xkvuv
 硒	xkvuvi
@@ -32061,6 +32068,8 @@
 慭	ybvooa
 堷	ybvoov
 韾	ybvoov
+霠	ybvoov
+䨧	ybvoov
 圻	ybvou
 圻	ybvouu
 𪺽	ybvov
@@ -33487,7 +33496,9 @@
 与	yl
 预	yla
 驭	ylaa
+𰬻	ylaaa
 驭	ylaaao
+𰬻	ylaaao
 滪	ylaao
 潏	ylaaoa
 滪	ylaaoa
