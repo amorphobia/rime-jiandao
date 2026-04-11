@@ -24887,6 +24887,8 @@
 欶	sdviua
 𰘸	sdvo
 𰘸	sdvouv
+棷	sdvv
+棷	sdvvii
 色	se
 涩	sea
 涩	seaauo
@@ -31037,6 +31039,8 @@
 𤨒	xnvv	#无读音
 𤨒	xnvvia	#无读音
 昂	xp
+䭹	xpa	#繁体 ⿰马卬
+䭹	xpaaua	#繁体 ⿰马卬
 盎	xpi
 岇	xpia
 盎	xpiaia
