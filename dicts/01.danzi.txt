@@ -8633,6 +8633,9 @@
 潢	gma
 洸	gmai
 洸	gmaiou
+臦	gmaiv
+臦	gmaivi
+臩	gmaivu
 姯	gmau
 姯	gmauio
 潢	gmavii
@@ -8676,6 +8679,8 @@
 𨐈	gmva
 𨐈	gmvaio
 炗	gmvi
+黆	gmvio
+黆	gmvioa
 桄	gmviou
 炗	gmviou
 垙	gmvo
@@ -9088,6 +9093,9 @@
 潢	gxa
 洸	gxai
 洸	gxaiou
+臦	gxaiv
+臦	gxaivi
+臩	gxaivu
 姯	gxau
 姯	gxauio
 潢	gxavii
@@ -9131,6 +9139,8 @@
 𨐈	gxva
 𨐈	gxvaio
 炗	gxvi
+黆	gxvio
+黆	gxvioa
 桄	gxviou
 炗	gxviou
 垙	gxvo
@@ -14531,6 +14541,9 @@
 浻	jyaiau
 燛	jyaio
 燛	jyaiou
+臦	jyaiv
+臦	jyaivi
+臩	jyaivu
 迥	jyi
 冏	jyia
 冂	jyiaa	#全码
@@ -19625,6 +19638,8 @@
 耨	ndvvvu
 呢	ne
 那	nea
+䘅	neao
+䘅	neaoia
 那	neavai
 抐	nei
 眲	neia
@@ -19766,6 +19781,8 @@
 𡥧	nhai
 𡥧	nhaiav
 能	nhao
+螚	nhaoi
+螚	nhaoia
 熋	nhaoo
 熋	nhaoou
 能	nhaoua
@@ -31183,6 +31200,8 @@
 虾	xsiavi
 黠	xsiavo
 峡	xsiavo
+蕸	xsii
+蕸	xsiiav
 锕	xsio
 𰾤	xsioa
 锕	xsioai
