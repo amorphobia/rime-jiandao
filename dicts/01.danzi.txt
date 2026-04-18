@@ -759,6 +759,8 @@
 钵	blio
 𬭛	blioa
 𬭛	blioaa
+𬮁	blioi
+𬮁	blioii
 卜	blioo	#全码
 铂	bliou
 铂	blioui
@@ -5069,6 +5071,8 @@
 什	eniu
 扟	eniua
 扟	eniuav
+㑗	eniui
+㑗	eniuia
 抌	eniuo
 抌	eniuoa
 什	eniuoo
@@ -6900,6 +6904,8 @@
 竕	fnovuo
 氛	fnu
 鲼	fnua
+㬟	fnuao
+㬟	fnuaou
 𰡞	fnuau
 鲼	fnuauo
 𰡞	fnuauo
@@ -11200,7 +11206,9 @@
 蚝	hziauv
 薅	hzii
 薅	hziiau
+藃	hziio
 蒿	hziiov
+藃	hziiov
 镐	hzio
 镐	hzioov
 傐	hziov
@@ -12178,6 +12186,7 @@
 竫	jgovua
 竟	jgovua
 净	jgovua
+竧	jgovui
 凈	jgovuo
 旌	jgovuv
 旍	jgovuv
@@ -15380,7 +15389,9 @@
 妔	krau
 妔	krauov
 铿	kri
+銵	krio	#繁体 ⿰钅身
 铿	krioii
+銵	krioui	#繁体 ⿰钅身
 㧶	kriu
 𰓱	kriui
 𰓱	kriuii
@@ -18681,6 +18692,7 @@
 靡	mkov
 縻	mkova
 縻	mkovaa
+麛	mkovav
 爢	mkovi
 靡	mkoviv
 爢	mkoviv
@@ -21843,6 +21855,8 @@
 惬	qdoovv
 妾	qdov
 妾	qdovau
+㾀	qdovv
+㾀	qdovvo
 箧	qdu
 癿	qdui
 癿	qduiaa
@@ -22909,6 +22923,8 @@
 呿	qlovoa
 竘	qlovu
 竘	qlovua
+㾀	qlovv
+㾀	qlovvo
 躯	qlu
 劬	qlua
 劬	qluaau
@@ -23294,6 +23310,7 @@
 疹	qnov
 疹	qnoviu
 㖘	qnovu
+竧	qnovui
 㖘	qnovuv
 朕	qnu
 獉	qnua
@@ -23519,6 +23536,7 @@
 訄	qquao
 叴	qquaoo
 䲡	qquaou
+𱈌	qquaou
 訄	qquaov
 犰	qquau
 犰	qquaua
@@ -24419,6 +24437,8 @@
 㒲	rkuooi
 氜	rkuv
 氜	rkuvoi
+鿟	rkuvu
+鿟	rkuvua
 若	rl
 弱	rla
 渃	rlai
@@ -25274,6 +25294,8 @@
 柶	skviau
 楒	skviav
 肆	skviav
+䦉	skvii
+䦉	skviia
 斯	skviuu
 寺	skvo
 寺	skvovi
@@ -25997,6 +26019,8 @@
 侹	tgiuv
 侹	tgiuvi
 庭	tgo
+諪	tgoa	#繁体 ⿰讠亭
+諪	tgoaov	#繁体 ⿰讠亭
 䦐	tgoi	#繁体 ⿵门手
 䦐	tgoiiu	#繁体 ⿵门手
 烃	tgou
@@ -28714,6 +28738,8 @@
 葳	wwiivu
 苇	wwiivv
 伪	wwio
+𰾚	wwioi
+𰾚	wwioia
 偽	wwiou
 伪	wwioua
 偽	wwioua
@@ -29194,6 +29220,8 @@
 崤	xciauo
 萧	xcii
 萧	xciiav
+藃	xciio
+藃	xciiov
 翛	xciiu
 翛	xciiua
 肖	xcio
@@ -29982,6 +30010,8 @@
 削	xhioii
 锿	xhioo
 锿	xhioov
+𰾭	xhiou
+𰾭	xhiouo
 挨	xhiu
 乴	xhiua
 乴	xhiuaa
@@ -30995,6 +31025,8 @@
 秈	xmuvia
 𠜎	xmuvii
 䆎	xmuvii
+馦	xmuvo
+馦	xmuvou
 筅	xmuvu
 先	xmuvua
 毨	xmuvuv
@@ -31132,7 +31164,9 @@
 褎	xqovui
 秀	xqu
 馐	xqua
+𱈌	xquao
 馐	xquaou
+𱈌	xquaou
 𱃝	xquau
 𱃝	xquaua
 臭	xqui
@@ -31144,6 +31178,8 @@
 秀	xquvau
 朽	xqv
 臹	xqva
+䡭	xqvao	#繁体 ⿰车羞
+䡭	xqvaou	#繁体 ⿰车羞
 臹	xqvavu
 髹	xqvi
 樇	xqvii
@@ -33755,6 +33791,7 @@
 癒	yloviv
 瘀	ylovo
 旕	ylovou	#无读音
+麌	ylovov
 瘀	ylovov
 庾	ylovu
 瘐	ylovui
@@ -34932,6 +34969,8 @@
 攒	zfi
 歜	zfia
 歜	zfiaua
+𰾷	zfio
+𰾷	zfiova
 拶	zfiu
 偺	zfiua
 拶	zfiuaa
