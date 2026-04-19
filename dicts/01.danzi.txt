@@ -33693,6 +33693,7 @@
 妤	ylauao
 媀	ylaui
 媀	ylauia
+媮	ylauiv
 娱	ylauo
 娛	ylauoa
 娯	ylauoa
@@ -35749,6 +35750,8 @@
 蚤	zzaoia
 𧈡	zzaoia
 澡	zzaooo
+𡠻	zzau	#无读音
+𡠻	zzauuv	#无读音
 藻	zzi
 凿	zzii
 藻	zziiao
