@@ -2424,6 +2424,8 @@
 虭	dciaa
 蛁	dciaau
 虭	dciaau
+㒛	dciao
+㒛	dciaov
 瞗	dciau	#繁体 ⿰目鸟
 瞗	dciaua	#繁体 ⿰目鸟
 伄	dciav
@@ -5346,6 +5348,8 @@
 桬	esaivv
 翣	esao
 翣	esaoov
+𰭢	esaov
+𰭢	esaovo
 傻	esi
 帹	esia
 帹	esiaov
@@ -12300,6 +12304,8 @@
 矡	jhaoi
 𫞝	jhaoia
 矡	jhaoia
+泬	jhaoo
+泬	jhaooa
 妜	jhau
 妜	jhauav
 㵐	jhav
@@ -16858,6 +16864,7 @@
 㸚	lkuouo
 脷	lkuu
 瓥	lkuui
+艃	lkuuia
 瓥	lkuuia
 脷	lkuuvi
 梨	lkuv
@@ -17744,8 +17751,10 @@
 𰑄	lwooiu
 㗊	lwoooo
 颣	lwou
+𱂧	lwouv
 类	lwouvu
 颣	lwouvu
+𱂧	lwouvu
 羸	lwov
 嘞	lwovi
 㿔	lwovia
@@ -31318,6 +31327,7 @@
 峡	xsiav
 虾	xsiavi
 黠	xsiavo
+㽠	xsiavo	#繁体 ⿰田夹
 峡	xsiavo
 蕸	xsii
 蕸	xsiiav
