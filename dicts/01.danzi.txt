@@ -4536,7 +4536,9 @@
 𡠟	ejauav
 婌	ejaui
 婌	ejauiv
+㣽	ejauo
 恕	ejauoa
+㣽	ejauoa
 姝	ejauu
 姝	ejauuv
 潻	ejauv
@@ -19053,6 +19055,8 @@
 闷	mnoioa
 怋	mnoo
 怋	mnooav
+𫺓	mnooo
+𫺓	mnoooi
 悗	mnoou
 悗	mnooua
 焖	mnou
@@ -19170,6 +19174,7 @@
 瞢	mriiia
 儚	mriiii
 䠢	mriio
+𰱉	mriioi
 萌	mriioi
 䠢	mriioi
 鹲	mriiu
@@ -19925,7 +19930,9 @@
 弩	njauav
 胬	njaui
 胬	njauia
+㣽	njauo
 怒	njauoa
+㣽	njauoa
 砮	njauv
 砮	njauvu
 傉	nji
@@ -23574,6 +23581,7 @@
 艽	qqiiua
 萩	qqiiuv
 𰰤	qqiiv
+莍	qqiivi
 𰰤	qqiivu
 𨱇	qqio
 𨱇	qqiovi
