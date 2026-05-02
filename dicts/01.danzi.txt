@@ -6242,6 +6242,8 @@
 峊	fjuii
 峊	fjuiia
 阜	fjuiuo
+胕	fjuiv
+胕	fjuivi
 父	fjuo
 孚	fjuoa
 乥	fjuoaa	#无读音
@@ -6591,6 +6593,8 @@
 豸	fkuoou
 𢧜	fkuoov
 𧧬	fkuoov
+胑	fkuou
+胑	fkuouo
 𡌴	fkuov
 臷	fkuova
 𡌴	fkuovo
@@ -15191,6 +15195,8 @@
 库	kjovva
 䵈	kju
 狜	kjua
+胐`〔U+439B〾“朏（U+670F）”〕	kjuai
+胐`〔U+439B〾“朏（U+670F）”〕	kjuaii
 狜	kjuauo
 䵈	kjuuov
 酷	kjv
@@ -20797,6 +20803,7 @@
 乒	pguiuu
 缾	pguv
 䈂	pguvo
+胓	pguvou
 缾	pguvou
 䈂	pguvou
 甁	pguvv
@@ -21432,6 +21439,7 @@
 篷	pruv
 膨	pruvo
 膨	pruvoo
+胓	pruvou
 篷	pruvua
 棚	prv
 𫐌	prva
