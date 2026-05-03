@@ -5062,6 +5062,7 @@
 峷	eniao
 峷	eniaov
 瞫	eniav
+黮	eniavi
 瞫	eniavi
 罧	eniavv
 申	eniavv
@@ -6106,6 +6107,7 @@
 蝮	fjiauv
 蝠	fjiav
 佛	fjiava
+蜅	fjiavi
 幅	fjiavo
 蝠	fjiavo
 罘	fjiavu
@@ -9643,6 +9645,7 @@
 荷	heii
 菏	heiia
 菏	heiiav
+蠚	heiii
 蠚	heiiia
 荷	heiiiv
 𫠁	heio
@@ -14194,7 +14197,9 @@
 戛	jsvuva
 戞	jsvuva
 珈	jsvv
+耞	jsvva
 珈	jsvvau
+耞	jsvvau
 槚	jsvvi
 玾	jsvvia
 槚	jsvvia
@@ -15933,6 +15938,8 @@
 嘹	lcovuo
 獠	lcu
 爒	lcua
+𮨵	lcuaa
+𮨵	lcuaao
 獠	lcuavu
 爒	lcuavu
 尦	lcuo
@@ -17484,6 +17491,8 @@
 癅	lqovvi
 留	lqu
 遛	lqua
+𮨵	lquaa
+𮨵	lquaao
 留	lquaia
 遛	lquaoa
 馏	lquau
@@ -24865,6 +24874,7 @@
 隋	sba
 绥	sbaa
 瀡	sbaai
+𮉮	sbaaia
 瀡	sbaaiv
 绥	sbaauo
 隧	sbai
@@ -25964,6 +25974,8 @@
 䀡	tfiaiv
 怹	tfiao
 怹	tfiaoa
+黮	tfiav
+黮	tfiavi
 炭	tfiavu
 菼	tfii
 僋	tfiio	#繁体 ⿰亻贪
@@ -27112,6 +27124,8 @@
 𡉫	twva
 屯	twvaia
 𡉫	twvavo
+䵍	twvi
+䵍	twviov
 坉	twvo
 忒	twvoa
 忒	twvoao
@@ -32509,7 +32523,9 @@
 铘	yeio
 釶	yeioa	#繁体 ⿰钅也
 釶	yeioai	#繁体 ⿰钅也
+䥺	yeiov
 铘	yeiova
+䥺	yeiova
 掖	yeiu
 拽	yeiui
 拽	yeiuia
@@ -34212,6 +34228,8 @@
 芽	ysiiva
 蕥	ysiiva
 铔	ysio
+䥺	ysiov
+䥺	ysiova
 铔	ysiovi
 揠	ysiu
 押	ysiuia
@@ -35273,6 +35291,8 @@
 柤	zjviav
 靻	zjvii
 靻	zjviia
+䃚	zjvu
+䃚	zjvuov
 珇	zjvvia
 字	zk
 子	zka
