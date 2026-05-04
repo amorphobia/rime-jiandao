@@ -16685,6 +16685,8 @@
 橹	ljvuai
 硉	ljvuav
 碌	ljvuav
+硵	ljvui
+硵	ljvuiv
 麓	ljvv
 琭	ljvva
 㯟	ljvvav
