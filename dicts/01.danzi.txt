@@ -133,6 +133,7 @@
 飙	bcvuua
 猋	bcvuv
 嫑	bcvuvi
+磦	bcvuvi
 猋	bcvuvu
 檦	bcvv
 樮	bcvvi	#日本汉字
@@ -725,6 +726,7 @@
 驳	blaauo
 溊	blaav
 溊	blaavi
+碆	blaavu
 癶	blao
 癶	blaouu
 泊	blau
@@ -1587,6 +1589,8 @@
 椊	cbvov
 榱	cbvovi
 椊	cbvovi
+磪	cbvu
+磪	cbvuia
 琗	cbvv
 璀	cbvvia
 琗	cbvvov
@@ -1934,7 +1938,9 @@
 栨	ckvov
 栨	ckvovu
 磁	ckvu
+礠	ckvuo
 磁	ckvuou
+礠	ckvuou
 玼	ckvv
 栜	ckvvi
 栜	ckvvia
@@ -2096,6 +2102,8 @@
 夻	csvuo	#无读音
 䃰	csvuoo
 夻	csvuoo	#无读音
+礸	csvuu	#繁体 ⿰石赞
+礸	csvuuv	#繁体 ⿰石赞
 窜	ct
 攒	cti
 𰏁	ctia
@@ -2398,6 +2406,7 @@
 䂙	dbvuai
 碓	dbvuio
 𩈜	dbvuu
+磓	dbvuui
 𩈜	dbvuui
 𲐈	dbvv
 𲐈	dbvvvv
@@ -2907,7 +2916,10 @@
 椗	dgvo
 椗	dgvooa
 碇	dgvu
+碠	dgvuo
 碇	dgvuoo
+磸	dgvuou
+碠	dgvuov
 矴	dgvuv
 矴	dgvuvi
 玎	dgvv
@@ -3323,6 +3335,7 @@
 梑	dkvuau
 柢	dkvuav
 碲	dkvuo
+碮	dkvuoi
 䃅	dkvuou
 碲	dkvuov
 厎	dkvuu
@@ -3948,6 +3961,7 @@
 砘	dwvu
 礅	dwvuov
 楯	dwvuu
+碷	dwvuuu
 楯	dwvuuu
 砘	dwvuva
 动	dy
@@ -5607,6 +5621,10 @@
 醊	fbvia
 醊	fbviao
 椎	fbviov
+硾	fbvu
+礈	fbvuo
+礈	fbvuou
+硾	fbvuuv
 赘	fbvvao
 覅	fcv
 覅	fcviua
@@ -6836,6 +6854,7 @@
 斫	flvuuu
 櫡	flvuv
 櫡	flvuvo
+硺	flvuvu
 琢	flvv
 琸	flvvi
 琸	flvviv
@@ -7423,6 +7442,7 @@
 𫭞	ftvovv
 砖	ftvu
 𬱛	ftvuv
+磗	ftvuvi
 𬱛	ftvuvu
 砖	ftvuvv
 瑑	ftvv
@@ -8554,6 +8574,7 @@
 榖	gjvovv
 梏	gjvu
 尳	gjvui
+磆	gjvuia
 尳	gjvuia
 橭	gjvuo
 橭	gjvuoo
@@ -9260,6 +9281,7 @@
 廾	gyvui
 廾	gyvuii
 硔	gyvuv
+䂵	gyvuvi
 龚	gyvuvi
 硔	gyvuvi
 𱍁	gyvuvu
@@ -9771,7 +9793,11 @@
 核	hevova
 赫	hevovo
 盇	hevu
+碋	hevui
 盇	hevuia
+碋	hevuia
+礉	hevuu
+礉	hevuui
 柇	hevuv
 柇	hevuvi
 㚘	hevv
@@ -10651,6 +10677,8 @@
 埖	hqvoii
 𪢼	hqvoiu	#无读音
 硴	hqvu
+磆	hqvui
+磆	hqvuia
 硴	hqvuii
 砉	hqvv
 𱋎	hqvvo
@@ -11900,6 +11928,7 @@
 榤	jdvuao
 檞	jdvuau
 砎	jdvui
+礍	jdvuii
 砎	jdvuiu
 碣	jdvuo
 碣	jdvuoi
@@ -12111,6 +12140,8 @@
 刬	jfv
 𪮃	jfva
 𪮃	jfvaiu
+𲳦	jfvav
+𲳦	jfvavu
 韂	jfvi
 䩶	jfvia
 䩶	jfviai
@@ -13520,6 +13551,7 @@
 砛	jmvuio
 硷	jmvuiv
 𰧃	jmvuo
+礀	jmvuoi	#繁体 ⿰石𫔮
 𰧃	jmvuoi
 殱	jmvuu
 殱	jmvuuo
@@ -13527,6 +13559,7 @@
 碱	jmvuv
 櫤	jmvuvo	#日本汉字
 碱	jmvuvu
+𥒎	jmvuvv
 戋	jmvv
 戋	jmvvau
 䵤	jmvvi
@@ -14030,6 +14063,8 @@
 成	jrvuaa
 郕	jrvuai
 盛	jrvuia
+碀	jrvuu
+碀	jrvuua
 枨	jrvuv
 枨	jrvuva
 琤	jrvv
@@ -14995,7 +15030,10 @@
 坷	kevovo
 磕	kevu
 礚	kevui
+磆	kevuia
 礚	kevuii
+碦	kevuo
+碦	kevuoo
 硞	kevuu
 硞	kevuuv
 砢	kevuv
@@ -15449,6 +15487,8 @@
 妔	krau
 妔	krauov
 铿	kri
+硻	krii	#繁体 ⿱𰀡石
+硻	kriivu	#繁体 ⿱𰀡石
 銵	krio	#繁体 ⿰钅身
 铿	krioii
 銵	krioui	#繁体 ⿰钅身
@@ -15866,6 +15906,8 @@
 霖	lbvovv
 磷	lbvu
 磷	lbvuou
+碄	lbvuv
+碄	lbvuvv
 璘	lbvv
 璘	lbvvou
 林	lbvvv	#全码
@@ -16248,6 +16290,7 @@
 栏	lfvouv
 𬒗	lfvu
 𰆚	lfvui
+礷	lfvuii	#繁体 ⿰石蓝
 𬒗	lfvuii
 𰆚	lfvuiv
 婪	lfvv
@@ -16984,6 +17027,7 @@
 梸	lkvuvi
 砺	lkvuvu
 磿	lkvuvu
+𰦦	lkvuvu
 㻺	lkvuvv
 璃	lkvv
 珕	lkvva
@@ -17522,6 +17566,8 @@
 柳	lqvuau
 碌	lqvuav
 硫	lqvuov
+磂	lqvuu
+磂	lqvuua
 琉	lqvv
 橊	lqvvi
 橊	lqvviv
@@ -17734,6 +17780,7 @@
 壨	lwiavo
 𧒽	lwiavo
 塁	lwiavo
+礨	lwiavu
 櫐	lwiavv
 伦	lwii
 儡	lwiia
@@ -17809,6 +17856,8 @@
 𫭢	lwvoiu
 磊	lwvu
 礧	lwvui
+磥	lwvuia
+磮	lwvuia	#繁体 ⿰石𪨧 无读音
 礧	lwvuia
 𱳯	lwvuiu
 礌	lwvuv
@@ -18109,6 +18158,8 @@
 𫭼	lzvoii
 鿲	lzvoii
 栳	lzvu
+𮀤	lzvui
+𮀤	lzvuii
 栳	lzvuov
 硓	lzvuu
 硓	lzvuuo
@@ -19339,7 +19390,9 @@
 杩	msvaav
 鬕	msvi
 鬕	msviii
+礣	msvu
 码	msvuaa
+礣	msvuii
 玛	msvv
 玛	msvvaa
 每	mw
@@ -19927,6 +19980,8 @@
 廼	nhviao
 迺	nhvioa
 奈	nhvu
+硸	nhvui
+硸	nhvuia
 耏	nhvuu
 耏	nhvuuu
 耐	nhvuvi
@@ -20511,6 +20566,8 @@
 堖	nzvoaa
 垴	nzvoov
 硇	nzvu
+碯	nzvua
+碯	nzvuaa
 孬	nzvuau
 𥐻	nzvui
 𥐻	nzvuia
@@ -20563,6 +20620,8 @@
 榀	pbvo
 榀	pbvooo
 砏	pbvu
+礗	pbvuo	#繁体 ⿰石宾
+礗	pbvuoo	#繁体 ⿰石宾
 砏	pbvuuo
 玭	pbvv
 琕	pbvvu
@@ -21021,6 +21080,7 @@
 屁	pkavv
 甓	pkavva
 屁	pkavva
+礕	pkavvu
 披	pki
 僻	pkia
 睤	pkiai
@@ -21147,11 +21207,13 @@
 邳	pkvua
 匹	pkvuaa
 邳	pkvuai
+礔	pkvuav
 椑	pkvui
 椑	pkvuia
 否	pkvuo
 否	pkvuoo
 㔻	pkvuu
+磇	pkvuui
 㔻	pkvuuo
 砒	pkvuv
 砒	pkvuva
@@ -21477,6 +21539,8 @@
 砰	prvu
 槰	prvua
 槰	prvuao
+磞	prvui
+磞	prvuia
 硑	prvuo
 碰	prvuou
 硑	prvuou
@@ -21664,6 +21728,7 @@
 垉	pzvoua
 奅	pzvu
 𪿫	pzvua
+礟	pzvuaa	#繁体 ⿰石驳
 𪿫	pzvuaa
 砲	pzvuu
 匏	pzvuua
@@ -21915,6 +21980,7 @@
 硗	qcvuv
 硗	qcvuva
 桥	qcvuvu
+磝	qcvuvv
 橇	qcvuvv
 槗	qcvv
 槗	qcvvuo
@@ -22199,7 +22265,9 @@
 欃	qfvuao
 䩇	qfvui
 䩇	qfvuiv
+𥒎	qfvuv
 栴	qfvuvu
+𥒎	qfvuvv
 盏	qfvv
 𰲠	qfvvi
 盏	qfvvia
@@ -22435,7 +22503,9 @@
 厏	qhvuuv
 硞	qhvuuv
 厇	qhvuuv
+礭	qhvuv
 碏	qhvuvi
+礭	qhvuvo
 榸	qhvv
 琷	qhvvo
 榸	qhvvoi
@@ -22901,6 +22971,7 @@
 戚	qkvuiv
 唘	qkvuo
 慼	qkvuoa
+礘	qkvuoi
 唘	qkvuoo
 欹	qkvuu
 磜	qkvuua
@@ -22911,6 +22982,7 @@
 檱	qkvuvo
 奇	qkvuvo
 碕	qkvuvu
+磩	qkvuvu
 碛	qkvuvv
 碶	qkvuvv
 棋	qkvv
@@ -23462,7 +23534,9 @@
 砧	qnvu
 槇	qnvua
 槇	qnvuai
+碵	qnvui	#繁体 ⿰石贞 日本汉字
 砧	qnvuiv
+碵	qnvuiv	#繁体 ⿰石贞 日本汉字
 槙	qnvuo
 槙	qnvuoi
 碪	qnvuv
@@ -24753,7 +24827,10 @@
 壖	rtvovo
 堧	rtvovu
 耎	rtvu
+碝	rtvuv
+礝	rtvuvo
 耎	rtvuvu
+碝	rtvuvu
 瓀	rtvv
 檽	rtvvo
 檽	rtvvoa
@@ -25263,7 +25340,9 @@
 𣚯	sjvovi
 塐	sjvovv
 𰘶	sjvu
+碿	sjvua
 𰘶	sjvuai
+碿	sjvuav
 殐	sjvuv
 殐	sjvuvi
 素	sjvv
@@ -25409,6 +25488,7 @@
 榹	skvuu
 死	skvuua
 榹	skvuui
+磃	skvuuu
 厮	skvuvi
 耜	skvv
 漦	skvva
@@ -25702,6 +25782,8 @@
 松	syvuoa
 枩	syvuoa
 柗	syvuoo
+硹	syvuv
+硹	syvuvu
 扫	sz
 骚	sza
 缫	szaa
@@ -26505,6 +26587,7 @@
 䨑	tkvova
 𣨼	tkvu
 厗	tkvuo
+碮	tkvuoi
 厗	tkvuov
 奃	tkvuu
 奃	tkvuua
@@ -26634,6 +26717,8 @@
 槖	tlvovu
 堶	tlvovu
 砣	tlvu
+𰦿	tlvuo
+𰦿	tlvuoi
 砣	tlvuoo
 柝	tlvuu
 毻	tlvuuv
@@ -26750,6 +26835,8 @@
 䩄	tmvuia
 鿬	tmvuia
 殄	tmvuiu
+磌	tmvuu
+磌	tmvuuo
 𠀡	tmvuv
 𠀡	tmvuvi
 忝	tmvv
@@ -26872,6 +26959,8 @@
 赯	tpvoov
 榶	tpvov
 榶	tpvovu
+磄	tpvu
+磄	tpvuov
 瑭	tpvv
 耥	tpvvi
 耥	tpvvio
@@ -28250,6 +28339,7 @@
 硪	wlvu
 硪	wlvuuv
 𱍁	wlvuv
+磭	wlvuvu
 𱍁	wlvuvu
 㦱	wlvv
 瓁	wlvvi
@@ -28298,6 +28388,8 @@
 牎	wmuiua
 牕	wmuiui
 刱	wmv
+磢	wmvu
+磢	wmvuvu
 刱	wmvvau
 问	wn
 温	wna
@@ -29068,6 +29160,8 @@
 牎	wxuiua
 牕	wxuiui
 刱	wxv
+磢	wxvu
+磢	wxvuvu
 刱	wxvvau
 冲	wy
 涌	wya
@@ -29672,6 +29766,8 @@
 颉	xdvovu
 𫭟	xdvovu
 殴	xdvu
+碿	xdvua
+碿	xdvuav
 榭	xdvui
 榭	xdvuia
 区	xdvuo
@@ -29854,11 +29950,14 @@
 厄	xevu
 厄	xevuaa
 硆	xevui
+𬒆	xevuii
 硆	xevuiv
 𥔲	xevuo
 豟	xevuoa
 砨	xevuoa
+礘	xevuoi
 𥔲	xevuoo
+磀	xevuou
 殕	xevuov
 砐	xevuu
 砐	xevuua
@@ -30690,6 +30789,7 @@
 袭	xkvuov
 皙	xkvuu
 矽	xkvuua
+磶	xkvuui
 皙	xkvuui
 豨	xkvuuo
 磎	xkvuuo
@@ -30697,6 +30797,7 @@
 析	xkvuuv
 硒	xkvuv
 硒	xkvuvi
+礂	xkvuvo
 椞	xkvuvv
 栖	xkvv
 釐	xkvvi
@@ -31458,6 +31559,10 @@
 雫	xsvovi
 𰉥	xsvovo
 厦	xsvu
+碬	xsvua
+碬	xsvuav
+磍	xsvuo
+磍	xsvuoo
 夓	xsvuu
 夏	xsvuua
 夓	xsvuua
@@ -32037,6 +32142,7 @@
 梎	xzvuia
 厫	xzvuv
 奡	xzvuvu
+磝	xzvuvv
 厫	xzvuvv
 鳌	xzvv
 骜	xzvva
@@ -32275,9 +32381,13 @@
 𬃡	ybvua
 𬃡	ybvuaa
 硍	ybvuav
+碒	ybvui
+碒	ybvuio
 檼	ybvuo
 殥	ybvuoo
 檼	ybvuoo
+磤	ybvuu
+磤	ybvuuu
 㹜	ybvuv
 㹜	ybvuvu
 珢	ybvv
@@ -32787,6 +32897,7 @@
 喭	yfoovo
 愝	yfoovo
 恹	yfoovu
+碞	yfoovu
 唁	yfoovv
 烟	yfou
 剡	yfoui
@@ -32916,7 +33027,9 @@
 椼	yfvuui
 魇	yfvuui
 䶮	yfvuv
+𰦾	yfvuvi
 殗	yfvuvu
+硽	yfvuvu
 厌	yfvuvu
 𰗜	yfvuvv
 硏	yfvuvv
@@ -33103,6 +33216,10 @@
 霙	ygvoi
 霙	ygvoii
 桜	ygvoou
+碤	ygvu
+礯	ygvui	#繁体 ⿰石萦
+碤	ygvuii
+礯	ygvuii	#繁体 ⿰石萦
 硬	ygvuvi
 瑛	ygvv
 璎	ygvva
@@ -33967,6 +34084,7 @@
 臾	yluiva
 魊	yluivo
 舁	yluivu
+礜	yluivu
 欲	yluo
 貐	yluoi
 貐	yluoiv
@@ -34043,8 +34161,10 @@
 欎	ylvuoa
 鬰	ylvuoa
 硲	ylvuu
+礇	ylvuui
 硲	ylvuuo
 戫	ylvuv
+礖	ylvuva	#繁体 ⿰石与
 𢒰	ylvuvo
 戫	ylvuvo
 砡	ylvuvv
@@ -34196,6 +34316,8 @@
 様	ypvouv
 殃	ypvu
 殃	ypvuia
+礢	ypvuo
+礢	ypvuou
 玚	ypvv
 玚	ypvvau
 珜	ypvvo
@@ -34613,7 +34735,9 @@
 殒	ywvu
 奫	ywvua
 奫	ywvuau
+𬒍	ywvuo
 殒	ywvuoa
+𬒍	ywvuoa
 夽	ywvuv
 夽	ywvuvv
 耘	ywvv
@@ -34929,6 +35053,8 @@
 殀	yzvu
 榣	yzvuo
 榣	yzvuoo
+磘	yzvuu
+磘	yzvuuo
 殀	yzvuuv
 枖	yzvuv
 枖	yzvuvu
@@ -35098,6 +35224,8 @@
 赜	zevi
 赜	zevivv
 仄	zevu
+𰦰	zevua
+𰦰	zevuao
 仄	zevuii
 樍	zevv	#繁体 ⿰木责
 责	zevvao
@@ -35642,6 +35770,8 @@
 帀	zsviai
 枠	zsvu
 枠	zsvuau
+磼	zsvui
+磼	zsvuio
 砸	zsvuvi
 䪞	zsvv
 䪞	zsvviv
@@ -35787,9 +35917,11 @@
 堫	zyvouo
 䝋	zyvu
 𫎆	zyvui
+磫	zyvuii	#繁体 ⿰石从
 𫎆	zyvuii
-椶	zyvuo
+䝋	zyvuo
 椶	zyvuoa
+碂	zyvuoo
 䝋	zyvuoo
 早	zz
 澡	zza
