@@ -25926,6 +25926,7 @@
 晀	tcoiuo
 窕	tcoo
 宨	tcoou
+𰩏	tcooua
 恌	tcoouo
 窕	tcoouo
 宨	tcoouo
@@ -28280,6 +28281,8 @@
 蒦	wliii
 蒦	wliiio
 莴	wliioi
+𬭔	wlio
+𬭔	wlioiv
 挝	wliu
 握	wliuav
 擭	wliui
