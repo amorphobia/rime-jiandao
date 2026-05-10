@@ -25870,7 +25870,10 @@
 颓	tbuv
 𬓼	tbuvi
 𬓼	tbuvia
+頺	tbuvv	#繁体 ⿰秀页
+頹	tbuvvu	#繁体 ⿰禿页
 颓	tbuvvu
+頺	tbuvvu	#繁体 ⿰秀页
 忒	tbv
 𱰥	tbvi
 𱰥	tbviav
