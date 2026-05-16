@@ -2533,6 +2533,8 @@
 荳	ddiivo
 钭	ddio
 钭	ddiooo
+鋀	ddiov	#繁体 ⿰钅豆
+鋀	ddiovo	#繁体 ⿰钅豆
 揲	ddiu
 𬡓	ddiuo
 抖	ddiuoo
@@ -8876,6 +8878,8 @@
 刮	gqu
 𠯑	gqua
 𠯑	gquaoo
+颳	gquau	#繁体 ⿺风舌
+颳	gquauv	#繁体 ⿺风舌
 瓜	gquu
 瓜	gquuao
 胍	gquuu
@@ -8886,7 +8890,9 @@
 卦	gqv
 坬	gqvo
 卦	gqvoio
+趏	gqvou
 坬	gqvouu
+趏	gqvouv
 栝	gqvu
 栝	gqvuvi
 更	gr
@@ -10388,6 +10394,8 @@
 霍	hlvoio
 靃	hlvoio
 惑	hlvooa
+趏	hlvou
+趏	hlvouv
 豰	hlvov
 或	hlvova
 豰	hlvovu
@@ -11726,6 +11734,8 @@
 结	jdaa
 毑	jdaaa
 毑	jdaaai
+𰬀	jdaai
+𰬀	jdaaiu
 𫄦	jdaav
 结	jdaavo
 𫄦	jdaavo
@@ -12100,6 +12110,7 @@
 啴	jfoou
 啴	jfooui
 懴	jfoouo
+窴	jfoouo
 忏	jfoouv
 单	jfou
 冁	jfoua
@@ -12681,6 +12692,7 @@
 骥	jkaai
 畿	jkaaia
 𩧱	jkaaia
+𰬀	jkaaiu
 给	jkaaiv
 骥	jkaaiv
 继	jkaao
@@ -18768,6 +18780,8 @@
 羋	mkiiv
 羋	mkiivv
 侎	mkio
+銤	mkioo	#繁体 ⿰钅米
+銤	mkioou	#繁体 ⿰钅米
 侎	mkiouv
 𪭧	mkiu
 攠	mkiuo
@@ -19128,6 +19142,8 @@
 悗	mnoou
 悗	mnooua
 焖	mnou
+𰫋	mnoui
+𰫋	mnouii
 焖	mnouoi
 亹	mnov
 亹	mnovui
@@ -25984,6 +26000,8 @@
 钭	tdioo
 钭	tdiooo
 铁	tdiouv
+鋀	tdiov	#繁体 ⿰钅豆
+鋀	tdiovo	#繁体 ⿰钅豆
 投	tdiu
 偸	tdiuo
 偸	tdiuov
@@ -26387,7 +26405,9 @@
 菟	tjiiua
 莵	tjiiui
 钍	tjio
+鋀	tjiov	#繁体 ⿰钅豆
 钍	tjiovo
+鋀	tjiovo	#繁体 ⿰钅豆
 捸	tjiu
 捸	tjiuav
 揬	tjiuo
@@ -26794,6 +26814,8 @@
 阗	tmoiuo
 㥏	tmoo
 㥏	tmooia
+窴	tmoou
+窴	tmoouo
 恬	tmoouv
 悿	tmoov
 悿	tmoovv
