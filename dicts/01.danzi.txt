@@ -2857,6 +2857,8 @@
 砃	dfvuu
 砃	dfvuua
 丼	dfvv
+膥	dfvvi	#无读音
+膥	dfvvia	#无读音
 玬	dfvvu
 玬	dfvvua
 丼	dfvvui
@@ -14530,7 +14532,6 @@
 𢨢	jwvvai
 珺	jwvvav
 𢧬	jwvvi
-膥	jwvvia	#无读音
 蠢	jwvvia
 𢧬	jwvvia
 惷	jwvvo
@@ -25016,6 +25017,8 @@
 𬭼	sbio
 𬭼	sbioou
 歳	sbiv
+㱑	sbivu
+㱑	sbivua
 歳	sbivvu
 虽	sbo
 谇	sboa
@@ -27065,6 +27068,8 @@
 遝	tsiaoa
 嚺	tsiaoa
 铊	tsio
+𰾓	tsioa
+𰾓	tsioao
 傝	tsioi
 傝	tsioia
 铊	tsiooo
