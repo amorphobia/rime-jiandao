@@ -19356,7 +19356,9 @@
 㐃	msaoii
 嫲	msau
 妈	msauaa
+嬷	msauo
 嫲	msauov
+嬷	msauov
 抹	msi
 蚂	msia
 㐷	msiaa
@@ -34168,6 +34170,7 @@
 域	ylvo
 霱	ylvoa
 䨒	ylvoao
+𧶠	ylvoao	#繁体 ⿳士四贝
 霱	ylvoao
 䨕	ylvoav
 堣	ylvoi
