@@ -670,6 +670,7 @@
 秕	bkuvv
 筚	bkuvva
 秕	bkuvva
+䵗	bkuvvo
 𥷑	bkuvvu
 毕	bkv
 毙	bkva
@@ -871,6 +872,7 @@
 簸	bluvv
 缽	bluvvi
 簸	bluvvi
+䵗	bluvvo
 玻	blv
 檘	blva
 檘	blvavu
@@ -4056,6 +4058,7 @@
 笗	dyuvua
 氡	dyuvua
 𣱝	dyuvv
+䵔	dyuvva	#繁体 ⿰黍东
 𣱝	dyuvva
 东	dyv
 鸫	dyva
@@ -7358,6 +7361,8 @@
 箚	fsuviv
 乍	fsuviv
 筏	fsuviv
+䵙	fsuvv
+䵙	fsuvvu
 札	fsv
 轧	fsva
 紮	fsvaa
@@ -13289,6 +13294,8 @@
 忂	jluu
 忂	jluuia
 矩	jluv
+䵕	jluva
+䵕	jluvav
 犋	jluvi
 犑	jluvia
 犋	jluvia
@@ -16993,6 +17000,7 @@
 睝	lkuvia
 䵩	lkuvia
 黎	lkuvia
+㓿	lkuvii
 利	lkuvii
 鿯	lkuvio
 篱	lkuvo
@@ -17004,6 +17012,7 @@
 𱊃	lkuvua
 秝	lkuvuv
 犂	lkuvuv
+䵓	lkuvuv
 犁	lkuvuv
 篥	lkuvv
 篥	lkuvvi
@@ -20196,6 +20205,10 @@
 𠒇	nkuiu	#无读音
 兒	nkuiua
 𠒇	nkuiua	#无读音
+䵒	nkuv
+䵑	nkuva
+䵑	nkuvau
+䵒	nkuvoi
 腻	nkuvvv
 匿	nkv
 𫐐	nkva
@@ -20578,7 +20591,9 @@
 䢉	nyuivu
 脓	nyuoau
 秾	nyuv
+䵜	nyuvo	#繁体 ⿰黍农
 秾	nyuvoa
+䵜	nyuvoa	#繁体 ⿰黍农
 𬪩	nyv
 䙶	nyvi
 𬪩	nyvioa
@@ -23419,6 +23434,7 @@
 犍	qmuvav
 箝	qmuvi
 刋	qmuvii
+䵛	qmuvii	#繁体 ⿰黍坚
 千	qmuvii
 箝	qmuviu
 篟	qmuviv
