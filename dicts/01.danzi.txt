@@ -12386,6 +12386,8 @@
 𰬻	jhaaa
 𰬻	jhaaao
 𫘝	jhaaav
+潏	jhaao
+潏	jhaaoa
 绝	jhaaua
 決	jhaav
 決	jhaavu
@@ -27332,8 +27334,10 @@
 呑	twuvoo
 豚	twuvua
 屯	twv
-𡉫	twva
+𲍭	twva
 屯	twvaia
+𲍭	twvaua
+𡉫	twvav
 𡉫	twvavo
 䵍	twvi
 䵍	twviov
@@ -28514,9 +28518,11 @@
 牎	wmui
 牎	wmuiua
 牕	wmuiui
-刱	wmv
+䃥	wmv
 磢	wmvu
+䃥	wmvuov
 磢	wmvuvu
+刱	wmvv
 刱	wmvvau
 问	wn
 温	wna
@@ -29287,9 +29293,11 @@
 牎	wxui
 牎	wxuiua
 牕	wxuiui
-刱	wxv
+䃥	wxv
 磢	wxvu
+䃥	wxvuov
 磢	wxvuvu
+刱	wxvv
 刱	wxvvau
 冲	wy
 涌	wya
@@ -35990,13 +35998,13 @@
 𰬥	zyaauo
 𮪣	zyaauo
 偬	zyi
-嵏	zyia
+嵕	zyia
 𡵝	zyiai
 𰲯	zyiaii
 𡵝	zyiaii
-嵕	zyiau
-嵏	zyiauo
+嵏	zyiau
 嵕	zyiauo
+嵏	zyiauo
 熧	zyii	#繁体 ⿱从火
 熧	zyiiou	#繁体 ⿱从火
 倧	zyio
