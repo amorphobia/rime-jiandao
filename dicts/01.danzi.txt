@@ -9792,6 +9792,7 @@
 饸	heua
 饸	heuaiv
 猲	heuao
+𮩝	heuaoi
 猲	heuaoi
 狢	heuau
 狢	heuaua
@@ -30436,6 +30437,8 @@
 㢊	xhovvu
 爱	xhu
 鳕	xhua
+𮩝	xhuao
+𮩝	xhuaoi
 狘	xhuav
 狘	xhuava
 鳕	xhuavo
