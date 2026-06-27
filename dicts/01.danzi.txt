@@ -512,6 +512,7 @@
 妣	bkauv
 妣	bkauva
 滗	bkauvo
+𫱆	bkauvo	#无读音
 娝	bkauvu
 壁	bkav
 嬖	bkava
@@ -1860,7 +1861,9 @@
 泚	ckai
 泚	ckaivi
 濨	ckao
+辝	ckaoo
 赐	ckaooi
+辝	ckaoov
 濨	ckaouv
 嬨	ckau
 嬨	ckauou
@@ -2681,6 +2684,10 @@
 淂	dea
 淂	deaoiv
 锝	dei
+䙷	deia	#繁体 ⿱见寸
+㝶	deiav
+䙷	deiavi	#繁体 ⿱见寸
+㝶	deiavi
 锝	deiooi
 嘚	deo
 㝵	deoi
@@ -5395,6 +5402,8 @@
 翣	esaoov
 𰭢	esaov
 𰭢	esaovo
+𱙩	esau	#无读音
+𱙩	esauui	#无读音
 傻	esi
 帹	esia
 帹	esiaov
@@ -5648,7 +5657,9 @@
 椎	fbvi
 醊	fbvia
 醊	fbviao
+㮅	fbvio
 椎	fbviov
+㮅	fbviov
 硾	fbvu
 礈	fbvuo
 礈	fbvuou
@@ -13341,6 +13352,7 @@
 埾	jlviv
 𰺅	jlviva
 埾	jlvivo
+㠪	jlvivv
 榉	jlvo
 趄	jlvoi
 埧	jlvoia
@@ -15047,6 +15059,7 @@
 呵	keovoi
 欬	keovu
 欬	keovua
+㗐	keovuo
 颏	keovv
 疴	keovvo
 颏	keovvu
@@ -17560,6 +17573,8 @@
 媹	lqauua
 澑	lqav
 澑	lqaviv	#笔顺存疑
+㳅	lqavu
+㳅	lqavui
 镏	lqi
 疁	lqia
 嵺	lqiaa
@@ -19375,6 +19390,8 @@
 𳎙	mruaov
 朦	mrui
 朦	mruiio
+㒱	mruo	#无读音
+㒱	mruoua	#无读音
 艨	mruu
 艋	mruua
 艋	mruuai
@@ -19844,6 +19861,8 @@
 𰺠	ndvauo
 颞	ndvi
 聂	ndviao
+㮆	ndvio
+㮆	ndviou
 颞	ndvivu
 槷	ndvo
 㜌	ndvoa
@@ -20165,6 +20184,8 @@
 惄	nkivoa
 𫠜	nkivui
 呢	nko
+衵	nkoa
+衵	nkoaoi
 呢	nkoavu
 昵	nkoi
 昵	nkoiav
@@ -21492,6 +21513,8 @@
 房	ppoa
 房	ppoaov
 嗙	ppoo
+㝑	ppooo
+㝑	ppooov
 嗙	ppoovo
 炐	ppou
 炐	ppouvv
@@ -22984,6 +23007,8 @@
 鳍	qkua
 𰡩	qkuai
 𰡩	qkuaii
+䭫	qkuao
+䭫	qkuaou
 鳍	qkuauo
 鲯	qkuav
 猉	qkuavi
@@ -24717,6 +24742,8 @@
 𲇰	rkioa
 𲇰	rkioau
 𰽡	rkiooi
+衵	rko
+衵	rkoaoi
 日	rkoii	#全码
 㒲	rku
 㒲	rkuooi
@@ -25274,6 +25301,7 @@
 瑟	sevvoa
 槭	sevvui
 璱	sevvv
+㻎	sevvvi
 璱	sevvvv
 散	sf
 叁	sfa
@@ -25561,6 +25589,7 @@
 嘶	skov
 竢	skova
 竢	skovao
+䇃	skovav
 嘶	skovii
 凘	skovv
 廝	skovvi
@@ -27490,6 +27519,8 @@
 涛	tzav
 弢	tzava
 弢	tzavai
+㢭	tzavi
+㢭	tzaviv
 涛	tzavvv
 掏	tzi
 幍	tzia
@@ -27863,6 +27894,8 @@
 㼝	wfuava
 皖	wfui
 皖	wfuioo
+𡕩	wfuiu
+𡕩	wfuiua
 腕	wfuo
 脘	wfuoo
 腕	wfuooa
@@ -29020,6 +29053,7 @@
 慰	wwavo
 慰	wwavoa
 褽	wwavov
+㞑	wwavov
 洧	wwavu
 洧	wwavuu
 犚	wwavuv
@@ -29470,6 +29504,7 @@
 鑫	xbioi
 鑫	xbioio
 𲇴	xbioo
+㐰	xbioo	#全码
 𲇴	xbiooa
 锌	xbioov
 鈝	xbiou	#繁体 ⿰钅牛
@@ -29528,7 +29563,9 @@
 枔	xbvioa
 杺	xbvo
 杺	xbvoao
+䅽	xbvou
 馨	xbvouv
+䅽	xbvouv
 小	xc
 消	xca
 骁	xcaa
@@ -32560,6 +32597,8 @@
 浟	ydaii
 滺	ydaiiu
 浟	ydaiiu
+䢊	ydaio
+䢊	ydaioa
 㳺	ydaiu
 㳺	ydaiuu
 游	ydao
@@ -35294,6 +35333,8 @@
 箃	zduv
 箃	zduvvi
 奏	zdv
+㔿	zdva
+㔿	zdvaii
 鄹	zdvi
 郰	zdvia
 鄹	zdviai
