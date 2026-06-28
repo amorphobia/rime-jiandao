@@ -24529,7 +24529,11 @@
 叡	rbiva
 壡	rbivao
 叡	rbivao
+𥈠	rbivi
 睿	rbivia
+𥈠	rbivia
+㲊	rbivu
+㲊	rbivua
 橤	rbo
 惢	rboa
 繠	rboaa
