@@ -19631,6 +19631,8 @@
 珻	mwvvuv
 毛	mz
 矛	mza
+𫄜	mzaa
+𫄜	mzaauv
 渵	mzai
 渵	mzaiii
 蟊	mzao
@@ -20233,6 +20235,8 @@
 䵑	nkuva
 䵑	nkuvau
 䵒	nkuvoi
+腝	nkuvu
+腝	nkuvui
 腻	nkuvvv
 匿	nkv
 𫐐	nkva
@@ -24956,6 +24960,8 @@
 燸	rtouvo
 䪭	rtovov
 朊	rtu
+腝	rtuv
+腝	rtuvui
 朊	rtuvvu
 堧	rtv
 輭	rtva	#繁体 ⿰车耎
@@ -30588,7 +30594,9 @@
 胹	xjuv
 尓	xjuvi
 尓	xjuviu
+腝	xjuvu
 胹	xjuvui
+腝	xjuvui
 耳	xjv
 𮝵	xjva
 杒	xjvau
@@ -33537,6 +33545,8 @@
 玥	yhvv
 樾	yhvvo
 樾	yhvvoi
+䋤	yhvvu
+䋤	yhvvua
 玥	yhvvuu
 以	yk
 已	yka
