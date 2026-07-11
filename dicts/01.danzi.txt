@@ -27911,6 +27911,8 @@
 脘	wfuoo
 腕	wfuooa
 脘	wfuooa
+脕	wfuu
+脕	wfuuai
 笂	wfuv	#日本汉字
 笂	wfuvua	#日本汉字
 万	wfv
@@ -28645,6 +28647,8 @@
 䠺	wnuioi	#无读音
 璺	wnuivv
 脗	wnuu
+脕	wnuua
+脕	wnuuai
 脗	wnuuau
 穏	wnuv
 稳	wnuvua
@@ -30612,6 +30616,7 @@
 毦	xjviu
 毦	xjviuv
 聏	xjviv
+髵	xjvivu
 聏	xjvivu
 鸸	xjvu
 而	xjvuia
