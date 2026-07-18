@@ -351,6 +351,7 @@
 土	vo
 士	vo
 𠮛	vo
+⻗	voaioo
 畐	voiavi
 𠂇	vu
 丆	vu
