@@ -1711,6 +1711,8 @@
 喰	cfoioa
 惭	cfoo
 惨	cfooao
+𠻝	cfooi
+𠻝	cfooiu
 憯	cfoov
 惭	cfoova
 憯	cfoova
@@ -2046,6 +2048,8 @@
 𫶅	cniaao
 岑	cniaio
 㞥	cniauo
+𠻝	cno
+𠻝	cnooiu
 笒	cnu
 笒	cnuvio
 藏	cp
@@ -5159,7 +5163,9 @@
 曋	enoiv
 曋	enoivi
 慎	enoo
+𠻝	enooi
 审	enooia
+𠻝	enooiu
 宷	enoou
 愼	enooua
 慎	enoouo
@@ -25336,6 +25342,8 @@
 𠌂	sfiu
 𠌂	sfiuou
 糁	sfo
+𠻝	sfoo
+𠻝	sfooiu
 糁	sfouao
 馓	sfu
 馓	sfuavi
