@@ -19793,7 +19793,9 @@
 隉	ndaiui
 櫱	ndaiv
 櫱	ndaivv
+𣵀	ndao
 涅	ndaoiv
+𣵀	ndaoiv
 湼	ndau
 湼	ndauiv
 帇	ndav
