@@ -100,7 +100,7 @@ local function processor(key_event, env)
         topup(env)
     end
 
-    if not is_prev_topup and not is_topup and env.mem then
+    if not is_prev_topup and not is_topup and env.mem and env.topup_empty then
         -- input_len < min_len now
         local input_to_be = input .. key
         if not env.mem:dict_lookup(input_to_be, true, 1) then
@@ -121,6 +121,7 @@ local function init(env)
     env.topup_max = config:get_int("topup/max_length")
     env.auto_clear = config:get_bool("topup/auto_clear") or false
     env.topup_command = config:get_bool("topup/topup_command") or false
+    env.topup_empty = config:get_bool("topup/topup_empty") or false
     env.enabled = true
 
     env.mem = env.mem or Memory(env.engine, env.engine.schema)
