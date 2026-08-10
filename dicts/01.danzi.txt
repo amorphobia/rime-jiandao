@@ -1566,7 +1566,6 @@
 粋	cbouua	#日本汉字
 瘁	cbov
 啛	cbova
-𮕩	cbovai
 啛	cbovav
 衰	cbovi
 凗	cbovia
@@ -1576,6 +1575,7 @@
 疩	cbovua
 𱂯	cbovv
 𱂯	cbovvu
+𮕩	cbovvv
 脆	cbu
 獕	cbua
 獕	cbuaia
@@ -4535,12 +4535,12 @@
 咰	egou
 咰	egouao
 衰	egov
-𮕩	egova
 率	egovaa
-𮕩	egovai
 衰	egovia
 䢦	egovo
 䢦	egovoa
+𮕩	egovv
+𮕩	egovvv
 甩	egu
 甩	eguavv
 晒	eh
