@@ -11687,6 +11687,8 @@
 曒	jcoiui
 暞	jcoiui
 㬭	jcoiuo
+踋	jcoiv
+踋	jcoivo
 觉	jcoo
 嘂	jcooa
 嘂	jcooai
