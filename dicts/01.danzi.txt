@@ -6780,7 +6780,9 @@
 斲	flaauu
 淖	flai
 浊	flaiav
+𱂢	flaiv
 淖	flaivo
+𱂢	flaivu
 浞	flao
 叕	flaoa
 叕	flaoao
@@ -12499,6 +12501,8 @@
 吷	jhoav
 吷	jhoavu
 蹶	jhoi
+𧿺	jhoia
+𧿺	jhoiai
 𫏋	jhoiu
 𫏋	jhoiuv
 噱	jhoiv
