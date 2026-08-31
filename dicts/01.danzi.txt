@@ -6795,7 +6795,10 @@
 涿	flavua
 捉	fli
 佛	flia
+䖦	fliaa
+䖦	fliaai
 劅	fliai
+㑁	fliaii
 劅	fliaii
 斀	fliaiv
 仏	fliao
@@ -6870,6 +6873,8 @@
 彴	fluu
 彴	fluuua
 䵵	fluv
+䂐	fluva
+䂐	fluvai
 䵵	fluvia
 酌	flv
 棳	flva
@@ -12609,6 +12614,8 @@
 滀	jjao
 滀	jjaova
 娕	jjau
+㔘	jjaua
+㔘	jjauai
 㛀	jjauu
 㛀	jjauua
 𡝈	jjauv
@@ -12677,6 +12684,8 @@
 蹰	jjoiv
 蹰	jjoivu
 怵	jjoo
+㤕	jjooa
+㤕	jjooai
 慉	jjooo
 慉	jjooov
 㤘	jjoou
@@ -16252,6 +16261,8 @@
 叻	leoauu
 忇	leoo
 忇	leooau
+韷	leov
+韷	leovai
 嘞	leovii
 肋	leu
 饹	leua
@@ -20548,6 +20559,8 @@
 䶺	nsuia
 肭	nsuiau
 䶺	nsuiau
+貀	nsuo
+貀	nsuoai
 南	nsuoia
 䏧	nsuu
 䏧	nsuuao
@@ -23175,6 +23188,7 @@
 曲	qli
 瞿	qlia
 黢	qliaa
+䖦	qliaai
 黢	qliaao
 蛆	qliai
 蛐	qliaia
