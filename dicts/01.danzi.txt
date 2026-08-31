@@ -6875,7 +6875,8 @@
 棳	flva
 棳	flvaoa
 棹	flvi
-梻	flvia	#日本汉字
+聉	flvia
+聉	flviai
 梻	flviav	#日本汉字
 斮	flviu
 酌	flviua
@@ -12487,6 +12488,7 @@
 觉	jho
 诀	jhoa
 谲	jhoaa
+袦	jhoaai
 谲	jhoaao
 诀	jhoaav
 吷	jhoav
@@ -15312,6 +15314,8 @@
 㗄	kjoi
 㗄	kjoiai
 窟	kjoo
+窋	kjooa
+窋	kjooai
 窟	kjooav
 喾	kjoou
 喾	kjoouv
@@ -20523,6 +20527,8 @@
 㧱	nsiviu
 哪	nso
 衲	nsoa
+袦	nsoaa
+袦	nsoaai
 衲	nsoaia
 𠸎	nsoau
 𠸎	nsoauv
@@ -22743,6 +22749,8 @@
 𠴫	qjoiv
 𠴫	qjoivv
 丶	qjoo	#全码
+窋	qjooa
+窋	qjooai
 㿾	qjooi	#繁體 ⿱㝉皿
 㿾	qjooia	#繁體 ⿱㝉皿
 宔	qjooo
@@ -22786,6 +22794,7 @@
 舳	qjuuia
 竹	qjuv
 邾	qjuva
+笜	qjuvai
 邾	qjuvai
 筯	qjuvi
 筯	qjuvia
@@ -26038,6 +26047,8 @@
 頺	tbuvvu	#繁体 ⿰秀页
 忒	tbv
 𱰥	tbvi
+聉	tbvia
+聉	tbviai
 𱰥	tbviav
 墤	tbvo	#繁体 ⿰土贵
 忒	tbvoao
@@ -28956,6 +28967,7 @@
 杈	wsvaoo
 査	wsvi
 靫	wsvia
+聉	wsviai
 靫	wsviao
 査	wsviav
 韈	wsvii
