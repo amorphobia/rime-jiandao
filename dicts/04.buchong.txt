@@ -371,19 +371,23 @@
 𠁀	ekdhvi	#喃字
 兙	ekkeuo
 瓧	ekwsva
+𡭲	ezjjai	#喃字
 瓰	fnwsva
-瓱	hzwsva
 兝	gyfnuo
 浬	hhlkai
 兞	hzkeuo
+瓱	hzwsva
+𡭱	jjezai	#喃字
+𠚐	jjmjai	#喃字
+𡭧	jjxcai	#喃字
 𠀴	jjxsai	#喃字
 𠙣	jkbsua	#喃字
 𰇠	jslwau
 𠄯	kbbnvv	#喃字
 兣	lkkeuo
+糎	lkmkou
 甅	lkwsva
 瓼	lkwsva
-糎	lkmkou
 鿡	llxjiu	#繁体 ⿰罗尔
 𦒹	lzlquo	#喃字
 麿	msllov	#日本汉字
