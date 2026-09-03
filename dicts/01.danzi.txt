@@ -6782,6 +6782,8 @@
 缴	flaaui
 斲	flaauu
 淖	flai
+𫜼	flaia	#无读音
+𫜼	flaiao	#无读音
 浊	flaiav
 𱂢	flaiv
 淖	flaivo
