@@ -1713,6 +1713,8 @@
 惨	cfooao
 𠻝	cfooi
 𠻝	cfooiu
+㦧	cfoou
+㦧	cfoouv
 憯	cfoov
 惭	cfoova
 憯	cfoova
@@ -1742,6 +1744,7 @@
 璨	cfvvi
 䗞	cfvvia
 䘉	cfvvia
+蝅	cfvvia
 蚕	cfvvia
 璨	cfvviv
 菜	ch
@@ -19728,6 +19731,8 @@
 夘	mzuaai
 卯	mzuaai
 贸	mzuaao
+䀤	mzuai
+䀤	mzuaia
 猫	mzuaii
 皃	mzui
 㒵	mzuiu
@@ -26769,6 +26774,8 @@
 䴘	tkuuua
 朑	tkuv
 朑	tkuvii
+㬱	tkuvo
+㬱	tkuvoi
 笹	tkuvv	#日本汉字
 笹	tkuvvi	#日本汉字
 替	tkv
@@ -27228,6 +27235,8 @@
 㛥	tsau
 她	tsauai
 㛥	tsauao
+㳫	tsaui
+㳫	tsauiv
 㳠	tsav
 㳠	tsavuo
 挞	tsi
@@ -29619,6 +29628,8 @@
 馨	xbv
 軐	xbva	#繁体 ⿰车卂
 軐	xbvaav	#繁体 ⿰车卂
+鬵	xbvav
+鬵	xbvavo
 枔	xbvi
 枔	xbvioa
 杺	xbvo
@@ -35489,6 +35500,8 @@
 责	zevvao
 樍	zevvvi	#繁体 ⿰木责
 𪷽	zfa
+㳫	zfau
+㳫	zfauiv
 𪷽	zfauvi
 濽	zfav	#繁体 ⿰氵𰷣
 濽	zfavvu	#繁体 ⿰氵𰷣
@@ -35965,6 +35978,8 @@
 𭦌	zruaoi
 矰	zruvou
 増	zrv
+鬵	zrva
+鬵	zrvavo
 橧	zrvo
 䰝	zrvoo
 增	zrvoou
