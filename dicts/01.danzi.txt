@@ -16749,6 +16749,7 @@
 禄	ljoa
 祿	ljoaa
 祿	ljoaaa
+䘵	ljoaav
 禄	ljoaav
 鹭	ljoi
 㫽	ljoia
@@ -16801,6 +16802,7 @@
 𬙎	ljuvi
 𬙎	ljuviv
 簏	ljuvo
+簶	ljuvoa
 簏	ljuvov
 氇	ljuvua
 稑	ljuvv
