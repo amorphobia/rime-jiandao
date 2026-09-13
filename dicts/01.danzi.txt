@@ -15226,6 +15226,8 @@
 屷	kgiaa
 㞧	kgiaau
 屷	kgiaau
+𩩈	kgiai
+𩩈	kgiaiv
 侩	kgii
 蒯	kgiii
 蒉	kgiiia
@@ -15254,6 +15256,8 @@
 𫞷	kguviv
 筷	kguvoo
 块	kgv
+𫘽	kgvi
+𫘽	kgviiv
 凷	kgvo
 凷	kgvoai
 块	kgvoav
@@ -15409,6 +15413,8 @@
 籗	kluvvo
 栝	klv
 鞟	klvi
+𫘽	klvii
+𫘽	klviiv
 鞹	klvio
 鞟	klviov
 鞹	klviov
