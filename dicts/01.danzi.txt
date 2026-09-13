@@ -15412,6 +15412,9 @@
 鞹	klvio
 鞟	klviov
 鞹	klviov
+䯺	klviu
+䯺	klviua
+髺	klviuv
 䩹	klviv
 䩹	klvivo
 霩	klvo
@@ -33610,6 +33613,8 @@
 戉	yhvaau
 𫐄	yhvav
 𫐄	yhvavu
+髺	yhvi
+髺	yhviuv
 䟑	yhvo
 䟑	yhvoiv
 越	yhvova
