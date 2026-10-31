@@ -25175,6 +25175,8 @@
 隋	sbaivu
 祟	sbaivv
 滖	sbao
+𨿽	sbaoi
+𨿽	sbaoio
 澻	sbaou
 澻	sbaouv
 滖	sbaovi
